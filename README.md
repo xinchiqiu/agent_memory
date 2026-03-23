@@ -19,6 +19,22 @@ The core hypothesis: giving the model a *reasoning path* (technique chain + key 
 
 ```
 agent_memory/
+├── data_collection/            # Part A: Codeforces data pipeline
+│   ├── cf_api.py               # Codeforces REST API client
+│   ├── cf_scraper.py           # Web scraper (statements, solutions, editorials)
+│   ├── dataset_utils.py        # Tag normalisation, splits, I/O helpers
+│   └── collect.py              # Main collection CLI script
+├── encoder_training/           # Part B: Contrastive retrieval encoder
+│   ├── pair_generation.py      # Training pair + hard negative generation
+│   ├── train_encoder.py        # Fine-tuning script (MNRL / Triplet loss)
+│   └── evaluate_encoder.py     # Precision@k evaluation table
+└── (agent modules)
+```
+
+**Agent modules:**
+
+```
+agent_memory/
 ├── config.py               # All hyperparameters, model names, backend selector
 ├── data_structures.py      # Strategy, EpisodicEntry, Memory, Problem, FailureAnnotation
 ├── llm_client.py           # LLM backends: HF local, vLLM, OpenAI API, Anthropic API
@@ -43,7 +59,123 @@ conda activate cp-agent   # or: /nfs-share/xinchi/bin/conda activate cp-agent
 ```
 
 The `cp-agent` conda environment (at `/nfs-share/xinchi/envs/cp-agent`) contains:
-`sentence-transformers`, `transformers`, `torch`, `accelerate`, `openai`, `matplotlib`, `seaborn`, `numpy`
+`sentence-transformers`, `transformers`, `torch`, `accelerate`, `openai`, `matplotlib`, `seaborn`, `numpy`, `requests`, `beautifulsoup4`, `lxml`
+
+---
+
+## Data Collection (Part A)
+
+### Collect the dataset
+
+```bash
+# Full collection (~4 hours, 3000 problems)
+python data_collection/collect.py --output_dir dataset/
+
+# Quick test (50 problems, no solutions)
+python data_collection/collect.py --output_dir dataset/ --max_problems 50 --skip_solutions
+
+# Resume an interrupted run
+python data_collection/collect.py --output_dir dataset/ --resume
+```
+
+Dataset output structure:
+```
+dataset/
+  index.json            # lightweight index of all problems
+  checkpoint.json       # progress tracker for resuming
+  problems/
+    1850E.json          # full data per problem
+    ...
+  splits/
+    seed.json           # older problems for seeding memory (~2000)
+    eval.json           # middle period for evaluation (~500)
+    test.json           # newest problems, held-out (~200)
+```
+
+**Temporal split** (contamination-aware for NeurIPS):
+
+| Split | Contest dates | Purpose |
+|---|---|---|
+| `seed` | before 2023-07-01 | Bootstrap agent memory |
+| `eval` | 2023-07-01 → 2024-07-01 | Main evaluation |
+| `test` | after 2024-07-01 | Held-out final results |
+
+### Using an existing dataset instead
+
+Before scraping, check if [CodeContests](https://github.com/google-deepmind/code_contests) (DeepMind, ~13K problems) covers your needs — it saves significant scraping time. You can combine it with Codeforces API calls for algorithm tags and ratings.
+
+---
+
+## Contrastive Encoder Training (Part B)
+
+### Why fine-tune?
+
+The base `all-MiniLM-L6-v2` measures surface semantic similarity. We want a model where problems that share **algorithmic techniques** are close in embedding space regardless of narrative framing. Contrastive training on Codeforces algorithm tags achieves this.
+
+Expected improvement after fine-tuning:
+
+| Encoder | P@3 | P@5 |
+|---|---|---|
+| Random | ~14% | ~14% |
+| Base (all-MiniLM-L6-v2) | ~37% | ~33% |
+| **Fine-tuned (technique encoder)** | **~60%** | **~55%** |
+| Tag Oracle (upper bound) | 100% | 100% |
+
+### Training
+
+```bash
+# Standard training (MNRL loss + hard negatives, ~1 hour on 1 GPU)
+python encoder_training/train_encoder.py \
+    --dataset_dir dataset/ \
+    --output_dir models/technique_encoder
+
+# Triplet loss variant (uses explicit hard negatives)
+python encoder_training/train_encoder.py \
+    --dataset_dir dataset/ \
+    --output_dir models/technique_encoder_triplet \
+    --loss triplet
+
+# Quick smoke test
+python encoder_training/train_encoder.py \
+    --dataset_dir dataset/ --output_dir models/test \
+    --num_pairs 1000 --epochs 1
+```
+
+Key hyperparameters in `train_encoder.py`:
+
+| Argument | Default | Notes |
+|---|---|---|
+| `--base_model` | `all-MiniLM-L6-v2` | Starting checkpoint |
+| `--loss` | `mnrl` | `mnrl` or `triplet` |
+| `--num_pairs` | 50000 | Training triplets |
+| `--epochs` | 5 | |
+| `--batch_size` | 64 | Larger = more in-batch negatives for MNRL |
+| `--hard_neg_ratio` | 0.3 | Fraction from hard negative mining |
+
+### Evaluation
+
+```bash
+python encoder_training/evaluate_encoder.py \
+    --dataset_dir dataset/ \
+    --base_model all-MiniLM-L6-v2 \
+    --finetuned_model models/technique_encoder \
+    --output_json results/encoder_eval.json
+```
+
+### Using the fine-tuned encoder in the agent
+
+`create_encoder()` automatically picks the fine-tuned model if it exists:
+
+```python
+from encoder import create_encoder
+from agent import StrategyAdaptationAgent
+
+encoder = create_encoder()          # uses models/technique_encoder if available
+agent = StrategyAdaptationAgent(
+    llm_client=client,
+    encoder=encoder,
+)
+```
 
 ---
 
