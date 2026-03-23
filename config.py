@@ -1,0 +1,86 @@
+"""All tunable parameters in one place."""
+
+# ---------------------------------------------------------------------------
+# Backend selection
+# ---------------------------------------------------------------------------
+# "hf_local"   — load model directly via HuggingFace transformers (no server)
+# "vllm"       — OpenAI-compatible endpoint served by vLLM
+# "openai"     — OpenAI API (gpt-4o, etc.)
+# "anthropic"  — Anthropic API (claude-*)
+
+BACKEND = "hf_local"   # change this to switch inference backend
+
+# ---------------------------------------------------------------------------
+# Model profiles — pick one per role, or set the same model for all
+# ---------------------------------------------------------------------------
+
+# Qwen3 (2025) — recommended for NeurIPS experiments
+QWEN3_7B  = "Qwen/Qwen3-7B"           # thinking-capable, 7B params
+QWEN3_8B  = "Qwen/Qwen3-8B"           # slightly larger
+QWEN25_CODER_7B = "Qwen/Qwen2.5-Coder-7B-Instruct"   # code-specialized, no thinking
+
+# Which model to use for each role
+EXTRACTION_MODEL  = QWEN3_7B
+ALIGNMENT_MODEL   = QWEN3_7B
+GENERATION_MODEL  = QWEN3_7B
+DIAGNOSIS_MODEL   = QWEN3_7B
+
+CONFIG = {
+    # --- Backend ---
+    "backend": BACKEND,
+
+    # --- Model names (used by the factory) ---
+    "extraction_model":  EXTRACTION_MODEL,
+    "alignment_model":   ALIGNMENT_MODEL,
+    "generation_model":  GENERATION_MODEL,
+    "diagnosis_model":   DIAGNOSIS_MODEL,
+
+    # --- HF local inference ---
+    "hf_device_map":  "auto",       # "auto" spreads across all visible GPUs
+    "hf_torch_dtype": "bfloat16",   # "bfloat16" | "float16" | "float32"
+    "hf_max_new_tokens": 4096,
+
+    # --- Qwen3 thinking mode ---
+    # Qwen3 supports explicit <think> reasoning via /think or /no_think suffixes.
+    # For alignment (strategy reasoning) use thinking; for code gen disable it.
+    "qwen3_thinking_for_alignment":  True,   # adds /think to alignment prompts
+    "qwen3_thinking_for_generation": False,  # adds /no_think to code-gen prompts
+
+    # --- vLLM server (used when backend == "vllm") ---
+    "vllm_base_url": "http://localhost:8000/v1",
+    "vllm_api_key":  "dummy",
+
+    # --- OpenAI API (used when backend == "openai") ---
+    "openai_api_key":  "",   # set via env var OPENAI_API_KEY or here
+    "openai_model":    "gpt-4o",
+
+    # --- Anthropic API (used when backend == "anthropic") ---
+    "anthropic_api_key": "",  # set via env var ANTHROPIC_API_KEY or here
+    "anthropic_model":   "claude-opus-4-6",
+
+    # --- Retrieval ---
+    "encoder_model": "all-MiniLM-L6-v2",
+    "top_k": 3,
+
+    # --- Verification ---
+    "timeout_seconds": 10,
+
+    # --- Memory ---
+    "max_memory_size": 5000,
+
+    # --- Experiment ---
+    "seed_problems_count":  200,
+    "eval_problems_count":  500,
+    "log_dir":              "logs/experiment_001",
+    "checkpoint_interval":  50,
+}
+
+ALLOWED_ALGORITHM_TAGS = {
+    "greedy", "dp", "binary_search", "graph_bfs", "graph_dfs",
+    "graph_dijkstra", "graph_mst", "segment_tree", "binary_indexed_tree",
+    "two_pointers", "sliding_window", "divide_and_conquer",
+    "math_number_theory", "math_combinatorics", "string_hashing",
+    "string_kmp", "union_find", "topological_sort", "network_flow",
+    "geometry", "brute_force", "constructive", "implementation",
+    "sorting", "stack", "priority_queue",
+}
