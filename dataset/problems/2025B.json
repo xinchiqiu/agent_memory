@@ -1,0 +1,33 @@
+{
+  "problem_id": "2025B",
+  "contest_id": 2025,
+  "index": "B",
+  "title": "Binomial Coefficients, Kind Of",
+  "rating": 1100,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-10-14",
+  "solved_count": 19504,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n2 5 5 100000 100000 100000 100000\n1 2 3 1 33333 66666 99999",
+      "output": "\n2\n4\n8\n2\n326186014\n984426998\n303861760\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

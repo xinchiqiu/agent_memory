@@ -1,0 +1,37 @@
+{
+  "problem_id": "1841C",
+  "contest_id": 1841,
+  "index": "C",
+  "title": "Ranom Numbers",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2023-06-12",
+  "solved_count": 8993,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\nDAAABDCA\nAB\nABCDEEDCBA\nDDDDAAADDABECD",
+      "output": "\n11088\n10010\n31000\n15886\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1857D",
+  "contest_id": 1857,
+  "index": "D",
+  "title": "Strong Vertices",
+  "rating": 1300,
+  "raw_tags": [
+    "math",
+    "sortings",
+    "trees"
+  ],
+  "tags": [
+    "math_number_theory",
+    "sorting",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-08-07",
+  "solved_count": 28587,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n3 1 2 4\n4 3 2 1\n5\n1 2 4 1 2\n5 2 3 3 1\n2\n1 2\n2 1\n3\n0 2 1\n1 3 2\n3\n5 7 4\n-2 -3 -6",
+      "output": "\n1\n4 \n2\n3 5 \n1\n2 \n3\n1 2 3 \n2\n2 3 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

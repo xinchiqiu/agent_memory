@@ -1,0 +1,31 @@
+{
+  "problem_id": "1741B",
+  "contest_id": 1741,
+  "index": "B",
+  "title": "Funny Permutation",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-11",
+  "solved_count": 26710,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n3\n7\n5\n2",
+      "output": "\n3 4 2 1\n-1\n6 7 4 5 3 2 1\n5 4 1 2 3\n2 1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1944A",
+  "contest_id": 1944,
+  "index": "A",
+  "title": "Destroying Bridges",
+  "rating": 800,
+  "raw_tags": [
+    "graphs",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "graph_dfs",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-03-16",
+  "solved_count": 28250,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2 0\n2 1\n4 1\n5 10\n5 3\n4 4",
+      "output": "\n2\n1\n4\n1\n5\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

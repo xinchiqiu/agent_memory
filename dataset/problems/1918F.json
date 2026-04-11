@@ -1,0 +1,41 @@
+{
+  "problem_id": "1918F",
+  "contest_id": 1918,
+  "index": "F",
+  "title": "Caterpillar on a Tree",
+  "rating": 2500,
+  "raw_tags": [
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "implementation",
+    "sortings",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2024-01-30",
+  "solved_count": 1088,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8 1\n1 1 2 2 4 3 3\n",
+      "output": "\n9\n"
+    },
+    {
+      "input": "\n4 0\n4 4 1\n",
+      "output": "\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1759D",
+  "contest_id": 1759,
+  "index": "D",
+  "title": "Make It Round",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-11-18",
+  "solved_count": 19764,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n6 11\n5 43\n13 5\n4 16\n10050 12345\n2 6\n4 30\n25 10\n2 81\n1 7",
+      "output": "\n60\n200\n65\n60\n120600000\n10\n100\n200\n100\n7\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

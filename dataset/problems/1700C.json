@@ -1,0 +1,33 @@
+{
+  "problem_id": "1700C",
+  "contest_id": 1700,
+  "index": "C",
+  "title": "Helping the Nature",
+  "rating": 1700,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2022-06-19",
+  "solved_count": 12091,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3\n-2 -2 -2\n3\n10 4 7\n4\n4 -4 4 -4\n5\n1 -2 3 -4 5\n",
+      "output": "\n2\n13\n36\n33\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

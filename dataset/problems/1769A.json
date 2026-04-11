@@ -1,0 +1,38 @@
+{
+  "problem_id": "1769A",
+  "contest_id": 1769,
+  "index": "A",
+  "title": "Узкая дорога",
+  "rating": 800,
+  "raw_tags": [
+    "*special",
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2022-12-03",
+  "solved_count": 2151,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n20\n30\n50\n100\n",
+      "output": "\n19\n28\n47\n96\n"
+    },
+    {
+      "input": "\n5\n1\n2\n3\n4\n5\n",
+      "output": "\n0\n1\n2\n3\n4\n"
+    },
+    {
+      "input": "\n8\n5\n9\n10\n15\n17\n18\n19\n22\n",
+      "output": "\n4\n7\n8\n11\n12\n13\n14\n15\n"
+    }
+  ],
+  "time_limit": "ограничение по времени на тест2 секунды",
+  "memory_limit": "ограничение по памяти на тест512 мегабайт",
+  "editorial_text": null,
+  "reference_solutions": []
+}

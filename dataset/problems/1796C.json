@@ -1,0 +1,31 @@
+{
+  "problem_id": "1796C",
+  "contest_id": 1796,
+  "index": "C",
+  "title": "Maximum Set",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-02-28",
+  "solved_count": 12090,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 11\n13 37\n1 22\n4 100",
+      "output": "\n2 4\n2 6\n5 1\n5 7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

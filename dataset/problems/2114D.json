@@ -1,0 +1,35 @@
+{
+  "problem_id": "2114D",
+  "contest_id": 2114,
+  "index": "D",
+  "title": "Come a Little Closer",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-05-26",
+  "solved_count": 14427,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3\n1 1\n1 2\n2 1\n5\n1 1\n2 6\n6 4\n3 3\n8 2\n4\n1 1\n1 1000000000\n1000000000 1\n1000000000 1000000000\n1\n1 1\n5\n1 2\n4 2\n4 3\n3 1\n3 2\n3\n1 1\n2 5\n2 2\n4\n4 3\n3 1\n4 4\n1 2",
+      "output": "\n3\n32\n1000000000000000000\n1\n6\n4\n8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

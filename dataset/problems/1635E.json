@@ -1,0 +1,43 @@
+{
+  "problem_id": "1635E",
+  "contest_id": 1635,
+  "index": "E",
+  "title": "Cars ",
+  "rating": 2200,
+  "raw_tags": [
+    "2-sat",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "graph_dfs",
+    "constructive",
+    "union_find",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-02-20",
+  "solved_count": 2708,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 4\n1 1 2\n1 2 3\n2 3 4\n2 4 1\n",
+      "output": "\nYES\nR 0\nL -3\nR 5\nL 6\n"
+    },
+    {
+      "input": "\n3 3\n1 1 2\n1 2 3\n1 1 3\n",
+      "output": "\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

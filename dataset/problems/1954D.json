@@ -1,0 +1,43 @@
+{
+  "problem_id": "1954D",
+  "contest_id": 1954,
+  "index": "D",
+  "title": "Colored Balls",
+  "rating": 1800,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-04-12",
+  "solved_count": 7915,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1 1 2",
+      "output": "\n11\n"
+    },
+    {
+      "input": "\n\n1\n5",
+      "output": "\n5\n"
+    },
+    {
+      "input": "\n\n4\n1 3 3 7",
+      "output": "\n76\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

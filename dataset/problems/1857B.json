@@ -1,0 +1,33 @@
+{
+  "problem_id": "1857B",
+  "contest_id": 1857,
+  "index": "B",
+  "title": "Maximum Rounding",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-08-07",
+  "solved_count": 24635,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n1\n5\n99\n913\n1980\n20444\n20445\n60947\n419860\n40862016542130810467",
+      "output": "\n1\n10\n100\n1000\n2000\n20444\n21000\n100000\n420000\n41000000000000000000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

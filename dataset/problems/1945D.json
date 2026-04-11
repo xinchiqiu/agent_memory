@@ -1,0 +1,31 @@
+{
+  "problem_id": "1945D",
+  "contest_id": 1945,
+  "index": "D",
+  "title": "Seraphim the Owl",
+  "rating": 1300,
+  "raw_tags": [
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2024-03-19",
+  "solved_count": 17039,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 2\n7 3 6 9\n4 3 8 5\n6 2\n6 9 7 1 8 3\n5 8 8 1 4 1\n7 7\n7 2 9 2 6 5 9\n9 1 10 7 1 4 9\n2 1\n2 3\n1 1",
+      "output": "\n14\n22\n9\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

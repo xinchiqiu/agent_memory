@@ -1,0 +1,29 @@
+{
+  "problem_id": "1950B",
+  "contest_id": 1950,
+  "index": "B",
+  "title": "Upscaling",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2024-03-28",
+  "solved_count": 43893,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n2\n3\n4",
+      "output": "\n##\n##\n##..\n##..\n..##\n..##\n##..##\n##..##\n..##..\n..##..\n##..##\n##..##\n##..##..\n##..##..\n..##..##\n..##..##\n##..##..\n##..##..\n..##..##\n..##..##\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

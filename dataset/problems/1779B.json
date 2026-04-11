@@ -1,0 +1,31 @@
+{
+  "problem_id": "1779B",
+  "contest_id": 1779,
+  "index": "B",
+  "title": "MKnez's ConstructiveForces Task",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-03",
+  "solved_count": 24984,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n2\n3\n",
+      "output": "\nYES\n9 5\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

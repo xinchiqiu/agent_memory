@@ -1,0 +1,34 @@
+{
+  "problem_id": "1804C",
+  "contest_id": 1804,
+  "index": "C",
+  "title": "Pull Your Luck",
+  "rating": 1500,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-03-12",
+  "solved_count": 13735,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5 2 1\n5 2 2\n10 0 100\n11 7 100\n3 1 1000\n31 0 10\n100 49 7",
+      "output": "\nNo\nYes\nYes\nYes\nNo\nNo\nNo\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

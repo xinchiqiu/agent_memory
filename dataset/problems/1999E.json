@@ -1,0 +1,33 @@
+{
+  "problem_id": "1999E",
+  "contest_id": 1999,
+  "index": "E",
+  "title": "Triple Operations",
+  "rating": 1300,
+  "raw_tags": [
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "dp",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-08-06",
+  "solved_count": 23389,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1 3\n2 4\n199999 200000\n19 84",
+      "output": "\n5\n6\n36\n263\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

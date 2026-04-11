@@ -1,0 +1,35 @@
+{
+  "problem_id": "1594E1",
+  "contest_id": 1594,
+  "index": "E1",
+  "title": "Rubik's Cube Coloring (easy version)",
+  "rating": 1300,
+  "raw_tags": [
+    "combinatorics",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-08",
+  "solved_count": 12098,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n",
+      "output": "\n24576\n"
+    },
+    {
+      "input": "\n14\n",
+      "output": "\n934234\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

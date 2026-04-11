@@ -1,0 +1,32 @@
+{
+  "problem_id": "1789A",
+  "contest_id": 1789,
+  "index": "A",
+  "title": "Serval and Mocha's Array",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-02-25",
+  "solved_count": 31954,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2\n3 6\n3\n1 2 4\n3\n3 6 1\n3\n15 35 21\n4\n35 10 35 14\n5\n1261 227821 143 4171 1941",
+      "output": "\nNo\nYes\nYes\nNo\nYes\nYes\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

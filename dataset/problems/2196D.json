@@ -1,0 +1,38 @@
+{
+  "problem_id": "2196D",
+  "contest_id": 2196,
+  "index": "D",
+  "title": "Double Bracket Sequence",
+  "rating": 2500,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "expression parsing",
+    "flows",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "network_flow",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2026-02-11",
+  "solved_count": 922,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n[)\n4\n[)[(\n4\n))[[\n4\n([)]\n6\n[)]](]",
+      "output": "\n\n1\n2\n2\n0\n2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

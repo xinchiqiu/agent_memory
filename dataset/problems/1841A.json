@@ -1,0 +1,30 @@
+{
+  "problem_id": "1841A",
+  "contest_id": 1841,
+  "index": "A",
+  "title": "Game with Board",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "games"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2023-06-12",
+  "solved_count": 25922,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3\n6",
+      "output": "\nBob\nAlice\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,34 @@
+{
+  "problem_id": "1773I",
+  "contest_id": 1773,
+  "index": "I",
+  "title": "Interactive Factorial Guessing",
+  "rating": 2500,
+  "raw_tags": [
+    "brute force",
+    "games",
+    "implementation",
+    "interactive"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2022-12-07",
+  "solved_count": 557,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n\n1\n\nYES\n\n0\n\n2\n\nYES\n",
+      "output": "\n\n? 0\n\n! 1\n\n? 0\n\n? 19997\n\n! 5982"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1669A",
+  "contest_id": 1669,
+  "index": "A",
+  "title": "Division?",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-04-21",
+  "solved_count": 86978,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n-789\n1299\n1300\n1399\n1400\n1679\n2300",
+      "output": "\n\nDivision 4\nDivision 4\nDivision 4\nDivision 4\nDivision 3\nDivision 2\nDivision 1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

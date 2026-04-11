@@ -1,0 +1,45 @@
+{
+  "problem_id": "1606E",
+  "contest_id": 1606,
+  "index": "E",
+  "title": "Arena",
+  "rating": 2100,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-29",
+  "solved_count": 4152,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 5\n",
+      "output": "\n5\n"
+    },
+    {
+      "input": "\n3 3\n",
+      "output": "\n15\n"
+    },
+    {
+      "input": "\n5 4\n",
+      "output": "\n1024\n"
+    },
+    {
+      "input": "\n13 37\n",
+      "output": "\n976890680\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

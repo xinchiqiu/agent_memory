@@ -1,0 +1,35 @@
+{
+  "problem_id": "1983B",
+  "contest_id": 1983,
+  "index": "B",
+  "title": "Corner Twist",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-07-07",
+  "solved_count": 18302,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3 3\n000\n000\n000\n111\n111\n111\n4 4\n0000\n0000\n0000\n0000\n2100\n1200\n0012\n0021\n4 4\n1020\n1200\n1210\n0000\n0000\n1200\n2200\n0000\n3 3\n012\n012\n012\n010\n111\n011\n8 8\n00000000\n00000000\n00000000\n00000000\n00000000\n00000000\n00000000\n10000000\n00000000\n01200000\n02010000\n00102000\n00020100\n00001020\n00000210\n10000000\n2 7\n0000000\n0000000\n2220111\n0111222\n2 7\n0000000\n0100010\n2220111\n1210202",
+      "output": "\nYES\nYES\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1795A",
+  "contest_id": 1795,
+  "index": "A",
+  "title": "Two Towers",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2023-02-16",
+  "solved_count": 24597,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 3\nBRBB\nRBR\n4 7\nBRBR\nRRBRBRB\n3 4\nRBR\nBRBR\n5 4\nBRBRR\nBRBR",
+      "output": "\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

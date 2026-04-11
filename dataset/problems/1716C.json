@@ -1,0 +1,36 @@
+{
+  "problem_id": "1716C",
+  "contest_id": 1716,
+  "index": "C",
+  "title": "Robot in a Hallway",
+  "rating": 2000,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "ternary search"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "greedy",
+    "binary_search"
+  ],
+  "contest_date": "2022-08-04",
+  "solved_count": 4556,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n0 0 1\n4 3 2\n5\n0 4 8 12 16\n2 6 10 14 18\n4\n0 10 10 10\n10 10 10 10\n2\n0 0\n0 0",
+      "output": "\n5\n19\n17\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

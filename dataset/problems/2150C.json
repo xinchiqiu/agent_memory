@@ -1,0 +1,31 @@
+{
+  "problem_id": "2150C",
+  "contest_id": 2150,
+  "index": "C",
+  "title": "Limited Edition Shop",
+  "rating": 2100,
+  "raw_tags": [
+    "data structures",
+    "dp"
+  ],
+  "tags": [
+    "implementation",
+    "dp"
+  ],
+  "contest_date": "2025-09-24",
+  "solved_count": 2547,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3\n1 -1 1\n3 1 2\n2 3 1\n3\n-2 5 2\n3 1 2\n2 3 1\n3\n-1 -2 -3\n3 1 2\n2 3 1\n3\n1000000000 1000000000 1000000000\n3 1 2\n2 3 1\n4\n5 -15 10 -5\n2 4 3 1\n1 4 2 3\n4\n-5 -5 -5 100\n2 3 1 4\n4 1 2 3\n4\n-1 -100 5 10\n1 2 3 4\n2 3 4 1\n12\n-4 6 10 10 1 -8 6 2 -8 -4 0 -6\n11 12 7 3 6 8 1 5 10 2 9 4\n7 5 3 6 1 2 8 12 9 4 10 11",
+      "output": "\n\n2\n5\n0\n3000000000\n10\n85\n14\n24"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

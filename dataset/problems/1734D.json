@@ -1,0 +1,35 @@
+{
+  "problem_id": "1734D",
+  "contest_id": 1734,
+  "index": "D",
+  "title": "Slime Escape",
+  "rating": 1800,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2022-09-23",
+  "solved_count": 6992,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n7 4\n-1 -2 -3 6 -2 -3 -1\n3 1\n232 -500 -700\n7 4\n-1 -2 -4 6 -2 -4 -1\n8 4\n-100 10 -7 6 -2 -3 6 -10\n8 2\n-999 0 -2 3 4 5 6 7\n7 3\n7 3 3 4 2 1 1",
+      "output": "\nYES\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

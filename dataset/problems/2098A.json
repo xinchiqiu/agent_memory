@@ -1,0 +1,31 @@
+{
+  "problem_id": "2098A",
+  "contest_id": 2098,
+  "index": "A",
+  "title": "Vadim's Collection",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2025-04-26",
+  "solved_count": 14564,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n9999999999\n9988776655\n9988776650\n9899999999",
+      "output": "\n9999999999\n9876556789\n9876567890\n9899999999\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

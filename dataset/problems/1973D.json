@@ -1,0 +1,33 @@
+{
+  "problem_id": "1973D",
+  "contest_id": 1973,
+  "index": "D",
+  "title": "Cat, Fox and Maximum Array Split",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "interactive",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-05-17",
+  "solved_count": 2231,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1 1\n\n1\n2 2\n\n1\n\n3\n\n1\n6 3\n\n7\n\n2\n\n3\n\n6\n\n1",
+      "output": "\n! 1\n\n\n? 1 1\n\n? 2 1\n\n! -1\n\n\n? 1 9\n\n? 1 6\n\n? 3 6\n\n? 4 6\n\n! 6"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

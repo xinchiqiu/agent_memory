@@ -1,0 +1,31 @@
+{
+  "problem_id": "1861D",
+  "contest_id": 1861,
+  "index": "D",
+  "title": "Sorting By Multiplication",
+  "rating": 1800,
+  "raw_tags": [
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2023-08-31",
+  "solved_count": 7893,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n1 1 2 2 2\n6\n5 4 3 2 5 1\n3\n1 2 3",
+      "output": "\n3\n2\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

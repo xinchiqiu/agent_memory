@@ -1,0 +1,46 @@
+{
+  "problem_id": "1976E",
+  "contest_id": 1976,
+  "index": "E",
+  "title": "Splittable Permutations",
+  "rating": 2500,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "math",
+    "trees"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "graph_dfs",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-05-30",
+  "solved_count": 1294,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6 3\n6 4 4\n5 5 2",
+      "output": "\n30\n"
+    },
+    {
+      "input": "\n\n10 1\n10\n9",
+      "output": "\n1814400\n"
+    },
+    {
+      "input": "\n\n4 1\n2\n4",
+      "output": "\n8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,32 @@
+{
+  "problem_id": "2123D",
+  "contest_id": 2123,
+  "index": "D",
+  "title": "Binary String Battle",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "games",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2025-07-01",
+  "solved_count": 21555,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5 2\n11011\n7 4\n1011011\n6 1\n010000\n4 1\n1111\n8 3\n10110110\n6 4\n111111",
+      "output": "\nBob\nAlice\nAlice\nBob\nBob\nAlice\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

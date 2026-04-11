@@ -1,0 +1,33 @@
+{
+  "problem_id": "2136B",
+  "contest_id": 2136,
+  "index": "B",
+  "title": "Like the Bitset",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2025-08-28",
+  "solved_count": 20532,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2 1\n00\n4 3\n0010\n5 2\n11011\n7 5\n1111110\n8 4\n00101011\n10 2\n1000000010",
+      "output": "\nYES\n1 2\nYES\n1 4 3 2\nNO\nNO\nYES\n6 5 2 3 4 8 1 7\nYES\n1 2 3 4 5 6 7 9 8 10"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

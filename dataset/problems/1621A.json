@@ -1,0 +1,29 @@
+{
+  "problem_id": "1621A",
+  "contest_id": 1621,
+  "index": "A",
+  "title": "Stable Arrangement of Rooks",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2022-01-03",
+  "solved_count": 24720,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 2\n3 3\n1 1\n5 2\n40 33",
+      "output": "\n..R\n...\nR..\n-1\nR\n.....\nR....\n.....\n....R\n.....\n-1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1559B",
+  "contest_id": 1559,
+  "index": "B",
+  "title": "Mocha and Red and Blue",
+  "rating": 900,
+  "raw_tags": [
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2021-08-15",
+  "solved_count": 24061,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n7\n?R???BR\n7\n???R???\n1\n?\n1\nB\n10\n?R??RB??B?\n",
+      "output": "\nBRRBRBR\nBRBRBRB\nB\nB\nBRRBRBBRBR"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

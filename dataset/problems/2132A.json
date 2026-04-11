@@ -1,0 +1,33 @@
+{
+  "problem_id": "2132A",
+  "contest_id": 2132,
+  "index": "A",
+  "title": "Homework",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2025-08-21",
+  "solved_count": 42760,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\not\n2\nad\nDV\n3\nefo\n7\nrdcoecs\nDVDVDVD\n3\naca\n4\nbbaa\nDVDV\n3\nbiz\n4\nabon\nVVDD",
+      "output": "\ndota\ncodeforces\nabacaba\nbabizon\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

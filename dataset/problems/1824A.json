@@ -1,0 +1,31 @@
+{
+  "problem_id": "1824A",
+  "contest_id": 1824,
+  "index": "A",
+  "title": "LuoTianyi and the Show",
+  "rating": 1400,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-05-08",
+  "solved_count": 12469,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n3 10\n5 5 5\n4 6\n1 -2 -2 1\n5 7\n-1 -1 4 -2 -2\n6 7\n5 -2 -2 -2 -2 -2\n6 6\n-1 1 4 5 -1 4\n6 8\n-1 -1 -1 3 -1 -2\n6 7\n5 -1 -2 -2 -2 -2\n3 1\n-2 -2 1\n2 5\n5 -2\n1 2\n-1",
+      "output": "\n1\n3\n5\n6\n5\n5\n5\n1\n2\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

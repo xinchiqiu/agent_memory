@@ -1,0 +1,34 @@
+{
+  "problem_id": "1749E",
+  "contest_id": 1749,
+  "index": "E",
+  "title": "Cactus Wall",
+  "rating": 2400,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "shortest paths"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2022-10-20",
+  "solved_count": 2053,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 4\n.#..\n..#.\n3 3\n#.#\n...\n.#.\n5 5\n.....\n.....\n.....\n.....\n.....\n4 3\n#..\n.#.\n#.#\n...",
+      "output": "\nYES\n.#.#\n#.#.\nNO\nYES\n....#\n...#.\n..#..\n.#...\n#....\nYES\n#..\n.#.\n#.#\n...\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,43 @@
+{
+  "problem_id": "1776B",
+  "contest_id": 1776,
+  "index": "B",
+  "title": "Vittorio Plays with LEGO Bricks",
+  "rating": 2200,
+  "raw_tags": [
+    "dp",
+    "geometry"
+  ],
+  "tags": [
+    "dp",
+    "geometry"
+  ],
+  "contest_date": "2023-02-19",
+  "solved_count": 1537,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 0\n2 7 11 13\n",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n4 1\n2 7 11 13\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n4 100\n2 7 11 13\n",
+      "output": "\n107\n"
+    },
+    {
+      "input": "\n4 3\n2 5 8 11\n",
+      "output": "\n8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

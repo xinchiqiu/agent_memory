@@ -1,0 +1,31 @@
+{
+  "problem_id": "2153B",
+  "contest_id": 2153,
+  "index": "B",
+  "title": "Bitwise Reversion",
+  "rating": 800,
+  "raw_tags": [
+    "bitmasks",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2025-10-10",
+  "solved_count": 22323,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 1 1\n3 2 6\n4 8 12\n9 10 12\n12730 3088 28130",
+      "output": "\n\nYES\nYES\nNO\nYES\nNO"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,32 @@
+{
+  "problem_id": "2029B",
+  "contest_id": 2029,
+  "index": "B",
+  "title": "Replacement",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "games",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "string_hashing"
+  ],
+  "contest_date": "2024-11-09",
+  "solved_count": 11627,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2\n11\n0\n2\n01\n1\n4\n1101\n001\n6\n111110\n10000\n6\n010010\n11010\n8\n10010010\n0010010",
+      "output": "\nNO\nYES\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "2193F",
+  "contest_id": 2193,
+  "index": "F",
+  "title": "Pizza Delivery",
+  "rating": 1600,
+  "raw_tags": [
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2026-01-25",
+  "solved_count": 7882,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1 2 3 5 2\n4\n4\n3 1 3 5 2\n3 4 3\n5 4 1\n6 1 2 7 3\n5 2 3 5 5 3\n6 4 3 1 4 1\n5 6 9 8 6\n7 7 7 7 7\n3 1 8 8 3",
+      "output": "\n\n6\n13\n19\n15"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+  "problem_id": "1775F",
+  "contest_id": 1775,
+  "index": "F",
+  "title": "Laboratory on Pluto",
+  "rating": 2500,
+  "raw_tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-10",
+  "solved_count": 850,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3 1\n1\n2\n7",
+      "output": "\n1 1\n#\n1 2\n##\n2 4\n.###\n####\n"
+    },
+    {
+      "input": "\n\n3 2\n1000000007\n1\n2\n7",
+      "output": "\n4 1\n6 2\n12 22\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "2075D",
+  "contest_id": 2075,
+  "index": "D",
+  "title": "Equalization",
+  "rating": 2000,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "graphs",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "graph_dfs",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-03-17",
+  "solved_count": 5682,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n0 1\n6 2\n3 3\n13 37\n4238659325782394 12983091057341925",
+      "output": "\n2\n6\n0\n26\n32764\n"
+    }
+  ],
+  "time_limit": "3.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

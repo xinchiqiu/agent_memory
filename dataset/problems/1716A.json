@@ -1,0 +1,31 @@
+{
+  "problem_id": "1716A",
+  "contest_id": 1716,
+  "index": "A",
+  "title": "2-3 Moves",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-08-04",
+  "solved_count": 35701,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n3\n4\n12",
+      "output": "\n2\n1\n2\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

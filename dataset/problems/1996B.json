@@ -1,0 +1,31 @@
+{
+  "problem_id": "1996B",
+  "contest_id": 1996,
+  "index": "B",
+  "title": "Scale",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-07-26",
+  "solved_count": 36760,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 4\n0000\n0000\n0000\n0000\n6 3\n000111\n000111\n000111\n111000\n111000\n111000\n6 2\n001100\n001100\n111111\n111111\n110000\n110000\n8 1\n11111111\n11111111\n11111111\n11111111\n11111111\n11111111\n11111111\n11111111",
+      "output": "\n0\n01\n10\n010\n111\n100\n11111111\n11111111\n11111111\n11111111\n11111111\n11111111\n11111111\n11111111\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

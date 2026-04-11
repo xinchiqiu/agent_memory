@@ -1,0 +1,40 @@
+{
+  "problem_id": "1609D",
+  "contest_id": 1609,
+  "index": "D",
+  "title": "Social Network",
+  "rating": 1600,
+  "raw_tags": [
+    "dsu",
+    "graphs",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "tags": [
+    "union_find",
+    "graph_dfs",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2021-11-28",
+  "solved_count": 8334,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7 6\n1 2\n3 4\n2 4\n7 6\n6 5\n1 7\n",
+      "output": "\n1\n1\n3\n3\n3\n6\n"
+    },
+    {
+      "input": "\n10 8\n1 2\n2 3\n3 4\n1 4\n6 7\n8 9\n8 10\n1 4\n",
+      "output": "\n1\n2\n3\n4\n5\n5\n6\n8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

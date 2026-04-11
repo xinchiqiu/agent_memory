@@ -1,0 +1,36 @@
+{
+  "problem_id": "1900D",
+  "contest_id": 1900,
+  "index": "D",
+  "title": "Small GCD",
+  "rating": 2000,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-11-26",
+  "solved_count": 5291,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n5\n2 3 6 12 17\n8\n6 12 8 10 15 12 18 16",
+      "output": "\n24\n203\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

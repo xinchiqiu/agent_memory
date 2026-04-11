@@ -1,0 +1,45 @@
+{
+  "problem_id": "1912L",
+  "contest_id": 1912,
+  "index": "L",
+  "title": "LOL Lovers",
+  "rating": 800,
+  "raw_tags": [
+    "strings"
+  ],
+  "tags": [
+    "string_hashing"
+  ],
+  "contest_date": "2023-12-13",
+  "solved_count": 8394,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\nLOL",
+      "output": "\n-1\n"
+    },
+    {
+      "input": "\n\n2\nLO",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n\n4\nLLLO",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n\n4\nOLOL",
+      "output": "\n-1\n"
+    },
+    {
+      "input": "\n\n10\nLLOOOOLLLO",
+      "output": "\n5"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

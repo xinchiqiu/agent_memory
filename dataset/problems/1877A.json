@@ -1,0 +1,29 @@
+{
+  "problem_id": "1877A",
+  "contest_id": 1877,
+  "index": "A",
+  "title": "Goals of Victory",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2023-10-08",
+  "solved_count": 50195,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n4\n3 -4 5\n11\n-30 12 -57 7 0 -81 -68 41 -89 0",
+      "output": "\n-4\n265\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

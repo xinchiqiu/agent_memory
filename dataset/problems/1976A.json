@@ -1,0 +1,33 @@
+{
+  "problem_id": "1976A",
+  "contest_id": 1976,
+  "index": "A",
+  "title": "Verify Password",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2024-05-30",
+  "solved_count": 32521,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n12ac\n5\n123wa\n9\nallllmost\n5\nac123\n6\n011679",
+      "output": "\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

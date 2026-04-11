@@ -1,0 +1,53 @@
+{
+  "problem_id": "1615E",
+  "contest_id": 1615,
+  "index": "E",
+  "title": "Purple Crayon",
+  "rating": 2400,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "games",
+    "graphs",
+    "greedy",
+    "math",
+    "sortings",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2021-12-24",
+  "solved_count": 1666,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 2\n1 2\n1 3\n1 4\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n5 2\n1 2\n2 3\n3 4\n4 5\n",
+      "output": "\n6\n"
+    },
+    {
+      "input": "\n7 2\n1 2\n1 3\n4 2\n3 5\n6 3\n6 7\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n4 1\n1 2\n1 3\n1 4\n",
+      "output": "\n-1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

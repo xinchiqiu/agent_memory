@@ -1,0 +1,31 @@
+{
+  "problem_id": "1990B",
+  "contest_id": 1990,
+  "index": "B",
+  "title": "Array Craft",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2024-07-20",
+  "solved_count": 19725,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 2 1\n4 4 3\n6 5 1",
+      "output": "\n1 1\n1 -1 1 1\n1 1 -1 1 1 -1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

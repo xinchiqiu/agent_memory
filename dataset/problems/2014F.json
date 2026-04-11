@@ -1,0 +1,34 @@
+{
+  "problem_id": "2014F",
+  "contest_id": 2014,
+  "index": "F",
+  "title": "Sheriff's Defense",
+  "rating": 2000,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2024-09-21",
+  "solved_count": 5025,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 1\n2 3 1\n1 2\n2 3\n3 1\n3 6 3\n1 2\n2 3\n3 1\n-2 -3 -1\n1 2\n2 3\n6 1\n5 -4 3 6 7 3\n4 1\n5 1\n3 5\n3 6\n1 2\n8 1\n3 5 2 7 8 5 -3 -4\n7 3\n1 8\n4 3\n3 5\n7 6\n8 7\n2 1",
+      "output": "\n3\n8\n0\n17\n26\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "2035D",
+  "contest_id": 2035,
+  "index": "D",
+  "title": "Yet Another Real Number Problem",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "divide_and_conquer",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-10-27",
+  "solved_count": 5788,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n10\n1 2 3 4 5 6 7 8 9 10\n11\n1 6 9 4 7 4 4 10 3 2 3\n4\n527792568 502211460 850237282 374773208",
+      "output": "\n1 3 8 13 46 59 126 149 1174 1311 \n1 7 22 26 70 74 150 1303 1306 1308 1568 \n527792568 83665723 399119771 773892979 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

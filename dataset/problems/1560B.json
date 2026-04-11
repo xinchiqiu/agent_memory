@@ -1,0 +1,29 @@
+{
+  "problem_id": "1560B",
+  "contest_id": 1560,
+  "index": "B",
+  "title": "Who's Opposite?",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2021-08-18",
+  "solved_count": 38566,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n6 2 4\n2 3 1\n2 4 10\n5 3 4\n1 3 2\n2 5 4\n4 3 2\n",
+      "output": "\n8\n-1\n-1\n-1\n4\n1\n-1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

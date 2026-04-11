@@ -1,0 +1,29 @@
+{
+  "problem_id": "2123A",
+  "contest_id": 2123,
+  "index": "A",
+  "title": "Blackboard Game",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2025-07-01",
+  "solved_count": 41267,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n4\n5\n7\n100",
+      "output": "\nAlice\nBob\nAlice\nAlice\nBob\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

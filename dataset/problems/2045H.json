@@ -1,0 +1,43 @@
+{
+  "problem_id": "2045H",
+  "contest_id": 2045,
+  "index": "H",
+  "title": "Missing Separators",
+  "rating": 2200,
+  "raw_tags": [
+    "dp",
+    "sortings",
+    "string suffix structures",
+    "strings"
+  ],
+  "tags": [
+    "dp",
+    "sorting",
+    "string_kmp",
+    "string_hashing"
+  ],
+  "contest_date": "2024-12-01",
+  "solved_count": 788,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\nABACUS\n",
+      "output": "\n4\nA\nBA\nC\nUS"
+    },
+    {
+      "input": "\nAAAAAA\n",
+      "output": "\n3\nA\nAA\nAAA"
+    },
+    {
+      "input": "\nEDCBA\n",
+      "output": "\n1\nEDCBA"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

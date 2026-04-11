@@ -1,0 +1,29 @@
+{
+  "problem_id": "1984A",
+  "contest_id": 1984,
+  "index": "A",
+  "title": "Strange Splitting",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2024-06-09",
+  "solved_count": 22814,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n4\n1 1 2 2\n5\n1 2 3 4 5\n3\n3 3 3\n4\n1 2 2 2\n3\n1 2 2\n3\n1 1 2\n3\n1 9 84",
+      "output": "\nYES\nRBRR\nYES\nBBRBB\nNO\nYES\nRBBR\nYES\nRRB\nYES\nBRR\nYES\nBRB"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

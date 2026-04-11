@@ -1,0 +1,42 @@
+{
+  "problem_id": "2045M",
+  "contest_id": 2045,
+  "index": "M",
+  "title": "Mirror Maze",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "implementation"
+  ],
+  "contest_date": "2024-12-01",
+  "solved_count": 2191,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 4\n.//.\n.\\\\.\n.\\/.\n....\n",
+      "output": "\n2\nN3 W2"
+    },
+    {
+      "input": "\n4 6\n./..\\.\n.\\...\\\n./../\\\n......\n",
+      "output": "\n2\nE3 S2"
+    },
+    {
+      "input": "\n4 4\n....\n./\\.\n.\\/.\n....\n",
+      "output": "\n0"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

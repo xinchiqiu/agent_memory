@@ -1,0 +1,31 @@
+{
+  "problem_id": "1594B",
+  "contest_id": 1594,
+  "index": "B",
+  "title": "Special Numbers",
+  "rating": 1100,
+  "raw_tags": [
+    "bitmasks",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-08",
+  "solved_count": 22007,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n3 4\n2 12\n105 564\n",
+      "output": "\n9\n12\n3595374\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

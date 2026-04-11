@@ -1,0 +1,37 @@
+{
+  "problem_id": "1969E",
+  "contest_id": 1969,
+  "index": "E",
+  "title": "Unique Array",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2024-04-29",
+  "solved_count": 1828,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n2 1 2\n4\n4 4 4 4\n5\n3 1 2 1 2\n5\n1 3 2 1 2",
+      "output": "\n0\n2\n1\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

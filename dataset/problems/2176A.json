@@ -1,0 +1,33 @@
+{
+  "problem_id": "2176A",
+  "contest_id": 2176,
+  "index": "A",
+  "title": "Operations with Inversions",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-12-11",
+  "solved_count": 28466,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n3 2 1\n3\n1 2 3\n3\n3 3 3\n5\n3 1 4 5 2\n1\n1",
+      "output": "\n\n2\n0\n0\n2\n0"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

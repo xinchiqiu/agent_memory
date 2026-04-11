@@ -1,0 +1,36 @@
+{
+  "problem_id": "2013E",
+  "contest_id": 2013,
+  "index": "E",
+  "title": "Prefix GCD",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-09-20",
+  "solved_count": 4177,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n4 2 2\n2\n6 3\n3\n10 15 6\n5\n6 42 12 52 20\n4\n42 154 231 66",
+      "output": "\n6\n6\n9\n14\n51\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

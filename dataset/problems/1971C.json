@@ -1,0 +1,29 @@
+{
+  "problem_id": "1971C",
+  "contest_id": 1971,
+  "index": "C",
+  "title": "Clock and Strings",
+  "rating": 900,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2024-05-10",
+  "solved_count": 41089,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n15\n2 9 10 6\n3 8 9 1\n1 2 3 4\n5 3 4 12\n1 8 2 10\n3 12 11 8\n9 10 12 1\n12 1 10 2\n3 12 6 9\n1 9 8 4\n6 7 9 12\n7 12 9 6\n10 12 11 1\n3 9 6 12\n1 4 3 5",
+      "output": "\nYES\nNO\nNO\nYES\nYES\nNO\nNO\nNO\nNO\nNO\nNO\nYES\nYES\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

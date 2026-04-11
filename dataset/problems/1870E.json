@@ -1,0 +1,35 @@
+{
+  "problem_id": "1870E",
+  "contest_id": 1870,
+  "index": "E",
+  "title": "Another MEX Problem",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "shortest paths"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2023-09-18",
+  "solved_count": 2913,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n1 0\n10\n1 2 0 7 1 2 0 2 4 3\n10\n2 1 0 7 1 2 0 2 4 3\n3\n1 2 1",
+      "output": "\n2\n6\n7\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

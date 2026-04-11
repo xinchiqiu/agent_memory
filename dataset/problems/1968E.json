@@ -1,0 +1,29 @@
+{
+  "problem_id": "1968E",
+  "contest_id": 1968,
+  "index": "E",
+  "title": "Cells Arrangement",
+  "rating": 1600,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2024-05-02",
+  "solved_count": 12503,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n3\n4\n5\n6",
+      "output": "\n1 1\n1 2\n\n2 1\n2 3\n3 1\n\n1 1\n1 3\n4 3\n4 4\n\n1 1\n1 3\n1 4\n2 1\n5 5\n\n1 4\n1 5\n1 6\n5 2\n5 5\n6 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

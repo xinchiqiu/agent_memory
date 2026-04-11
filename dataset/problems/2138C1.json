@@ -1,0 +1,39 @@
+{
+  "problem_id": "2138C1",
+  "contest_id": 2138,
+  "index": "C1",
+  "title": "Maple and Tree Beauty (Easy Version)",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2025-09-08",
+  "solved_count": 5305,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n7 3\n1 1 2 2 3 3\n7 2\n1 1 2 3 1 1\n5 0\n1 2 3 4\n5 2\n1 1 1 1\n5 4\n1 1 1 1",
+      "output": "\n3\n2\n5\n1\n2\n"
+    },
+    {
+      "input": "\n\n5\n2 0\n1\n2 1\n1\n3 0\n1 1\n3 1\n1 2\n3 1\n1 1",
+      "output": "\n2\n2\n2\n3\n2\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

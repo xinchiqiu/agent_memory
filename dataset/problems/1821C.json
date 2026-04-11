@@ -1,0 +1,35 @@
+{
+  "problem_id": "1821C",
+  "contest_id": 1821,
+  "index": "C",
+  "title": "Tear It Apart",
+  "rating": 1300,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2023-04-20",
+  "solved_count": 16109,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\nabacaba\ncodeforces\noooooooo\nabcdef\nmewheniseearulhiiarul",
+      "output": "\n1\n3\n0\n2\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

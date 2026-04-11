@@ -1,0 +1,39 @@
+{
+  "problem_id": "2018D",
+  "contest_id": 2018,
+  "index": "D",
+  "title": "Max Plus Min Plus Size",
+  "rating": 2200,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "dsu",
+    "greedy",
+    "implementation",
+    "matrices",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "union_find",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-09-27",
+  "solved_count": 2164,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n5 4 5\n3\n4 5 4\n10\n3 3 3 3 4 1 2 3 5 4\n10\n17 89 92 42 29 41 92 14 70 45",
+      "output": "\n12\n11\n12\n186\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

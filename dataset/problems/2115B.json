@@ -1,0 +1,39 @@
+{
+  "problem_id": "2115B",
+  "contest_id": 2115,
+  "index": "B",
+  "title": "Gellyfish and Camellia Japonica",
+  "rating": 2100,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2025-05-31",
+  "solved_count": 3891,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 1\n1 2\n2 1 2\n3 2\n1 2 3\n2 3 2\n1 2 1\n6 4\n1 2 2 3 4 5\n5 6 6\n4 5 5\n3 4 4\n2 3 3",
+      "output": "\n-1\n1 2 3 \n1 2 3 4 5 5 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

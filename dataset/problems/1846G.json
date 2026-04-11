@@ -1,0 +1,37 @@
+{
+  "problem_id": "1846G",
+  "contest_id": 1846,
+  "index": "G",
+  "title": "Rudolf and CodeVid-23",
+  "rating": 1900,
+  "raw_tags": [
+    "bitmasks",
+    "dp",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "graph_dfs",
+    "greedy",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2023-07-07",
+  "solved_count": 5545,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5 4\n10011\n3\n10000\n00110\n3\n00101\n00000\n3\n01010\n00100\n5\n11010\n00100\n4 1\n0000\n10\n1011\n0100\n2 2\n11\n2\n10\n01\n3\n01\n10\n2 3\n11\n3\n01\n10\n3\n10\n00\n4\n10\n01",
+      "output": "\n8\n0\n-1\n6\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

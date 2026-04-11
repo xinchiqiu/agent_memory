@@ -1,0 +1,31 @@
+{
+  "problem_id": "1838A",
+  "contest_id": 1838,
+  "index": "A",
+  "title": "Blackboard List",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-06-04",
+  "solved_count": 22649,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n3\n9 2 7\n3\n15 -4 11\n4\n-9 1 11 -10\n5\n3 0 0 0 3\n7\n8 16 8 0 8 16 8\n4\n0 0 0 0\n10\n27 1 24 28 2 -1 26 25 28 27\n6\n600000000 800000000 0 -200000000 1000000000 800000000\n3\n0 -1000000000 1000000000",
+      "output": "\n9\n11\n-9\n3\n8\n0\n-1\n600000000\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

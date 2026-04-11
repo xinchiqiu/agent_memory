@@ -1,0 +1,33 @@
+{
+  "problem_id": "1623A",
+  "contest_id": 1623,
+  "index": "A",
+  "title": "Robot Cleaner",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-12-28",
+  "solved_count": 20656,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n10 10 6 1 2 8\n10 10 9 9 1 1\n9 8 5 6 2 1\n6 9 2 2 5 8\n2 2 1 1 2 1\n",
+      "output": "\n7\n10\n9\n3\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

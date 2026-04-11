@@ -1,0 +1,37 @@
+{
+  "problem_id": "1665D",
+  "contest_id": 1665,
+  "index": "D",
+  "title": "GCD Guess",
+  "rating": 2000,
+  "raw_tags": [
+    "bitmasks",
+    "chinese remainder theorem",
+    "constructive algorithms",
+    "games",
+    "interactive",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory",
+    "constructive"
+  ],
+  "contest_date": "2022-04-08",
+  "solved_count": 4552,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n\n1\n\n8\n\n\n1\n",
+      "output": "\n\n? 1 2\n\n? 12 4\n\n! 4\n? 2000000000 1999999999\n\n! 1000000000\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

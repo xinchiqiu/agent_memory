@@ -1,0 +1,31 @@
+{
+  "problem_id": "1692F",
+  "contest_id": 1692,
+  "index": "F",
+  "title": "3SUM",
+  "rating": 1300,
+  "raw_tags": [
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-06-14",
+  "solved_count": 26913,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n4\n20 22 19 84\n4\n1 11 1 2022\n4\n1100 1100 1100 1111\n5\n12 34 56 78 90\n4\n1 9 8 4\n6\n16 38 94 25 18 99",
+      "output": "\nYES\nYES\nNO\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

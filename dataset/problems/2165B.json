@@ -1,0 +1,33 @@
+{
+  "problem_id": "2165B",
+  "contest_id": 2165,
+  "index": "B",
+  "title": "Marble Council",
+  "rating": 1900,
+  "raw_tags": [
+    "dp",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "dp",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2025-11-16",
+  "solved_count": 4317,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n1 2 3\n3\n1 1 1\n3\n1 2 2\n10\n1 1 1 1 2 2 2 3 3 4\n10\n1 1 1 2 2 2 3 3 3 4",
+      "output": "\n\n7\n3\n4\n111\n126"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

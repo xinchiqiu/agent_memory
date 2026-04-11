@@ -1,0 +1,37 @@
+{
+  "problem_id": "1904B",
+  "contest_id": 1904,
+  "index": "B",
+  "title": "Collecting Game",
+  "rating": 1100,
+  "raw_tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "dp",
+    "greedy",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2023-12-09",
+  "solved_count": 26776,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n20 5 1 4 2\n3\n1434 7 1442\n1\n1\n5\n999999999 999999999 999999999 1000000000 1000000000",
+      "output": "\n4 3 0 3 1 \n1 0 2 \n0 \n4 4 4 4 4 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

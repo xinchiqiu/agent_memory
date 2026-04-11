@@ -1,0 +1,31 @@
+{
+  "problem_id": "1844B",
+  "contest_id": 1844,
+  "index": "B",
+  "title": "Permutations & Primes",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-07-11",
+  "solved_count": 20153,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n1\n5",
+      "output": "\n2 1\n1\n5 2 1 4 3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

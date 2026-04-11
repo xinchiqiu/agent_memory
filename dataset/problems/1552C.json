@@ -1,0 +1,37 @@
+{
+  "problem_id": "1552C",
+  "contest_id": 1552,
+  "index": "C",
+  "title": "Maximize the Intersections",
+  "rating": 1800,
+  "raw_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "geometry",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "constructive",
+    "geometry",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2021-07-25",
+  "solved_count": 6259,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n4 2\n8 2\n1 5\n1 1\n2 1\n2 0\n10 6\n14 6\n2 20\n9 10\n13 18\n15 12\n11 7\n",
+      "output": "\n4\n0\n1\n14\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

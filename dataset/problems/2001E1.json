@@ -1,0 +1,43 @@
+{
+  "problem_id": "2001E1",
+  "contest_id": 2001,
+  "index": "E1",
+  "title": "Deterministic Heap (Easy Version)",
+  "rating": 2400,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory",
+    "graph_dfs"
+  ],
+  "contest_date": "2024-08-20",
+  "solved_count": 1522,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1 13 998244353\n2 1 998244353\n3 2 998244853\n3 3 998244353\n3 4 100000037\n4 2 100000039\n4 3 100000037",
+      "output": "\n1\n2\n12\n52\n124\n32\n304\n"
+    },
+    {
+      "input": "\n\n1\n500 500 100000007",
+      "output": "\n76297230\n"
+    },
+    {
+      "input": "\n\n6\n87 63 100000037\n77 77 100000039\n100 200 998244353\n200 100 998244353\n32 59 998244853\n1 1 998244353",
+      "output": "\n26831232\n94573603\n37147649\n847564946\n727060898\n1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

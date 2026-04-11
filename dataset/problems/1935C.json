@@ -1,0 +1,41 @@
+{
+  "problem_id": "1935C",
+  "contest_id": 1935,
+  "index": "C",
+  "title": "Messenger in MAC",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "constructive",
+    "implementation",
+    "dp",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-03-05",
+  "solved_count": 9661,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5 8\n4 3\n1 5\n2 4\n4 3\n2 3\n1 6\n4 10\n3 12\n4 8\n2 1\n2 12\n5 26\n24 7\n8 28\n30 22\n3 8\n17 17\n5 14\n15 3\n1000000000 998244353\n179 239\n228 1337\n993 1007",
+      "output": "\n3\n1\n2\n1\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

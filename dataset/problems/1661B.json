@@ -1,0 +1,40 @@
+{
+  "problem_id": "1661B",
+  "contest_id": 1661,
+  "index": "B",
+  "title": "Getting Zero",
+  "rating": 1300,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2022-04-09",
+  "solved_count": 20450,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n19 32764 10240 49\n",
+      "output": "\n14 4 4 15 "
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

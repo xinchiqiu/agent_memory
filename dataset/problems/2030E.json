@@ -1,0 +1,38 @@
+{
+  "problem_id": "2030E",
+  "contest_id": 2030,
+  "index": "E",
+  "title": "MEXimize the Score",
+  "rating": 2200,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-10-19",
+  "solved_count": 1941,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n0 0 1\n4\n0 0 1 1\n5\n0 0 1 2 2\n4\n1 1 1 1",
+      "output": "\n11\n26\n53\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

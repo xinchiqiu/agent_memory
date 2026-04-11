@@ -1,0 +1,36 @@
+{
+  "problem_id": "2147E",
+  "contest_id": 2147,
+  "index": "E",
+  "title": "Maximum OR Popcount",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2025-09-20",
+  "solved_count": 2086,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1 3\n0\n0\n2\n4\n2 2\n1 3\n0\n3\n2 1\n1000000000 1000000000\n1000000000",
+      "output": "\n\n0\n1\n2\n2\n3\n31"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

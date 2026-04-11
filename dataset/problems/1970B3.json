@@ -1,0 +1,33 @@
+{
+  "problem_id": "1970B3",
+  "contest_id": 1970,
+  "index": "B3",
+  "title": "Exact Neighbours (Hard)",
+  "rating": 2300,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2024-05-04",
+  "solved_count": 704,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n0 4 2 4\n",
+      "output": "\nYES\n4 4\n1 3\n2 4\n3 1\n1 1 1 3"
+    },
+    {
+      "input": "\n4\n1 3 0 1\n",
+      "output": "\nYES\n2 1\n4 1\n1 1\n3 1\n3 3 3 1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

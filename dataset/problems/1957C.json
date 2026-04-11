@@ -1,0 +1,33 @@
+{
+  "problem_id": "1957C",
+  "contest_id": 1957,
+  "index": "C",
+  "title": "How Does the Rook Move?",
+  "rating": 1600,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-21",
+  "solved_count": 11811,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4 1\n1 2\n8 1\n7 6\n1000 4\n4 4\n952 343\n222 333\n90 91",
+      "output": "\n3\n331\n671968183\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

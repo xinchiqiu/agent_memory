@@ -1,0 +1,35 @@
+{
+  "problem_id": "2014H",
+  "contest_id": 2014,
+  "index": "H",
+  "title": "Robin Hood Archery",
+  "rating": 1900,
+  "raw_tags": [
+    "data structures",
+    "divide and conquer",
+    "greedy",
+    "hashing"
+  ],
+  "tags": [
+    "implementation",
+    "divide_and_conquer",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-09-21",
+  "solved_count": 5518,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3 3\n1 2 2\n1 2\n1 3\n2 3\n5 3\n2 1 2 1 1\n1 2\n1 3\n4 5",
+      "output": "\nNO\nNO\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

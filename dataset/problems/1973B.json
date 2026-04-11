@@ -1,0 +1,38 @@
+{
+  "problem_id": "1973B",
+  "contest_id": 1973,
+  "index": "B",
+  "title": "Cat, Fox and the Lonely Array",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2024-05-17",
+  "solved_count": 16690,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1\n0\n3\n2 2 2\n3\n1 0 2\n5\n3 0 1 4 2\n5\n2 0 4 0 2\n7\n0 0 0 0 1 2 4\n8\n0 1 3 2 2 1 0 3",
+      "output": "\n1\n1\n3\n4\n4\n7\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

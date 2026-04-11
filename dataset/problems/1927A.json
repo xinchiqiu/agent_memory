@@ -1,0 +1,31 @@
+{
+  "problem_id": "1927A",
+  "contest_id": 1927,
+  "index": "A",
+  "title": "Make it White",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-02-06",
+  "solved_count": 50783,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n6\nWBBWBW\n1\nB\n2\nWB\n3\nBBW\n4\nBWWB\n6\nBWBWWB\n6\nWWBBWB\n9\nWBWBWWWBW",
+      "output": "\n4\n1\n1\n2\n4\n6\n4\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

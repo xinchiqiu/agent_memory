@@ -1,0 +1,29 @@
+{
+  "problem_id": "2201A1",
+  "contest_id": 2201,
+  "index": "A1",
+  "title": "Lost Civilization (Easy Version)",
+  "rating": 1300,
+  "raw_tags": [
+    "data structures"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2026-02-23",
+  "solved_count": 9407,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\n1 2 3 4 5\n5\n1 3 5 7 9\n5\n1 2 5 6 5\n7\n1 2 4 5 3 7 8\n9\n9 8 9 2 3 4 4 5 3",
+      "output": "\n\n1\n5\n3\n4\n3"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,40 @@
+{
+  "problem_id": "2028D",
+  "contest_id": 2028,
+  "index": "D",
+  "title": "Alice's Adventures in Cards",
+  "rating": 2000,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "graphs",
+    "greedy",
+    "implementation",
+    "ternary search"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "dp",
+    "graph_dfs",
+    "greedy",
+    "binary_search"
+  ],
+  "contest_date": "2024-11-10",
+  "solved_count": 3695,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3\n1 3 2\n2 1 3\n1 2 3\n4\n2 3 1 4\n1 2 3 4\n1 4 2 3",
+      "output": "\nYES\n2\nk 2\nq 3\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

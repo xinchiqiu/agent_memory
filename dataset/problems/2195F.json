@@ -1,0 +1,37 @@
+{
+  "problem_id": "2195F",
+  "contest_id": 2195,
+  "index": "F",
+  "title": "Parabola Independence",
+  "rating": 2000,
+  "raw_tags": [
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "dp",
+    "graph_dfs",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2026-02-15",
+  "solved_count": 2436,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n1 2 -1\n-3 0 -3\n-1 4 -5\n1 2 -4\n5\n3 0 0\n1 0 -5\n-3 0 0\n-1 0 10\n1 0 -10\n5\n884 -667 497\n680 -973 213\n23 -548 -412\n826 359 -333\n773 212 218",
+      "output": "\n\n3 2 3 3\n3 3 2 2 3\n3 3 3 1 2"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1649B",
+  "contest_id": 1649,
+  "index": "B",
+  "title": "Game of Ball Passing",
+  "rating": 1300,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2022-03-06",
+  "solved_count": 13834,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n2 3 3 2\n3\n1 5 2\n2\n0 0\n4\n1000000000 1000000000 1000000000 1000000000",
+      "output": "\n1\n2\n0\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

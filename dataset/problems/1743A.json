@@ -1,0 +1,35 @@
+{
+  "problem_id": "1743A",
+  "contest_id": 1743,
+  "index": "A",
+  "title": "Password",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-17",
+  "solved_count": 29278,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n8\n0 1 2 4 5 6 8 9\n1\n8",
+      "output": "\n6\n216\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

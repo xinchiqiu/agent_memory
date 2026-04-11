@@ -1,0 +1,33 @@
+{
+  "problem_id": "1945E",
+  "contest_id": 1945,
+  "index": "E",
+  "title": "Binary Search",
+  "rating": 1700,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2024-03-19",
+  "solved_count": 9634,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n6 3\n1 2 3 4 5 6\n6 5\n3 1 6 5 2 4\n5 1\n3 5 4 2 1\n6 3\n4 3 1 5 2 6\n3 2\n3 2 1",
+      "output": "\n0\n1\n3 4\n2\n2 4\n1 5\n2\n4 5\n2 4\n1\n1 3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

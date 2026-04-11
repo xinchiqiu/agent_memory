@@ -1,0 +1,33 @@
+{
+  "problem_id": "2072B",
+  "contest_id": 2072,
+  "index": "B",
+  "title": "Having Been a Treasurer in the Past, I Help Goblins Deceive",
+  "rating": 900,
+  "raw_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "strings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "constructive",
+    "string_hashing"
+  ],
+  "contest_date": "2025-02-25",
+  "solved_count": 30695,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3\n--_\n5\n__-__\n9\n--__-_---\n4\n_--_\n10\n_-_-_-_-_-\n7\n_------\n1\n-\n2\n_-",
+      "output": "\n1\n0\n27\n2\n30\n9\n0\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

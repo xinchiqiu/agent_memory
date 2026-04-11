@@ -1,0 +1,33 @@
+{
+  "problem_id": "1954A",
+  "contest_id": 1954,
+  "index": "A",
+  "title": "Painting the Ribbon",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-12",
+  "solved_count": 27368,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 1 1\n5 1 1\n5 2 1\n5 2 2\n5 5 3",
+      "output": "\nNO\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

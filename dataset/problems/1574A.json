@@ -1,0 +1,29 @@
+{
+  "problem_id": "1574A",
+  "contest_id": 1574,
+  "index": "A",
+  "title": "Regular Bracket Sequences",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2021-09-20",
+  "solved_count": 23000,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n3\n1\n3\n",
+      "output": "\n()()()\n((()))\n(()())\n()\n((()))\n(())()\n()(())\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "1806D",
+  "contest_id": 1806,
+  "index": "D",
+  "title": "DSU Master",
+  "rating": 2500,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "dsu",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "union_find",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-03-18",
+  "solved_count": 1175,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3\n0 0\n9\n0 1 0 0 0 1 0 0",
+      "output": "\n1 3 \n1 2 7 31 167 1002 7314 60612 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "1614D1",
+  "contest_id": 1614,
+  "index": "D1",
+  "title": "Divan and Kostomuksha (easy version)",
+  "rating": 2100,
+  "raw_tags": [
+    "dp",
+    "number theory"
+  ],
+  "tags": [
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-11-26",
+  "solved_count": 4441,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n2 3 1 2 6 2\n",
+      "output": "\n14"
+    },
+    {
+      "input": "\n10\n5 7 10 3 1 10 100 3 42 54\n",
+      "output": "\n131"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

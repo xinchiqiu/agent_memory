@@ -1,0 +1,40 @@
+{
+  "problem_id": "1930D2",
+  "contest_id": 1930,
+  "index": "D2",
+  "title": "Sum over all Substrings (Hard Version)",
+  "rating": 2100,
+  "raw_tags": [
+    "bitmasks",
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "union_find",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-02-17",
+  "solved_count": 3025,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n1\n2\n10\n5\n00000\n20\n11110110000000111111",
+      "output": "\n1\n2\n0\n346\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

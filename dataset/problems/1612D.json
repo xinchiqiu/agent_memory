@@ -1,0 +1,30 @@
+{
+  "problem_id": "1612D",
+  "contest_id": 1612,
+  "index": "D",
+  "title": "X-Magic Pair",
+  "rating": 1600,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2021-11-22",
+  "solved_count": 10202,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8\n6 9 3\n15 38 7\n18 8 8\n30 30 30\n40 50 90\n24 28 20\n365 216 52\n537037812705867558 338887693834423551 3199921013340\n",
+      "output": "\nYES\nYES\nYES\nYES\nNO\nYES\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

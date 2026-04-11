@@ -1,0 +1,37 @@
+{
+  "problem_id": "1891E",
+  "contest_id": 1891,
+  "index": "E",
+  "title": "Brukhovich and Exams",
+  "rating": 2500,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2023-10-30",
+  "solved_count": 1078,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n5 2\n1 3 5 7 9\n5 2\n3 5 7 9 11\n8 2\n17 15 10 1 1 5 14 8\n5 3\n1 1 1 1 1\n5 5\n1 1 1 1 1\n19 7\n1 1 2 3 4 5 5 6 6 7 8 9 10 1 1 1 2 3 1\n15 6\n2 1 1 1 1 2 1 1 2 1 1 1 2 1 2\n5 2\n1 1 1 1 2\n5 2\n1 0 1 0 1",
+      "output": "\n1\n0\n2\n2\n0\n5\n5\n2\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

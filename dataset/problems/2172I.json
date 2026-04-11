@@ -1,0 +1,37 @@
+{
+  "problem_id": "2172I",
+  "contest_id": 2172,
+  "index": "I",
+  "title": "Birthday",
+  "rating": 2000,
+  "raw_tags": [
+    "geometry"
+  ],
+  "tags": [
+    "geometry"
+  ],
+  "contest_date": "2025-11-16",
+  "solved_count": 1031,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4 5\n-3 -3\n3 -3\n-3 3\n3 3",
+      "output": "\n11.182380450040\n"
+    },
+    {
+      "input": "\n\n7 15\n9 -4\n2 -2\n8 3\n0 4\n-6 10\n6 6\n3 5",
+      "output": "\n353.429173528852\n"
+    },
+    {
+      "input": "\n\n15 15\n-4 -1\n0 -1\n2 -9\n0 2\n8 1\n3 -3\n-9 3\n8 6\n9 7\n-9 -1\n2 6\n-2 7\n-10 -8\n4 0\n-5 -8",
+      "output": "\n168.906562205067\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1829B",
+  "contest_id": 1829,
+  "index": "B",
+  "title": "Blank Space",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2023-05-06",
+  "solved_count": 75775,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\n1 0 0 1 0\n4\n0 1 1 1\n1\n0\n3\n1 1 1\n9\n1 0 0 0 1 0 0 0 1",
+      "output": "\n2\n1\n1\n0\n3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

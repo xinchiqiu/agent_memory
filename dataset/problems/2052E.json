@@ -1,0 +1,49 @@
+{
+  "problem_id": "2052E",
+  "contest_id": 2052,
+  "index": "E",
+  "title": "Expression Correction",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "expression parsing",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2024-12-15",
+  "solved_count": 1493,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2+2=4",
+      "output": "\nCorrect\n"
+    },
+    {
+      "input": "\n\n123456789+9876543210=111111110+11-1",
+      "output": "\n123456789+987654321=1111111100+11-1\n"
+    },
+    {
+      "input": "\n\n10+9=10",
+      "output": "\nImpossible\n"
+    },
+    {
+      "input": "\n\n24=55-13",
+      "output": "\n42=55-13\n"
+    },
+    {
+      "input": "\n\n1000000000-10=9999999999",
+      "output": "\nImpossible\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

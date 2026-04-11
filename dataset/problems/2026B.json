@@ -1,0 +1,35 @@
+{
+  "problem_id": "2026B",
+  "contest_id": 2026,
+  "index": "B",
+  "title": "Black Cells",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2024-10-28",
+  "solved_count": 16369,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n1 2\n1\n7\n3\n2 4 9\n5\n1 5 8 10 13",
+      "output": "\n1\n1\n2\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

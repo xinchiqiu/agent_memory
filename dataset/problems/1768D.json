@@ -1,0 +1,34 @@
+{
+  "problem_id": "1768D",
+  "contest_id": 1768,
+  "index": "D",
+  "title": "Lucky Permutation",
+  "rating": 1800,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2023-01-05",
+  "solved_count": 8861,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n2 1\n2\n1 2\n4\n3 4 1 2\n4\n2 4 3 1",
+      "output": "\n0\n1\n3\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

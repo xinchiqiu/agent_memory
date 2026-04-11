@@ -1,0 +1,39 @@
+{
+  "problem_id": "1560F1",
+  "contest_id": 1560,
+  "index": "F1",
+  "title": "Nearest Beautiful Number (easy version)",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2021-08-18",
+  "solved_count": 6723,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1 1\n221 2\n177890 2\n998244353 1\n",
+      "output": "\n1\n221\n181111\n999999999\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

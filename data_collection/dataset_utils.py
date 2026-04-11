@@ -7,7 +7,7 @@ import logging
 import os
 import sys
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Any
 
 # ---------------------------------------------------------------------------
 # Tag normalisation
@@ -244,6 +244,23 @@ def dict_to_problem(d: dict):
         reference_solutions=[s["code"] for s in d.get("reference_solutions", [])],
         contest_date=d.get("contest_date", ""),
     )
+
+
+def dict_to_seed_tuples(d: dict) -> List[Tuple]:
+    """Convert a problem dict to a list of (Problem, code, language) seed triples.
+
+    Returns one tuple per reference solution.  The agent's seed_memory()
+    accepts these directly, and strategy_extraction will skip AST analysis
+    for non-Python languages automatically.
+    """
+    problem = dict_to_problem(d)
+    tuples = []
+    for sol in d.get("reference_solutions", []):
+        code = sol.get("code", "")
+        lang = sol.get("language", "")
+        if code:
+            tuples.append((problem, code, lang))
+    return tuples
 
 
 def _build_full_statement(d: dict) -> str:

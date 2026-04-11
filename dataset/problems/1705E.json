@@ -1,0 +1,42 @@
+{
+  "problem_id": "1705E",
+  "contest_id": 1705,
+  "index": "E",
+  "title": "Mark and Professor Koro",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "brute_force",
+    "math_combinatorics",
+    "greedy"
+  ],
+  "contest_date": "2022-07-15",
+  "solved_count": 2434,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 4\n2 2 2 4 5\n2 3\n5 3\n4 1\n1 4\n",
+      "output": "\n6\n5\n4\n5\n"
+    },
+    {
+      "input": "\n2 1\n200000 1\n2 200000\n",
+      "output": "\n200001\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

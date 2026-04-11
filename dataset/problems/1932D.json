@@ -1,0 +1,31 @@
+{
+  "problem_id": "1932D",
+  "contest_id": 1932,
+  "index": "D",
+  "title": "Card Game",
+  "rating": 1400,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-02-18",
+  "solved_count": 13354,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3\nS\n3C 9S 4C 6D 3S 7S\n2\nC\n3S 5D 9S 6H\n1\nH\n6C 5D\n1\nS\n7S 3S\n1\nH\n9S 9H\n1\nS\n9S 9H\n1\nC\n9D 8H\n2\nC\n9C 9S 6H 8C",
+      "output": "\n3C 4C\n6D 9S\n3S 7S\nIMPOSSIBLE\nIMPOSSIBLE\n3S 7S\n9S 9H\n9H 9S\nIMPOSSIBLE\n6H 9C\n9S 8C\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

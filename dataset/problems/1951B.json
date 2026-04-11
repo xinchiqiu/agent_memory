@@ -1,0 +1,33 @@
+{
+  "problem_id": "1951B",
+  "contest_id": 1951,
+  "index": "B",
+  "title": "Battle Cows",
+  "rating": 1200,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2024-04-06",
+  "solved_count": 16750,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n6 1\n12 10 14 11 8 3\n6 5\n7 2 727 10 12 13\n2 2\n1000000000 1",
+      "output": "\n1\n2\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

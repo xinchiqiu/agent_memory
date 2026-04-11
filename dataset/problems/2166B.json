@@ -1,0 +1,29 @@
+{
+  "problem_id": "2166B",
+  "contest_id": 2166,
+  "index": "B",
+  "title": "Tab Closing",
+  "rating": 900,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2025-11-16",
+  "solved_count": 17643,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\n8 1 6\n9 6 2\n10 3 1\n10 1 10\n9 2 1\n5 5 6\n6 2 7\n9 1 9\n3 2 6\n8 1 7\n8 1 9\n8 2 4",
+      "output": "\n\n1\n2\n1\n1\n1\n1\n2\n1\n2\n1\n2\n1"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

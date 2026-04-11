@@ -1,0 +1,33 @@
+{
+  "problem_id": "2143B",
+  "contest_id": 2143,
+  "index": "B",
+  "title": "Discounts",
+  "rating": 1000,
+  "raw_tags": [
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "greedy",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2025-09-17",
+  "solved_count": 20314,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5 3\n18 3 7 2 9\n3 1 1\n6 1\n1 2 6 3 3 4\n5\n2 3\n1 1\n2 2 2\n1 1\n10\n1\n5 3\n99 99 999 999 123\n2 1 4",
+      "output": "\n\n10\n17\n1\n0\n1197"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

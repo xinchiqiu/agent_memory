@@ -1,0 +1,48 @@
+{
+  "problem_id": "1804E",
+  "contest_id": 1804,
+  "index": "E",
+  "title": "Routing",
+  "rating": 2400,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "graphs"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2023-03-12",
+  "solved_count": 1685,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6 7\n1 2\n2 3\n3 1\n4 5\n5 6\n4 6\n2 5\n",
+      "output": "\nYes\n2 5 2 5 2 5\n"
+    },
+    {
+      "input": "\n3 2\n1 2\n2 3\n",
+      "output": "\nYes\n2 1 2\n"
+    },
+    {
+      "input": "\n4 4\n1 3\n2 3\n4 1\n4 2\n",
+      "output": "\nYes\n3 3 1 1\n"
+    },
+    {
+      "input": "\n6 5\n1 2\n2 3\n3 4\n4 5\n5 6\n",
+      "output": "\nNo\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

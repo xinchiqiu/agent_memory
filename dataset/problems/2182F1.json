@@ -1,0 +1,45 @@
+{
+  "problem_id": "2182F1",
+  "contest_id": 2182,
+  "index": "F1",
+  "title": "Christmas Reindeer (easy version)",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-12-29",
+  "solved_count": 1236,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3 7\n2 1 1\n3 5\n3 6\n1 2\n3 6\n3 5\n2 1\n3 5",
+      "output": "\n3\n0\n4\n10\n4\n"
+    },
+    {
+      "input": "\n\n5 5\n6 9 2 3 5\n3 518\n1 4\n2 9\n1 10\n3 1016",
+      "output": "\n12\n32\n"
+    },
+    {
+      "input": "\n\n5 20\n56 58 31 56 57\n3 584133699915613698\n1 26\n3 718934517698133644\n1 43\n3 853795525565803934\n3 371128907885602007\n1 54\n1 25\n3 12283451778216771\n2 25\n3 269837405423769340\n1 0\n3 81332884431075468\n1 23\n3 4256984962444022\n3 668408003982766102\n3 923410222653374550\n3 340313743235311415\n3 550166282440775769\n3 445344499963496530",
+      "output": "\n0\n0\n0\n24\n496\n128\n416\n992\n0\n0\n320\n0\n0\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

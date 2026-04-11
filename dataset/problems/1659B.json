@@ -1,0 +1,35 @@
+{
+  "problem_id": "1659B",
+  "contest_id": 1659,
+  "index": "B",
+  "title": "Bit Flipping",
+  "rating": 1300,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2022-04-17",
+  "solved_count": 11980,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n6 3\n100001\n6 4\n100011\n6 0\n000000\n6 1\n111001\n6 11\n101100\n6 12\n001110",
+      "output": "\n111110\n1 0 0 2 0 0 \n111110\n0 1 1 1 0 1 \n000000\n0 0 0 0 0 0 \n100110\n1 0 0 0 0 0 \n111111\n1 2 1 3 0 4 \n111110\n1 1 4 2 0 4"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

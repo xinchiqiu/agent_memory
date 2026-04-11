@@ -1,0 +1,29 @@
+{
+  "problem_id": "1714C",
+  "contest_id": 1714,
+  "index": "C",
+  "title": "Minimum  Varied Number",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-08-01",
+  "solved_count": 33337,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n20\n8\n45\n10",
+      "output": "\n389\n8\n123456789\n19\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,40 @@
+{
+  "problem_id": "1580A",
+  "contest_id": 1580,
+  "index": "A",
+  "title": "Portal",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2021-09-30",
+  "solved_count": 3902,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n1\n5 4\n1000\n0000\n0110\n0000\n0001\n",
+      "output": "\n12\n"
+    },
+    {
+      "input": "\n1\n9 9\n001010001\n101110100\n000010011\n100000001\n101010101\n110001111\n000001111\n111100000\n000110000\n",
+      "output": "\n5\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

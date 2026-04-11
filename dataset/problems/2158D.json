@@ -1,0 +1,39 @@
+{
+  "problem_id": "2158D",
+  "contest_id": 2158,
+  "index": "D",
+  "title": "Palindrome Flipping",
+  "rating": 2000,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "graphs",
+    "implementation",
+    "shortest paths",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "implementation",
+    "graph_dijkstra",
+    "string_hashing"
+  ],
+  "contest_date": "2025-11-29",
+  "solved_count": 3177,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n01011\n10000\n7\n1010101\n0101010\n4\n0010\n0010",
+      "output": "\n2\n1 3\n3 5\n1\n1 7\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

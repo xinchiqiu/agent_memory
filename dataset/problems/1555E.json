@@ -1,0 +1,39 @@
+{
+  "problem_id": "1555E",
+  "contest_id": 1555,
+  "index": "E",
+  "title": "Boring Segments",
+  "rating": 2100,
+  "raw_tags": [
+    "data structures",
+    "sortings",
+    "trees",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "sorting",
+    "graph_dfs",
+    "two_pointers"
+  ],
+  "contest_date": "2021-07-30",
+  "solved_count": 4492,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 12\n1 5 5\n3 4 10\n4 10 6\n11 12 5\n10 12 3\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n1 10\n1 10 23\n",
+      "output": "\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

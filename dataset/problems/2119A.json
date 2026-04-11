@@ -1,0 +1,33 @@
+{
+  "problem_id": "2119A",
+  "contest_id": 2119,
+  "index": "A",
+  "title": "Add or XOR",
+  "rating": 800,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-07-05",
+  "solved_count": 26856,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1 4 1 2\n1 5 2 1\n3 2 2 1\n1 3 2 1\n2 1 1 2\n3 1 1 2\n1 100 10000000 10000000",
+      "output": "\n3\n6\n1\n3\n-1\n-1\n990000000\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

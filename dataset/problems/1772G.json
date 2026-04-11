@@ -1,0 +1,39 @@
+{
+  "problem_id": "1772G",
+  "contest_id": 1772,
+  "index": "G",
+  "title": "Gaining Rating",
+  "rating": 2200,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "implementation",
+    "math_number_theory",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2022-12-18",
+  "solved_count": 1589,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n7 2 10\n3 1 9 2 5 20 8\n7 1 10\n3 1 9 2 5 20 8\n5 10 12\n100 1 200 11 300",
+      "output": "\n20\n-1\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

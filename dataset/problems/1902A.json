@@ -1,0 +1,29 @@
+{
+  "problem_id": "1902A",
+  "contest_id": 1902,
+  "index": "A",
+  "title": "Binary Imbalance",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 23191,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n00\n2\n11\n2\n10",
+      "output": "\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

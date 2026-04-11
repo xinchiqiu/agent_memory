@@ -1,0 +1,35 @@
+{
+  "problem_id": "1730C",
+  "contest_id": 1730,
+  "index": "C",
+  "title": "Minimum Notation",
+  "rating": 1200,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2022-09-25",
+  "solved_count": 17859,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n04829\n9\n01\n314752277691991",
+      "output": "\n02599\n9\n01\n111334567888999\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

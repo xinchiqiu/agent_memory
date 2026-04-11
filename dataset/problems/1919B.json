@@ -1,0 +1,29 @@
+{
+  "problem_id": "1919B",
+  "contest_id": 1919,
+  "index": "B",
+  "title": "Plus-Minus Split",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2024-01-06",
+  "solved_count": 31566,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n+\n5\n-----\n6\n+-+-+-\n10\n--+++++++-\n20\n+---++++-+++++---++-",
+      "output": "\n1\n5\n0\n4\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

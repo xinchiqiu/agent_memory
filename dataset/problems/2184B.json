@@ -1,0 +1,29 @@
+{
+  "problem_id": "2184B",
+  "contest_id": 2184,
+  "index": "B",
+  "title": "Hourglass",
+  "rating": 1100,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2026-01-12",
+  "solved_count": 23358,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n8 8 12\n5 10 17\n12 2 3\n16 7 7\n1 1 10\n2 60 15",
+      "output": "\n\n4\n0\n1\n7\n1\n0"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

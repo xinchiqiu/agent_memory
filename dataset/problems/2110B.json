@@ -1,0 +1,29 @@
+{
+  "problem_id": "2110B",
+  "contest_id": 2110,
+  "index": "B",
+  "title": "Down with Brackets",
+  "rating": 900,
+  "raw_tags": [
+    "strings"
+  ],
+  "tags": [
+    "string_hashing"
+  ],
+  "contest_date": "2025-05-24",
+  "solved_count": 26943,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n(())\n(())()()\n()\n(())(())",
+      "output": "\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

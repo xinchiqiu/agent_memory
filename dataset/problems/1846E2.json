@@ -1,0 +1,35 @@
+{
+  "problem_id": "1846E2",
+  "contest_id": 1846,
+  "index": "E2",
+  "title": "Rudolf and Snowflakes (hard version)",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-07-07",
+  "solved_count": 8421,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n1\n2\n3\n6\n13\n15\n255\n10101\n1000000000000000000",
+      "output": "\nNO\nNO\nNO\nNO\nYES\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

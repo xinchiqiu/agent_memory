@@ -1,0 +1,37 @@
+{
+  "problem_id": "1970F1",
+  "contest_id": 1970,
+  "index": "F1",
+  "title": "Playing Quidditch (Easy)",
+  "rating": 2300,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2024-05-04",
+  "solved_count": 625,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5 5\n.. R1 .. B1 ..\nRG .. .. .. BG\nRG R0 .Q B0 BG\nRG .. .. .. BG\n.. R2 .. B2 ..\n13\nB2 U\nB2 U\nB2 L\nB2 C .Q\nB2 L\nB2 L\nB2 T\nR0 R\nR0 C .Q\nR0 D\nR0 R\nR0 R\nR0 T",
+      "output": "\n6 BLUE GOAL\n12 RED GOAL\nFINAL SCORE: 1 1\n"
+    },
+    {
+      "input": "\n\n3 5\n.. .. R0 .. ..\nRG .. .Q .. BG\n.. .. B0 .. ..\n12\nR0 D\nR0 C .Q\nR0 R\nR0 T\nR0 D\nB0 R\nB0 U\nB0 C .Q\nB0 L\nB0 L\nB0 L\nB0 T",
+      "output": "\n11 BLUE GOAL\nFINAL SCORE: 0 1\n"
+    },
+    {
+      "input": "\n\n3 5\n.. .. R0 .. ..\nRG .. .Q .. BG\n.. .. B0 .. ..\n5\nR0 D\nR0 C .Q\nR0 L\nR0 L\nR0 T",
+      "output": "\n4 BLUE GOAL\nFINAL SCORE: 0 1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

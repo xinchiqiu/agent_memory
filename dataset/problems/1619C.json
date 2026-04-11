@@ -1,0 +1,29 @@
+{
+  "problem_id": "1619C",
+  "contest_id": 1619,
+  "index": "C",
+  "title": "Wrong Addition",
+  "rating": 1200,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2021-12-20",
+  "solved_count": 22556,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n17236 1106911\n1 5\n108 112\n12345 1023412\n1 11\n1 20\n",
+      "output": "\n3465\n4\n-1\n90007\n10\n-1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

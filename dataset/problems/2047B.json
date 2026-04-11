@@ -1,0 +1,35 @@
+{
+  "problem_id": "2047B",
+  "contest_id": 2047,
+  "index": "B",
+  "title": "Replace Character",
+  "rating": 900,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-12-03",
+  "solved_count": 19080,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\nabc\n4\nxyyx\n8\nalphabet\n1\nk\n10\naabbccddee\n6\nttbddq",
+      "output": "\ncbc\nyyyx\nalphaaet\nk\neabbccddee\ntttddq\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

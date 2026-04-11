@@ -1,0 +1,35 @@
+{
+  "problem_id": "1696C",
+  "contest_id": 1696,
+  "index": "C",
+  "title": "Fishingprince Plays With Array",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-06-25",
+  "solved_count": 12549,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5 2\n1 2 2 4 2\n4\n1 4 4 2\n6 2\n1 2 2 8 2 2\n2\n1 16\n8 3\n3 3 3 3 3 3 3 3\n4\n6 6 6 6\n8 3\n3 9 6 3 12 12 36 12\n16\n9 3 2 2 2 3 4 12 4 12 4 12 4 12 4 4\n8 3\n3 9 6 3 12 12 36 12\n7\n12 2 4 3 4 12 56",
+      "output": "\nYes\nYes\nNo\nYes\nNo\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

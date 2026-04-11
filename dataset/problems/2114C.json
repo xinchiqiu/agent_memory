@@ -1,0 +1,31 @@
+{
+  "problem_id": "2114C",
+  "contest_id": 2114,
+  "index": "C",
+  "title": "Need More Arrays",
+  "rating": 1000,
+  "raw_tags": [
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2025-05-26",
+  "solved_count": 30501,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n6\n1 2 3 4 5 6\n3\n1 2 3\n4\n1 2 2 4\n1\n2\n3\n1 4 8\n2\n1 1",
+      "output": "\n3\n2\n2\n1\n3\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

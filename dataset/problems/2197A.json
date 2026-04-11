@@ -1,0 +1,37 @@
+{
+  "problem_id": "2197A",
+  "contest_id": 2197,
+  "index": "A",
+  "title": "Friendly Numbers",
+  "rating": 800,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "expression parsing",
+    "math",
+    "schedules"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "math_number_theory",
+    "greedy"
+  ],
+  "contest_date": "2026-02-11",
+  "solved_count": 21129,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1\n18\n998244360",
+      "output": "\n\n0\n10\n10"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

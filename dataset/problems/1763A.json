@@ -1,0 +1,35 @@
+{
+  "problem_id": "1763A",
+  "contest_id": 1763,
+  "index": "A",
+  "title": "Absolute Maximization",
+  "rating": 800,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-12-19",
+  "solved_count": 16924,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n1 0 1\n4\n5 5 5 5\n5\n1 2 3 4 5\n7\n20 85 100 41 76 49 36",
+      "output": "\n1\n0\n7\n125\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

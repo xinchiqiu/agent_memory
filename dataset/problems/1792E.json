@@ -1,0 +1,35 @@
+{
+  "problem_id": "1792E",
+  "contest_id": 1792,
+  "index": "E",
+  "title": "Divisors and Table",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-24",
+  "solved_count": 1582,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3 72 1\n10 10 15\n6 1 210",
+      "output": "\n6 2\n10 0\n8 5\n"
+    }
+  ],
+  "time_limit": "2.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

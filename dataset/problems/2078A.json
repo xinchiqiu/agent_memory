@@ -1,0 +1,29 @@
+{
+  "problem_id": "2078A",
+  "contest_id": 2078,
+  "index": "A",
+  "title": "Final Verdict",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2025-03-10",
+  "solved_count": 23173,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1 3\n3\n4 9\n7 11 2 5\n6 9\n1 9 14 12 10 8\n10 10\n10 10 10 10 10 10 10 10 10 10",
+      "output": "\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

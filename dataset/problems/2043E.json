@@ -1,0 +1,38 @@
+{
+  "problem_id": "2043E",
+  "contest_id": 2043,
+  "index": "E",
+  "title": "Matrix Transformation",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2024-12-24",
+  "solved_count": 1802,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1 1\n12\n13\n2 2\n10 10\n42 42\n21 21\n21 21\n2 2\n74 10\n42 106\n21 85\n85 21\n2 4\n1 2 3 4\n5 6 7 8\n3 2 3 4\n1 0 1 0",
+      "output": "\nYes\nYes\nNo\nYes\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

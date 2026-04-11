@@ -1,0 +1,31 @@
+{
+  "problem_id": "1791A",
+  "contest_id": 1791,
+  "index": "A",
+  "title": "Codeforces Checking",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2023-02-03",
+  "solved_count": 79351,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\na\nb\nc\nd\ne\nf\ng\nh\ni\nj",
+      "output": "\nNO\nNO\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

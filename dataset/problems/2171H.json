@@ -1,0 +1,35 @@
+{
+  "problem_id": "2171H",
+  "contest_id": 2171,
+  "index": "H",
+  "title": "Shiori Miyagi and Maximum Array Score",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "sorting"
+  ],
+  "contest_date": "2025-11-20",
+  "solved_count": 975,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n4 20\n6 6\n6 216\n3 500\n2 8\n5 29",
+      "output": "\n\n7\n5\n19\n13\n3\n9"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

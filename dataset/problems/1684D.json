@@ -1,0 +1,33 @@
+{
+  "problem_id": "1684D",
+  "contest_id": 1684,
+  "index": "D",
+  "title": "Traps",
+  "rating": 1700,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-05-19",
+  "solved_count": 10696,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 4\n8 7 1 4\n4 1\n5 10 11 5\n7 5\n8 2 5 15 11 2 8\n6 3\n1 2 3 4 5 6\n1 1\n7",
+      "output": "\n0\n21\n9\n6\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

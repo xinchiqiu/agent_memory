@@ -1,0 +1,33 @@
+{
+  "problem_id": "2028B",
+  "contest_id": 2028,
+  "index": "B",
+  "title": "Alice's Adventures in Permuting",
+  "rating": 1400,
+  "raw_tags": [
+    "binary search",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-11-10",
+  "solved_count": 13153,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n10 1 0\n1 2 3\n100 2 1\n3 0 1\n3 0 0\n1000000000000000000 0 0\n1000000000000000000 1000000000000000000 1000000000000000000",
+      "output": "\n0\n1\n50\n2\n-1\n-1\n1000000000000000000\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

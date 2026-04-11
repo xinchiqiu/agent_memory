@@ -1,0 +1,48 @@
+{
+  "problem_id": "1598E",
+  "contest_id": 1598,
+  "index": "E",
+  "title": "Staircases",
+  "rating": 2100,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-10",
+  "solved_count": 2482,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 2 8\n1 1\n1 1\n1 1\n2 2\n1 1\n1 2\n2 1\n1 1\n",
+      "output": "\n5\n10\n5\n2\n5\n3\n1\n0\n"
+    },
+    {
+      "input": "\n3 4 10\n1 4\n1 2\n2 3\n1 2\n2 3\n3 2\n1 3\n3 4\n1 3\n3 1\n",
+      "output": "\n49\n35\n24\n29\n49\n39\n31\n23\n29\n27\n"
+    },
+    {
+      "input": "\n1000 1000 2\n239 634\n239 634\n",
+      "output": "\n1332632508\n1333333000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

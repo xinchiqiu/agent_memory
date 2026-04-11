@@ -1,0 +1,29 @@
+{
+  "problem_id": "1955A",
+  "contest_id": 1955,
+  "index": "A",
+  "title": "Yogurt Sale",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-08",
+  "solved_count": 52224,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 5 9\n3 5 9\n3 5 11\n4 5 11",
+      "output": "\n9\n14\n15\n20\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

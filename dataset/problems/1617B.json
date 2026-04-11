@@ -1,0 +1,34 @@
+{
+  "problem_id": "1617B",
+  "contest_id": 1617,
+  "index": "B",
+  "title": "GCD Problem",
+  "rating": 900,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-12-16",
+  "solved_count": 26519,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n18\n63\n73\n91\n438\n122690412\n",
+      "output": "\n6 9 3\n21 39 3\n29 43 1\n49 35 7\n146 219 73\n28622 122661788 2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

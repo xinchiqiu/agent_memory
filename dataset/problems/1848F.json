@@ -1,0 +1,51 @@
+{
+  "problem_id": "1848F",
+  "contest_id": 1848,
+  "index": "F",
+  "title": "Vika and Wiki",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "combinatorics",
+    "divide and conquer",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "math_combinatorics",
+    "divide_and_conquer",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-07-16",
+  "solved_count": 2011,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1 2 1 2\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n2\n0 0\n",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n1\n14\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n8\n0 1 2 3 4 5 6 7\n",
+      "output": "\n5\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

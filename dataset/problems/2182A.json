@@ -1,0 +1,35 @@
+{
+  "problem_id": "2182A",
+  "contest_id": 2182,
+  "index": "A",
+  "title": "New Year String",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2025-12-29",
+  "solved_count": 24638,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n4\n0000\n4\n2025\n4\n2026\n8\n20252026\n8\n20252025\n9\n202520256\n9\n202520265",
+      "output": "\n\n0\n1\n0\n0\n1\n1\n0"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

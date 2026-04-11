@@ -1,0 +1,30 @@
+{
+  "problem_id": "1613E",
+  "contest_id": 1613,
+  "index": "E",
+  "title": "Crazy Robot",
+  "rating": 2000,
+  "raw_tags": [
+    "dfs and similar",
+    "graphs"
+  ],
+  "tags": [
+    "graph_dfs"
+  ],
+  "contest_date": "2021-12-01",
+  "solved_count": 5856,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3 3\n...\n.L.\n...\n4 5\n#....\n..##L\n...#.\n.....\n1 1\nL\n1 9\n....L..#.\n",
+      "output": "\n...\n.L.\n...\n#++++\n..##L\n...#+\n...++\nL\n++++L++#.\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

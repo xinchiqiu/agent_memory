@@ -1,0 +1,31 @@
+{
+  "problem_id": "1688A",
+  "contest_id": 1688,
+  "index": "A",
+  "title": "Cirno's Perfect Bitmasks Classroom",
+  "rating": 800,
+  "raw_tags": [
+    "bitmasks",
+    "brute force"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force"
+  ],
+  "contest_date": "2022-06-03",
+  "solved_count": 23363,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1\n2\n5\n9\n16\n114514\n1000000",
+      "output": "\n3\n3\n1\n1\n17\n2\n64\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

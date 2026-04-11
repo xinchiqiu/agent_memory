@@ -1,0 +1,31 @@
+{
+  "problem_id": "1919A",
+  "contest_id": 1919,
+  "index": "A",
+  "title": "Wallet Exchange",
+  "rating": 800,
+  "raw_tags": [
+    "games",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-01-06",
+  "solved_count": 36061,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n1 1\n1 4\n5 3\n4 5\n11 9\n83 91\n1032 9307\n839204 7281\n1000000000 1000000000\n53110 2024",
+      "output": "\nBob\nAlice\nBob\nAlice\nBob\nBob\nAlice\nAlice\nBob\nBob\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

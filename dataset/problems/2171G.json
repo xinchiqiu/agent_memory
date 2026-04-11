@@ -1,0 +1,35 @@
+{
+  "problem_id": "2171G",
+  "contest_id": 2171,
+  "index": "G",
+  "title": "Sakura Adachi and Optimal Sequences",
+  "rating": 2000,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-11-20",
+  "solved_count": 2238,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n6\n1 3 6 4 3 2\n3 7 10 4 4 8\n2\n1 1\n4 3\n5\n2 3 2 5 1\n18 13 10 30 7\n5\n5 4 3 6 2\n100 125 231 113 107\n4\n2 2 2 2\n2 2 2 2\n4\n1 1 1 1\n2 2 2 2\n7\n1 1 1 1 1 1 200000\n200000 200000 200000 200000 200000 200000 200000\n3\n542264 174876 441510\n641112 325241 995342",
+      "output": "\n\n17 827116\n3 1\n12 288\n35 567812\n0 1\n1 1\n1199994 0\n803045 366998"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

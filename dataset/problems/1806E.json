@@ -1,0 +1,38 @@
+{
+  "problem_id": "1806E",
+  "contest_id": 1806,
+  "index": "E",
+  "title": "Tree Master",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-03-18",
+  "solved_count": 3408,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6 2\n1 5 2 3 1 1\n1 2 3 3 2\n4 5\n6 6\n",
+      "output": "\n33\n27\n"
+    },
+    {
+      "input": "\n14 8\n3 2 5 3 1 4 2 2 2 5 5 5 2 4\n1 2 3 1 1 4 7 3 3 1 5 3 8\n4 4\n4 10\n13 10\n3 12\n13 9\n3 12\n9 10\n11 5\n",
+      "output": "\n47\n53\n48\n36\n42\n36\n48\n14\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

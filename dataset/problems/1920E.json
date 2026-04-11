@@ -1,0 +1,33 @@
+{
+  "problem_id": "1920E",
+  "contest_id": 1920,
+  "index": "E",
+  "title": "Counting Binary Strings",
+  "rating": 2100,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-01-13",
+  "solved_count": 3348,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1 1\n3 2\n4 2\n5 4\n6 2\n2450 2391",
+      "output": "\n1\n3\n5\n12\n9\n259280854\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

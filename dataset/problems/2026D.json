@@ -1,0 +1,36 @@
+{
+  "problem_id": "2026D",
+  "contest_id": 2026,
+  "index": "D",
+  "title": "Sums of Segments",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-10-28",
+  "solved_count": 5737,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1 2 5 10\n15\n1 1\n1 2\n1 3\n1 4\n1 5\n1 10\n5 10\n6 10\n2 8\n3 4\n3 10\n3 8\n5 6\n5 5\n1 8",
+      "output": "\n1\n4\n12\n30\n32\n86\n56\n54\n60\n26\n82\n57\n9\n2\n61\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

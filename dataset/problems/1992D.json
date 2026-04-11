@@ -1,0 +1,33 @@
+{
+  "problem_id": "1992D",
+  "contest_id": 1992,
+  "index": "D",
+  "title": "Test of Love",
+  "rating": 1200,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-07-11",
+  "solved_count": 23848,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n6 2 0\nLWLLLW\n6 1 1\nLWLLLL\n6 1 1\nLWLLWL\n6 2 15\nLWLLCC\n6 10 0\nCCCCCC\n6 6 1\nWCCCCW",
+      "output": "\nYES\nYES\nNO\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

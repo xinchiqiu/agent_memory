@@ -1,0 +1,37 @@
+{
+  "problem_id": "1923D",
+  "contest_id": 1923,
+  "index": "D",
+  "title": "Slimes",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "implementation",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2024-02-23",
+  "solved_count": 8264,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n3 2 4 2\n3\n1 2 3\n5\n2 2 3 1 1\n7\n4 2 3 6 1 1 8",
+      "output": "\n2 1 2 1 \n1 1 -1 \n2 1 -1 1 2 \n2 1 1 3 1 1 4 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

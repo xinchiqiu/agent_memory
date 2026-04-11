@@ -1,0 +1,33 @@
+{
+  "problem_id": "1554D",
+  "contest_id": 1554,
+  "index": "D",
+  "title": "Diane",
+  "rating": 1800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2021-07-29",
+  "solved_count": 10406,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3\n5\n9\n19\n",
+      "output": "\nabc\ndiane\nbbcaabbba\nyouarethecutestuwuu\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

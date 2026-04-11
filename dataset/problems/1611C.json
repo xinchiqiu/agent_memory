@@ -1,0 +1,29 @@
+{
+  "problem_id": "1611C",
+  "contest_id": 1611,
+  "index": "C",
+  "title": "Polycarp Recovers the Permutation",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2021-11-25",
+  "solved_count": 19321,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n4\n1 3 2 4\n1\n1\n5\n1 3 5 4 2\n3\n3 2 1\n",
+      "output": "\n3 1 4 2\n1\n-1\n2 3 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

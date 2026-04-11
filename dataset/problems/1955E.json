@@ -1,0 +1,35 @@
+{
+  "problem_id": "1955E",
+  "contest_id": 1955,
+  "index": "E",
+  "title": "Long Inversions",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2024-04-08",
+  "solved_count": 10404,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\n00100\n5\n01000\n7\n1011101\n3\n000\n2\n10",
+      "output": "\n3\n2\n4\n3\n1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

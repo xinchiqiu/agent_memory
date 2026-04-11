@@ -1,0 +1,39 @@
+{
+  "problem_id": "1864D",
+  "contest_id": 1864,
+  "index": "D",
+  "title": "Matrix Cascade",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "implementation",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-08-26",
+  "solved_count": 7574,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n00100\n01110\n11111\n11111\n11111\n3\n100\n110\n110\n6\n010101\n111101\n011110\n000000\n111010\n001110",
+      "output": "\n1\n2\n15\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

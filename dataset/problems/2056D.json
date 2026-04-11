@@ -1,0 +1,39 @@
+{
+  "problem_id": "2056D",
+  "contest_id": 2056,
+  "index": "D",
+  "title": "Unique Median",
+  "rating": 2200,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "data structures",
+    "divide and conquer",
+    "dp"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "math_combinatorics",
+    "implementation",
+    "divide_and_conquer",
+    "dp"
+  ],
+  "contest_date": "2025-01-17",
+  "solved_count": 3607,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n1 1 1 1\n5\n1 10 2 3 3\n10\n6 3 2 3 5 3 4 2 3 5",
+      "output": "\n10\n11\n42\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1907E",
+  "contest_id": 1907,
+  "index": "E",
+  "title": "Good Triples",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-05",
+  "solved_count": 15386,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\n11\n0\n1\n2\n3\n4\n5\n3141\n999\n2718\n9999999\n10000000",
+      "output": "\n9\n1\n3\n6\n10\n15\n21\n1350\n166375\n29160\n1522435234375\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

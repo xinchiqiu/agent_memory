@@ -1,0 +1,32 @@
+{
+  "problem_id": "1762A",
+  "contest_id": 1762,
+  "index": "A",
+  "title": "Divide and Conquer",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-12-15",
+  "solved_count": 20489,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n1 1 1 1\n2\n7 4\n3\n1 2 4\n1\n15",
+      "output": "\n0\n2\n1\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

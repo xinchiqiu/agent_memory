@@ -1,0 +1,29 @@
+{
+  "problem_id": "1970E1",
+  "contest_id": 1970,
+  "index": "E1",
+  "title": "Trails (Easy)",
+  "rating": 1800,
+  "raw_tags": [
+    "dp"
+  ],
+  "tags": [
+    "dp"
+  ],
+  "contest_date": "2024-05-04",
+  "solved_count": 3375,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3 2\n1 0 1\n0 1 1",
+      "output": "\n18\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

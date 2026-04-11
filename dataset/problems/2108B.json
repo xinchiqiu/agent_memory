@@ -1,0 +1,36 @@
+{
+  "problem_id": "2108B",
+  "contest_id": 2108,
+  "index": "B",
+  "title": "SUMdamental Decomposition",
+  "rating": 1300,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-05-01",
+  "solved_count": 14374,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n2 1\n3 6\n1 0\n2 0\n5 0\n2 27\n15 43\n12345678 9101112",
+      "output": "\n5\n8\n-1\n2\n8\n27\n55\n21446778\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

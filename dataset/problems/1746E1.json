@@ -1,0 +1,34 @@
+{
+  "problem_id": "1746E1",
+  "contest_id": 1746,
+  "index": "E1",
+  "title": "Joking (Easy Version)",
+  "rating": 2500,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "interactive",
+    "ternary search"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2022-10-15",
+  "solved_count": 1666,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "6\nNO\n:(\nNO\n:)",
+      "output": "? 5 1 2 5 4 3\n! 6\n? 4 1 2 3 4\n! 5"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

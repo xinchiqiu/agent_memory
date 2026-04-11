@@ -1,0 +1,49 @@
+{
+  "problem_id": "1989D",
+  "contest_id": 1989,
+  "index": "D",
+  "title": "Smithing Skill",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "math",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp",
+    "greedy",
+    "math_number_theory",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2024-06-27",
+  "solved_count": 7053,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5 3\n9 6 7 5 5\n8 4 5 1 2\n10 4 7",
+      "output": "\n12\n"
+    },
+    {
+      "input": "\n\n3 4\n10 20 20\n0 0 0\n9 10 19 20",
+      "output": "\n8\n"
+    },
+    {
+      "input": "\n\n1 5\n3\n1\n1000000000 1000000000 1000000000 1000000000 1000000000",
+      "output": "\n4999999990\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

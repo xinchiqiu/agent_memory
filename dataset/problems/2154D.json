@@ -1,0 +1,35 @@
+{
+  "problem_id": "2154D",
+  "contest_id": 2154,
+  "index": "D",
+  "title": "Catshock",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "trees",
+    "two pointers"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "two_pointers"
+  ],
+  "contest_date": "2025-10-19",
+  "solved_count": 4657,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n1 2\n2 3\n1 5\n5 4\n2\n1 2\n4\n1 2\n1 3\n1 4\n6\n1 2\n1 3\n3 4\n4 5\n4 6",
+      "output": "\n2\n2 2\n1\n\n1\n1\n\n5\n2 2\n1\n1\n2 3\n1\n\n9\n2 2\n1\n2 1\n1\n2 3\n1\n1\n2 5\n1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

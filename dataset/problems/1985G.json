@@ -1,0 +1,32 @@
+{
+  "problem_id": "1985G",
+  "contest_id": 1985,
+  "index": "G",
+  "title": "D-Function",
+  "rating": 1600,
+  "raw_tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-06-11",
+  "solved_count": 12070,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n0 1 4\n0 2 7\n1 2 1\n1 2 3\n582 74663 3\n0 3 1",
+      "output": "\n2\n3\n90\n12\n974995667\n999\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

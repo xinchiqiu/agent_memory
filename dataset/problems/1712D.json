@@ -1,0 +1,37 @@
+{
+  "problem_id": "1712D",
+  "contest_id": 1712,
+  "index": "D",
+  "title": "Empty Graph",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "shortest paths"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "implementation",
+    "greedy",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2022-08-13",
+  "solved_count": 5054,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3 1\n2 4 1\n3 2\n1 9 84\n3 1\n10 2 6\n3 2\n179 17 1000000000\n2 1\n5 9\n2 2\n4 2",
+      "output": "\n4\n168\n10\n1000000000\n9\n1000000000\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

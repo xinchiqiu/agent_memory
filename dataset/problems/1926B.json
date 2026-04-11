@@ -1,0 +1,31 @@
+{
+  "problem_id": "1926B",
+  "contest_id": 1926,
+  "index": "B",
+  "title": "Vlad and Shapes",
+  "rating": 800,
+  "raw_tags": [
+    "geometry",
+    "implementation"
+  ],
+  "tags": [
+    "geometry",
+    "implementation"
+  ],
+  "contest_date": "2024-02-19",
+  "solved_count": 36255,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n000\n011\n011\n4\n0000\n0000\n0100\n1110\n2\n11\n11\n5\n00111\n00010\n00000\n00000\n00000\n10\n0000000000\n0000000000\n0000000000\n0000000000\n0000000000\n1111111110\n0111111100\n0011111000\n0001110000\n0000100000\n3\n111\n111\n111",
+      "output": "\nSQUARE\nTRIANGLE\nSQUARE\nTRIANGLE\nTRIANGLE\nSQUARE\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

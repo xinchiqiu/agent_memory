@@ -1,0 +1,57 @@
+{
+  "problem_id": "1671E",
+  "contest_id": 1671,
+  "index": "E",
+  "title": "Preorder",
+  "rating": 2100,
+  "raw_tags": [
+    "combinatorics",
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "hashing",
+    "sortings",
+    "trees"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "divide_and_conquer",
+    "dp",
+    "union_find",
+    "string_hashing",
+    "sorting",
+    "graph_dfs"
+  ],
+  "contest_date": "2022-04-22",
+  "solved_count": 3143,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\nBAAAAAAAABBABAB\n",
+      "output": "\n16\n"
+    },
+    {
+      "input": "\n2\nBAA\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n2\nABA\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n2\nAAB\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n2\nAAA\n",
+      "output": "\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

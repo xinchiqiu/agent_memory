@@ -1,0 +1,33 @@
+{
+  "problem_id": "1823D",
+  "contest_id": 1823,
+  "index": "D",
+  "title": "Unique Palindromes",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2023-04-27",
+  "solved_count": 4286,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n10 2\n5 10\n5 6\n3 1\n3\n3\n4 2\n3 4\n3 3\n4 2\n3 4\n3 4\n4 1\n4\n5\n10 3\n4 6 10\n4 5 8\n10 4\n4 6 7 10\n4 5 7 8",
+      "output": "\nYES\nabcbbcabcb\nYES\nfoo\nYES\nayda\nYES\nwada\nNO\nYES\nabcbcacbab\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

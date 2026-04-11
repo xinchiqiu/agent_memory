@@ -1,0 +1,35 @@
+{
+  "problem_id": "1660F1",
+  "contest_id": 1660,
+  "index": "F1",
+  "title": "Promising String (easy version)",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2022-03-31",
+  "solved_count": 7917,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n+-+\n5\n-+---\n4\n----\n7\n--+---+\n6\n+++---",
+      "output": "\n2\n4\n2\n7\n4\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

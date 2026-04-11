@@ -1,0 +1,31 @@
+{
+  "problem_id": "1774A",
+  "contest_id": 1774,
+  "index": "A",
+  "title": "Add Plus Minus Sign",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-12-17",
+  "solved_count": 23466,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n11\n5\n01101\n5\n10001",
+      "output": "\n-\n+-++\n+++-\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

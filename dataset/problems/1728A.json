@@ -1,0 +1,35 @@
+{
+  "problem_id": "1728A",
+  "contest_id": 1728,
+  "index": "A",
+  "title": "Colored Balls: Revisited",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2022-09-08",
+  "solved_count": 25414,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n1 1 1\n1\n9\n2\n4 7",
+      "output": "\n3\n1\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2109B",
+  "contest_id": 2109,
+  "index": "B",
+  "title": "Slice to Survive",
+  "rating": 1200,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-05-17",
+  "solved_count": 17124,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n2 2 1 1\n3 3 2 2\n2 7 1 4\n2 7 2 2\n8 9 4 6\n9 9 5 5\n2 20 2 11\n22 99 20 70",
+      "output": "\n2\n4\n4\n3\n6\n8\n6\n10\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

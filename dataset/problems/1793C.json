@@ -1,0 +1,33 @@
+{
+  "problem_id": "1793C",
+  "contest_id": 1793,
+  "index": "C",
+  "title": "Dora and Search",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "two pointers"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "two_pointers"
+  ],
+  "contest_date": "2023-02-12",
+  "solved_count": 32084,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n1 2 3\n4\n2 1 4 3\n7\n1 3 2 4 6 5 7\n6\n2 3 6 5 4 1",
+      "output": "\n-1\n1 4\n2 6\n-1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

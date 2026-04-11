@@ -1,0 +1,36 @@
+{
+  "problem_id": "1855B",
+  "contest_id": 1855,
+  "index": "B",
+  "title": "Longest Divisors Interval",
+  "rating": 900,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-07-29",
+  "solved_count": 43743,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n1\n40\n990990\n4204474560\n169958913706572972\n365988220345828080\n387701719537826430\n620196883578129853\n864802341280805662\n1000000000000000000",
+      "output": "\n1\n2\n3\n6\n4\n22\n3\n1\n2\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "1858E1",
+  "contest_id": 1858,
+  "index": "E1",
+  "title": "Rollbacks (Easy Version)",
+  "rating": 2500,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-08-15",
+  "solved_count": 1524,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n10\n+ 1\n+ 2\n+ 2\n?\n!\n+ 3\n- 2\n?\n+ 1\n?\n",
+      "output": "\n2\n1\n1\n"
+    },
+    {
+      "input": "\n6\n+ 1\n+ 1000000\n?\n!\n!\n?\n",
+      "output": "\n2\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

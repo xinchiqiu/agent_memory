@@ -1,0 +1,39 @@
+{
+  "problem_id": "2126G2",
+  "contest_id": 2126,
+  "index": "G2",
+  "title": "Big Wins!  (hard version)",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dsu",
+    "trees",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "divide_and_conquer",
+    "union_find",
+    "graph_dfs",
+    "two_pointers"
+  ],
+  "contest_date": "2025-07-17",
+  "solved_count": 1127,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\n3 2 5 3 1\n4\n4 1 1 3\n7\n6 1 3 4 6 2 7\n4\n4 2 3 1\n5\n1 2 3 4 5",
+      "output": "\n3\n3\n5\n2\n2\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

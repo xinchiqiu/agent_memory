@@ -1,0 +1,32 @@
+{
+  "problem_id": "2149F",
+  "contest_id": 2149,
+  "index": "F",
+  "title": "Nezuko in the Clearing",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "math",
+    "ternary search"
+  ],
+  "tags": [
+    "binary_search",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-09-25",
+  "solved_count": 4680,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 2\n1 1\n5 3\n2 4\n10 7",
+      "output": "\n\n3\n2\n4\n7\n10"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,40 @@
+{
+  "problem_id": "1571G",
+  "contest_id": 1571,
+  "index": "G",
+  "title": "A Battle Against a Dragon",
+  "rating": 2500,
+  "raw_tags": [
+    "*special",
+    "data structures",
+    "dp"
+  ],
+  "tags": [
+    "implementation",
+    "dp"
+  ],
+  "contest_date": "2021-10-07",
+  "solved_count": 84,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 4\n1\n2\n4\n2\n10 5\n3 4\n",
+      "output": "\n10\n"
+    },
+    {
+      "input": "\n3 3\n1\n1\n0\n1\n20\n2\n1\n100\n3\n",
+      "output": "\n100\n"
+    },
+    {
+      "input": "\n2 1\n2\n10 10\n0 1\n2\n30 20\n0 1\n",
+      "output": "\n30\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

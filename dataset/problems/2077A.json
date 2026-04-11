@@ -1,0 +1,35 @@
+{
+  "problem_id": "2077A",
+  "contest_id": 2077,
+  "index": "A",
+  "title": "Breach of Faith",
+  "rating": 1500,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2025-03-10",
+  "solved_count": 14258,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n9 2\n2\n8 6 1 4\n3\n99 2 86 33 14 77\n2\n1 6 3 2",
+      "output": "\n7 9 2\n1 8 4 6 9\n86 99 2 77 69 14 33\n4 6 1 2 3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

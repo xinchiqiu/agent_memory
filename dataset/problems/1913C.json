@@ -1,0 +1,39 @@
+{
+  "problem_id": "1913C",
+  "contest_id": 1913,
+  "index": "C",
+  "title": "Game with Multiset",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2023-12-18",
+  "solved_count": 17354,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 0\n1 0\n1 0\n2 3\n2 4",
+      "output": "\nYES\nNO\n"
+    },
+    {
+      "input": "\n\n7\n1 0\n1 1\n1 2\n1 10\n2 4\n2 6\n2 7",
+      "output": "\nYES\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

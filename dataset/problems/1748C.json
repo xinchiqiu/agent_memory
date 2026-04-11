@@ -1,0 +1,36 @@
+{
+  "problem_id": "1748C",
+  "contest_id": 1748,
+  "index": "C",
+  "title": "Zero-Sum Prefixes",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2022-11-12",
+  "solved_count": 12875,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\n2 0 1 -1 0\n3\n1000000000 1000000000 0\n4\n0 0 0 0\n8\n3 0 2 -10 10 -30 30 0\n9\n1 0 0 1 -1 0 1 0 -1",
+      "output": "\n3\n1\n4\n4\n5\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

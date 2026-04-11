@@ -1,0 +1,32 @@
+{
+  "problem_id": "1996A",
+  "contest_id": 1996,
+  "index": "A",
+  "title": "Legs",
+  "rating": 800,
+  "raw_tags": [
+    "binary search",
+    "math",
+    "ternary search"
+  ],
+  "tags": [
+    "binary_search",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-07-26",
+  "solved_count": 56551,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n6\n8",
+      "output": "\n1\n2\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

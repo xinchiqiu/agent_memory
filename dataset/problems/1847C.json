@@ -1,0 +1,35 @@
+{
+  "problem_id": "1847C",
+  "contest_id": 1847,
+  "index": "C",
+  "title": "Vampiric Powers, anyone?",
+  "rating": 1400,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2023-07-06",
+  "solved_count": 14654,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n0 2 5 1\n3\n1 2 3\n5\n8 2 4 12 1",
+      "output": "\n7\n3\n14\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "2147B",
+  "contest_id": 2147,
+  "index": "B",
+  "title": "Multiple Construction",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2025-09-20",
+  "solved_count": 16537,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n2\n3\n1\n",
+      "output": "\n1 2 1 2\n1 3 1 2 3 2\n1 1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

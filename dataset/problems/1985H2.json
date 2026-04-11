@@ -1,0 +1,36 @@
+{
+  "problem_id": "1985H2",
+  "contest_id": 1985,
+  "index": "H2",
+  "title": "Maximize the Largest Component (Hard Version)",
+  "rating": 2200,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "implementation"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "union_find"
+  ],
+  "contest_date": "2024-06-11",
+  "solved_count": 1880,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1 1\n.\n4 2\n..\n#.\n#.\n.#\n3 5\n.#.#.\n..#..\n.#.#.\n5 5\n#...#\n....#\n#...#\n.....\n...##\n6 6\n.#..#.\n#..#..\n.#...#\n#.#.#.\n.#.##.\n###..#\n6 8\n..#....#\n.####.#.\n###.#..#\n.##.#.##\n.#.##.##\n#..##.#.",
+      "output": "\n1\n7\n11\n16\n22\n36\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

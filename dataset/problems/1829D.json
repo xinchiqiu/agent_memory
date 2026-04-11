@@ -1,0 +1,35 @@
+{
+  "problem_id": "1829D",
+  "contest_id": 1829,
+  "index": "D",
+  "title": "Gold Rush",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2023-05-06",
+  "solved_count": 32922,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n6 4\n9 4\n4 2\n18 27\n27 4\n27 2\n27 10\n1 1\n3 1\n5 1\n746001 2984004",
+      "output": "\nYES\nYES\nNO\nNO\nYES\nYES\nNO\nYES\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

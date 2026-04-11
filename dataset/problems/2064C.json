@@ -1,0 +1,35 @@
+{
+  "problem_id": "2064C",
+  "contest_id": 2064,
+  "index": "C",
+  "title": "Remove the Ends",
+  "rating": 1300,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2025-02-16",
+  "solved_count": 17552,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n6\n3 1 4 -1 -5 -9\n6\n-10 -3 -17 1 19 20\n1\n1",
+      "output": "\n23\n40\n1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,32 @@
+{
+  "problem_id": "1626E",
+  "contest_id": 1626,
+  "index": "E",
+  "title": "Black and White Tree",
+  "rating": 2400,
+  "raw_tags": [
+    "dfs and similar",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2022-01-16",
+  "solved_count": 1844,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8\n0 1 0 0 0 0 1 0\n8 6\n2 5\n7 8\n6 5\n4 5\n6 1\n7 3\n",
+      "output": "\n0 1 1 1 1 0 1 1 \n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

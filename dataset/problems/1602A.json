@@ -1,0 +1,29 @@
+{
+  "problem_id": "1602A",
+  "contest_id": 1602,
+  "index": "A",
+  "title": "Two Subsequences",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2021-10-25",
+  "solved_count": 19695,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\nfc\naaaa\nthebrightboiler\n",
+      "output": "\nc f\na aaa\nb therightboiler\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

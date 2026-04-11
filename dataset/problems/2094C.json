@@ -1,0 +1,29 @@
+{
+  "problem_id": "2094C",
+  "contest_id": 2094,
+  "index": "C",
+  "title": "Brr Brrr Patapim",
+  "rating": 900,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2025-04-13",
+  "solved_count": 30092,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n1 6 2\n6 2 4\n2 4 3\n1\n1\n2\n2 3\n3 4",
+      "output": "\n5 1 6 2 4 3 \n2 1 \n1 2 3 4 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

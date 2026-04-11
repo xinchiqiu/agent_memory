@@ -1,0 +1,29 @@
+{
+  "problem_id": "1666D",
+  "contest_id": 1666,
+  "index": "D",
+  "title": "Deletive Editing",
+  "rating": 900,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-04-13",
+  "solved_count": 19339,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\nDETERMINED TRME\nDETERMINED TERM\nPSEUDOPSEUDOHYPOPARATHYROIDISM PEPA\nDEINSTITUTIONALIZATION DONATION\nCONTEST CODE\nSOLUTION SOLUTION",
+      "output": "\nYES\nNO\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

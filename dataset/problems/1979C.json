@@ -1,0 +1,35 @@
+{
+  "problem_id": "1979C",
+  "contest_id": 1979,
+  "index": "C",
+  "title": "Earning on Bets",
+  "rating": 1200,
+  "raw_tags": [
+    "binary search",
+    "combinatorics",
+    "constructive algorithms",
+    "number theory"
+  ],
+  "tags": [
+    "binary_search",
+    "math_combinatorics",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-06-06",
+  "solved_count": 22012,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n3 2 7\n2\n3 3\n5\n5 5 5 5 5\n6\n7 9 3 17 9 13\n3\n6 3 2\n5\n9 4 6 8 3",
+      "output": "\n27 41 12 \n1 1 \n-1\n1989 1547 4641 819 1547 1071 \n-1\n8 18 12 9 24\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

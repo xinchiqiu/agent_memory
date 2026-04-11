@@ -1,0 +1,29 @@
+{
+  "problem_id": "1642B",
+  "contest_id": 1642,
+  "index": "B",
+  "title": "Power Walking",
+  "rating": 900,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-02-23",
+  "solved_count": 18168,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3\n1 1 2\n6\n5 1 2 2 2 4",
+      "output": "\n2 2 3 \n4 4 4 4 5 6 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

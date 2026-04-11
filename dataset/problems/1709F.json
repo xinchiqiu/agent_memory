@@ -1,0 +1,59 @@
+{
+  "problem_id": "1709F",
+  "contest_id": 1709,
+  "index": "F",
+  "title": "Multiset of Strings",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "fft",
+    "flows",
+    "graphs",
+    "math",
+    "meet-in-the-middle",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "math_number_theory",
+    "network_flow",
+    "graph_dfs",
+    "divide_and_conquer"
+  ],
+  "contest_date": "2022-07-21",
+  "solved_count": 673,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n1 42 2\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n2 37 13\n",
+      "output": "\n36871576\n"
+    },
+    {
+      "input": "\n4 1252 325\n",
+      "output": "\n861735572\n"
+    },
+    {
+      "input": "\n6 153 23699\n",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n15 200000 198756\n",
+      "output": "\n612404746\n"
+    }
+  ],
+  "time_limit": "6 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

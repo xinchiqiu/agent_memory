@@ -1,0 +1,43 @@
+{
+  "problem_id": "2038D",
+  "contest_id": 2038,
+  "index": "D",
+  "title": "Divide OR Conquer",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp"
+  ],
+  "contest_date": "2024-11-18",
+  "solved_count": 848,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1 2 3",
+      "output": "\n4"
+    },
+    {
+      "input": "\n\n5\n1000 1000 1000 1000 1000",
+      "output": "\n16"
+    },
+    {
+      "input": "\n\n3\n3 4 6",
+      "output": "\n3"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

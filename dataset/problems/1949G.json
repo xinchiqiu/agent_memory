@@ -1,0 +1,39 @@
+{
+  "problem_id": "1949G",
+  "contest_id": 1949,
+  "index": "G",
+  "title": "Scooter",
+  "rating": 2300,
+  "raw_tags": [
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2024-03-24",
+  "solved_count": 1037,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\nCM-\n-CM",
+      "output": "\n7\nDRIVE 3\nPICKUP\nDRIVE 2\nDROPOFF\nPICKUP\nDRIVE 1\nDROPOFF\n"
+    },
+    {
+      "input": "\n\n1\nC\nC",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n\n2\n-M\nMC",
+      "output": "\n4\nDRIVE 1\nPICKUP\nDRIVE 2\nDROPOFF"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

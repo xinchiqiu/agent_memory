@@ -1,0 +1,36 @@
+{
+  "problem_id": "1729G",
+  "contest_id": 1729,
+  "index": "G",
+  "title": "Cut Substrings",
+  "rating": 2100,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "hashing",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2022-09-12",
+  "solved_count": 2480,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\nabababacababa\naba\nddddddd\ndddd\nxyzxyz\nxyz\nabc\nabcd\nabacaba\nabaca\nabc\ndef\naaaaaaaa\na\naaaaaaaa\naa",
+      "output": "\n2 2\n1 4\n2 1\n0 1\n1 1\n0 1\n8 1\n3 6\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

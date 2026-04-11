@@ -1,0 +1,35 @@
+{
+  "problem_id": "1638C",
+  "contest_id": 1638,
+  "index": "C",
+  "title": "Inversion Graph",
+  "rating": 1300,
+  "raw_tags": [
+    "data structures",
+    "dsu",
+    "graphs",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "union_find",
+    "graph_dfs",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-02-14",
+  "solved_count": 15838,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n1 2 3\n5\n2 1 4 3 5\n6\n6 1 4 2 5 3\n1\n1\n6\n3 2 1 6 5 4\n5\n3 1 5 2 4",
+      "output": "\n3\n3\n1\n1\n2\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

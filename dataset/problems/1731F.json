@@ -1,0 +1,44 @@
+{
+  "problem_id": "1731F",
+  "contest_id": 1731,
+  "index": "F",
+  "title": "Function Sum",
+  "rating": 2500,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "fft",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-12-27",
+  "solved_count": 824,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 3\n",
+      "output": "\n28\n"
+    },
+    {
+      "input": "\n5 6\n",
+      "output": "\n34475\n"
+    },
+    {
+      "input": "\n12 30\n",
+      "output": "\n920711694\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "2094A",
+  "contest_id": 2094,
+  "index": "A",
+  "title": "Trippi Troppi",
+  "rating": 800,
+  "raw_tags": [
+    "strings"
+  ],
+  "tags": [
+    "string_hashing"
+  ],
+  "contest_date": "2025-04-13",
+  "solved_count": 54839,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\nunited states america\noh my god\ni cant lie\nbinary indexed tree\nbelieve in yourself\nskibidi slay sigma\ngod bless america",
+      "output": "\nusa\nomg\nicl\nbit\nbiy\nsss\ngba\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

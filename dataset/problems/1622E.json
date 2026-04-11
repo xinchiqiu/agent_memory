@@ -1,0 +1,33 @@
+{
+  "problem_id": "1622E",
+  "contest_id": 1622,
+  "index": "E",
+  "title": "Math Test",
+  "rating": 2200,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2021-12-27",
+  "solved_count": 2219,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n4 3\n5 1 2 2\n110\n100\n101\n100\n4 4\n6 2 0 10\n1001\n0010\n0110\n0101\n3 6\n20 3 15\n010110\n000101\n111111\n",
+      "output": "\n3 1 2 \n2 3 4 1 \n3 1 4 5 2 6 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

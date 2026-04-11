@@ -1,0 +1,37 @@
+{
+  "problem_id": "1632C",
+  "contest_id": 1632,
+  "index": "C",
+  "title": "Strange Test",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "brute_force",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-01-30",
+  "solved_count": 13983,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n1 3\n5 8\n2 5\n3 19\n56678 164422\n",
+      "output": "\n1\n3\n2\n1\n23329\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

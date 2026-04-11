@@ -1,0 +1,33 @@
+{
+  "problem_id": "2002A",
+  "contest_id": 2002,
+  "index": "A",
+  "title": "Distanced Coloring",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-08-11",
+  "solved_count": 21257,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3 3 2\n5 1 10000\n7 3 4\n3 2 7\n8 9 6\n2 5 4",
+      "output": "\n4\n5\n12\n6\n36\n8\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

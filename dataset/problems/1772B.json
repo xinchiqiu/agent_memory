@@ -1,0 +1,31 @@
+{
+  "problem_id": "1772B",
+  "contest_id": 1772,
+  "index": "B",
+  "title": "Matrix Rotation",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2022-12-18",
+  "solved_count": 32913,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1 3\n5 7\n8 10\n3 4\n8 10\n4 3\n6 1\n9 2\n7 5\n4 2\n1 2\n4 3",
+      "output": "\nYES\nYES\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

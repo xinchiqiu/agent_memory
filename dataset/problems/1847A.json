@@ -1,0 +1,31 @@
+{
+  "problem_id": "1847A",
+  "contest_id": 1847,
+  "index": "A",
+  "title": "The Man who became a God ",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-07-06",
+  "solved_count": 22856,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4 2\n1 3 5 2\n6 3\n1 9 12 4 7 2\n12 8\n1 9 8 2 3 3 1 8 7 7 9 2",
+      "output": "\n4\n11\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

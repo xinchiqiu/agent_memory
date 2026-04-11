@@ -1,0 +1,38 @@
+{
+  "problem_id": "2065H",
+  "contest_id": 2065,
+  "index": "H",
+  "title": "Bro Thinks He's Him",
+  "rating": 2200,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "math",
+    "matrices"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-09",
+  "solved_count": 1927,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n101\n2\n1 3\n10110\n3\n1 2 3\n101110101\n5\n7 2 4 4 1",
+      "output": "\n10 7 \n61 59 67 \n1495 1169 1417 1169 1396 \n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

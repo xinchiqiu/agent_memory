@@ -1,0 +1,31 @@
+{
+  "problem_id": "1822D",
+  "contest_id": 1822,
+  "index": "D",
+  "title": "Super-Permutation",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-04-24",
+  "solved_count": 18890,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n2\n3\n6",
+      "output": "\n1\n2 1\n-1\n6 5 2 3 4 1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,36 @@
+{
+  "problem_id": "1932C",
+  "contest_id": 1932,
+  "index": "C",
+  "title": "LR-remainders",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2024-02-18",
+  "solved_count": 18690,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 6\n3 1 4 2\nLRRL\n5 1\n1 1 1 1 1\nLLLLL\n6 8\n1 2 3 4 5 6\nRLLLRR\n1 10000\n10000\nR",
+      "output": "\n0 2 4 1 \n0 0 0 0 0 \n0 0 0 4 4 4 \n0 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

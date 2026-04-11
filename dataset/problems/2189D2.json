@@ -1,0 +1,36 @@
+{
+  "problem_id": "2189D2",
+  "contest_id": 2189,
+  "index": "D2",
+  "title": "Little String (Hard Version)",
+  "rating": 2200,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2026-01-23",
+  "solved_count": 1837,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n3 3\n00?\n3 1\n???\n4 100\n1001\n3 3\n???\n6 100\n111001\n6 100\n111101\n5 8\n100?1\n4 100\n1??0\n20 253034496\n10001100011000??????\n3 4\n1?1",
+      "output": "\n\n-1\n-1\n4\n2\n96\n64\n12\n-1\n833286105\n2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

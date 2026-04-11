@@ -1,0 +1,29 @@
+{
+  "problem_id": "1696B",
+  "contest_id": 1696,
+  "index": "B",
+  "title": "NIT Destroys the Universe",
+  "rating": 900,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-06-25",
+  "solved_count": 35309,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n0 0 0 0\n5\n0 1 2 3 4\n7\n0 2 3 0 1 2 0\n1\n1000000000",
+      "output": "\n0\n1\n2\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

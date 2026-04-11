@@ -1,0 +1,36 @@
+{
+  "problem_id": "1674F",
+  "contest_id": 1674,
+  "index": "F",
+  "title": "Desktop Rearrangement",
+  "rating": 1800,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2022-05-02",
+  "solved_count": 5657,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 4 8\n..**\n.*..\n*...\n...*\n1 3\n2 3\n3 1\n2 3\n3 4\n4 3\n2 3\n2 2\n",
+      "output": "\n3\n4\n4\n3\n4\n5\n5\n5\n"
+    },
+    {
+      "input": "\n2 5 5\n*...*\n*****\n1 3\n2 2\n1 3\n1 5\n2 3\n",
+      "output": "\n2\n3\n3\n3\n2\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

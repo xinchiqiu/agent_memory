@@ -1,0 +1,31 @@
+{
+  "problem_id": "2116A",
+  "contest_id": 2116,
+  "index": "A",
+  "title": "Gellyfish and Tricolor Pansy",
+  "rating": 800,
+  "raw_tags": [
+    "games",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2025-05-31",
+  "solved_count": 26661,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 2 3 4\n100 999 1 1\n10 20 10 30\n12 14 13 11\n998 244 353 107",
+      "output": "\nFlower\nGellyfish\nFlower\nGellyfish\nGellyfish\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

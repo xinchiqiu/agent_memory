@@ -1,0 +1,29 @@
+{
+  "problem_id": "1594A",
+  "contest_id": 1594,
+  "index": "A",
+  "title": "Consecutive Sum Riddle",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-08",
+  "solved_count": 26940,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n1\n2\n3\n6\n100\n25\n3000000000000\n",
+      "output": "\n0 1\n-1 2 \n1 2 \n1 3 \n18 22\n-2 7\n999999999999 1000000000001"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

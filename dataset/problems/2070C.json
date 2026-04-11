@@ -1,0 +1,31 @@
+{
+  "problem_id": "2070C",
+  "contest_id": 2070,
+  "index": "C",
+  "title": "Limited Repainting",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy"
+  ],
+  "contest_date": "2025-02-27",
+  "solved_count": 13592,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 1\nBRBR\n9 3 5 4\n4 1\nBRBR\n9 5 3 4\n4 2\nBRBR\n9 3 5 4\n10 2\nBRBRBBRRBR\n5 1 2 4 5 3 6 1 5 4\n5 5\nRRRRR\n5 3 1 2 4",
+      "output": "\n3\n3\n0\n4\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

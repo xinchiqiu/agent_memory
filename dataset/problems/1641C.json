@@ -1,0 +1,39 @@
+{
+  "problem_id": "1641C",
+  "contest_id": 1641,
+  "index": "C",
+  "title": "Anonymity Is Important",
+  "rating": 2200,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dsu",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "union_find",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-02-23",
+  "solved_count": 2820,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6 9\n0 4 5 0\n1 5\n1 6\n0 4 6 1\n1 6\n0 2 5 1\n0 2 2 0\n1 3\n1 2\n",
+      "output": "\nNO\nN/A\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

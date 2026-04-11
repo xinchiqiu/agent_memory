@@ -1,0 +1,35 @@
+{
+  "problem_id": "1919F1",
+  "contest_id": 1919,
+  "index": "F1",
+  "title": "Wine Factory (Easy Version)",
+  "rating": 2300,
+  "raw_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2024-01-06",
+  "solved_count": 2559,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4 3\n3 3 3 3\n1 4 2 8\n1000000000000000000 1000000000000000000 1000000000000000000\n4 3 8 1000000000000000000\n2 5 1 1000000000000000000\n3 0 0 1000000000000000000",
+      "output": "\n12\n12\n10\n"
+    },
+    {
+      "input": "\n\n5 5\n10 3 8 9 2\n3 4 10 8 1\n1000000000000000000 1000000000000000000 1000000000000000000 1000000000000000000\n5 4 9 1000000000000000000\n1 1 1 1000000000000000000\n2 7 4 1000000000000000000\n4 1 1 1000000000000000000\n1 8 3 1000000000000000000",
+      "output": "\n34\n25\n29\n21\n27\n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

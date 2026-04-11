@@ -1,0 +1,33 @@
+{
+  "problem_id": "1997C",
+  "contest_id": 1997,
+  "index": "C",
+  "title": "Even Positions",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2024-07-30",
+  "solved_count": 25284,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n6\n_(_)_)\n2\n_)\n8\n_)_)_)_)\n8\n_(_)_(_)",
+      "output": "\n5\n1\n4\n8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

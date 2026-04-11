@@ -1,0 +1,31 @@
+{
+  "problem_id": "1863D",
+  "contest_id": 1863,
+  "index": "D",
+  "title": "Two-Colored Dominoes",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2023-08-30",
+  "solved_count": 10713,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4 6\n..LR..\nULRU..\nDLRDUU\n..LRDD\n5 4\n.LR.\n.UU.\nUDDU\nD..D\nLR..\n2 2\n..\n..",
+      "output": "\n..WB..\nWWBB..\nBBWWWB\n..BWBW\n-1\n..\n..\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

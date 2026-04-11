@@ -1,0 +1,36 @@
+{
+  "problem_id": "1996D",
+  "contest_id": 1996,
+  "index": "D",
+  "title": "Fun",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-07-26",
+  "solved_count": 19445,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n7 4\n10 5\n7 1000\n900000 400000",
+      "output": "\n4\n10\n7\n1768016938\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

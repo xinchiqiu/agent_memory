@@ -1,0 +1,35 @@
+{
+  "problem_id": "2169C",
+  "contest_id": 2169,
+  "index": "C",
+  "title": "Range Operation",
+  "rating": 1300,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2025-11-14",
+  "solved_count": 12299,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n2 5 1\n2\n4 4\n4\n1 3 2 1\n5\n3 2 0 9 10",
+      "output": "\n\n13\n8\n20\n32"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

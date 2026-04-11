@@ -1,0 +1,39 @@
+{
+  "problem_id": "1781C",
+  "contest_id": 1781,
+  "index": "C",
+  "title": "Equal Frequencies",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy",
+    "implementation",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2023-01-15",
+  "solved_count": 10189,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\nhello\n10\ncodeforces\n5\neevee\n6\nappall",
+      "output": "\n1\nhelno\n2\ncodefofced\n1\neeeee\n0\nappall\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

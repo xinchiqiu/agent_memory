@@ -1,0 +1,32 @@
+{
+  "problem_id": "2199C",
+  "contest_id": 2199,
+  "index": "C",
+  "title": "Minesweeper",
+  "rating": 1600,
+  "raw_tags": [
+    "*special",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2026-03-02",
+  "solved_count": 265,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n4\n8\n10\n9",
+      "output": "\nYES\n1\n*\n.\nNO\nYES\n5\n*....\n...*.\nYES\n6\n.*..*.\n......\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "2172B",
+  "contest_id": 2172,
+  "index": "B",
+  "title": "Buses",
+  "rating": 1800,
+  "raw_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2025-11-16",
+  "solved_count": 2046,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 3 10 4 1\n0 5\n2 4\n7 9\n3\n8\n5\n",
+      "output": "\n6.25\n1.5\n5\n"
+    },
+    {
+      "input": "\n1 3 100 100 1\n1 2\n0\n1\n2\n",
+      "output": "\n100\n98.01\n98\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

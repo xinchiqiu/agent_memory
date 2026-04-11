@@ -1,0 +1,31 @@
+{
+  "problem_id": "2036B",
+  "contest_id": 2036,
+  "index": "B",
+  "title": "Startup",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-11-02",
+  "solved_count": 29612,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 3\n2 6\n2 7\n1 15\n1 3\n2 6\n2 7\n1 15\n6 2\n1 7\n2 5\n190000 1\n1 1000",
+      "output": "\n28\n15\n12\n1000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

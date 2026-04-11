@@ -1,0 +1,31 @@
+{
+  "problem_id": "2153D",
+  "contest_id": 2153,
+  "index": "D",
+  "title": "Not Alone",
+  "rating": 1800,
+  "raw_tags": [
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2025-10-10",
+  "solved_count": 6160,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n1 1 1 1 1\n4\n2 100 99 3\n5\n2 2 5 9 5\n6\n1 1 1 2 1 2",
+      "output": "\n\n0\n2\n4\n1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

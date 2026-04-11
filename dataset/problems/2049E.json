@@ -1,0 +1,37 @@
+{
+  "problem_id": "2049E",
+  "contest_id": 2049,
+  "index": "E",
+  "title": "Broken Queries",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "interactive"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "brute_force",
+    "constructive"
+  ],
+  "contest_date": "2024-12-20",
+  "solved_count": 1570,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n8\n\n0\n\n0\n\n1\n\n0\n\n4\n\n1\n\n0",
+      "output": "\n? 3 5\n\n? 1 8\n\n? 4 8\n\n? 3 8\n\n! 6\n\n? 3 3\n\n? 3 4\n\n! 2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

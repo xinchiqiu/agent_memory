@@ -1,0 +1,33 @@
+{
+  "problem_id": "1616D",
+  "contest_id": 1616,
+  "index": "D",
+  "title": "Keep the Average High",
+  "rating": 2000,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-12-29",
+  "solved_count": 5529,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n5\n1 2 3 4 5\n2\n10\n2 4 2 4 2 4 2 4 2 4\n3\n3\n-10 -5 -10\n-8\n3\n9 9 -3\n5\n",
+      "output": "\n4\n8\n2\n2\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

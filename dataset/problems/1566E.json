@@ -1,0 +1,36 @@
+{
+  "problem_id": "1566E",
+  "contest_id": 1566,
+  "index": "E",
+  "title": "Buds Re-hanging",
+  "rating": 2000,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2021-09-12",
+  "solved_count": 4429,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n7\n1 2\n1 3\n1 4\n2 5\n2 6\n4 7\n6\n1 2\n1 3\n2 4\n2 5\n3 6\n2\n1 2\n7\n7 3\n1 5\n1 3\n4 6\n4 7\n2 1\n6\n2 1\n2 3\n4 5\n3 4\n3 6\n",
+      "output": "\n2\n2\n1\n2\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

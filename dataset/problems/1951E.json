@@ -1,0 +1,42 @@
+{
+  "problem_id": "1951E",
+  "contest_id": 1951,
+  "index": "E",
+  "title": "No Palindromes",
+  "rating": 2000,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "divide and conquer",
+    "greedy",
+    "hashing",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "divide_and_conquer",
+    "greedy",
+    "string_hashing",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-06",
+  "solved_count": 4425,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\nsinktheyacht\nlllllllll\nuwuowouwu",
+      "output": "\nYES\n1\nsinktheyacht\nNO\nYES\n3\nuw uow ouwu\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "2041E",
+  "contest_id": 2041,
+  "index": "E",
+  "title": "Beautiful Array",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-11-24",
+  "solved_count": 9726,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 4\n",
+      "output": "\n4\n3 -1 5 5\n"
+    },
+    {
+      "input": "\n-100 -100\n",
+      "output": "\n1\n-100\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

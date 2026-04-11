@@ -1,0 +1,38 @@
+{
+  "problem_id": "2157D",
+  "contest_id": 2157,
+  "index": "D",
+  "title": "Billion Players Game",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "sortings",
+    "ternary search",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "math_number_theory",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2025-11-23",
+  "solved_count": 5786,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1 1 5\n3\n2 100 100\n50 200\n5 1 10\n5 7 3 9 1\n5 6 10\n9 3 1 7 5",
+      "output": "\n\n0\n150\n12\n13"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

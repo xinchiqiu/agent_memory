@@ -1,0 +1,42 @@
+{
+  "problem_id": "1958F",
+  "contest_id": 1958,
+  "index": "F",
+  "title": "Narrow Paths",
+  "rating": 2000,
+  "raw_tags": [
+    "*special",
+    "combinatorics"
+  ],
+  "tags": [
+    "math_combinatorics"
+  ],
+  "contest_date": "2024-05-13",
+  "solved_count": 249,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2 2",
+      "output": "\n1 0 0\n"
+    },
+    {
+      "input": "\n\n10 2",
+      "output": "\n45 24 21 18 15 12 9 6 3 0 0\n"
+    },
+    {
+      "input": "\n\n10 5",
+      "output": "\n7812 420 210 90 30 6 0 0 0 0 0\n"
+    },
+    {
+      "input": "\n\n22 10",
+      "output": "\n467563090 1847560 1016158 534820 267410 125840 55055 22022 7865 2420 605 110 11 0 0 0 0 0 0 0 0 0 0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

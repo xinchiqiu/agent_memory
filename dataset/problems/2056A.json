@@ -1,0 +1,31 @@
+{
+  "problem_id": "2056A",
+  "contest_id": 2056,
+  "index": "A",
+  "title": "Shape Perimeter",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-01-17",
+  "solved_count": 26643,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4 3\n1 1\n2 2\n2 1\n1 2\n1 2\n1 1\n6 7\n3 6\n1 1\n3 1\n6 6\n5 4\n6 1",
+      "output": "\n32\n8\n96\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

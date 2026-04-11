@@ -1,0 +1,35 @@
+{
+  "problem_id": "1560E",
+  "contest_id": 1560,
+  "index": "E",
+  "title": "Polycarp and String Transformation",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2021-08-18",
+  "solved_count": 8732,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\nabacabaaacaac\nnowyouknowthat\npolycarppoycarppoyarppyarppyrpprppp\nisi\neverywherevrywhrvryhrvrhrvhv\nhaaha\nqweqeewew\n",
+      "output": "\nabacaba bac\n-1\npolycarp lcoayrp\nis si\neverywhere ewyrhv\n-1\n-1\n"
+    }
+  ],
+  "time_limit": "3 s",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

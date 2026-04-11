@@ -1,0 +1,38 @@
+{
+  "problem_id": "1548D1",
+  "contest_id": 1548,
+  "index": "D1",
+  "title": "Gregor and the Odd Cows (Easy)",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "geometry",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "geometry",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-08-01",
+  "solved_count": 1610,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n0 0\n2 0\n0 4\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n5\n0 0\n2 16\n30 14\n4 6\n2 10\n",
+      "output": "\n3\n"
+    }
+  ],
+  "time_limit": "6 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

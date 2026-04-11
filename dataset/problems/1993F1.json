@@ -1,0 +1,35 @@
+{
+  "problem_id": "1993F1",
+  "contest_id": 1993,
+  "index": "F1",
+  "title": "Dyn-scripted Robot (Easy Version)",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "chinese remainder theorem",
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory",
+    "constructive"
+  ],
+  "contest_date": "2024-08-04",
+  "solved_count": 1175,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2 2 2 2\nUR\n4 2 1 1\nLLDD\n6 3 3 1\nRLRRRL\n5 5 3 3\nRUURD\n7 5 3 4\nRRDLUUU",
+      "output": "\n0\n4\n3\n0\n1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

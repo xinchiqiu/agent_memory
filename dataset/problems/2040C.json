@@ -1,0 +1,39 @@
+{
+  "problem_id": "2040C",
+  "contest_id": 2040,
+  "index": "C",
+  "title": "Ordered Permutations",
+  "rating": 1600,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2024-12-08",
+  "solved_count": 10640,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3 2\n3 3\n4 11\n4 6\n6 39\n7 34",
+      "output": "\n1 3 2 \n2 3 1 \n-1\n2 4 3 1 \n-1\n2 3 4 5 7 6 1 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

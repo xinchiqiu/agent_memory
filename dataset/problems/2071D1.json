@@ -1,0 +1,36 @@
+{
+  "problem_id": "2071D1",
+  "contest_id": 2071,
+  "index": "D1",
+  "title": "Infinite Sequence (Easy Version)",
+  "rating": 1800,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-28",
+  "solved_count": 6594,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n1 1 1\n1\n2 3 3\n1 0\n3 5 5\n1 1 1\n1 234 234\n0\n5 1111 1111\n1 0 1 0 1\n1 1000000000000000000 1000000000000000000\n1\n10 87 87\n0 1 1 1 1 1 1 1 0 0\n12 69 69\n1 0 0 0 0 1 0 1 0 1 1 0\n13 46 46\n0 1 0 1 1 1 1 1 1 0 1 1 1",
+      "output": "\n1\n1\n0\n0\n1\n0\n1\n0\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

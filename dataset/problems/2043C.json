@@ -1,0 +1,39 @@
+{
+  "problem_id": "2043C",
+  "contest_id": 2043,
+  "index": "C",
+  "title": "Sums on Segments",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-12-24",
+  "solved_count": 11047,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\n1 -1 10 1 1\n5\n-1 -1 -1 -1 -1\n2\n-1 2\n2\n7 1\n3\n1 4 -1",
+      "output": "\n8\n-1 0 1 2 9 10 11 12 \n6\n-5 -4 -3 -2 -1 0 \n4\n-1 0 1 2 \n4\n0 1 7 8 \n6\n-1 0 1 3 4 5 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

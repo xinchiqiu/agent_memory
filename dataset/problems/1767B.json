@@ -1,0 +1,33 @@
+{
+  "problem_id": "1767B",
+  "contest_id": 1767,
+  "index": "B",
+  "title": "Block Towers",
+  "rating": 800,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-12-16",
+  "solved_count": 21868,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n1 2 3\n3\n1 2 2\n2\n1 1000000000\n10\n3 8 6 7 4 1 2 4 10 1",
+      "output": "\n3\n2\n500000001\n9\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

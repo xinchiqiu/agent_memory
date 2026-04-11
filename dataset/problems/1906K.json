@@ -1,0 +1,43 @@
+{
+  "problem_id": "1906K",
+  "contest_id": 1906,
+  "index": "K",
+  "title": "Deck-Building Game",
+  "rating": 2500,
+  "raw_tags": [
+    "divide and conquer",
+    "math"
+  ],
+  "tags": [
+    "divide_and_conquer",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 507,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n16 12 4 8\n",
+      "output": "\n9\n"
+    },
+    {
+      "input": "\n4\n1 2 4 8\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n2\n1 1\n",
+      "output": "\n5\n"
+    },
+    {
+      "input": "\n6\n1 1 1 2 2 2\n",
+      "output": "\n169\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

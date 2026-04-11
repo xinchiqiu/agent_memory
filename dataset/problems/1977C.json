@@ -1,0 +1,40 @@
+{
+  "problem_id": "1977C",
+  "contest_id": 1977,
+  "index": "C",
+  "title": "Nikita and LCM",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-05-26",
+  "solved_count": 7982,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5\n1 2 4 8 16\n6\n3 2 10 20 60 1\n7\n2 3 4 6 12 100003 1200036\n9\n2 42 7 3 6 7 7 1 6\n8\n4 99 57 179 10203 2 11 40812\n1\n1",
+      "output": "\n0\n4\n4\n5\n8\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,41 @@
+{
+  "problem_id": "1625D",
+  "contest_id": 1625,
+  "index": "D",
+  "title": "Binary Spiders",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "data structures",
+    "implementation",
+    "math",
+    "sortings",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory",
+    "sorting",
+    "graph_dfs"
+  ],
+  "contest_date": "2022-01-12",
+  "solved_count": 2307,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6 8\n2 8 4 16 10 14\n",
+      "output": "\n3\n1 5 4\n"
+    },
+    {
+      "input": "\n6 1024\n1 2 3 1 4 0\n",
+      "output": "\n-1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

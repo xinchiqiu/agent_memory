@@ -1,0 +1,46 @@
+{
+  "problem_id": "1879E",
+  "contest_id": 1879,
+  "index": "E",
+  "title": "Interactive Game with Coloring",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "implementation",
+    "interactive",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "implementation"
+  ],
+  "contest_date": "2023-09-24",
+  "solved_count": 1550,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n1 1 1 1\n0\n1\n1",
+      "output": "\n1\n1 1 1 1\n1\n"
+    },
+    {
+      "input": "\n4\n1 2 3\n0\n0 1 0\n0\n1 1 0\n0\n1 0 1\n1",
+      "output": "\n3\n3 1 2\n2\n1\n3\n"
+    },
+    {
+      "input": "\n3\n1 2\n0\n1 1\n1\n",
+      "output": "\n2\n1 2\n1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

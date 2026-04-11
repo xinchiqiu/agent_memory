@@ -1,0 +1,31 @@
+{
+  "problem_id": "1733D2",
+  "contest_id": 1733,
+  "index": "D2",
+  "title": "Zero-One (Hard Version)",
+  "rating": 2000,
+  "raw_tags": [
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2022-09-19",
+  "solved_count": 4702,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5 8 9\n01001\n00101\n6 2 11\n000001\n100000\n5 7 2\n01000\n11011\n7 8 3\n0111001\n0100001\n6 3 4\n010001\n101000\n5 10 1\n01100\n01100",
+      "output": "\n8\n10\n-1\n6\n7\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

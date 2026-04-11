@@ -1,0 +1,35 @@
+{
+  "problem_id": "2137C",
+  "contest_id": 2137,
+  "index": "C",
+  "title": "Maximum Even Sum",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-09-07",
+  "solved_count": 22527,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n8 1\n1 8\n7 7\n2 6\n9 16\n1 6\n4 6",
+      "output": "\n-1\n6\n50\n8\n74\n-1\n14\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

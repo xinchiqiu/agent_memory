@@ -1,0 +1,35 @@
+{
+  "problem_id": "1928B",
+  "contest_id": 1928,
+  "index": "B",
+  "title": "Equalize",
+  "rating": 1200,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2024-02-11",
+  "solved_count": 20596,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n2\n1 2\n4\n7 1 4 1\n3\n103 102 104\n5\n1 101 1 100 1\n5\n1 10 100 1000 1\n2\n3 1\n3\n1000000000 999999997 999999999",
+      "output": "\n2\n2\n3\n2\n1\n1\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

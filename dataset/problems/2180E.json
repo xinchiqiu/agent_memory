@@ -1,0 +1,37 @@
+{
+  "problem_id": "2180E",
+  "contest_id": 2180,
+  "index": "E",
+  "title": "No Effect XOR",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-12-19",
+  "solved_count": 1699,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 2\n3 3\n2 4\n4 7\n24189255811072 59373627899903",
+      "output": "\n\n1\n0\n0\n3\n2199023255551"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

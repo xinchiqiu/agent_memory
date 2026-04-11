@@ -1,0 +1,32 @@
+{
+  "problem_id": "2141D",
+  "contest_id": 2141,
+  "index": "D",
+  "title": "Avoid Minimums",
+  "rating": 1800,
+  "raw_tags": [
+    "*special",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-09-12",
+  "solved_count": 465,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 16\n1 10 2\n4 20\n6 2 4 9\n5 9\n7 7 7 7 7\n2 1000000000000\n1000000000 1000000000",
+      "output": "\n-1\n11\n0\n499999999999\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

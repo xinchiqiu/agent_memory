@@ -1,0 +1,31 @@
+{
+  "problem_id": "1878D",
+  "contest_id": 1878,
+  "index": "D",
+  "title": "Reverse Madness",
+  "rating": 1600,
+  "raw_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2023-09-26",
+  "solved_count": 10003,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 2\nabcd\n1 3\n2 4\n2\n1 3\n5 3\nabcde\n1 2 3\n1 2 5\n3\n1 2 3\n3 1\ngaf\n1\n3\n2\n2 2\n10 1\naghcdegdij\n1\n10\n5\n1 2 3 4 2\n1 1\na\n1\n1\n1\n1",
+      "output": "\nbadc\nabedc\ngaf\njihgedcdga\na\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

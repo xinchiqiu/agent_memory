@@ -1,0 +1,33 @@
+{
+  "problem_id": "2184F",
+  "contest_id": 2184,
+  "index": "F",
+  "title": "Cherry Tree",
+  "rating": 1900,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2026-01-12",
+  "solved_count": 3632,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n1 2\n1 3\n1 4\n3\n1 2\n1 3\n9\n1 2\n3 1\n2 4\n5 2\n5 6\n3 7\n8 3\n8 9",
+      "output": "\n\nYES\nNO\nYES"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,32 @@
+{
+  "problem_id": "2199B",
+  "contest_id": 2199,
+  "index": "B",
+  "title": "Two Towers",
+  "rating": 1400,
+  "raw_tags": [
+    "*special",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2026-03-02",
+  "solved_count": 557,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 2 3 5\n1 1 1 1\n2 6 3 8\n3 3 6 4\n2 4 7 7",
+      "output": "\n\n4\n0\n3\n3\n5"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1585D",
+  "contest_id": 1585,
+  "index": "D",
+  "title": "Yet Another Sorting Problem",
+  "rating": 1900,
+  "raw_tags": [
+    "data structures",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-12-12",
+  "solved_count": 4325,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n1\n1\n2\n2 2\n2\n2 1\n3\n1 2 3\n3\n2 1 3\n3\n3 1 2\n4\n2 1 4 3\n",
+      "output": "\nYES\nYES\nNO\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

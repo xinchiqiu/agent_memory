@@ -1,0 +1,31 @@
+{
+  "problem_id": "1857A",
+  "contest_id": 1857,
+  "index": "A",
+  "title": "Array Coloring",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-08-07",
+  "solved_count": 76566,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n8\n1 2 4 3 2 3 5 4\n2\n4 7\n3\n3 9 8\n2\n1 7\n5\n5 4 3 2 1\n4\n4 3 4 5\n2\n50 48",
+      "output": "\nYES\nNO\nYES\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

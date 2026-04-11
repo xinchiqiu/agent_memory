@@ -1,0 +1,29 @@
+{
+  "problem_id": "1680B",
+  "contest_id": 1680,
+  "index": "B",
+  "title": "Robots",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-05-13",
+  "solved_count": 19046,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1 3\nERR\n2 2\nER\nRE\n2 2\nER\nER\n1 1\nR\n4 3\nEEE\nEEE\nERR\nEER\n3 3\nEEE\nEER\nREE",
+      "output": "\nYES\nNO\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

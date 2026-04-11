@@ -1,0 +1,42 @@
+{
+  "problem_id": "1895D",
+  "contest_id": 1895,
+  "index": "D",
+  "title": "XOR Construction",
+  "rating": 1900,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "data structures",
+    "math",
+    "string suffix structures",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "math_number_theory",
+    "string_kmp",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-11-03",
+  "solved_count": 7069,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 1 2",
+      "output": "\n0 2 3 1 "
+    },
+    {
+      "input": "\n\n6\n1 6 1 4 1",
+      "output": "\n2 3 5 4 0 1 "
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

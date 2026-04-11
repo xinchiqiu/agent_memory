@@ -1,0 +1,52 @@
+{
+  "problem_id": "1767E",
+  "contest_id": 1767,
+  "index": "E",
+  "title": "Algebra Flash",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "graphs",
+    "math",
+    "meet-in-the-middle",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "graph_dfs",
+    "math_number_theory",
+    "divide_and_conquer"
+  ],
+  "contest_date": "2022-12-16",
+  "solved_count": 1218,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 3\n1 3 2 3 1\n1 10 100\n",
+      "output": "\n11\n"
+    },
+    {
+      "input": "\n5 3\n1 3 2 3 1\n1 200 20\n",
+      "output": "\n21\n"
+    },
+    {
+      "input": "\n4 2\n2 2 1 1\n5 5\n",
+      "output": "\n10\n"
+    },
+    {
+      "input": "\n10 10\n3 8 6 2 10 5 2 3 7 3\n9 7 4 2 1 8 2 6 2 2\n",
+      "output": "\n15\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

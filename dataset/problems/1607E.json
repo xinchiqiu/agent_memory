@@ -1,0 +1,29 @@
+{
+  "problem_id": "1607E",
+  "contest_id": 1607,
+  "index": "E",
+  "title": "Robot on the Board 1",
+  "rating": 1600,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2021-11-02",
+  "solved_count": 9989,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1 1\nL\n1 2\nL\n3 3\nRRDLUU\n4 3\nLUURRDDLLLUU\n",
+      "output": "\n1 1\n1 2\n2 1\n3 2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1840A",
+  "contest_id": 1840,
+  "index": "A",
+  "title": "Cipher Shifer",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2023-06-06",
+  "solved_count": 37806,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n8\nabacabac\n5\nqzxcq\n20\nccooddeeffoorrcceess",
+      "output": "\nac\nq\ncodeforces\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

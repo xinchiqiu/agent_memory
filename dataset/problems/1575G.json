@@ -1,0 +1,30 @@
+{
+  "problem_id": "1575G",
+  "contest_id": 1575,
+  "index": "G",
+  "title": "GCD Festival",
+  "rating": 2200,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-02",
+  "solved_count": 824,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n3 6 2 1 4\n",
+      "output": "\n77\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

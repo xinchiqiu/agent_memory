@@ -1,0 +1,35 @@
+{
+  "problem_id": "1903F",
+  "contest_id": 1903,
+  "index": "F",
+  "title": "Babysitting",
+  "rating": 2500,
+  "raw_tags": [
+    "2-sat",
+    "binary search",
+    "data structures",
+    "graphs",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "binary_search",
+    "implementation"
+  ],
+  "contest_date": "2023-11-30",
+  "solved_count": 885,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n7 6\n1 2\n1 3\n1 4\n1 6\n2 3\n5 7\n3 3\n1 2\n1 3\n1 1\n2 4\n1 2\n1 2\n2 1\n1 1",
+      "output": "\n2\n3\n2\n"
+    }
+  ],
+  "time_limit": "7 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

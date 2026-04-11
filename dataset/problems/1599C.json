@@ -1,0 +1,34 @@
+{
+  "problem_id": "1599C",
+  "contest_id": 1599,
+  "index": "C",
+  "title": "Bubble Strike",
+  "rating": 2000,
+  "raw_tags": [
+    "combinatorics",
+    "math",
+    "probabilities",
+    "ternary search"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory",
+    "binary_search"
+  ],
+  "contest_date": "2021-10-09",
+  "solved_count": 1938,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7 1.0000\n",
+      "output": "\n6\n"
+    }
+  ],
+  "time_limit": "0.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "1673F",
+  "contest_id": 1673,
+  "index": "F",
+  "title": "Anti-Theft Road Planning",
+  "rating": 2400,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "divide and conquer",
+    "greedy",
+    "interactive",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "divide_and_conquer",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-04-30",
+  "solved_count": 946,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 4\n\n\n\n14\n\n1\n\n14\n\n3\n\n",
+      "output": "\n\n1\n8\n2 4\n\n1 2\n\n1 1\n\n1 2\n\n2 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

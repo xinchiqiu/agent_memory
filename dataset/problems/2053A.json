@@ -1,0 +1,35 @@
+{
+  "problem_id": "2053A",
+  "contest_id": 2053,
+  "index": "A",
+  "title": "Tender Carpenter",
+  "rating": 800,
+  "raw_tags": [
+    "dp",
+    "geometry",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "dp",
+    "geometry",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-12-28",
+  "solved_count": 21201,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n2 3 5 7\n4\n115 9 2 28\n5\n8 4 1 6 2\n6\n1 5 4 1 4 7\n2\n100000 100000",
+      "output": "\nYES\nNO\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

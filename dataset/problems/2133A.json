@@ -1,0 +1,34 @@
+{
+  "problem_id": "2133A",
+  "contest_id": 2133,
+  "index": "A",
+  "title": "Redstone?",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-08-24",
+  "solved_count": 30516,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n5 5\n4\n6 3 6 9\n2\n2 3\n7\n30 10 12 10 10 9 18\n5\n2 4 8 16 32",
+      "output": "\nYES\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

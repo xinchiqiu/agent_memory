@@ -1,0 +1,30 @@
+{
+  "problem_id": "1807D",
+  "contest_id": 1807,
+  "index": "D",
+  "title": "Odd Queries",
+  "rating": 900,
+  "raw_tags": [
+    "data structures",
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2023-03-19",
+  "solved_count": 55042,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n5 5\n2 2 1 3 2\n2 3 3\n2 3 4\n1 5 5\n1 4 9\n2 4 3\n10 5\n1 1 1 1 1 1 1 1 1 1\n3 8 13\n2 5 10\n3 8 10\n1 10 2\n1 9 100",
+      "output": "\nYES\nYES\nYES\nNO\nYES\nNO\nNO\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "1735C",
+  "contest_id": 1735,
+  "index": "C",
+  "title": "Phase Shift",
+  "rating": 1400,
+  "raw_tags": [
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "graph_dfs",
+    "union_find",
+    "greedy",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-10-02",
+  "solved_count": 10878,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\na\n2\nba\n10\ncodeforces\n26\nabcdefghijklmnopqrstuvwxyz\n26\nabcdefghijklmnopqrstuvwxzy",
+      "output": "\nb\nac\nabcdebfadg\nbcdefghijklmnopqrstuvwxyza\nbcdefghijklmnopqrstuvwxyaz\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

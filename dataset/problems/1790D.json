@@ -1,0 +1,33 @@
+{
+  "problem_id": "1790D",
+  "contest_id": 1790,
+  "index": "D",
+  "title": "Matryoshkas",
+  "rating": 1200,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-01-27",
+  "solved_count": 30662,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n6\n2 2 3 4 3 1\n5\n11 8 7 10 9\n6\n1000000000 1000000000 1000000000 1000000000 1000000000 1000000000\n8\n1 1 4 4 2 3 2 3\n6\n1 2 3 2 3 4\n7\n10 11 11 12 12 13 13\n7\n8 8 9 9 10 10 11\n8\n4 14 5 15 6 16 7 17\n8\n5 15 6 14 8 12 9 11\n5\n4 2 2 3 4",
+      "output": "\n2\n1\n6\n2\n2\n2\n2\n2\n4\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

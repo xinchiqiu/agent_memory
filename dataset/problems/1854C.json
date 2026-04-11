@@ -1,0 +1,46 @@
+{
+  "problem_id": "1854C",
+  "contest_id": 1854,
+  "index": "C",
+  "title": "Expected Destruction",
+  "rating": 2500,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-07-29",
+  "solved_count": 1767,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 3\n1 3\n",
+      "output": "\n750000009\n"
+    },
+    {
+      "input": "\n5 10\n1 2 3 4 5\n",
+      "output": "\n300277731\n"
+    },
+    {
+      "input": "\n5 10\n2 3 6 8 9\n",
+      "output": "\n695648216\n"
+    },
+    {
+      "input": "\n1 100\n1\n",
+      "output": "\n100\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

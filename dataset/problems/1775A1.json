@@ -1,0 +1,33 @@
+{
+  "problem_id": "1775A1",
+  "contest_id": 1775,
+  "index": "A1",
+  "title": "Gardener and the Capybaras (easy version)",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2023-01-10",
+  "solved_count": 20365,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\nbbba\naba\naaa\nabba\nabbb",
+      "output": "\nb bb a\na b a\na a a\nab b a\na bb b"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

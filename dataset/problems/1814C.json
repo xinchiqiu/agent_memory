@@ -1,0 +1,33 @@
+{
+  "problem_id": "1814C",
+  "contest_id": 1814,
+  "index": "C",
+  "title": "Search in Parallel",
+  "rating": 1500,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-04-06",
+  "solved_count": 12379,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n7 3 1\n8 6 4 4 4 1 7\n5 1 10\n1 1 1 1 1\n8 1 1\n4 5 6 8 1 7 3 2",
+      "output": "\n2 5 6\n5 1 7 2 4 3\n5 4 3 5 2 1\n0\n4 4 2 7 5\n4 6 3 1 8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

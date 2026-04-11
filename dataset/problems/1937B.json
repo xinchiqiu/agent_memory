@@ -1,0 +1,33 @@
+{
+  "problem_id": "1937B",
+  "contest_id": 1937,
+  "index": "B",
+  "title": "Binary Path",
+  "rating": 1300,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-02-29",
+  "solved_count": 17210,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n00\n00\n4\n1101\n1100\n8\n00100111\n11101101",
+      "output": "\n000\n2\n11000\n1\n001001101\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

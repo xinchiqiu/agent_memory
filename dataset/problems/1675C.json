@@ -1,0 +1,29 @@
+{
+  "problem_id": "1675C",
+  "contest_id": 1675,
+  "index": "C",
+  "title": "Detective Task",
+  "rating": 1100,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-05-05",
+  "solved_count": 19242,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n0\n1\n1110000\n?????\n1?1??0?0\n0?0???\n??11\n??0??",
+      "output": "\n1\n1\n2\n5\n4\n1\n1\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

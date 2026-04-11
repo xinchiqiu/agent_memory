@@ -1,0 +1,35 @@
+{
+  "problem_id": "1617A",
+  "contest_id": 1617,
+  "index": "A",
+  "title": "Forbidden Subsequence",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2021-12-16",
+  "solved_count": 16975,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\nabacaba\nabc\ncccba\nacb\ndbsic\nbac\nabracadabra\nabc\ndddddddddddd\ncba\nbbc\nabc\nac\nabc\n",
+      "output": "\naaaacbb\nabccc\nbcdis\naaaaacbbdrr\ndddddddddddd\nbbc\nac\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

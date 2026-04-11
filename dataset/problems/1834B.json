@@ -1,0 +1,31 @@
+{
+  "problem_id": "1834B",
+  "contest_id": 1834,
+  "index": "B",
+  "title": "Maximum Strength",
+  "rating": 1000,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-06-18",
+  "solved_count": 16915,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n53 57\n179 239\n13 37\n132228 132228\n54943329752812629795 55157581939688863366\n88 1914",
+      "output": "\n4\n19\n11\n0\n163\n28\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

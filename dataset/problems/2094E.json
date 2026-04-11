@@ -1,0 +1,29 @@
+{
+  "problem_id": "2094E",
+  "contest_id": 2094,
+  "index": "E",
+  "title": "Boneca Ambalabu",
+  "rating": 1200,
+  "raw_tags": [
+    "bitmasks"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2025-04-13",
+  "solved_count": 18270,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n18 18 18\n5\n1 2 4 8 16\n5\n8 13 4 5 15\n6\n625 676 729 784 841 900\n1\n1",
+      "output": "\n0\n79\n37\n1555\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

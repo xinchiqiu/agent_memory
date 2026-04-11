@@ -1,0 +1,47 @@
+{
+  "problem_id": "2010C1",
+  "contest_id": 2010,
+  "index": "C1",
+  "title": "Message Transmission Error (easy version)",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "string_hashing"
+  ],
+  "contest_date": "2024-08-28",
+  "solved_count": 9166,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "abrakadabrabrakadabra",
+      "output": "YES\nabrakadabra"
+    },
+    {
+      "input": "acacacaca",
+      "output": "YES\nacaca"
+    },
+    {
+      "input": "abcabc",
+      "output": "NO"
+    },
+    {
+      "input": "abababab",
+      "output": "YES\nababab"
+    },
+    {
+      "input": "tatbt",
+      "output": "NO"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

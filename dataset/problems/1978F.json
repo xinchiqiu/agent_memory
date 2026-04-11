@@ -1,0 +1,38 @@
+{
+  "problem_id": "1978F",
+  "contest_id": 1978,
+  "index": "F",
+  "title": "Large Graph",
+  "rating": 2400,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "number theory",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "union_find",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2024-06-16",
+  "solved_count": 1567,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3 3\n3 4 5\n3 3\n3 4 9\n3 2\n3 4 9\n2 2\n2 8\n5 3\n8 27 5 4 3\n4 10\n2 2 2 2",
+      "output": "\n3\n2\n3\n1\n4\n1\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

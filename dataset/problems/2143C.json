@@ -1,0 +1,34 @@
+{
+  "problem_id": "2143C",
+  "contest_id": 2143,
+  "index": "C",
+  "title": "Max Tree",
+  "rating": 1300,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2025-09-17",
+  "solved_count": 13704,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n1 2 2 1\n2 3 3 2\n5\n1 2 1 3\n1 5 2 1\n2 4 5 7\n2 3 1 100\n5\n2 5 5 2\n3 5 4 6\n4 5 1 5\n1 5 3 5",
+      "output": "\n\n3 2 1 \n2 3 5 4 1 \n1 5 2 3 4 "
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

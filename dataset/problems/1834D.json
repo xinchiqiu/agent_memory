@@ -1,0 +1,36 @@
+{
+  "problem_id": "1834D",
+  "contest_id": 1834,
+  "index": "D",
+  "title": "Survey in Class",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-06-18",
+  "solved_count": 5512,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n4 8\n2 6\n4 8\n2 7\n1 5\n3 3\n1 3\n2 3\n2 2\n3 5\n1 5\n1 5\n1 5\n3 5\n1 1\n3 3\n5 5\n4 7\n1 7\n1 3\n3 3\n4 5\n2 4\n1 3\n2 4",
+      "output": "\n6\n4\n0\n2\n12\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

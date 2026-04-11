@@ -1,0 +1,37 @@
+{
+  "problem_id": "1948E",
+  "contest_id": 1948,
+  "index": "E",
+  "title": "Clique Partition",
+  "rating": 2100,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-03-15",
+  "solved_count": 3494,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 3\n5 4\n8 16",
+      "output": "\n2 1\n1\n1 1\n3 1 5 2 4\n2\n1 1 2 1 2\n1 2 3 4 5 6 7 8\n1\n1 1 1 1 1 1 1 1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

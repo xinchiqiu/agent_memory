@@ -1,0 +1,36 @@
+{
+  "problem_id": "1695D2",
+  "contest_id": 1695,
+  "index": "D2",
+  "title": "Tree Queries (Hard Version)",
+  "rating": 2300,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2022-06-18",
+  "solved_count": 2265,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1\n2\n1 2\n10\n2 4\n2 1\n5 7\n3 10\n8 6\n6 1\n1 3\n4 7\n9 6",
+      "output": "\n0\n1\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

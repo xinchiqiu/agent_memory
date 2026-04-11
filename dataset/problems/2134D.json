@@ -1,0 +1,36 @@
+{
+  "problem_id": "2134D",
+  "contest_id": 2134,
+  "index": "D",
+  "title": "Sliding Tree",
+  "rating": 2300,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2025-08-26",
+  "solved_count": 3588,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n6\n4 3\n3 5\n3 1\n1 2\n3 6\n1\n2\n1 2\n5\n5 4\n2 3\n4 2\n1 4",
+      "output": "\n4 3 5\n-1\n-1\n2 4 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

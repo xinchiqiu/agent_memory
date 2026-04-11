@@ -1,0 +1,32 @@
+{
+  "problem_id": "2156C",
+  "contest_id": 2156,
+  "index": "C",
+  "title": "Maximum GCD on Whiteboard",
+  "rating": 1400,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-10-24",
+  "solved_count": 11924,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n9 1\n4 9 6 8 2 6 7 8 2\n10 1\n4 9 6 8 2 6 7 8 2 7\n7 5\n1 1 2 3 4 5 5\n7 4\n1 1 2 3 4 5 5\n14 3\n14 12 7 12 9 9 12 4 3 1 3 6 9 13\n1 0\n1",
+      "output": "\n\n2\n1\n5\n1\n3\n1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

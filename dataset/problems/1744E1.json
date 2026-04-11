@@ -1,0 +1,32 @@
+{
+  "problem_id": "1744E1",
+  "contest_id": 1744,
+  "index": "E1",
+  "title": "Divisible Numbers (easy version)",
+  "rating": 1500,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-16",
+  "solved_count": 12523,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 1 2 2\n3 4 5 7\n8 9 15 18\n12 21 14 24\n36 60 48 66",
+      "output": "\n2 2\n4 6\n12 12\n-1 -1\n-1 -1\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

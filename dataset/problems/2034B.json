@@ -1,0 +1,34 @@
+{
+  "problem_id": "2034B",
+  "contest_id": 2034,
+  "index": "B",
+  "title": "Rakhsh's Revival",
+  "rating": 1000,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2024-11-30",
+  "solved_count": 15610,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 1 1\n10101\n5 2 1\n10101\n6 3 2\n000000",
+      "output": "\n2\n0\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "1834C",
+  "contest_id": 1834,
+  "index": "C",
+  "title": "Game with Reversing",
+  "rating": 1200,
+  "raw_tags": [
+    "games",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2023-06-18",
+  "solved_count": 14940,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5\nabcde\nabxde\n5\nhello\nolleo\n2\nab\ncd\n7\naaaaaaa\nabbbbba\n1\nq\nq\n6\nyoyoyo\noyoyoy\n8\nabcdefgh\nhguedfbh",
+      "output": "\n1\n2\n3\n9\n0\n2\n6\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

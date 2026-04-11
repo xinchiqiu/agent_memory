@@ -1,0 +1,32 @@
+{
+  "problem_id": "1765L",
+  "contest_id": 1765,
+  "index": "L",
+  "title": "Project Manager",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2022-11-27",
+  "solved_count": 661,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 5 4\n2 Saturday Sunday\n2 Tuesday Thursday\n4 Monday Wednesday Friday Saturday\n4 7 13 14 15\n5 1 1 3 3 2\n3 2 3 2\n5 3 3 3 1 1\n8 3 3 3 3 3 3 3 3\n",
+      "output": "\n25 9 27 27 \n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

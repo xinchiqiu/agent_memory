@@ -1,0 +1,43 @@
+{
+  "problem_id": "1906H",
+  "contest_id": 1906,
+  "index": "H",
+  "title": "Twin Friends",
+  "rating": 2200,
+  "raw_tags": [
+    "combinatorics",
+    "dp"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 1068,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 4\nAMA\nANAB\n",
+      "output": "\n9\n"
+    },
+    {
+      "input": "\n5 8\nBINUS\nBINANUSA\n",
+      "output": "\n120\n"
+    },
+    {
+      "input": "\n15 30\nBINUSUNIVERSITY\nBINANUSANTARAUNIVERSITYJAKARTA\n",
+      "output": "\n151362308\n"
+    },
+    {
+      "input": "\n4 4\nUDIN\nASEP\n",
+      "output": "\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

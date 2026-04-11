@@ -1,0 +1,41 @@
+{
+  "problem_id": "1658E",
+  "contest_id": 1658,
+  "index": "E",
+  "title": "Gojou and Matrix Game",
+  "rating": 2500,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "games",
+    "hashing",
+    "implementation",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "constructive",
+    "string_hashing",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2022-03-27",
+  "solved_count": 1161,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 1\n1 2 4\n6 8 3\n9 5 7\n",
+      "output": "\nGGG\nMGG\nMGG\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

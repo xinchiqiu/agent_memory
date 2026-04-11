@@ -1,0 +1,29 @@
+{
+  "problem_id": "1822C",
+  "contest_id": 1822,
+  "index": "C",
+  "title": "Bun Lover",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2023-04-24",
+  "solved_count": 24704,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n5\n6\n179179179",
+      "output": "\n26\n37\n50\n32105178545472401\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

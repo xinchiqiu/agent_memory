@@ -10,7 +10,10 @@ from data_structures import Memory, EpisodicEntry, Problem
 from encoder import ProblemEncoder
 from retriever import Retriever
 from verifier import Verifier
-from adaptation import adapt_and_solve, free_generation, solve_with_fallbacks
+from adaptation import (
+    adapt_and_solve, free_generation, solve_with_fallbacks,
+    adapt_and_solve_granularity,
+)
 from memory_update import update_memory
 from strategy_extraction import extract_strategy
 from config import CONFIG
@@ -24,12 +27,14 @@ class StrategyAdaptationAgent:
                  encoder: Optional[ProblemEncoder] = None,
                  retriever: Optional[Retriever] = None,
                  verifier: Optional[Verifier] = None,
-                 log_dir: str = None):
+                 log_dir: str = None,
+                 granularity_mode: Optional[str] = None):
         self.llm_client = llm_client
         self.encoder = encoder or ProblemEncoder()
         self.retriever = retriever or Retriever(self.encoder)
         self.verifier = verifier or Verifier()
         self.memory = Memory()
+        self.granularity_mode = granularity_mode or CONFIG.get("granularity_mode", "G3")
         self.log_dir = Path(log_dir or CONFIG["log_dir"])
         self.log_dir.mkdir(parents=True, exist_ok=True)
         self.results_log: List[Dict] = []
@@ -54,8 +59,15 @@ class StrategyAdaptationAgent:
             seed_problems: List of (problem, solution_code) pairs.
         """
         logging.info(f"Seeding memory with {len(seed_problems)} problems…")
-        for problem, code in seed_problems:
-            strategy = extract_strategy(problem, code, self.llm_client)
+        for item in seed_problems:
+            # Accept (problem, code) or (problem, code, language)
+            if len(item) == 3:
+                problem, code, language = item
+            else:
+                problem, code = item
+                language = ""
+            strategy = extract_strategy(problem, code, self.llm_client,
+                                        solution_language=language)
             embedding = self.encoder.encode(problem.statement)
             self.memory.current_timestep += 1
             entry = EpisodicEntry(
@@ -111,7 +123,8 @@ class StrategyAdaptationAgent:
             # --- SOLVE ---
             if retrieved:
                 result = solve_with_fallbacks(
-                    problem, retrieved, self.llm_client, self.verifier
+                    problem, retrieved, self.llm_client, self.verifier,
+                    granularity_mode=self.granularity_mode,
                 )
             else:
                 code, analysis, plan = free_generation(problem, self.llm_client)

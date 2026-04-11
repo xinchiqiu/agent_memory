@@ -1,0 +1,39 @@
+{
+  "problem_id": "1750E",
+  "contest_id": 1750,
+  "index": "E",
+  "title": "Bracket Cost",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2022-11-06",
+  "solved_count": 1644,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n)\n4\n)()(\n3\n())\n5\n(((((\n10\n)(())))())",
+      "output": "\n1\n9\n6\n35\n112\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

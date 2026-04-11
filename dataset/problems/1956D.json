@@ -1,0 +1,54 @@
+{
+  "problem_id": "1956D",
+  "contest_id": 1956,
+  "index": "D",
+  "title": "Nene and the Mex Operator",
+  "rating": 2000,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "divide and conquer",
+    "dp",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "constructive",
+    "divide_and_conquer",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-13",
+  "solved_count": 4726,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n0 1",
+      "output": "\n4 1\n1 2\n"
+    },
+    {
+      "input": "\n\n3\n1 3 9",
+      "output": "\n13 0\n"
+    },
+    {
+      "input": "\n\n4\n1 100 2 1",
+      "output": "\n105 2\n3 3\n3 4\n"
+    },
+    {
+      "input": "\n\n1\n0",
+      "output": "\n1 1\n1 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

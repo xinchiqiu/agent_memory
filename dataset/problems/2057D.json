@@ -1,0 +1,36 @@
+{
+  "problem_id": "2057D",
+  "contest_id": 2057,
+  "index": "D",
+  "title": "Gifts Order",
+  "rating": 2000,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "implementation",
+    "math",
+    "matrices"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "dp"
+  ],
+  "contest_date": "2025-01-04",
+  "solved_count": 5305,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 2\n1 10\n1 10\n2 2\n5 3\n1 2 3 4 5\n3 7\n1 4\n5 2\n8 5\n7 4 2 4 8 2 1 4\n5 4\n1 10\n3 2\n8 11\n7 7",
+      "output": "\n8\n0\n7\n0\n4\n4\n4\n5\n3\n6\n6\n9\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

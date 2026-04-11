@@ -1,0 +1,29 @@
+{
+  "problem_id": "1890A",
+  "contest_id": 1890,
+  "index": "A",
+  "title": "Doremy's Paint 3",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2023-10-28",
+  "solved_count": 55087,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n8 9\n3\n1 1 2\n4\n1 1 4 5\n5\n2 3 3 3 3\n4\n100000 100000 100000 100000",
+      "output": "\nYes\nYes\nNo\nNo\nYes\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

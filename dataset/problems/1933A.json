@@ -1,0 +1,33 @@
+{
+  "problem_id": "1933A",
+  "contest_id": 1933,
+  "index": "A",
+  "title": "Turtle Puzzle: Rearrange and Negate",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-02-27",
+  "solved_count": 41906,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3\n-2 3 -3\n1\n0\n2\n0 1\n1\n-99\n4\n10 -2 -3 7\n5\n-1 -2 -3 -4 -5\n6\n-41 22 -69 73 -15 -50\n12\n1 2 3 4 5 6 7 8 9 10 11 12",
+      "output": "\n8\n0\n1\n99\n22\n15\n270\n78\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

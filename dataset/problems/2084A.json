@@ -1,0 +1,31 @@
+{
+  "problem_id": "2084A",
+  "contest_id": 2084,
+  "index": "A",
+  "title": "Max and Mod",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-04-05",
+  "solved_count": 17306,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n3\n4\n5",
+      "output": "\n-1\n3 2 1\n-1\n1 5 2 3 4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1976B",
+  "contest_id": 1976,
+  "index": "B",
+  "title": "Increase/Decrease/Copy",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-05-30",
+  "solved_count": 24962,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1\n2\n1 3\n2\n3 3\n3 3 3\n4\n4 2 1 2\n2 1 5 2 3",
+      "output": "\n3\n1\n8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

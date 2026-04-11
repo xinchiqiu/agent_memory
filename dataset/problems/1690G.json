@@ -1,0 +1,35 @@
+{
+  "problem_id": "1690G",
+  "contest_id": 1690,
+  "index": "G",
+  "title": "Count the Trains",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-06-07",
+  "solved_count": 4076,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4 2\n6 2 3 7\n3 2\n4 7\n5 4\n10 13 5 2 6\n2 4\n5 2\n1 5\n3 2\n13 4\n769 514 336 173 181 373 519 338 985 709 729 702 168\n12 581\n6 222\n7 233\n5 117",
+      "output": "\n3 4 \n4 4 2 3 \n5 6 6 5 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

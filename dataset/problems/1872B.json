@@ -1,0 +1,31 @@
+{
+  "problem_id": "1872B",
+  "contest_id": 1872,
+  "index": "B",
+  "title": "The Corridor or There and Back Again",
+  "rating": 900,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-09-07",
+  "solved_count": 30376,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1\n2 2\n3\n2 8\n4 3\n5 2\n1\n200 200\n4\n1 20\n5 9\n3 179\n100 1\n2\n10 1\n1 18\n2\n1 1\n1 2\n3\n1 3\n1 1\n1 3",
+      "output": "\n2\n5\n299\n9\n9\n1\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1950A",
+  "contest_id": 1950,
+  "index": "A",
+  "title": "Stair, Peak, or Neither?",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2024-03-28",
+  "solved_count": 68525,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1 2 3\n3 2 1\n1 5 3\n3 4 1\n0 0 0\n4 1 7\n4 5 7",
+      "output": "\nSTAIR\nNONE\nPEAK\nPEAK\nNONE\nNONE\nSTAIR\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

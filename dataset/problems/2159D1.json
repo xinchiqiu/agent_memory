@@ -1,0 +1,41 @@
+{
+  "problem_id": "2159D1",
+  "contest_id": 2159,
+  "index": "D1",
+  "title": "Inverse Minimum Partition (Easy Version)",
+  "rating": 2500,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "geometry",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "dp",
+    "geometry",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2025-10-12",
+  "solved_count": 988,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n3 1 4 1 5\n10\n9 2 6 5 3 5 8 9 7 9\n8\n1 2 3 4 5 6 7 8\n2\n1 1000000000000000000",
+      "output": "\n\n2\n4\n5\n2"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

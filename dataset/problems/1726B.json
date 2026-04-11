@@ -1,0 +1,33 @@
+{
+  "problem_id": "1726B",
+  "contest_id": 1726,
+  "index": "B",
+  "title": "Mainak and Interesting Sequence",
+  "rating": 1100,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-09-06",
+  "solved_count": 16705,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1 3\n6 12\n2 1\n3 6\n",
+      "output": "\nYes\n3\nYes\n1 3 2 2 3 1\nNo\nYes\n2 2 2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

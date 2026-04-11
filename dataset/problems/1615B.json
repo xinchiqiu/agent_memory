@@ -1,0 +1,33 @@
+{
+  "problem_id": "1615B",
+  "contest_id": 1615,
+  "index": "B",
+  "title": "And It's Non-Zero",
+  "rating": 1300,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-12-24",
+  "solved_count": 17804,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n1 2\n2 8\n4 5\n1 5\n100000 200000\n",
+      "output": "\n1\n3\n0\n2\n31072\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

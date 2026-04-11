@@ -1,0 +1,33 @@
+{
+  "problem_id": "1556E",
+  "contest_id": 1556,
+  "index": "E",
+  "title": "Equilibrium",
+  "rating": 2200,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2021-08-29",
+  "solved_count": 2902,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8 5\n0 1 2 9 3 2 7 5\n2 2 1 9 4 1 5 8\n2 6\n1 7\n2 4\n7 8\n5 8\n",
+      "output": "\n1\n3\n1\n-1\n-1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

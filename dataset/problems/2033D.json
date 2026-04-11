@@ -1,0 +1,37 @@
+{
+  "problem_id": "2033D",
+  "contest_id": 2033,
+  "index": "D",
+  "title": "Kousuke's Assignment",
+  "rating": 1300,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "dsu",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "union_find",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-10-24",
+  "solved_count": 18034,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n2 1 -3 2 1\n7\n12 -4 4 43 -3 -5 8\n6\n0 -4 0 3 0 1",
+      "output": "\n1\n2\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

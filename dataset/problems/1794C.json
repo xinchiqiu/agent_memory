@@ -1,0 +1,35 @@
+{
+  "problem_id": "1794C",
+  "contest_id": 1794,
+  "index": "C",
+  "title": "Scoring Subsequences",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2023-03-04",
+  "solved_count": 21382,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n1 2 3\n2\n1 1\n5\n5 5 5 5 5",
+      "output": "\n1 1 2 \n1 1 \n1 2 3 4 5 \n"
+    }
+  ],
+  "time_limit": "2.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,34 @@
+{
+  "problem_id": "1878E",
+  "contest_id": 1878,
+  "index": "E",
+  "title": "Iva & Pav",
+  "rating": 1400,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2023-09-26",
+  "solved_count": 20162,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n15 14 17 42 34\n3\n1 7\n2 15\n4 5\n5\n7 5 3 1 7\n4\n1 7\n5 7\n2 3\n2 2\n7\n19 20 15 12 21 7 11\n4\n1 15\n4 4\n7 12\n5 7",
+      "output": "\n2 -1 5 \n1 5 2 2 \n2 6 -1 5 \n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

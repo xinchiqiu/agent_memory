@@ -1,0 +1,35 @@
+{
+  "problem_id": "1917F",
+  "contest_id": 1917,
+  "index": "F",
+  "title": "Construct Tree",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "dp",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-12-24",
+  "solved_count": 1170,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4 10\n1 2 3 4\n4 7\n1 4 3 4\n6 18\n2 4 3 7 6 7",
+      "output": "\nYes\nNo\nYes\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

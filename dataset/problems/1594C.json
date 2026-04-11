@@ -1,0 +1,35 @@
+{
+  "problem_id": "1594C",
+  "contest_id": 1594,
+  "index": "C",
+  "title": "Make Them Equal",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2021-10-08",
+  "solved_count": 27578,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n4 a\naaaa\n4 a\nbaaa\n4 b\nbzyx\n",
+      "output": "\n0\n1\n2\n2 \n2 3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

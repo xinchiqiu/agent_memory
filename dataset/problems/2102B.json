@@ -1,0 +1,31 @@
+{
+  "problem_id": "2102B",
+  "contest_id": 2102,
+  "index": "B",
+  "title": "The Picky Cat",
+  "rating": 900,
+  "raw_tags": [
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2025-05-11",
+  "solved_count": 19468,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3\n2 3 1\n5\n1 2 3 4 5\n4\n4 2 0 -5\n4\n-5 0 4 3\n4\n-10 8 3 2\n1\n1\n10\n9 1000 -999 -13 456 -223 23 24 10 0",
+      "output": "\nYES\nYES\nYES\nNO\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

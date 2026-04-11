@@ -1,0 +1,33 @@
+{
+  "problem_id": "2121B",
+  "contest_id": 2121,
+  "index": "B",
+  "title": "Above the Clouds",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2025-06-17",
+  "solved_count": 32248,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\n3\naaa\n3\naba\n3\naab\n4\nabca\n4\nabba\n4\naabb\n5\nabaca\n5\nabcda\n5\nabcba\n6\nabcbbf\n6\nabcdaa\n3\nabb",
+      "output": "\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

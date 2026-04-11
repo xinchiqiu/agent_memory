@@ -1,0 +1,33 @@
+{
+  "problem_id": "1975C",
+  "contest_id": 1975,
+  "index": "C",
+  "title": "Chamo and Mocha's Array",
+  "rating": 1200,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2024-05-25",
+  "solved_count": 17048,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n2\n1 2\n5\n1 2 3 4 5",
+      "output": "\n1\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

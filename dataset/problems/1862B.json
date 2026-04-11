@@ -1,0 +1,29 @@
+{
+  "problem_id": "1862B",
+  "contest_id": 1862,
+  "index": "B",
+  "title": "Sequence Game",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2023-08-24",
+  "solved_count": 53471,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n4 6 3\n3\n1 2 3\n5\n1 7 9 5 7\n1\n144\n2\n1 1\n5\n1 2 2 1 1",
+      "output": "\n6\n4 3 2 6 3 3\n3\n1 2 3\n6\n1 7 9 3 5 7\n1\n144\n2\n1 1\n6\n1 2 2 1 1 1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "2030A",
+  "contest_id": 2030,
+  "index": "A",
+  "title": "A Gift From Orangutan",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-10-19",
+  "solved_count": 27477,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1\n69\n3\n7 6 5\n5\n1 1 1 2 2",
+      "output": "\n0\n4\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

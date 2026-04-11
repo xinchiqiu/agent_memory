@@ -1,0 +1,36 @@
+{
+  "problem_id": "2048C",
+  "contest_id": 2048,
+  "index": "C",
+  "title": "Kevin and Binary Strings",
+  "rating": 1200,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-12-19",
+  "solved_count": 15007,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n111\n1000\n10111\n11101\n1100010001101",
+      "output": "\n2 2 1 3\n1 3 1 4\n1 5 1 4\n3 4 1 5\n1 13 1 11\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

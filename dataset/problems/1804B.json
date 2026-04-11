@@ -1,0 +1,31 @@
+{
+  "problem_id": "1804B",
+  "contest_id": 1804,
+  "index": "B",
+  "title": "Vaccination",
+  "rating": 1000,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-03-12",
+  "solved_count": 15485,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n6 3 5 3\n1 2 3 10 11 18\n6 4 0 0\n3 3 3 3 3 4\n9 10 2 2\n0 1 2 3 4 5 6 7 8\n3 10 3 6\n10 20 30\n5 5 4 4\n0 2 4 6 8",
+      "output": "\n2\n3\n2\n3\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2202B",
+  "contest_id": 2202,
+  "index": "B",
+  "title": "ABAB Construction",
+  "rating": 1200,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2026-02-23",
+  "solved_count": 9314,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\nababa\n5\nbaaba\n5\n?b?ab\n6\naa?b?b",
+      "output": "\n\nYES\nNO\nYES\nNO"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

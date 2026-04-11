@@ -1,0 +1,33 @@
+{
+  "problem_id": "1670B",
+  "contest_id": 1670,
+  "index": "B",
+  "title": "Dorms War",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-05-06",
+  "solved_count": 13380,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n9\niloveslim\n1 s\n7\njoobeel\n2 o e\n7\nbasiozi\n2 s i\n6\nkhater\n1 r\n7\nabobeih\n6 a b e h i o\n5\nzondl\n5 a b c e f\n6\nshoman\n2 a h\n7\nshetwey\n2 h y\n5\nsamez\n1 m\n6\nmouraz\n1 m",
+      "output": "\n5\n2\n3\n5\n1\n0\n3\n5\n2\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

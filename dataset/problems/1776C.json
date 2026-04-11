@@ -1,0 +1,39 @@
+{
+  "problem_id": "1776C",
+  "contest_id": 1776,
+  "index": "C",
+  "title": "Library game",
+  "rating": 2500,
+  "raw_tags": [
+    "games",
+    "greedy",
+    "interactive",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2023-02-19",
+  "solved_count": 965,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 14\n3 7 2 3 10\n",
+      "output": "\n-"
+    },
+    {
+      "input": "\n4 10\n4 1 6 4\n",
+      "output": "\n-"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

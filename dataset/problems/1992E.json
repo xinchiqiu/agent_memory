@@ -1,0 +1,37 @@
+{
+  "problem_id": "1992E",
+  "contest_id": 1992,
+  "index": "E",
+  "title": "Novice's Mistake",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "implementation",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2024-07-11",
+  "solved_count": 10689,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n3\n10",
+      "output": "\n3\n20 18 \n219 216 \n2218 2214 \n1\n165 162 \n1\n1262 2519 \n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "2047A",
+  "contest_id": 2047,
+  "index": "A",
+  "title": "Alyona and a Square Jigsaw Puzzle",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-12-03",
+  "solved_count": 17761,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n1\n2\n1 8\n5\n1 3 2 1 2\n7\n1 2 1 10 2 7 2\n14\n1 10 10 100 1 1 10 1 10 2 10 2 10 1",
+      "output": "\n1\n2\n2\n2\n3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

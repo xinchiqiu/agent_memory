@@ -1,0 +1,33 @@
+{
+  "problem_id": "2144D",
+  "contest_id": 2144,
+  "index": "D",
+  "title": "Price Tags",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-09-15",
+  "solved_count": 6823,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5 51\n50 150 50 148 150\n3 1000000000\n42 42 42\n10 54321\n1 8088 45 1 73 1 9198 4991 1 83\n3 100\n1 1 1",
+      "output": "\n\n31\n-2999999937\n-162755\n3"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

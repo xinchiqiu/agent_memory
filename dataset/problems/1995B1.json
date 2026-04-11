@@ -1,0 +1,37 @@
+{
+  "problem_id": "1995B1",
+  "contest_id": 1995,
+  "index": "B1",
+  "title": "Bouquet (Easy Version)",
+  "rating": 1100,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2024-07-23",
+  "solved_count": 20831,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5 10\n1 1 2 2 3\n8 20\n4 2 7 5 6 1 1 1\n8 100000\n239 30 610 122 24 40 8 2\n11 13\n2 4 11 1 1 2 3 5 4 3 2\n8 1033\n206 206 206 207 207 207 207 1000",
+      "output": "\n7\n13\n610\n13\n1033\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

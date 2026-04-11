@@ -1,0 +1,33 @@
+{
+  "problem_id": "1703A",
+  "contest_id": 1703,
+  "index": "A",
+  "title": "YES or YES?",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-07-12",
+  "solved_count": 95564,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\nYES\nyES\nyes\nYes\nYeS\nNoo\norZ\nyEz\nYas\nXES",
+      "output": "\nYES\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

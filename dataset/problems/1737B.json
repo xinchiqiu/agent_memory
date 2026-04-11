@@ -1,0 +1,33 @@
+{
+  "problem_id": "1737B",
+  "contest_id": 1737,
+  "index": "B",
+  "title": "Ela's Fitness and the Luxury Number",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-07",
+  "solved_count": 10134,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n8 19\n8 20\n119 121\n1 100000000000000000\n1234567891011 1000000000000000000",
+      "output": "\n5\n6\n2\n948683296\n2996666667\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1955D",
+  "contest_id": 1955,
+  "index": "D",
+  "title": "Inaccurate Subsequence Search",
+  "rating": 1400,
+  "raw_tags": [
+    "data structures",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "two_pointers"
+  ],
+  "contest_date": "2024-04-08",
+  "solved_count": 18290,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n7 4 2\n4 1 2 3 4 5 6\n1 2 3 4\n7 4 3\n4 1 2 3 4 5 6\n1 2 3 4\n7 4 4\n4 1 2 3 4 5 6\n1 2 3 4\n11 5 3\n9 9 2 2 10 9 7 6 3 6 3\n6 9 7 8 10\n4 1 1\n4 1 5 6\n6",
+      "output": "\n4\n3\n2\n4\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

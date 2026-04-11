@@ -1,0 +1,33 @@
+{
+  "problem_id": "2051D",
+  "contest_id": 2051,
+  "index": "D",
+  "title": "Counting Pairs",
+  "rating": 1200,
+  "raw_tags": [
+    "binary search",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2024-12-22",
+  "solved_count": 23619,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n4 8 10\n4 6 3 6\n6 22 27\n4 9 6 3 4 5\n3 8 10\n3 2 1\n3 1 1\n2 3 4\n3 3 6\n3 2 1\n4 4 12\n3 3 2 1\n6 8 8\n1 1 2 2 2 3",
+      "output": "\n4\n7\n0\n0\n1\n5\n6\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

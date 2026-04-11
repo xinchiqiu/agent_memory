@@ -1,0 +1,37 @@
+{
+  "problem_id": "1838D",
+  "contest_id": 1838,
+  "index": "D",
+  "title": "Bracket Walk",
+  "rating": 2100,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2023-06-04",
+  "solved_count": 3657,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n10 9\n(())()()))\n9\n7\n2\n6\n3\n6\n7\n4\n8\n",
+      "output": "\nYES\nYES\nNO\nNO\nYES\nNO\nYES\nNO\nNO\n"
+    },
+    {
+      "input": "\n3 2\n(()\n2\n3\n",
+      "output": "\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

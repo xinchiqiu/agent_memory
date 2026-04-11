@@ -1,0 +1,31 @@
+{
+  "problem_id": "1766A",
+  "contest_id": 1766,
+  "index": "A",
+  "title": "Extremely Round",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2022-12-12",
+  "solved_count": 44685,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n9\n42\n13\n100\n111",
+      "output": "\n9\n13\n10\n19\n19\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

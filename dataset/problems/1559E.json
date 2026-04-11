@@ -1,0 +1,43 @@
+{
+  "problem_id": "1559E",
+  "contest_id": 1559,
+  "index": "E",
+  "title": "Mocha and Stars",
+  "rating": 2200,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "fft",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-08-15",
+  "solved_count": 2683,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 4\n1 3\n1 2\n",
+      "output": "\n4"
+    },
+    {
+      "input": "\n5 10\n1 10\n1 10\n1 10\n1 10\n1 10\n",
+      "output": "\n251"
+    },
+    {
+      "input": "\n5 100\n1 94\n1 96\n1 91\n4 96\n6 97\n",
+      "output": "\n47464146"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

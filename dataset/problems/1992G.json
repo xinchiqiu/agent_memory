@@ -1,0 +1,33 @@
+{
+  "problem_id": "1992G",
+  "contest_id": 1992,
+  "index": "G",
+  "title": "Ultra-Meow",
+  "rating": 2000,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-07-11",
+  "solved_count": 4101,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n3\n4999\n5\n1",
+      "output": "\n12\n31\n354226409\n184\n4\n"
+    }
+  ],
+  "time_limit": "2.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1750C",
+  "contest_id": 1750,
+  "index": "C",
+  "title": "Complementary XOR",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "tags": [
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2022-11-06",
+  "solved_count": 10440,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n010\n101\n2\n11\n10\n4\n1000\n0011\n2\n10\n10\n3\n111\n111",
+      "output": "\nYES\n1\n2 2\nNO\nNO\nYES\n2\n1 2\n2 2\nYES\n2\n1 1\n2 3"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

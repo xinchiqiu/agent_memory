@@ -1,0 +1,37 @@
+{
+  "problem_id": "1619G",
+  "contest_id": 1619,
+  "index": "G",
+  "title": "Unusual Minesweeper",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "dfs and similar",
+    "dsu",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "graph_dfs",
+    "union_find",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2021-12-20",
+  "solved_count": 2711,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n\n5 0\n0 0 1\n0 1 4\n1 0 2\n1 1 3\n2 2 9\n\n5 2\n0 0 1\n0 1 4\n1 0 2\n1 1 3\n2 2 9\n\n6 1\n1 -1 3\n0 -1 9\n0 1 7\n-1 0 1\n-1 1 9\n-1 -1 7\n",
+      "output": "\n2\n1\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

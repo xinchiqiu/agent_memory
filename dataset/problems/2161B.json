@@ -1,0 +1,31 @@
+{
+  "problem_id": "2161B",
+  "contest_id": 2161,
+  "index": "B",
+  "title": "Make Connected",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2025-10-30",
+  "solved_count": 5250,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n1\n.\n1\n#\n3\n.##\n.##\n...\n3\n#..\n.#.\n..#\n3\n###\n...\n...\n3\n#.#\n...\n.#.\n4\n####\n#..#\n#..#\n####\n3\n..#\n...\n.#.\n3\n..#\n#..\n...\n5\n#.#.#\n.#.#.\n#.#.#\n.#.#.\n#.#.#\n5\n...#.\n...#.\n.....\n##...\n.....",
+      "output": "\n\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nYES\nYES\nNO\nYES"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,43 @@
+{
+  "problem_id": "1776J",
+  "contest_id": 1776,
+  "index": "J",
+  "title": "Italian Data Centers",
+  "rating": 2500,
+  "raw_tags": [
+    "graphs",
+    "shortest paths"
+  ],
+  "tags": [
+    "graph_dfs",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2023-02-19",
+  "solved_count": 876,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 3 0\n1 2 3\n1 2\n2 3\n3 1\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n3 3 1\n1 2 3\n1 2\n2 3\n3 1\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n3 3 2\n1 2 1\n1 2\n2 3\n3 1\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n8 14 100\n3 3 2 2 1 2 2 1\n2 7\n1 5\n7 8\n4 6\n2 8\n1 8\n2 6\n6 7\n1 6\n1 4\n3 5\n1 3\n4 5\n5 7\n",
+      "output": "\n53\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

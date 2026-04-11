@@ -1,0 +1,35 @@
+{
+  "problem_id": "1882B",
+  "contest_id": 1882,
+  "index": "B",
+  "title": "Sets and Union",
+  "rating": 1300,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2023-09-25",
+  "solved_count": 17320,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n3 1 2 3\n2 4 5\n2 3 4\n4\n4 1 2 3 4\n3 2 5 6\n3 3 5 6\n3 4 5 6\n5\n1 1\n3 3 6 10\n1 9\n2 1 3\n3 5 8 9\n1\n2 4 28",
+      "output": "\n4\n5\n6\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

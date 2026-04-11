@@ -1,0 +1,33 @@
+{
+  "problem_id": "1560D",
+  "contest_id": 1560,
+  "index": "D",
+  "title": "Make a Power of Two",
+  "rating": 1300,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2021-08-18",
+  "solved_count": 19355,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n12\n1052\n8888\n6\n75\n128\n1\n301\n12048\n1504\n6656\n1000000000\n687194767\n",
+      "output": "\n2\n3\n1\n3\n0\n0\n2\n1\n3\n4\n9\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

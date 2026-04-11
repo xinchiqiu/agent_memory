@@ -1,0 +1,32 @@
+{
+  "problem_id": "1907B",
+  "contest_id": 1907,
+  "index": "B",
+  "title": "YetnotherrokenKeoard",
+  "rating": 1000,
+  "raw_tags": [
+    "data structures",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2023-12-05",
+  "solved_count": 30135,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\nARaBbbitBaby\nYetAnotherBrokenKeyboard\nBubble\nImprobable\nabbreviable\nBbBB\nBusyasaBeeinaBedofBloomingBlossoms\nCoDEBARbIES\ncodeforces\nbobebobbes\nb\nTheBBlackbboard",
+      "output": "\nity\nYetnotherrokenKeoard\nle\nImprle\nrevile\n\nusyasaeeinaedofloominglossoms\nCDARIES\ncodeforces\nes\n\nhelaoard\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

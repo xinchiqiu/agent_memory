@@ -1,0 +1,31 @@
+{
+  "problem_id": "1825A",
+  "contest_id": 1825,
+  "index": "A",
+  "title": "LuoTianyi and the Palindrome String",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2023-05-08",
+  "solved_count": 20705,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\nabacaba\naaa\ncodeforcesecrofedoc\nlol",
+      "output": "\n6\n-1\n18\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

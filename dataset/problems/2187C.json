@@ -1,0 +1,39 @@
+{
+  "problem_id": "2187C",
+  "contest_id": 2187,
+  "index": "C",
+  "title": "Jerry and Tom",
+  "rating": 2300,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "games",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "union_find",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2026-01-29",
+  "solved_count": 1272,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2 0\n3 1\n1 3\n4 2\n2 4\n1 4\n5 1\n1 4\n8 3\n1 4\n5 8\n2 4",
+      "output": "\n\n0\n2\n6\n3\n23"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

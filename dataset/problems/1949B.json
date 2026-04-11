@@ -1,0 +1,35 @@
+{
+  "problem_id": "1949B",
+  "contest_id": 1949,
+  "index": "B",
+  "title": "Charming Meals",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-03-24",
+  "solved_count": 4834,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n0 0 0\n1000000000 1000000000 1000000000\n5\n1 2 3 4 5\n1 2 3 4 5\n6\n0 0 0 100 100 100\n100 100 100 0 0 0\n7\n14 25 62 74 86 95 12\n51 62 71 72 92 20 84",
+      "output": "\n1000000000\n2\n100\n30\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

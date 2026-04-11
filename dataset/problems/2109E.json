@@ -1,0 +1,33 @@
+{
+  "problem_id": "2109E",
+  "contest_id": 2109,
+  "index": "E",
+  "title": "Binary String Wowee",
+  "rating": 2400,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "strings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "string_hashing"
+  ],
+  "contest_date": "2025-05-17",
+  "solved_count": 1734,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 1\n010\n3 2\n000\n5 4\n01001\n8 8\n11001100\n20 20\n10010110101101010110",
+      "output": "\n2\n3\n10\n27286\n915530405\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

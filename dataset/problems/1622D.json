@@ -1,0 +1,45 @@
+{
+  "problem_id": "1622D",
+  "contest_id": 1622,
+  "index": "D",
+  "title": "Shuffle",
+  "rating": 2000,
+  "raw_tags": [
+    "combinatorics",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2021-12-27",
+  "solved_count": 4617,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7 2\n1100110\n",
+      "output": "\n16\n"
+    },
+    {
+      "input": "\n5 0\n10010\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n8 1\n10001000\n",
+      "output": "\n10\n"
+    },
+    {
+      "input": "\n10 8\n0010011000\n",
+      "output": "\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

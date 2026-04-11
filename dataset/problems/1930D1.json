@@ -1,0 +1,35 @@
+{
+  "problem_id": "1930D1",
+  "contest_id": 1930,
+  "index": "D1",
+  "title": "Sum over all Substrings (Easy Version)",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-02-17",
+  "solved_count": 4809,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n1\n2\n10\n5\n00000\n20\n11110110000000111111",
+      "output": "\n1\n2\n0\n346\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

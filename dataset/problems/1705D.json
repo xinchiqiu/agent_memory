@@ -1,0 +1,37 @@
+{
+  "problem_id": "1705D",
+  "contest_id": 1705,
+  "index": "D",
+  "title": "Mark and Lightbulbs",
+  "rating": 1800,
+  "raw_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2022-07-15",
+  "solved_count": 7123,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n0100\n0010\n4\n1010\n0100\n5\n01001\n00011\n6\n000101\n010011",
+      "output": "\n2\n-1\n-1\n5\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

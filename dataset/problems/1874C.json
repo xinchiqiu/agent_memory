@@ -1,0 +1,37 @@
+{
+  "problem_id": "1874C",
+  "contest_id": 1874,
+  "index": "C",
+  "title": "Jellyfish and EVA",
+  "rating": 2300,
+  "raw_tags": [
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "probabilities"
+  ],
+  "tags": [
+    "dp",
+    "graph_dfs",
+    "greedy",
+    "math_number_theory",
+    "math_combinatorics"
+  ],
+  "contest_date": "2023-09-30",
+  "solved_count": 2130,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3 2\n1 2\n1 3\n7 8\n1 2\n1 3\n1 4\n1 5\n2 6\n3 6\n4 6\n6 7\n10 20\n1 2\n1 3\n1 4\n1 5\n1 6\n2 6\n2 7\n2 8\n2 9\n3 4\n3 7\n3 8\n3 10\n4 6\n4 8\n4 10\n6 10\n7 8\n7 9\n7 10",
+      "output": "\n0.500000000000\n0.625000000000\n0.491666666667\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

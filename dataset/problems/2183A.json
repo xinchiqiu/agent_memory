@@ -1,0 +1,29 @@
+{
+  "problem_id": "2183A",
+  "contest_id": 2183,
+  "index": "A",
+  "title": "Binary Array Game",
+  "rating": 800,
+  "raw_tags": [
+    "games"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2026-01-07",
+  "solved_count": 23247,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3\n1 1 0\n3\n1 1 1\n3\n0 1 0\n4\n0 0 0 0\n5\n1 0 1 0 1\n6\n0 1 0 1 0 1\n6\n0 1 0 1 0 0",
+      "output": "\n\nAlice\nAlice\nBob\nBob\nAlice\nAlice\nBob"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

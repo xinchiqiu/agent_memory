@@ -1,0 +1,35 @@
+{
+  "problem_id": "2028C",
+  "contest_id": 2028,
+  "index": "C",
+  "title": "Alice's Adventures in Cutting Cake",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "dp",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2024-11-10",
+  "solved_count": 9842,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n6 2 1\n1 1 10 1 1 10\n6 2 2\n1 1 10 1 1 10\n6 2 3\n1 1 10 1 1 10\n6 2 10\n1 1 10 1 1 10\n6 2 11\n1 1 10 1 1 10\n6 2 12\n1 1 10 1 1 10\n6 2 12\n1 1 1 1 10 10",
+      "output": "\n22\n12\n2\n2\n2\n0\n-1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

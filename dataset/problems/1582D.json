@@ -1,0 +1,31 @@
+{
+  "problem_id": "1582D",
+  "contest_id": 1582,
+  "index": "D",
+  "title": "Vupsen, Pupsen and 0",
+  "rating": 1600,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-24",
+  "solved_count": 11544,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n2\n5 5\n5\n5 -2 10 -9 4\n7\n1 2 3 4 5 6 7\n",
+      "output": "\n1 -1\n-1 5 1 -1 -1\n-10 2 2 -3 5 -1 -1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

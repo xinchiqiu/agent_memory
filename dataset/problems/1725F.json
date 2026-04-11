@@ -1,0 +1,32 @@
+{
+  "problem_id": "1725F",
+  "contest_id": 1725,
+  "index": "F",
+  "title": "Field Photography",
+  "rating": 2100,
+  "raw_tags": [
+    "bitmasks",
+    "data structures",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2022-09-04",
+  "solved_count": 1136,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1 5\n10 11\n8 8\n2\n12\n5\n",
+      "output": "\n2\n3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

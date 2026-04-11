@@ -1,0 +1,43 @@
+{
+  "problem_id": "2045C",
+  "contest_id": 2045,
+  "index": "C",
+  "title": "Saraga",
+  "rating": 1400,
+  "raw_tags": [
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-12-01",
+  "solved_count": 7060,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\nsarana\nolahraga\n",
+      "output": "\nsaga"
+    },
+    {
+      "input": "\nberhiber\nwortelhijau\n",
+      "output": "\nberhijau"
+    },
+    {
+      "input": "\nicpc\nicpc\n",
+      "output": "\nicpc"
+    },
+    {
+      "input": "\nicpc\njakarta\n",
+      "output": "\n-1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

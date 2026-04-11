@@ -1,0 +1,31 @@
+{
+  "problem_id": "1970A3",
+  "contest_id": 1970,
+  "index": "A3",
+  "title": "Balanced Unshuffle (Hard)",
+  "rating": 2400,
+  "raw_tags": [
+    "constructive algorithms",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs"
+  ],
+  "contest_date": "2024-05-04",
+  "solved_count": 653,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n()(()())\n",
+      "output": "\n(()(()))\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

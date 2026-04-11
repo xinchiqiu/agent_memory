@@ -1,0 +1,37 @@
+{
+  "problem_id": "1687B",
+  "contest_id": 1687,
+  "index": "B",
+  "title": "Railway System",
+  "rating": 1700,
+  "raw_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "interactive",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2022-06-03",
+  "solved_count": 4111,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 4\n\n0\n\n5\n\n9\n\n7\n",
+      "output": "\n? 0000\n\n? 1110\n\n? 1111\n\n? 1101\n\n! 7\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

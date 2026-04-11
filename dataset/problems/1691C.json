@@ -1,0 +1,37 @@
+{
+  "problem_id": "1691C",
+  "contest_id": 1691,
+  "index": "C",
+  "title": "Sum of Substrings",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2022-05-31",
+  "solved_count": 17060,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4 0\n1010\n7 1\n0010100\n5 2\n00110",
+      "output": "\n21\n22\n12\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

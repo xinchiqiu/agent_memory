@@ -1,0 +1,35 @@
+{
+  "problem_id": "1787E",
+  "contest_id": 1787,
+  "index": "E",
+  "title": "The Harmonization of XOR",
+  "rating": 2100,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-29",
+  "solved_count": 2700,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n15 6 7\n11 4 5\n5 3 2\n4 1 4\n6 1 7\n11 5 5\n11 6 5",
+      "output": "\nYES\n3 6 10 11\n3 5 12 14\n3 3 9 13\n3 1 2 4\n2 8 15\n1 7\nYES\n2 1 4\n2 2 7\n2 3 6\n5 5 8 9 10 11\nNO\nYES\n4 1 2 3 4\nYES\n6 1 2 3 4 5 6\nNO\nNO"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

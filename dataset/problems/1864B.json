@@ -1,0 +1,35 @@
+{
+  "problem_id": "1864B",
+  "contest_id": 1864,
+  "index": "B",
+  "title": "Swap and Reverse",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2023-08-26",
+  "solved_count": 16551,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 2\nnima\n5 3\npanda\n9 2\ntheforces\n7 3\namirfar\n6 4\nrounds",
+      "output": "\naimn\naandp\nceefhorst\naafmirr\ndnorsu\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1866L",
+  "contest_id": 1866,
+  "index": "L",
+  "title": "Lihmuf Balling",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-09-03",
+  "solved_count": 866,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 1\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n5 4\n",
+      "output": "\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

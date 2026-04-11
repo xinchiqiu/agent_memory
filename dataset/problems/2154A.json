@@ -1,0 +1,31 @@
+{
+  "problem_id": "2154A",
+  "contest_id": 2154,
+  "index": "A",
+  "title": "Notelock",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2025-10-19",
+  "solved_count": 22727,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n2 2\n11\n6 6\n100001\n5 3\n10000\n7 2\n1010101\n7 4\n0000001\n3 3\n010\n3 2\n011\n7 4\n1001001\n8 3\n00000000",
+      "output": "\n\n1\n1\n1\n4\n1\n1\n1\n1\n0"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

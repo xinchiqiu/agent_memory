@@ -1,0 +1,31 @@
+{
+  "problem_id": "2062C",
+  "contest_id": 2062,
+  "index": "C",
+  "title": "Cirno and Operations",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-01-26",
+  "solved_count": 18199,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n-1000\n2\n5 -3\n2\n1000 1\n9\n9 7 9 -9 9 -8 7 -8 9\n11\n678 201 340 444 453 922 128 987 127 752 0",
+      "output": "\n-1000\n8\n1001\n2056\n269891\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

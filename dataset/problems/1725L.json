@@ -1,0 +1,33 @@
+{
+  "problem_id": "1725L",
+  "contest_id": 1725,
+  "index": "L",
+  "title": "Lemper Cooking Competition",
+  "rating": 2400,
+  "raw_tags": [
+    "data structures"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-09-04",
+  "solved_count": 1083,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n2 -1 -1 5 2 -2 9\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n5\n-1 -2 -3 -4 -5\n",
+      "output": "\n-1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

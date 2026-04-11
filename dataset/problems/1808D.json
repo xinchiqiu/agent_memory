@@ -1,0 +1,39 @@
+{
+  "problem_id": "1808D",
+  "contest_id": 1808,
+  "index": "D",
+  "title": "Petya, Petya, Petr, and Palindromes",
+  "rating": 2100,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "two_pointers"
+  ],
+  "contest_date": "2023-03-29",
+  "solved_count": 2688,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8 5\n1 2 8 2 5 2 8 6\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n9 9\n1 2 3 4 5 4 3 2 1\n",
+      "output": "\n0\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

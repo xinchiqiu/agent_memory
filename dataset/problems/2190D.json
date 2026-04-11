@@ -1,0 +1,36 @@
+{
+  "problem_id": "2190D",
+  "contest_id": 2190,
+  "index": "D",
+  "title": "Prufer Vertex",
+  "rating": 2500,
+  "raw_tags": [
+    "combinatorics",
+    "dsu",
+    "number theory",
+    "probabilities",
+    "trees"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "union_find",
+    "math_number_theory",
+    "graph_dfs"
+  ],
+  "contest_date": "2026-01-17",
+  "solved_count": 885,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3 0\n5 4\n4 2\n3 4\n1 2\n4 5\n6 3\n1 6\n6 4\n2 1",
+      "output": "\n\n1 2 \n0 0 0 1 \n12 0 1 6 5 "
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

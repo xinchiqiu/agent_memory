@@ -1,0 +1,31 @@
+{
+  "problem_id": "2070A",
+  "contest_id": 2070,
+  "index": "A",
+  "title": "FizzBuzz Remixed",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-27",
+  "solved_count": 26324,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n0\n5\n15\n42\n1337\n17101997\n998244353",
+      "output": "\n1\n3\n4\n9\n270\n3420402\n199648872\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

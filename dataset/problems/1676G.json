@@ -1,0 +1,33 @@
+{
+  "problem_id": "1676G",
+  "contest_id": 1676,
+  "index": "G",
+  "title": "White-Black Balanced Subtrees",
+  "rating": 1300,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2022-05-10",
+  "solved_count": 23380,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n7\n1 1 2 3 3 5\nWBBWWBW\n2\n1\nBW\n8\n1 2 3 4 5 6 7\nBWBWBWBW",
+      "output": "\n2\n1\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

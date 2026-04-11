@@ -1,0 +1,36 @@
+{
+  "problem_id": "1935E",
+  "contest_id": 1935,
+  "index": "E",
+  "title": "Distance Learning Courses in MAC",
+  "rating": 2400,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-03-05",
+  "solved_count": 1634,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n0 1\n3 4\n3\n1 1\n1 2\n2 2\n4\n1 7\n1 7\n3 10\n2 2\n5\n1 3\n3 4\n2 3\n1 4\n1 2\n6\n1 2\n2 2\n0 1\n1 1\n3 3\n0 0\n4\n3 4\n5 5\n2 5\n1 2",
+      "output": "\n1 5 4 \n15 11 15 15 7 \n1 3 3 3 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

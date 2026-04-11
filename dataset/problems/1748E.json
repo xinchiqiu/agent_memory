@@ -1,0 +1,41 @@
+{
+  "problem_id": "1748E",
+  "contest_id": 1748,
+  "index": "E",
+  "title": "Yet Another Array Counting Problem",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "flows",
+    "math",
+    "trees"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "network_flow",
+    "math_number_theory",
+    "graph_dfs"
+  ],
+  "contest_date": "2022-11-12",
+  "solved_count": 2621,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 3\n1 3 2\n4 2\n2 2 2 2\n6 9\n6 9 6 9 6 9\n9 100\n10 40 20 20 100 60 80 60 60",
+      "output": "\n8\n5\n11880\n351025663\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

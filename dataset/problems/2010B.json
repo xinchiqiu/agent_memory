@@ -1,0 +1,33 @@
+{
+  "problem_id": "2010B",
+  "contest_id": 2010,
+  "index": "B",
+  "title": "Three Brothers",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-08-28",
+  "solved_count": 24545,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "3 1",
+      "output": "2"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

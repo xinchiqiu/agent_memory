@@ -1,0 +1,31 @@
+{
+  "problem_id": "1883D",
+  "contest_id": 1883,
+  "index": "D",
+  "title": "In Love",
+  "rating": 1500,
+  "raw_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2023-10-22",
+  "solved_count": 14381,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\n+ 1 2\n+ 3 4\n+ 2 3\n+ 2 2\n+ 3 4\n- 3 4\n- 3 4\n- 1 2\n+ 3 4\n- 2 2\n- 2 3\n- 3 4",
+      "output": "\nNO\nYES\nYES\nYES\nYES\nYES\nNO\nNO\nYES\nNO\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,41 @@
+{
+  "problem_id": "1624F",
+  "contest_id": 1624,
+  "index": "F",
+  "title": "Interacdive Problem",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "interactive"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2022-01-10",
+  "solved_count": 3763,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n\n1",
+      "output": "\n+ 1\n\n! 3"
+    },
+    {
+      "input": "\n5\n\n0\n\n0\n\n1\n",
+      "output": "\n+ 1\n\n+ 1\n\n+ 1\n\n! 5\n"
+    },
+    {
+      "input": "\n10\n\n0\n\n0\n\n1\n\n2",
+      "output": "\n\n+ 2\n\n+ 2\n\n+ 3\n\n+ 8\n\n! 20"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

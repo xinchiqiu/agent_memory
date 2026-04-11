@@ -1,0 +1,29 @@
+{
+  "problem_id": "1767A",
+  "contest_id": 1767,
+  "index": "A",
+  "title": "Cut the Triangle",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-12-16",
+  "solved_count": 21525,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 7\n6 8\n3 5\n4 5\n4 7\n6 8\n5 8\n1 8\n2 5\n3 6\n6 6\n6 3",
+      "output": "\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1772E",
+  "contest_id": 1772,
+  "index": "E",
+  "title": "Permutation Game",
+  "rating": 1700,
+  "raw_tags": [
+    "games"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2022-12-18",
+  "solved_count": 7628,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n1 2 4 3\n3\n2 3 1\n5\n3 4 5 2 1\n6\n1 5 6 3 2 4",
+      "output": "\nFirst\nTie\nSecond\nTie\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

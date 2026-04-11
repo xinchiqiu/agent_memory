@@ -1,0 +1,35 @@
+{
+  "problem_id": "1927G",
+  "contest_id": 1927,
+  "index": "G",
+  "title": "Paint Charges",
+  "rating": 2300,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-06",
+  "solved_count": 1966,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n13\n1\n1\n2\n1 1\n2\n2 1\n2\n1 2\n2\n2 2\n3\n1 1 1\n3\n3 1 2\n3\n1 3 1\n7\n1 2 3 1 2 4 2\n7\n2 1 1 1 2 3 1\n10\n2 2 5 1 6 1 8 2 8 2\n6\n2 1 2 1 1 2\n6\n1 1 4 1 3 2",
+      "output": "\n1\n2\n1\n1\n1\n3\n1\n2\n3\n4\n2\n3\n3\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

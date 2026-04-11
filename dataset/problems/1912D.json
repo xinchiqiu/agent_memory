@@ -1,0 +1,29 @@
+{
+  "problem_id": "1912D",
+  "contest_id": 1912,
+  "index": "D",
+  "title": "Divisibility Test",
+  "rating": 1900,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-13",
+  "solved_count": 1962,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n10 3\n10 11\n10 4\n10 7\n8 5\n10 6",
+      "output": "\n2 1\n3 1\n1 2\n3 3\n3 2\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2172E",
+  "contest_id": 2172,
+  "index": "E",
+  "title": "Number Maze",
+  "rating": 1200,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2025-11-16",
+  "solved_count": 5621,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n12 1 2\n123 1 2\n123 2 5\n",
+      "output": "\n0A2B\n1A2B\n1A2B\n"
+    },
+    {
+      "input": "\n3\n1234 15 9\n1234 1 24\n1234 1 1\n",
+      "output": "\n2A2B\n0A4B\n4A0B\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1814D",
+  "contest_id": 1814,
+  "index": "D",
+  "title": "Balancing Weapons",
+  "rating": 2500,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2023-04-06",
+  "solved_count": 1000,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 2\n6 3 13 7\n1 2 1 2\n3 2\n100 101 102\n100 99 98\n5 0\n1 12 4 4 3\n12 1 3 3 4\n2 50\n1000 10\n1000000000 1\n3 5\n1 19 11\n49 4 72",
+      "output": "\n2\n3\n0\n1\n2\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

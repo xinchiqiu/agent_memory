@@ -1,0 +1,33 @@
+{
+  "problem_id": "2151C",
+  "contest_id": 2151,
+  "index": "C",
+  "title": "Incremental Stay",
+  "rating": 1400,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-09-24",
+  "solved_count": 9929,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1\n32 78\n2\n4 5 6 9\n4\n6149048 26582657 36124499 43993239 813829899 860114890 910238130 913669539",
+      "output": "\n\n46 \n4 6 \n78018749 1737022233 1845329695 3385003015 "
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

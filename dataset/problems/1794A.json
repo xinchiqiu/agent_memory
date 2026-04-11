@@ -1,0 +1,29 @@
+{
+  "problem_id": "1794A",
+  "contest_id": 1794,
+  "index": "A",
+  "title": "Prefix and Suffix Array",
+  "rating": 800,
+  "raw_tags": [
+    "strings"
+  ],
+  "tags": [
+    "string_hashing"
+  ],
+  "contest_date": "2023-03-04",
+  "solved_count": 18761,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\nbcd cd a d abc ab\n3\ni io i oi\n2\ng g\n3\nt al lt a\n4\nbba a ab a abb ba",
+      "output": "\nNO\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

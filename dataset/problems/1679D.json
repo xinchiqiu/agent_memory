@@ -1,0 +1,46 @@
+{
+  "problem_id": "1679D",
+  "contest_id": 1679,
+  "index": "D",
+  "title": "Toss a Coin to Your Graph...",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "dfs and similar",
+    "dp",
+    "graphs"
+  ],
+  "tags": [
+    "binary_search",
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2022-05-14",
+  "solved_count": 5779,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6 7 4\n1 10 2 3 4 5\n1 2\n1 3\n3 4\n4 5\n5 6\n6 2\n2 5\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n6 7 100\n1 10 2 3 4 5\n1 2\n1 3\n3 4\n4 5\n5 6\n6 2\n2 5\n",
+      "output": "\n10\n"
+    },
+    {
+      "input": "\n2 1 5\n1 1\n1 2\n",
+      "output": "\n-1\n"
+    },
+    {
+      "input": "\n1 0 1\n1000000000\n",
+      "output": "\n1000000000\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

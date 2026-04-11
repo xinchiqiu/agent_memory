@@ -1,0 +1,31 @@
+{
+  "problem_id": "2152F",
+  "contest_id": 2152,
+  "index": "F",
+  "title": "Triple Attack",
+  "rating": 2500,
+  "raw_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2025-10-03",
+  "solved_count": 1006,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n6 10\n1 5 7 8 11 12\n6\n1 6\n1 5\n2 6\n1 4\n2 5\n3 6\n6 1\n1 1 1 3 3 3\n2\n3 3\n1 6\n12 15\n4 5 15 24 27 32 36 39 40 46 48 48\n20\n1 12\n1 11\n6 10\n1 8\n8 12\n11 12\n2 9\n3 8\n7 8\n7 10\n4 8\n9 12\n9 10\n2 12\n1 5\n3 12\n4 8\n3 7\n7 12\n10 11",
+      "output": "\n\n3\n2\n2\n2\n2\n2\n1\n4\n6\n6\n2\n4\n2\n2\n5\n3\n2\n2\n2\n2\n2\n6\n4\n5\n2\n3\n2\n2"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

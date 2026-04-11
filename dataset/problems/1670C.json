@@ -1,0 +1,37 @@
+{
+  "problem_id": "1670C",
+  "contest_id": 1670,
+  "index": "C",
+  "title": "Where is the Pizza?",
+  "rating": 1400,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "union_find",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-05-06",
+  "solved_count": 10938,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n7\n1 2 3 4 5 6 7\n2 3 1 7 6 5 4\n2 0 1 0 0 0 0\n1\n1\n1\n0\n6\n1 5 2 4 6 3\n6 5 3 1 4 2\n6 0 0 0 0 0\n8\n1 6 4 7 2 3 8 5\n3 2 8 1 4 5 6 7\n1 0 0 7 0 3 0 5\n10\n1 8 6 2 4 7 9 3 10 5\n1 9 2 3 4 10 8 6 7 5\n1 9 2 3 4 10 8 6 7 5\n7\n1 2 3 4 5 6 7\n2 3 1 7 6 5 4\n0 0 0 0 0 0 0\n5\n1 2 3 4 5\n1 2 3 4 5\n0 0 0 0 0\n5\n1 2 3 4 5\n1 2 3 5 4\n0 0 0 0 0\n3\n1 2 3\n3 1 2\n0 0 0",
+      "output": "\n4\n1\n2\n2\n1\n8\n1\n2\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

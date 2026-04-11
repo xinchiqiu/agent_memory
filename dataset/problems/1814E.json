@@ -1,0 +1,32 @@
+{
+  "problem_id": "1814E",
+  "contest_id": 1814,
+  "index": "E",
+  "title": "Chain Chips",
+  "rating": 2300,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "matrices"
+  ],
+  "tags": [
+    "implementation",
+    "dp"
+  ],
+  "contest_date": "2023-04-06",
+  "solved_count": 1688,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n10\n12 6 12 15 20 8 17 12 15\n8\n4 10\n7 3\n6 14\n9 9\n2 10\n3 5\n4 11\n7 11\n",
+      "output": "\n126\n108\n120\n108\n112\n98\n98\n114\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

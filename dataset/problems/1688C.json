@@ -1,0 +1,33 @@
+{
+  "problem_id": "1688C",
+  "contest_id": 1688,
+  "index": "C",
+  "title": "Manipulating History",
+  "rating": 1700,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2022-06-03",
+  "solved_count": 8708,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n2\na\nab\nb\ncd\nacd\n3\nz\na\na\naa\nyakumo\nran\nyakumoran",
+      "output": "\na\nz\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

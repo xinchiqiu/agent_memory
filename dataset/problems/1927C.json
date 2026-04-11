@@ -1,0 +1,33 @@
+{
+  "problem_id": "1927C",
+  "contest_id": 1927,
+  "index": "C",
+  "title": "Choose the Different Ones!",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-06",
+  "solved_count": 31388,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n6 5 6\n2 3 8 5 6 5\n1 3 4 10 5\n6 5 6\n2 3 4 5 6 5\n1 3 8 10 3\n3 3 4\n1 3 5\n2 4 6\n2 5 4\n1 4\n7 3 4 4 2\n1 4 2\n2\n6 4 4 2\n1 5 2\n3\n2 2 1 4 3",
+      "output": "\nYES\nNO\nYES\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

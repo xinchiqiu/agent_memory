@@ -1,0 +1,33 @@
+{
+  "problem_id": "2093F",
+  "contest_id": 2093,
+  "index": "F",
+  "title": "Hackers and Neural Networks",
+  "rating": 1800,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2025-04-08",
+  "solved_count": 5828,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3 3\nI love apples\nHe likes apples\nI love cats\nThey love dogs\n3 2\nIcy wake up\nwake Icy up\nwake up Icy\n4 3\nc o D E\nc o D s\nc O l S\nc o m E\n4 5\na s k A\nd s D t\nO R i A\na X b Y\nb a k A\nu s k J\n",
+      "output": "\n5\n-1\n6\n8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

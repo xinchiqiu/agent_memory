@@ -1,0 +1,35 @@
+{
+  "problem_id": "2023B",
+  "contest_id": 2023,
+  "index": "B",
+  "title": "Skipping",
+  "rating": 1700,
+  "raw_tags": [
+    "binary search",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "tags": [
+    "binary_search",
+    "dp",
+    "graph_dfs",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2024-10-20",
+  "solved_count": 6986,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n15 16\n2 1\n5\n10 10 100 100 1000\n3 4 1 1 1\n3\n100 49 50\n3 2 2\n4\n100 200 300 1000\n2 3 4 1",
+      "output": "\n16\n200\n100\n1000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,42 @@
+{
+  "problem_id": "1902D",
+  "contest_id": 1902,
+  "index": "D",
+  "title": "Robot Queries",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 5161,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8 3\nRDLLUURU\n-1 2 1 7\n0 0 3 4\n0 1 7 8",
+      "output": "\nYES\nYES\nNO\n"
+    },
+    {
+      "input": "\n\n4 2\nRLDU\n0 0 2 2\n-1 -1 2 3",
+      "output": "\nYES\nNO\n"
+    },
+    {
+      "input": "\n\n10 6\nDLUDLRULLD\n-1 0 1 10\n-1 -2 2 5\n-4 -2 6 10\n-1 0 3 9\n0 1 4 7\n-3 -1 5 8",
+      "output": "\nYES\nYES\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

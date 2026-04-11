@@ -1,0 +1,33 @@
+{
+  "problem_id": "1551C",
+  "contest_id": 1551,
+  "index": "C",
+  "title": "Interesting Story",
+  "rating": 1500,
+  "raw_tags": [
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2021-07-23",
+  "solved_count": 14400,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n3\nbac\naaada\ne\n3\naba\nabcde\naba\n2\nbaba\nbaba\n4\nab\nab\nc\nbc\n5\ncbdca\nd\na\nd\ne\n3\nb\nc\nca\n",
+      "output": "\n3\n2\n0\n2\n3\n2\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

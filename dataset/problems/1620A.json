@@ -1,0 +1,33 @@
+{
+  "problem_id": "1620A",
+  "contest_id": 1620,
+  "index": "A",
+  "title": "Equal or Not Equal",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "dsu",
+    "implementation"
+  ],
+  "tags": [
+    "constructive",
+    "union_find",
+    "implementation"
+  ],
+  "contest_date": "2021-12-18",
+  "solved_count": 23000,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\nEEE\nEN\nENNEENE\nNENN\n",
+      "output": "\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

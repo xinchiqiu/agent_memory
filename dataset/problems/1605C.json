@@ -1,0 +1,35 @@
+{
+  "problem_id": "1605C",
+  "contest_id": 1605,
+  "index": "C",
+  "title": "Dominant Character",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2021-11-12",
+  "solved_count": 18745,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n2\naa\n5\ncbabb\n8\ncacabccc\n",
+      "output": "\n2\n-1\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2008B",
+  "contest_id": 2008,
+  "index": "B",
+  "title": "Square or Not",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2024-09-01",
+  "solved_count": 32772,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n11\n4\n1111\n9\n111101111\n9\n111111111\n12\n111110011111",
+      "output": "\nNo\nYes\nYes\nNo\nNo\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

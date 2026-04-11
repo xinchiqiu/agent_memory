@@ -1,0 +1,29 @@
+{
+  "problem_id": "1569A",
+  "contest_id": 1569,
+  "index": "A",
+  "title": "Balanced Substring",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2021-09-08",
+  "solved_count": 26440,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1\na\n6\nabbaba\n6\nabbaba\n9\nbabbabbaa\n",
+      "output": "\n-1 -1\n1 6\n3 6\n2 5\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

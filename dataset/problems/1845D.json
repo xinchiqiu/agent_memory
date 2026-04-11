@@ -1,0 +1,43 @@
+{
+  "problem_id": "1845D",
+  "contest_id": 1845,
+  "index": "D",
+  "title": "Rating System",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "dsu",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "dp",
+    "union_find",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2023-06-29",
+  "solved_count": 8941,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n3 -2 1 2\n3\n-1 -2 -1\n2\n4 2\n7\n5 1 -3 2 -1 -2 2",
+      "output": "\n3\n0\n25\n6\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

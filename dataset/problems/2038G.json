@@ -1,0 +1,32 @@
+{
+  "problem_id": "2038G",
+  "contest_id": 2038,
+  "index": "G",
+  "title": "Guess One Character",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2024-11-18",
+  "solved_count": 2916,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3     // 3 test cases\n3     // the length of the string is 3\n\n1     // 101 occurs once\n\n1     // guessed correctly\n2     // the length of the string is 2\n\n0     // 00 occurs zero times\n\n0     // 0 occurs zero times\n\n1     // guessed correctly\n2     // the length of the string is 2\n\n1     // 1 occurs once\n\n0     // 01 occurs zero times\n\n1     // guessed correctly\n",
+      "output": "\n\n\n1 101 // how many times 101 occurs\n\n0 2 0 // guess: s[2] is 0\n\n\n1 00  // how many times 00 occurs\n\n1 0   // how many times 0 occurs\n\n0 1 1 // guess: s[1] is 1\n\n\n1 1   // how many times 1 occurs\n\n1 01  // how many times 01 occurs\n\n0 2 0 // guess: s[2] is 0\n\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

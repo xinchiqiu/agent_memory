@@ -1,0 +1,31 @@
+{
+  "problem_id": "1968C",
+  "contest_id": 1968,
+  "index": "C",
+  "title": "Assembly via Remainders",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-05-02",
+  "solved_count": 29001,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n2 4 1\n3\n1 1\n6\n4 2 5 1 2\n2\n500\n3\n1 5",
+      "output": "\n3 5 4 9\n2 5 11\n5 14 16 5 11 24\n501 500\n2 7 5"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

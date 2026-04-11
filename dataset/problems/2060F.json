@@ -1,0 +1,33 @@
+{
+  "problem_id": "2060F",
+  "contest_id": 2060,
+  "index": "F",
+  "title": "Multiplicative Arrays",
+  "rating": 2200,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-01-19",
+  "solved_count": 2579,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 2\n4 3\n10 6969420",
+      "output": "\n2 3\n3 6 6 10\n6969420 124188773 124188773 729965558 124188773 337497990 124188773 50981194 729965558 337497990\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

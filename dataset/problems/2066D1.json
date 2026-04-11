@@ -1,0 +1,33 @@
+{
+  "problem_id": "2066D1",
+  "contest_id": 2066,
+  "index": "D1",
+  "title": "Club of Young Aircraft Builders (easy version)",
+  "rating": 2400,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-11",
+  "solved_count": 1409,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3 2 4\n0 0 0 0\n5 5 7\n0 0 0 0 0 0 0",
+      "output": "\n6\n190\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

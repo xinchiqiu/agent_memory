@@ -1,0 +1,37 @@
+{
+  "problem_id": "2077C",
+  "contest_id": 2077,
+  "index": "C",
+  "title": "Binary Subsequence Value Sum",
+  "rating": 2300,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "fft",
+    "math",
+    "matrices"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-03-10",
+  "solved_count": 2274,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3 2\n010\n1\n3\n10 3\n0101000110\n3\n5\n10\n24 1\n011001100110000101111000\n24",
+      "output": "\n1\n5\n512\n768\n1536\n23068672\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

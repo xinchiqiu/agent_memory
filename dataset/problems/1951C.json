@@ -1,0 +1,33 @@
+{
+  "problem_id": "1951C",
+  "contest_id": 1951,
+  "index": "C",
+  "title": "Ticket Hoarding",
+  "rating": 1400,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-04-06",
+  "solved_count": 13681,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 2 3\n8 6 4 2\n4 2 8\n8 6 4 2\n5 100 1\n10000 1 100 10 1000\n6 3 9\n5 5 5 5 5 5",
+      "output": "\n10\n64\n1\n72\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

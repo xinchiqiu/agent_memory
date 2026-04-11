@@ -1,0 +1,37 @@
+{
+  "problem_id": "1764D",
+  "contest_id": 1764,
+  "index": "D",
+  "title": "Doremy's Pegging Game",
+  "rating": 2000,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-11-26",
+  "solved_count": 3094,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 100000007\n",
+      "output": "\n16\n"
+    },
+    {
+      "input": "\n1145 141919831\n",
+      "output": "\n105242108\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

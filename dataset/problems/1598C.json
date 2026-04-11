@@ -1,0 +1,36 @@
+{
+  "problem_id": "1598C",
+  "contest_id": 1598,
+  "index": "C",
+  "title": "Delete Two Elements",
+  "rating": 1200,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2021-10-10",
+  "solved_count": 23466,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n4\n8 8 8 8\n3\n50 20 10\n5\n1 4 7 3 5\n7\n1 2 3 4 5 6 7\n",
+      "output": "\n6\n0\n2\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2116B",
+  "contest_id": 2116,
+  "index": "B",
+  "title": "Gellyfish and Baby's Breath",
+  "rating": 1300,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2025-05-31",
+  "solved_count": 17262,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n0 2 1\n1 2 0\n5\n0 1 2 3 4\n4 3 2 1 0\n10\n5 8 9 3 4 0 2 7 1 6\n9 5 1 4 0 3 2 8 7 6",
+      "output": "\n3 6 8 \n17 18 20 24 32 \n544 768 1024 544 528 528 516 640 516 768 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

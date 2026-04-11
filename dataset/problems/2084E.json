@@ -1,0 +1,39 @@
+{
+  "problem_id": "2084E",
+  "contest_id": 2084,
+  "index": "E",
+  "title": "Blossom",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "math_combinatorics",
+    "dp",
+    "implementation",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2025-04-05",
+  "solved_count": 1718,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n0 -1\n2\n-1 -1\n3\n2 0 1\n3\n-1 2 -1\n5\n-1 0 -1 2 -1",
+      "output": "\n3\n6\n7\n10\n104\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

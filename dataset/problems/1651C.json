@@ -1,0 +1,32 @@
+{
+  "problem_id": "1651C",
+  "contest_id": 1651,
+  "index": "C",
+  "title": "Fault-tolerant Network",
+  "rating": 1500,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2022-03-10",
+  "solved_count": 11535,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3\n1 10 1\n20 4 25\n4\n1 1 1 1\n1000000000 1000000000 1000000000 1000000000",
+      "output": "\n31\n1999999998\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1646B",
+  "contest_id": 1646,
+  "index": "B",
+  "title": "Quality vs Quantity",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2022-03-04",
+  "solved_count": 22512,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n1 2 3\n5\n2 8 6 3 1\n4\n3 5 4 2\n5\n1000000000 1000000000 1000000000 1000000000 1000000000",
+      "output": "\nNO\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

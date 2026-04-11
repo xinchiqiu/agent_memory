@@ -1,0 +1,29 @@
+{
+  "problem_id": "1764A",
+  "contest_id": 1764,
+  "index": "A",
+  "title": "Doremy's Paint",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-11-26",
+  "solved_count": 17365,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5\n1 3 2 2 4\n5\n1 2 3 4 5\n4\n2 1 2 1\n3\n2 3 3\n2\n2 2\n1\n1\n9\n9 8 5 2 1 1 2 3 3",
+      "output": "\n2 4\n1 5\n1 4\n2 3\n1 2\n1 1\n3 9\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

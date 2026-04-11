@@ -1,0 +1,35 @@
+{
+  "problem_id": "2187B",
+  "contest_id": 2187,
+  "index": "B",
+  "title": "Shortest Statement Ever",
+  "rating": 1800,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2026-01-29",
+  "solved_count": 5004,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n0 0\n1 1\n3 6\n7 11\n4 4\n123 321\n1073741823 1073741822",
+      "output": "\n\n0 0\n2 1\n3 8\n6 9\n4 3\n128 321\n1073741824 1073741822"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

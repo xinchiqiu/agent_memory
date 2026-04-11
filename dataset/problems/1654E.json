@@ -1,0 +1,47 @@
+{
+  "problem_id": "1654E",
+  "contest_id": 1654,
+  "index": "E",
+  "title": "Arithmetic Operations",
+  "rating": 2300,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "graphs",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "graph_dfs",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-03-20",
+  "solved_count": 2348,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n9\n3 2 7 8 6 9 5 4 1\n",
+      "output": "\n6\n"
+    },
+    {
+      "input": "\n14\n19 2 15 8 9 14 17 13 4 14 4 11 15 7\n",
+      "output": "\n10\n"
+    },
+    {
+      "input": "\n10\n100000 1 60000 2 20000 4 8 16 32 64\n",
+      "output": "\n7\n"
+    },
+    {
+      "input": "\n4\n10000 20000 10000 1\n",
+      "output": "\n2\n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

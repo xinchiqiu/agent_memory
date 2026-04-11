@@ -1,0 +1,33 @@
+{
+  "problem_id": "1993D",
+  "contest_id": 1993,
+  "index": "D",
+  "title": "Med-imize",
+  "rating": 2200,
+  "raw_tags": [
+    "binary search",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2024-08-04",
+  "solved_count": 4441,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 3\n3 9 9 2\n5 3\n3 2 5 6 4\n7 1\n5 9 2 6 5 4 6\n8 2\n7 1 2 6 8 3 4 5\n4 5\n3 4 5 6",
+      "output": "\n3\n4\n9\n6\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

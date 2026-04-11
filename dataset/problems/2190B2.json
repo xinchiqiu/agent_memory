@@ -1,0 +1,35 @@
+{
+  "problem_id": "2190B2",
+  "contest_id": 2190,
+  "index": "B2",
+  "title": "Sub-RBS (Hard Version)",
+  "rating": 1900,
+  "raw_tags": [
+    "dp",
+    "games",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "dp",
+    "constructive",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2026-01-17",
+  "solved_count": 3046,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n(\n6\n()()()\n6\n(())()\n8\n(())()()\n22\n()()())()()(()()()((()",
+      "output": "\n\n0\n4\n0\n22\n563070"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "2148B",
+  "contest_id": 2148,
+  "index": "B",
+  "title": "Lasers",
+  "rating": 800,
+  "raw_tags": [
+    "geometry"
+  ],
+  "tags": [
+    "geometry"
+  ],
+  "contest_date": "2025-09-13",
+  "solved_count": 32462,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n1 1 2 2\n1\n1\n2 1 100000 100000\n42 58\n32",
+      "output": "\n2\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

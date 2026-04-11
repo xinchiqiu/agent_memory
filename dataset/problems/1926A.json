@@ -1,0 +1,29 @@
+{
+  "problem_id": "1926A",
+  "contest_id": 1926,
+  "index": "A",
+  "title": "Vlad and the Best of Five",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2024-02-19",
+  "solved_count": 61394,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\nABABB\nABABA\nBBBAB\nAAAAA\nBBBBB\nBABAA\nAAAAB\nBAAAA",
+      "output": "\nB\nA\nB\nA\nB\nA\nA\nA\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

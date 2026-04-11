@@ -1,0 +1,36 @@
+{
+  "problem_id": "1557C",
+  "contest_id": 1557,
+  "index": "C",
+  "title": "Moamen and XOR",
+  "rating": 1700,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "math",
+    "matrices"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-08-09",
+  "solved_count": 10307,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n3 1\n2 1\n4 0\n",
+      "output": "\n5\n2\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2078D",
+  "contest_id": 2078,
+  "index": "D",
+  "title": "Scammy Game Ad",
+  "rating": 1800,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2025-03-10",
+  "solved_count": 6390,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n+ 4 x 2\nx 3 x 3\n+ 7 + 4\n4\n+ 9 x 2\nx 2 x 3\n+ 9 + 10\nx 2 + 1\n4\nx 2 + 1\n+ 9 + 10\nx 2 x 3\n+ 9 x 2\n5\nx 3 x 3\nx 2 x 2\n+ 21 + 2\nx 2 x 3\n+ 41 x 3",
+      "output": "\n32\n98\n144\n351\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

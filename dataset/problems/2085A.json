@@ -1,0 +1,31 @@
+{
+  "problem_id": "2085A",
+  "contest_id": 2085,
+  "index": "A",
+  "title": "Serval and String Theory",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "tags": [
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2025-03-22",
+  "solved_count": 23237,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n1 10000\na\n3 3\nrev\n6 0\nstring\n6 0\ntheory\n9 2\nuniversal\n19 0\ncodeforcesecrofedoc\n19 1\ncodeforcesecrofedoc\n3 1\nzzz",
+      "output": "\nNO\nYES\nNO\nYES\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,43 @@
+{
+  "problem_id": "1776I",
+  "contest_id": 1776,
+  "index": "I",
+  "title": "Spinach Pizza",
+  "rating": 2500,
+  "raw_tags": [
+    "games",
+    "geometry",
+    "greedy",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "geometry",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-02-19",
+  "solved_count": 887,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n0 0\n6 1\n5 3\n1 4\n",
+      "output": "\n-"
+    },
+    {
+      "input": "\n6\n0 0\n2 0\n3 2\n2 4\n0 4\n-1 2\n",
+      "output": "\n-"
+    },
+    {
+      "input": "\n7\n0 0\n2 0\n5 2\n4 5\n1 5\n-1 4\n-1 2\n",
+      "output": "\n-"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1708A",
+  "contest_id": 1708,
+  "index": "A",
+  "title": "Difference Operations",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-07-16",
+  "solved_count": 22541,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n5 10\n3\n1 2 3\n4\n1 1 1 1\n9\n9 9 8 2 4 4 3 5 3",
+      "output": "\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

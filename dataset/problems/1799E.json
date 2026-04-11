@@ -1,0 +1,41 @@
+{
+  "problem_id": "1799E",
+  "contest_id": 1799,
+  "index": "E",
+  "title": "City Union",
+  "rating": 2300,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "union_find",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-02-27",
+  "solved_count": 1395,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n1 3\n#.#\n2 2\n.#\n#.\n4 4\n..##\n...#\n#...\n##..\n6 6\n.##...\n##....\n......\n....##\n.....#\n...###\n6 5\n.#..#\n.#..#\n.#..#\n.#.##\n.#...\n##...\n5 5\n#####\n#...#\n#.#.#\n#...#\n#####\n4 4\n.##.\n##.#\n#.##\n.##.\n5 5\n..###\n....#\n.....\n#....\n#....\n5 6\n.##...\n##....\n#....#\n....##\n...##.\n6 5\n..##.\n...##\n....#\n#....\n##...\n.##..\n5 4\n..##\n..#.\n..#.\n#...\n#...",
+      "output": "\n###\n\n.#\n##\n\n..##\n..##\n###.\n##..\n\n.##...\n###...\n..#...\n..####\n...###\n...###\n\n.####\n.####\n.####\n.####\n.#...\n##...\n\n#####\n#####\n#####\n#####\n#####\n\n.##.\n####\n####\n.##.\n\n..###\n..###\n..#..\n###..\n#....\n\n.##...\n###...\n######\n...###\n...##.\n\n..##.\n..###\n..###\n###..\n###..\n.##..\n\n..##\n..#.\n..#.\n###.\n#..."
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

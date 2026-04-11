@@ -1,0 +1,33 @@
+{
+  "problem_id": "1770C",
+  "contest_id": 1770,
+  "index": "C",
+  "title": "Koxia and Number Theory",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "chinese remainder theorem",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-12-30",
+  "solved_count": 9601,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3\n5 7 10\n3\n3 3 4",
+      "output": "\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

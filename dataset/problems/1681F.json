@@ -1,0 +1,54 @@
+{
+  "problem_id": "1681F",
+  "contest_id": 1681,
+  "index": "F",
+  "title": "Unique Occurrences",
+  "rating": 2300,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "divide_and_conquer",
+    "dp",
+    "union_find"
+  ],
+  "contest_date": "2022-05-23",
+  "solved_count": 2268,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1 2 1\n1 3 2\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n3\n1 2 2\n1 3 2\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n5\n1 4 4\n1 2 3\n3 4 4\n4 5 5\n",
+      "output": "\n14\n"
+    },
+    {
+      "input": "\n2\n2 1 1\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n10\n10 2 3\n3 8 8\n4 8 9\n5 8 5\n3 10 7\n7 8 2\n5 6 6\n9 3 4\n1 6 3\n",
+      "output": "\n120\n"
+    }
+  ],
+  "time_limit": "6 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "1965B",
+  "contest_id": 1965,
+  "index": "B",
+  "title": "Missing Subsequence Sum",
+  "rating": 1800,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-27",
+  "solved_count": 8048,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2 2\n6 1\n8 8\n9 3\n10 7",
+      "output": "\n1\n1\n5\n2 3 4 5 6\n7\n1 1 1 1 1 1 1\n4\n7 1 4 1\n4\n1 2 8 3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

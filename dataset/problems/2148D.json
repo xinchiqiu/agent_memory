@@ -1,0 +1,33 @@
+{
+  "problem_id": "2148D",
+  "contest_id": 2148,
+  "index": "D",
+  "title": "Destruction of the Dandelion Fields",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2025-09-13",
+  "solved_count": 26131,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n2 4 6\n4\n4 2 1 6\n4\n1000000000 999999999 1000000000 999999999",
+      "output": "\n0\n13\n2999999999\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

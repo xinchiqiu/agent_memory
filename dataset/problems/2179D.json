@@ -1,0 +1,35 @@
+{
+  "problem_id": "2179D",
+  "contest_id": 2179,
+  "index": "D",
+  "title": "Blackslex and Penguin Civilization",
+  "rating": 1300,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-12-23",
+  "solved_count": 13105,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n1\n2",
+      "output": "\n\n1 0 \n3 1 0 2 "
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

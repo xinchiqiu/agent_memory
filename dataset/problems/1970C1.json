@@ -1,0 +1,33 @@
+{
+  "problem_id": "1970C1",
+  "contest_id": 1970,
+  "index": "C1",
+  "title": "Game on Tree (Easy)",
+  "rating": 1400,
+  "raw_tags": [
+    "games"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2024-05-04",
+  "solved_count": 4938,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3 1\n2 3\n3 1\n3",
+      "output": "\nRon\n"
+    },
+    {
+      "input": "\n\n5 1\n1 2\n2 3\n3 4\n4 5\n5",
+      "output": "\nHermione\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

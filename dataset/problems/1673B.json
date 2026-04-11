@@ -1,0 +1,33 @@
+{
+  "problem_id": "1673B",
+  "contest_id": 1673,
+  "index": "B",
+  "title": "A Perfectly Balanced String?",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2022-04-30",
+  "solved_count": 21181,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\naba\nabb\nabc\naaaaa\nabcba",
+      "output": "\nYES\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

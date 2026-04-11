@@ -1,0 +1,29 @@
+{
+  "problem_id": "1633B",
+  "contest_id": 1633,
+  "index": "B",
+  "title": "Minority",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-01-31",
+  "solved_count": 29124,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n01\n1010101010111\n00110001000\n1",
+      "output": "\n0\n5\n3\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

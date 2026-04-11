@@ -1,0 +1,35 @@
+{
+  "problem_id": "1996C",
+  "contest_id": 1996,
+  "index": "C",
+  "title": "Sort",
+  "rating": 1200,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2024-07-26",
+  "solved_count": 27801,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 3\nabcde\nedcba\n1 5\n1 4\n3 3\n4 2\nzzde\nazbe\n1 3\n1 4\n6 3\nuwuwuw\nwuwuwu\n2 4\n1 3\n1 6",
+      "output": "\n0\n1\n0\n2\n2\n1\n1\n0\n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

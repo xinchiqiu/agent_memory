@@ -1,0 +1,32 @@
+{
+  "problem_id": "1826C",
+  "contest_id": 1826,
+  "index": "C",
+  "title": "Dreaming of Freedom",
+  "rating": 1300,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-05-05",
+  "solved_count": 15542,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 2\n4 2\n5 3\n1000000 1000000\n1 1000000",
+      "output": "\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

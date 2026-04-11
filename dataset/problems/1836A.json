@@ -1,0 +1,31 @@
+{
+  "problem_id": "1836A",
+  "contest_id": 1836,
+  "index": "A",
+  "title": "Destroyer",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2023-06-18",
+  "solved_count": 21357,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n6\n0 1 2 0 1 0\n9\n0 0 0 0 1 1 1 2 2\n3\n0 0 2\n1\n99\n5\n0 1 2 3 4",
+      "output": "\nYES\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

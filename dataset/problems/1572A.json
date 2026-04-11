@@ -1,0 +1,40 @@
+{
+  "problem_id": "1572A",
+  "contest_id": 1572,
+  "index": "A",
+  "title": "Book",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "graphs",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "dp",
+    "graph_dfs",
+    "sorting"
+  ],
+  "contest_date": "2021-09-18",
+  "solved_count": 10313,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n4\n1 2\n0\n2 1 4\n1 2\n5\n1 5\n1 1\n1 2\n1 3\n1 4\n5\n0\n0\n2 1 2\n1 2\n2 2 1\n4\n2 2 3\n0\n0\n2 3 2\n5\n1 2\n1 3\n1 4\n1 5\n0\n",
+      "output": "\n2\n-1\n1\n2\n5\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

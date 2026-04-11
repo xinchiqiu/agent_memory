@@ -1,0 +1,29 @@
+{
+  "problem_id": "2104A",
+  "contest_id": 2104,
+  "index": "A",
+  "title": "Three Decks",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2025-04-28",
+  "solved_count": 25968,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 5 10\n12 20 30\n3 5 7\n1 5 6",
+      "output": "\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

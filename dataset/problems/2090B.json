@@ -1,0 +1,33 @@
+{
+  "problem_id": "2090B",
+  "contest_id": 2090,
+  "index": "B",
+  "title": "Pushing Balls",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2025-03-23",
+  "solved_count": 16213,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 3\n001\n001\n110\n3 3\n010\n111\n010\n3 3\n111\n111\n111\n3 3\n000\n000\n000\n3 3\n000\n000\n001",
+      "output": "\nYES\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

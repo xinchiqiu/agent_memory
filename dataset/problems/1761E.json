@@ -1,0 +1,44 @@
+{
+  "problem_id": "1761E",
+  "contest_id": 1761,
+  "index": "E",
+  "title": "Make It Connected",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "dsu",
+    "graphs",
+    "greedy",
+    "matrices",
+    "trees",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "constructive",
+    "union_find",
+    "graph_dfs",
+    "greedy",
+    "dp",
+    "two_pointers"
+  ],
+  "contest_date": "2022-11-20",
+  "solved_count": 2135,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n011\n100\n100\n3\n000\n001\n010\n4\n0100\n1000\n0001\n0010\n6\n001100\n000011\n100100\n101000\n010001\n010010",
+      "output": "\n0\n1\n1\n2\n3 4 \n3\n2 5 6 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1797C",
+  "contest_id": 1797,
+  "index": "C",
+  "title": "Li Hua and Chess",
+  "rating": 1600,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-04-08",
+  "solved_count": 8856,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n3 4\n\n1\n\n2\n\n5 3\n\n3\n\n1\n\n2",
+      "output": "\n\n\n? 2 3\n\n? 2 4\n\n! 2 2\n\n? 2 2\n\n? 5 2\n\n? 5 3\n\n! 5 1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

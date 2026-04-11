@@ -1,0 +1,29 @@
+{
+  "problem_id": "2118B",
+  "contest_id": 2118,
+  "index": "B",
+  "title": "Make It Permutation",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2025-06-12",
+  "solved_count": 19755,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3\n4",
+      "output": "\n4\n2 1 3\n2 2 3\n3 1 2\n3 2 3\n5\n2 1 4\n3 1 3\n3 2 4\n4 3 4\n4 1 2"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,30 @@
+{
+  "problem_id": "1958B",
+  "contest_id": 1958,
+  "index": "B",
+  "title": "Clock in the Pool",
+  "rating": 1400,
+  "raw_tags": [
+    "*special",
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2024-05-13",
+  "solved_count": 1180,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 1\n5 14\n5 15\n10 110\n99999999 1000000000",
+      "output": "\n1\n0\n10\n0\n99999989\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

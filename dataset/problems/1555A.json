@@ -1,0 +1,31 @@
+{
+  "problem_id": "1555A",
+  "contest_id": 1555,
+  "index": "A",
+  "title": "PizzaForces",
+  "rating": 900,
+  "raw_tags": [
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-07-30",
+  "solved_count": 30235,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n12\n15\n300\n1\n9999999999999999\n3\n",
+      "output": "\n30\n40\n750\n15\n25000000000000000\n15\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

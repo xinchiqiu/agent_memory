@@ -1,0 +1,37 @@
+{
+  "problem_id": "1996G",
+  "contest_id": 1996,
+  "index": "G",
+  "title": "Penacony",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "graphs",
+    "greedy",
+    "hashing"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "graph_dfs",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-07-26",
+  "solved_count": 2238,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n8 3\n1 8\n2 7\n4 5\n13 4\n1 13\n2 12\n3 11\n4 10\n10 2\n2 3\n3 4\n10 4\n3 8\n5 10\n2 10\n4 10\n4 1\n1 3\n5 2\n3 5\n1 4\n5 2\n2 5\n1 3",
+      "output": "\n4\n7\n2\n7\n2\n3\n3\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

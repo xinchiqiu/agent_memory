@@ -1,0 +1,31 @@
+{
+  "problem_id": "1786B",
+  "contest_id": 1786,
+  "index": "B",
+  "title": "Cake Assembly Line",
+  "rating": 1300,
+  "raw_tags": [
+    "brute force",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "sorting"
+  ],
+  "contest_date": "2023-02-05",
+  "solved_count": 9790,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 10 5\n65 95 165\n40 65 145\n5 2 1\n1 6 11 16 21\n4 9 14 19 24\n3 3 2\n13 22 29\n5 16 25\n4 4 1\n27 36 127 136\n35 50 141 144",
+      "output": "\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

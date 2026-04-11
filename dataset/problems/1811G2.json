@@ -1,0 +1,39 @@
+{
+  "problem_id": "1811G2",
+  "contest_id": 1811,
+  "index": "G2",
+  "title": "Vlad and the Nice Paths (hard version)",
+  "rating": 2200,
+  "raw_tags": [
+    "binary search",
+    "combinatorics",
+    "data structures",
+    "dp",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "math_combinatorics",
+    "implementation",
+    "dp",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2023-04-04",
+  "solved_count": 2102,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5 2\n1 2 3 4 5\n7 2\n1 3 1 3 3 1 3\n11 4\n1 1 1 1 1 1 1 1 1 1 1\n5 2\n1 1 2 2 2\n5 1\n1 2 3 4 5",
+      "output": "\n1\n4\n165\n3\n1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

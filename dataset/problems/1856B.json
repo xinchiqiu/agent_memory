@@ -1,0 +1,31 @@
+{
+  "problem_id": "1856B",
+  "contest_id": 1856,
+  "index": "B",
+  "title": "Good Arrays",
+  "rating": 900,
+  "raw_tags": [
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-08-05",
+  "solved_count": 27259,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n6 1 2\n2\n1 1\n4\n3 1 2 4\n1\n17\n5\n1 2 1 1 1\n3\n618343152 819343431 1000000000",
+      "output": "\nYES\nNO\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

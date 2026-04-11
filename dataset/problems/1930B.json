@@ -1,0 +1,33 @@
+{
+  "problem_id": "1930B",
+  "contest_id": 1930,
+  "index": "B",
+  "title": "Permutation Printing",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-17",
+  "solved_count": 17567,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n4\n3",
+      "output": "\n4 1 2 3\n1 2 3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

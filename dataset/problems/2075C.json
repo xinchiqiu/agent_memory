@@ -1,0 +1,33 @@
+{
+  "problem_id": "2075C",
+  "contest_id": 2075,
+  "index": "C",
+  "title": "Two Colors",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "combinatorics",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-03-17",
+  "solved_count": 14143,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 2\n2 4\n5 2\n3 4\n12 3\n5 9 8",
+      "output": "\n4\n6\n22\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

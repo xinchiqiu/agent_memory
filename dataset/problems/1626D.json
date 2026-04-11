@@ -1,0 +1,35 @@
+{
+  "problem_id": "1626D",
+  "contest_id": 1626,
+  "index": "D",
+  "title": "Martial Arts Tournament",
+  "rating": 2100,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-01-16",
+  "solved_count": 4314,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n3 1 2 1\n1\n1\n6\n2 2 2 1 1 1\n8\n6 3 6 3 6 3 6 6",
+      "output": "\n0\n2\n3\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

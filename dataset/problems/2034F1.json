@@ -1,0 +1,35 @@
+{
+  "problem_id": "2034F1",
+  "contest_id": 2034,
+  "index": "F1",
+  "title": "Khayyam's Royal Decree (Easy Version)",
+  "rating": 2500,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-11-30",
+  "solved_count": 880,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 4 0\n1 1 1\n1 0\n3 3 2\n1 1\n2 2\n3 3 2\n2 1\n1 2\n10 4 5\n1 0\n8 0\n6 4\n0 2\n7 4",
+      "output": "\n10\n499122180\n798595498\n149736666\n414854846\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

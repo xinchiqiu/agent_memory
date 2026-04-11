@@ -1,0 +1,31 @@
+{
+  "problem_id": "1619A",
+  "contest_id": 1619,
+  "index": "A",
+  "title": "Square String?",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2021-12-20",
+  "solved_count": 62258,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n10\na\naa\naaa\naaaa\nabab\nabcabc\nabacaba\nxxyy\nxyyx\nxyxy\n",
+      "output": "\nNO\nYES\nNO\nYES\nYES\nYES\nNO\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

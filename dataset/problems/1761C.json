@@ -1,0 +1,34 @@
+{
+  "problem_id": "1761C",
+  "contest_id": 1761,
+  "index": "C",
+  "title": "Set Construction",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2022-11-20",
+  "solved_count": 10663,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n4\n0001\n1001\n0001\n0000\n3\n011\n001\n000\n",
+      "output": "\n3 1 2 3\n2 1 3\n2 2 4\n4 1 2 3 4\n1 1\n2 1 2\n3 1 2 3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

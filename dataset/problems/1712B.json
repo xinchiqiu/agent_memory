@@ -1,0 +1,33 @@
+{
+  "problem_id": "1712B",
+  "contest_id": 1712,
+  "index": "B",
+  "title": "Woeful Permutation",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-08-13",
+  "solved_count": 22342,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n1\n2",
+      "output": "\n1 \n2 1 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1742A",
+  "contest_id": 1742,
+  "index": "A",
+  "title": "Sum",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-10-13",
+  "solved_count": 102247,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1 4 3\n2 5 8\n9 11 20\n0 0 0\n20 20 20\n4 12 3\n15 7 8",
+      "output": "\nYES\nNO\nYES\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

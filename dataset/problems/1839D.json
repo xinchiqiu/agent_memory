@@ -1,0 +1,33 @@
+{
+  "problem_id": "1839D",
+  "contest_id": 1839,
+  "index": "D",
+  "title": "Ball Sorting",
+  "rating": 2100,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "sorting"
+  ],
+  "contest_date": "2023-06-03",
+  "solved_count": 2673,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n6\n2 3 1 4 6 5\n3\n1 2 3\n11\n7 3 4 6 8 9 10 2 5 11 1",
+      "output": "\n3 2 2 2 2 2 \n0 0 0 \n10 5 4 4 4 4 4 4 4 4 4 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

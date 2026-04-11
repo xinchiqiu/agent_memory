@@ -1,0 +1,31 @@
+{
+  "problem_id": "2091A",
+  "contest_id": 2091,
+  "index": "A",
+  "title": "Olympiad Date",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2025-03-25",
+  "solved_count": 38671,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n10\n2 0 1 2 3 2 5 0 0 1\n8\n2 0 1 2 3 2 5 0\n8\n2 0 1 0 3 2 5 0\n16\n2 3 1 2 3 0 1 9 2 1 0 3 5 4 0 3",
+      "output": "\n9\n0\n8\n15\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

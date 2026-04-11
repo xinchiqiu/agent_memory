@@ -1,0 +1,45 @@
+{
+  "problem_id": "1635D",
+  "contest_id": 1635,
+  "index": "D",
+  "title": "Infinite Set",
+  "rating": 1800,
+  "raw_tags": [
+    "bitmasks",
+    "dp",
+    "math",
+    "matrices",
+    "number theory",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2022-02-20",
+  "solved_count": 7021,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 4\n6 1\n",
+      "output": "\n9\n"
+    },
+    {
+      "input": "\n4 7\n20 39 5 200\n",
+      "output": "\n14\n"
+    },
+    {
+      "input": "\n2 200000\n48763 1000000000\n",
+      "output": "\n448201910\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

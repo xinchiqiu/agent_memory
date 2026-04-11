@@ -1,0 +1,39 @@
+{
+  "problem_id": "1776L",
+  "contest_id": 1776,
+  "index": "L",
+  "title": "Controllers",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-02-19",
+  "solved_count": 10992,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8\n+-+---+-\n5\n2 1\n10 3\n7 9\n10 10\n5 3\n",
+      "output": "\nYES\nNO\nNO\nNO\nYES\n"
+    },
+    {
+      "input": "\n6\n+-++--\n2\n9 7\n1 1\n",
+      "output": "\nYES\nYES\n"
+    },
+    {
+      "input": "\n20\n+-----+--+--------+-\n2\n1000000000 99999997\n250000000 1000000000\n",
+      "output": "\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

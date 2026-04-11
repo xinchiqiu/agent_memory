@@ -1,0 +1,38 @@
+{
+  "problem_id": "2070E",
+  "contest_id": 2070,
+  "index": "E",
+  "title": "Game with Binary String",
+  "rating": 2200,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "divide and conquer",
+    "games",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "divide_and_conquer",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-27",
+  "solved_count": 1808,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n0010010011",
+      "output": "\n12\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

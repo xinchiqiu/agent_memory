@@ -1,0 +1,39 @@
+{
+  "problem_id": "1659A",
+  "contest_id": 1659,
+  "index": "A",
+  "title": "Red Versus Blue",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-04-17",
+  "solved_count": 30070,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n7 4 3\n6 5 1\n19 13 6",
+      "output": "\nRBRBRBR\nRRRBRR\nRRBRRBRRBRRBRRBRRBR\n"
+    },
+    {
+      "input": "\n\n6\n3 2 1\n10 6 4\n11 6 5\n10 9 1\n10 8 2\n11 9 2",
+      "output": "\nRBR\nRRBRBRBRBR\nRBRBRBRBRBR\nRRRRRBRRRR\nRRRBRRRBRR\nRRRBRRRBRRR\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

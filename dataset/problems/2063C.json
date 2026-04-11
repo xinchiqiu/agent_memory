@@ -1,0 +1,41 @@
+{
+  "problem_id": "2063C",
+  "contest_id": 2063,
+  "index": "C",
+  "title": "Remove Exactly Two",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2025-01-22",
+  "solved_count": 14385,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n1 2\n4\n1 2\n2 3\n2 4\n7\n1 2\n1 3\n2 4\n4 5\n5 6\n5 7",
+      "output": "\n0\n2\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

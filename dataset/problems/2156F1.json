@@ -1,0 +1,36 @@
+{
+  "problem_id": "2156F1",
+  "contest_id": 2156,
+  "index": "F1",
+  "title": "Strange Operation (Easy Version)",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2025-10-24",
+  "solved_count": 1587,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n3 2 1 4\n5\n3 4 5 2 1\n5\n2 4 5 3 1\n7\n5 3 4 1 2 6 7\n10\n2 7 5 1 3 9 4 10 6 8",
+      "output": "\n\n1 3 2 4\n1 2 3 5 4\n2 4 5 3 1\n1 2 3 4 5 6 7\n2 3 4 1 5 7 6 8 9 10"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

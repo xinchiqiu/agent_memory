@@ -1,0 +1,32 @@
+{
+  "problem_id": "1629B",
+  "contest_id": 1629,
+  "index": "B",
+  "title": "GCD Arrays",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-01-22",
+  "solved_count": 25084,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n1 1 0\n3 5 1\n13 13 0\n4 4 0\n3 7 4\n4 10 3\n2 4 0\n1 7 3\n1 5 3",
+      "output": "\nNO\nNO\nYES\nYES\nYES\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

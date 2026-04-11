@@ -1,0 +1,32 @@
+{
+  "problem_id": "2183E",
+  "contest_id": 2183,
+  "index": "E",
+  "title": "LCM is Legendary Counting Master",
+  "rating": 2100,
+  "raw_tags": [
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2026-01-07",
+  "solved_count": 2773,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 6\n1 0 0 6\n2 2\n2 1\n5 24\n0 0 4 0 0\n5 6\n0 0 6 0 0\n20 2000\n1 0 0 0 0 14 0 0 0 0 0 0 0 0 0 514 0 0 0 0",
+      "output": "\n\n2\n0\n10\n0\n973702700"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

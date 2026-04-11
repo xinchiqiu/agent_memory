@@ -1,0 +1,43 @@
+{
+  "problem_id": "1866K",
+  "contest_id": 1866,
+  "index": "K",
+  "title": "Keen Tree Calculation",
+  "rating": 2500,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "geometry",
+    "graphs",
+    "implementation",
+    "trees"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "geometry",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-09-03",
+  "solved_count": 541,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n5 1 2\n1 4 2\n3 4 1\n2 5 3\n6 1 6\n4 7 2\n2\n4 3\n3 2\n",
+      "output": "\n18\n11\n"
+    },
+    {
+      "input": "\n3\n1 2 1000000000\n2 3 1000000000\n1\n2 1000000000\n",
+      "output": "\n2000000000000000000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1934D1",
+  "contest_id": 1934,
+  "index": "D1",
+  "title": "XOR Break --- Solo Version",
+  "rating": 2100,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2024-03-01",
+  "solved_count": 4102,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n7 3\n4 2\n481885160128643072 45035996273704960",
+      "output": "\n1\n7 3\n-1\n3\n481885160128643072 337769972052787200 49539595901075456 45035996273704960"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

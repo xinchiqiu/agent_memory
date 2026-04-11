@@ -1,0 +1,33 @@
+{
+  "problem_id": "1675E",
+  "contest_id": 1675,
+  "index": "E",
+  "title": "Replace With the Previous, Minimize",
+  "rating": 1500,
+  "raw_tags": [
+    "dsu",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "union_find",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2022-05-05",
+  "solved_count": 12003,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 2\ncba\n4 5\nfgde\n7 5\ngndcafb\n4 19\nekyv",
+      "output": "\naaa\nagaa\nbnbbabb\naapp\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

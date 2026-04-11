@@ -1,0 +1,33 @@
+{
+  "problem_id": "1733D1",
+  "contest_id": 1733,
+  "index": "D1",
+  "title": "Zero-One (Easy Version)",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-09-19",
+  "solved_count": 14948,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5 8 7\n01001\n00101\n5 7 2\n01000\n11011\n7 8 3\n0111001\n0100001\n5 10 1\n01100\n01100",
+      "output": "\n8\n-1\n6\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

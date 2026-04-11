@@ -1,0 +1,44 @@
+{
+  "problem_id": "1856E1",
+  "contest_id": 1856,
+  "index": "E1",
+  "title": "PermuTree (easy version)",
+  "rating": 1800,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2023-08-05",
+  "solved_count": 6358,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n1 1 3 3\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n2\n1\n",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n6\n1 2 2 1 5\n",
+      "output": "\n7\n"
+    },
+    {
+      "input": "\n4\n1 1 1\n",
+      "output": "\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

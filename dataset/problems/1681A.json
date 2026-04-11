@@ -1,0 +1,31 @@
+{
+  "problem_id": "1681A",
+  "contest_id": 1681,
+  "index": "A",
+  "title": "Game with Cards",
+  "rating": 800,
+  "raw_tags": [
+    "games",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2022-05-23",
+  "solved_count": 21640,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n6\n2\n6 8\n4\n1 3 3 7\n2\n4 2\n1\n50\n2\n25 50\n10\n1 2 3 4 5 6 7 8 9 10\n2\n5 15",
+      "output": "\nBob\nBob\nAlice\nAlice\nAlice\nBob\nBob\nBob\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

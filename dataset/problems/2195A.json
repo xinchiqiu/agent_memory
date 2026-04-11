@@ -1,0 +1,30 @@
+{
+  "problem_id": "2195A",
+  "contest_id": 2195,
+  "index": "A",
+  "title": "Sieve of Erato67henes",
+  "rating": 800,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2026-02-15",
+  "solved_count": 32757,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n5\n1 7 6 7 67\n5\n1 3 5 7 8",
+      "output": "\n\nYES\nNO"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

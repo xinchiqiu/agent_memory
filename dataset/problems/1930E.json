@@ -1,0 +1,33 @@
+{
+  "problem_id": "1930E",
+  "contest_id": 1930,
+  "index": "E",
+  "title": "2..3...4.... Wonderful! Wonderful!",
+  "rating": 2400,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-17",
+  "solved_count": 1453,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n4\n5\n10",
+      "output": "\n2 \n4 \n10 2 \n487 162 85 10 \n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

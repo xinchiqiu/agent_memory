@@ -1,0 +1,37 @@
+{
+  "problem_id": "1902E",
+  "contest_id": 1902,
+  "index": "E",
+  "title": "Collapsing Strings",
+  "rating": 1900,
+  "raw_tags": [
+    "data structures",
+    "strings",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 5511,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\naba\nab\nba",
+      "output": "\n20\n"
+    },
+    {
+      "input": "\n\n5\nabab\nbabx\nxab\nxba\nbab",
+      "output": "\n126\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

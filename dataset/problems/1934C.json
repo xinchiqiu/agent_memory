@@ -1,0 +1,39 @@
+{
+  "problem_id": "1934C",
+  "contest_id": 1934,
+  "index": "C",
+  "title": "Find a Mine",
+  "rating": 1700,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "geometry",
+    "greedy",
+    "interactive",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-03-01",
+  "solved_count": 7989,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n4 4\n\n3\n\n2\n\n2\n\n0\n\n5 5\n\n1\n\n2\n\n3\n",
+      "output": "\n\n\n? 1 1\n\n? 1 4\n\n? 4 1\n\n? 2 3\n\n! 2 3\n\n? 5 5\n\n? 2 2\n\n? 3 3\n\n! 1 1\n\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

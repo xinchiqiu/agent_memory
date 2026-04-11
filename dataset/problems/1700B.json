@@ -1,0 +1,33 @@
+{
+  "problem_id": "1700B",
+  "contest_id": 1700,
+  "index": "B",
+  "title": "Palindromic Numbers ",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-06-19",
+  "solved_count": 19815,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n2\n99\n4\n1023\n3\n385\n",
+      "output": "\n32\n8646\n604"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,41 @@
+{
+  "problem_id": "1906L",
+  "contest_id": 1906,
+  "index": "L",
+  "title": "Palindromic Parentheses",
+  "rating": 2500,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 756,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6 4\n",
+      "output": "\n(())()"
+    },
+    {
+      "input": "\n6 3\n",
+      "output": "\n(()())"
+    },
+    {
+      "input": "\n4 1\n",
+      "output": "\n-1"
+    },
+    {
+      "input": "\n14 11\n",
+      "output": "\n()((())()())()"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "1914G2",
+  "contest_id": 1914,
+  "index": "G2",
+  "title": "Light Bulbs (Hard Version)",
+  "rating": 2300,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "hashing"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "string_hashing"
+  ],
+  "contest_date": "2023-12-19",
+  "solved_count": 1790,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n2 2 1 1\n2\n1 2 2 1\n2\n1 2 1 2\n5\n3 4 4 5 3 1 1 5 2 2",
+      "output": "\n2 4\n1 2\n1 4\n2 8\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

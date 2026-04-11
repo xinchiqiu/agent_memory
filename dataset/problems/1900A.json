@@ -1,0 +1,35 @@
+{
+  "problem_id": "1900A",
+  "contest_id": 1900,
+  "index": "A",
+  "title": "Cover in Water",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2023-11-26",
+  "solved_count": 61480,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n...\n7\n##....#\n7\n..#.#..\n4\n####\n10\n#...#..#.#",
+      "output": "\n2\n2\n5\n0\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -57,6 +57,7 @@ from data_collection.cf_scraper import (
     scrape_problem,
     scrape_accepted_solutions,
     scrape_editorial,
+    get_codecontests_solutions,
 )
 from data_collection.dataset_utils import (
     normalize_tags,
@@ -105,15 +106,15 @@ def save_checkpoint(output_dir: str, done: set) -> None:
 
 def main() -> None:
     args = parse_args()
+    setup_dirs(args.output_dir)
     logging.basicConfig(
-        level=logging.INFO,
+        level=logging.DEBUG,
         format="%(asctime)s %(levelname)s %(message)s",
         handlers=[
             logging.FileHandler(Path(args.output_dir) / "collect.log"),
             logging.StreamHandler(),
         ],
     )
-    setup_dirs(args.output_dir)
 
     # ------------------------------------------------------------------
     # Step 1: Problem list
@@ -191,19 +192,35 @@ def main() -> None:
             problem_data["editorial_text"] = editorial_map.get(idx)
 
         # --- Solutions ---
+        # Primary source: CodeContests HuggingFace dataset (contains verified solutions
+        # with source code; CF submission pages are JS-rendered and not scrapable).
         if not args.skip_solutions:
             existing = problem_data.get("reference_solutions", [])
             if len(existing) < args.max_solutions:
-                logging.info(f"  Fetching submissions for {pid}…")
-                candidates = fetch_contest_submissions(cid, idx)
-                time.sleep(args.delay)
-                new_solutions = scrape_accepted_solutions(
-                    cid, idx, candidates,
-                    max_solutions=args.max_solutions - len(existing),
-                    delay=args.delay,
+                need = args.max_solutions - len(existing)
+
+                # 1) Try CodeContests dataset first
+                cc_solutions = get_codecontests_solutions(
+                    problem_data["title"], max_solutions=need
                 )
-                problem_data["reference_solutions"] = existing + new_solutions
-                logging.info(f"  Got {len(new_solutions)} new solutions ({len(problem_data['reference_solutions'])} total)")
+                if cc_solutions:
+                    logging.info(f"  Found {len(cc_solutions)} solutions from CodeContests for {pid}")
+                    problem_data["reference_solutions"] = existing + cc_solutions
+                else:
+                    # 2) Fallback: CF API candidates (no source code — kept for future use)
+                    candidates = fetch_contest_submissions(cid, idx)
+                    time.sleep(args.delay)
+                    # Note: scrape_accepted_solutions cannot retrieve source (JS-rendered)
+                    # so new_solutions will be empty unless CF changes their page structure.
+                    new_solutions = scrape_accepted_solutions(
+                        cid, idx, candidates,
+                        max_solutions=need, delay=args.delay,
+                    )
+                    problem_data["reference_solutions"] = existing + new_solutions
+                    if not new_solutions:
+                        logging.info(f"  No solutions found for {pid} (CF scraping unavailable; not in CodeContests)")
+
+                logging.info(f"  Solutions for {pid}: {len(problem_data['reference_solutions'])} total")
 
         # --- Validate & save ---
         if not problem_data.get("sample_tests"):

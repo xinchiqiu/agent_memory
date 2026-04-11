@@ -1,0 +1,31 @@
+{
+  "problem_id": "1698C",
+  "contest_id": 1698,
+  "index": "C",
+  "title": "3SUM Closure",
+  "rating": 1300,
+  "raw_tags": [
+    "brute force",
+    "data structures"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2022-06-28",
+  "solved_count": 19687,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n-1 0 1\n5\n1 -2 -2 1 -3\n6\n0 0 0 0 0 0\n4\n-1 2 -3 4",
+      "output": "\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

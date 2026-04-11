@@ -1,0 +1,39 @@
+{
+  "problem_id": "1771E",
+  "contest_id": 1771,
+  "index": "E",
+  "title": "Hossam and a Letter",
+  "rating": 2500,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "implementation",
+    "two_pointers"
+  ],
+  "contest_date": "2022-12-11",
+  "solved_count": 786,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 3\n#m.\n.#.\n",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n7 8\n...#.m..\n..m...m.\n.#..#.m#\n...m..m.\nm.......\n..#.m.mm\n......m.\n",
+      "output": "\n16\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

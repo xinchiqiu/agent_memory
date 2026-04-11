@@ -1,0 +1,31 @@
+{
+  "problem_id": "2151A",
+  "contest_id": 2151,
+  "index": "A",
+  "title": "Incremental Subarray",
+  "rating": 800,
+  "raw_tags": [
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2025-09-24",
+  "solved_count": 17663,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 1\n1\n5 3\n1 2 3\n6 6\n3 1 2 3 4 1\n100000 1\n100000\n4 2\n1 1",
+      "output": "\n\n4\n3\n1\n1\n1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

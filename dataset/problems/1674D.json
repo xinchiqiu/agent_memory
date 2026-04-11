@@ -1,0 +1,33 @@
+{
+  "problem_id": "1674D",
+  "contest_id": 1674,
+  "index": "D",
+  "title": "A-B-C Sort",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2022-05-02",
+  "solved_count": 17727,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n3 1 5 3\n3\n3 2 1\n1\n7331",
+      "output": "\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

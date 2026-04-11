@@ -1,0 +1,40 @@
+{
+  "problem_id": "1967C",
+  "contest_id": 1967,
+  "index": "C",
+  "title": "Fenwick Tree",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "data structures",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory",
+    "graph_dfs"
+  ],
+  "contest_date": "2024-04-30",
+  "solved_count": 2210,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n8 1\n1 2 1 4 1 2 1 8\n6 2\n1 4 3 17 5 16",
+      "output": "\n1 1 1 1 1 1 1 1\n1 2 3 4 5 6\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

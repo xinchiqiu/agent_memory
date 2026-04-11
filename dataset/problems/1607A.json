@@ -1,0 +1,31 @@
+{
+  "problem_id": "1607A",
+  "contest_id": 1607,
+  "index": "A",
+  "title": "Linear Keyboard",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2021-11-02",
+  "solved_count": 40529,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\nabcdefghijklmnopqrstuvwxyz\nhello\nabcdefghijklmnopqrstuvwxyz\ni\nabcdefghijklmnopqrstuvwxyz\ncodeforces\nqwertyuiopasdfghjklzxcvbnm\nqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\nqwertyuiopasdfghjklzxcvbnm\nabacaba\n",
+      "output": "\n13\n0\n68\n0\n74\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

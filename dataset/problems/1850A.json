@@ -1,0 +1,31 @@
+{
+  "problem_id": "1850A",
+  "contest_id": 1850,
+  "index": "A",
+  "title": "To My Critics",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2023-07-21",
+  "solved_count": 73210,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n8 1 2\n4 4 5\n9 9 9\n0 0 0\n8 5 3",
+      "output": "\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

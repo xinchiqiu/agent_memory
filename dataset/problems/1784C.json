@@ -1,0 +1,31 @@
+{
+  "problem_id": "1784C",
+  "contest_id": 1784,
+  "index": "C",
+  "title": "Monsters (hard version)",
+  "rating": 2200,
+  "raw_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2023-02-05",
+  "solved_count": 1940,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n3\n3 1 2\n6\n4 1 5 4 1 1",
+      "output": "\n2 1 0\n3 2 4 4 4 4\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

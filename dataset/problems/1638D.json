@@ -1,0 +1,38 @@
+{
+  "problem_id": "1638D",
+  "contest_id": 1638,
+  "index": "D",
+  "title": "Big Brush",
+  "rating": 2000,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2022-02-14",
+  "solved_count": 4692,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 4\n5 5 3 3\n1 1 5 3\n2 2 5 4\n2 2 4 4\n",
+      "output": "\n6\n1 3 3\n3 3 4\n2 2 5\n1 1 5\n2 1 1\n3 1 2\n"
+    },
+    {
+      "input": "\n3 4\n1 1 1 1\n2 2 3 1\n2 2 1 1\n",
+      "output": "\n-1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

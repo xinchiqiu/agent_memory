@@ -1,0 +1,33 @@
+{
+  "problem_id": "1764E",
+  "contest_id": 1764,
+  "index": "E",
+  "title": "Doremy's Number Line",
+  "rating": 2400,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-11-26",
+  "solved_count": 1416,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n4 16\n5 3\n8 12\n10 7\n15 1\n4 16\n8 12\n10 7\n15 1\n5 3\n4 16\n10 7\n15 1\n5 3\n8 12\n4 16\n15 1\n5 3\n8 12\n10 7\n1 1000000000\n500000000 500000000\n2 1000000000\n1 999999999\n1 1",
+      "output": "\nNO\nYES\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1861B",
+  "contest_id": 1861,
+  "index": "B",
+  "title": "Two Binary Strings",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2023-08-31",
+  "solved_count": 23904,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n01010001\n01110101\n01001\n01001\n000101\n010111\n00001\n01111\n011\n001\n001001\n011011\n010001\n011011",
+      "output": "\nYES\nYES\nYES\nNO\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

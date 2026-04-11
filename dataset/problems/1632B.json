@@ -1,0 +1,31 @@
+{
+  "problem_id": "1632B",
+  "contest_id": 1632,
+  "index": "B",
+  "title": "Roof Construction",
+  "rating": 1000,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms"
+  ],
+  "tags": [
+    "implementation",
+    "constructive"
+  ],
+  "contest_date": "2022-01-30",
+  "solved_count": 30845,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n3\n5\n10",
+      "output": "\n0 1\n2 0 1\n3 2 1 0 4\n4 6 3 2 0 8 9 1 7 5\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

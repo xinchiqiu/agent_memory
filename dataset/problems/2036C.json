@@ -1,0 +1,31 @@
+{
+  "problem_id": "2036C",
+  "contest_id": 2036,
+  "index": "C",
+  "title": "Anya and 1100",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2024-11-02",
+  "solved_count": 22066,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n100\n4\n1 1\n2 0\n2 0\n3 1\n1100000\n3\n6 1\n7 1\n4 1\n111010\n4\n1 1\n5 0\n4 1\n5 0\n0100\n4\n3 1\n1 1\n2 0\n2 1",
+      "output": "\nNO\nNO\nNO\nNO\nYES\nYES\nNO\nNO\nYES\nYES\nYES\nNO\nNO\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1775A2",
+  "contest_id": 1775,
+  "index": "A2",
+  "title": "Gardener and the Capybaras (hard version)",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2023-01-10",
+  "solved_count": 19884,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\nbbba\naba\naaa\nabba\nabbb",
+      "output": "\nb bb a\na b a\na a a\nab b a\na bb b"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

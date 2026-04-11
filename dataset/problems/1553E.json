@@ -1,0 +1,40 @@
+{
+  "problem_id": "1553E",
+  "contest_id": 1553,
+  "index": "E",
+  "title": "Permutation Shift",
+  "rating": 2100,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "constructive",
+    "graph_dfs",
+    "union_find",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-07-22",
+  "solved_count": 3754,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n4 1\n2 3 1 4\n3 1\n1 2 3\n3 1\n3 2 1\n6 0\n1 2 3 4 6 5\n",
+      "output": "\n1 3\n1 0\n3 0 1 2\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

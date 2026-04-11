@@ -1,0 +1,39 @@
+{
+  "problem_id": "1777D",
+  "contest_id": 1777,
+  "index": "D",
+  "title": "Score of a Tree",
+  "rating": 1900,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "graph_dfs",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-21",
+  "solved_count": 4614,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n1\n6\n1 2\n1 3\n3 4\n3 5\n3 6",
+      "output": "\n288\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

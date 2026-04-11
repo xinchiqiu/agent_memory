@@ -1,0 +1,33 @@
+{
+  "problem_id": "2178C",
+  "contest_id": 2178,
+  "index": "C",
+  "title": "First or Second",
+  "rating": 1200,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2025-12-27",
+  "solved_count": 15194,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n2\n2 -3\n4\n1 4 3 4\n4\n-4 2 3 -6\n5\n-2 -3 4 10 -9\n5\n-12345678 -1000000000 -999999999 1000000000 -999999999\n2\n-7 1\n5\n7 -6 -1 -8 -8",
+      "output": "\n\n3\n8\n4\n15\n2987654321\n-1\n29"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

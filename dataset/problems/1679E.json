@@ -1,0 +1,39 @@
+{
+  "problem_id": "1679E",
+  "contest_id": 1679,
+  "index": "E",
+  "title": "Typical Party in Dorm",
+  "rating": 2400,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "dp",
+    "string_hashing"
+  ],
+  "contest_date": "2022-05-14",
+  "solved_count": 1406,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\nab??aba\n8\na\nb\nab\nabc\nabcd\nabcde\nabcdef\nabcdefg\n",
+      "output": "\n14\n13\n55\n105\n171\n253\n351\n465\n"
+    },
+    {
+      "input": "\n11\n???????????\n6\nabcdefghijklmnopq\necpnkhbmlidgfjao\nolehfan\ncodef\nglhf\nq\n",
+      "output": "\n900057460\n712815817\n839861037\n756843750\n70840320\n66\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

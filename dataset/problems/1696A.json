@@ -1,0 +1,31 @@
+{
+  "problem_id": "1696A",
+  "contest_id": 1696,
+  "index": "A",
+  "title": "NIT orz!",
+  "rating": 800,
+  "raw_tags": [
+    "bitmasks",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2022-06-25",
+  "solved_count": 20120,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2 3\n3 4\n5 5\n0 2 4 6 8\n1 9\n10\n5 7\n7 15 30 29 27\n3 39548743\n10293834 10284344 13635445",
+      "output": "\n7\n13\n11\n31\n48234367\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

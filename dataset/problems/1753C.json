@@ -1,0 +1,33 @@
+{
+  "problem_id": "1753C",
+  "contest_id": 1753,
+  "index": "C",
+  "title": "Wish I Knew How to Sort",
+  "rating": 2000,
+  "raw_tags": [
+    "dp",
+    "math",
+    "probabilities"
+  ],
+  "tags": [
+    "dp",
+    "math_number_theory",
+    "math_combinatorics"
+  ],
+  "contest_date": "2022-10-23",
+  "solved_count": 5218,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n0 1 0\n5\n0 0 1 1 1\n6\n1 1 1 0 0 1",
+      "output": "\n3\n0\n249561107\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

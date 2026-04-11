@@ -1,0 +1,31 @@
+{
+  "problem_id": "1799C",
+  "contest_id": 1799,
+  "index": "C",
+  "title": "Double Lexicographically Minimum",
+  "rating": 1700,
+  "raw_tags": [
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2023-02-27",
+  "solved_count": 6879,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\na\naab\nabb\nabc\naabb\naabbb\naaabb\nabbb\nabbbb\nabbcc\neaga\nffcaba",
+      "output": "\na\naba\nbab\nbca\nabba\nabbba\nababa\nbbab\nbbabb\nbbcca\nagea\nacffba\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

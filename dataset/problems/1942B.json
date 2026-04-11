@@ -1,0 +1,31 @@
+{
+  "problem_id": "1942B",
+  "contest_id": 1942,
+  "index": "B",
+  "title": "Bessie and MEX",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-03-30",
+  "solved_count": 15434,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n1 1 -2 1 2\n5\n1 1 1 1 1\n3\n-2 1 2",
+      "output": "\n0 1 4 2 3 \n0 1 2 3 4 \n2 0 1 \n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

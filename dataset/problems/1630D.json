@@ -1,0 +1,35 @@
+{
+  "problem_id": "1630D",
+  "contest_id": 1630,
+  "index": "D",
+  "title": "Flipping Range",
+  "rating": 2400,
+  "raw_tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-01-27",
+  "solved_count": 1930,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n6 2\n0 6 -2 1 -4 5\n1 2\n7 1\n1 -1 1 -1 1 -1 1\n2\n5 1\n-1000000000 -1000000000 -1000000000 -1000000000 -1000000000\n1",
+      "output": "\n18\n5\n5000000000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

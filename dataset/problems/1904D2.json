@@ -1,0 +1,38 @@
+{
+  "problem_id": "1904D2",
+  "contest_id": 1904,
+  "index": "D2",
+  "title": "Set To Max (Hard Version)",
+  "rating": 1800,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "divide and conquer",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "divide_and_conquer",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-12-09",
+  "solved_count": 5618,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\n1 2 3 2 4\n1 3 3 2 4\n5\n3 4 2 2 4\n3 4 3 4 4\n5\n3 2 1 1 1\n3 3 3 2 2\n2\n1 1\n1 2\n3\n1 1 2\n2 1 2",
+      "output": "\nYES\nNO\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

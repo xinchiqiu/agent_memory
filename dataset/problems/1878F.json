@@ -1,0 +1,32 @@
+{
+  "problem_id": "1878F",
+  "contest_id": 1878,
+  "index": "F",
+  "title": "Vasilije Loves Number Theory",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-09-26",
+  "solved_count": 4883,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1 5\n1 1\n1 2\n2\n1 8\n1 9\n20 4\n1 3\n2\n1 7\n1 12\n16 10\n1 6\n1 6\n1 10\n1 9\n1 1\n1 9\n1 7\n1 3\n1 2\n1 10\n9 1\n1 3\n8 1\n1 2\n8 3\n1 5\n1 8\n1 10\n11 5\n1 8\n1 2\n1 1\n1 3\n1 1",
+      "output": "\nYES\nYES\nYES\nYES\n\nYES\nNO\nYES\n\nYES\nNO\nYES\nYES\nYES\nNO\nYES\nNO\nYES\nYES\n\nNO\n\nNO\n\nYES\nNO\nNO\n\nYES\nNO\nNO\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

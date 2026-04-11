@@ -1,0 +1,33 @@
+{
+  "problem_id": "2111A",
+  "contest_id": 2111,
+  "index": "A",
+  "title": "Energy Crystals",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-06-03",
+  "solved_count": 20559,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1\n5\n14\n2025\n31415\n536870910\n1000000000",
+      "output": "\n3\n7\n9\n23\n31\n59\n61\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "2077B",
+  "contest_id": 2077,
+  "index": "B",
+  "title": "Finding OR Sum",
+  "rating": 1900,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "implementation",
+    "interactive",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-03-10",
+  "solved_count": 3586,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n\n3\n\n4\n\n1\n\n0\n\n1",
+      "output": "\n\n0\n\n1\n\n!\n\n4\n\n0\n\n!\n\n2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

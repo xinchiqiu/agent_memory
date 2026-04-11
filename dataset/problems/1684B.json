@@ -1,0 +1,31 @@
+{
+  "problem_id": "1684B",
+  "contest_id": 1684,
+  "index": "B",
+  "title": "Z mod X = C",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-05-19",
+  "solved_count": 21790,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1 3 4\n127 234 421\n2 7 8\n59 94 388\n",
+      "output": "\n12 11 4\n1063 234 1484\n25 23 8\n2221 94 2609\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

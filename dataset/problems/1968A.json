@@ -1,0 +1,32 @@
+{
+  "problem_id": "1968A",
+  "contest_id": 1968,
+  "index": "A",
+  "title": "Maximize?",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-05-02",
+  "solved_count": 39203,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n10\n7\n21\n100\n2\n1000\n6",
+      "output": "\n5\n6\n18\n98\n1\n750\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

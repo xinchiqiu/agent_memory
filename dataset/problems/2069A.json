@@ -1,0 +1,30 @@
+{
+  "problem_id": "2069A",
+  "contest_id": 2069,
+  "index": "A",
+  "title": "Was there an Array?",
+  "rating": 800,
+  "raw_tags": [
+    "graph matchings",
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2025-02-18",
+  "solved_count": 26401,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n10\n0 1 0 0 0 0 1 1\n3\n1\n10\n0 1 0 1 1 0 0 1",
+      "output": "\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

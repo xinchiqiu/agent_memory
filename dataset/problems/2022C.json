@@ -1,0 +1,31 @@
+{
+  "problem_id": "2022C",
+  "contest_id": 2022,
+  "index": "C",
+  "title": "Gerrymandering",
+  "rating": 1800,
+  "raw_tags": [
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2024-10-13",
+  "solved_count": 6252,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\nAAA\nAJJ\n6\nJAJAJJ\nJJAJAJ\n6\nAJJJAJ\nAJJAAA\n9\nAJJJJAJAJ\nJAAJJJJJA",
+      "output": "\n2\n2\n3\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

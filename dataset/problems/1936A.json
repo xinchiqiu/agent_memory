@@ -1,0 +1,36 @@
+{
+  "problem_id": "1936A",
+  "contest_id": 1936,
+  "index": "A",
+  "title": "Bitwise Operation Wizard",
+  "rating": 1700,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy",
+    "interactive",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-29",
+  "solved_count": 8585,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n4\n\n<\n\n=\n\n>\n\n2\n",
+      "output": "\n\n\n? 0 2 3 1\n\n? 1 1 2 3\n\n? 1 2 0 3\n\n! 3 2\n\n! 0 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

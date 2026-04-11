@@ -1,0 +1,35 @@
+{
+  "problem_id": "1624D",
+  "contest_id": 1624,
+  "index": "D",
+  "title": "Palindromes Coloring",
+  "rating": 1400,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2022-01-10",
+  "solved_count": 18965,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n8 2\nbxyaxzay\n6 3\naaaaaa\n6 1\nabcdef\n6 6\nabcdef\n3 2\ndxd\n11 2\nabcabcabcac\n6 6\nsipkic\n7 2\neatoohd\n3 1\nllw\n6 2\nbfvfbv",
+      "output": "\n3\n2\n1\n1\n1\n5\n1\n1\n3\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

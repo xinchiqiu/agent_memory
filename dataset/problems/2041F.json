@@ -1,0 +1,33 @@
+{
+  "problem_id": "2041F",
+  "contest_id": 2041,
+  "index": "F",
+  "title": "Segmentation Folds",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-11-24",
+  "solved_count": 499,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1 30\n16 18\n142857 240135\n",
+      "output": "\n3\n1\n63\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

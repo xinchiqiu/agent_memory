@@ -1,0 +1,33 @@
+{
+  "problem_id": "1557A",
+  "contest_id": 1557,
+  "index": "A",
+  "title": "Ezzat and Two Subsequences",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2021-08-09",
+  "solved_count": 29067,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3\n3 1 2\n3\n-7 -6 -6\n3\n2 2 2\n4\n17 3 5 -3\n",
+      "output": "\n4.500000000\n-12.500000000\n4.000000000\n18.666666667\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

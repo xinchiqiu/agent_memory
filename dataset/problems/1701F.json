@@ -1,0 +1,36 @@
+{
+  "problem_id": "1701F",
+  "contest_id": 1701,
+  "index": "F",
+  "title": "Points",
+  "rating": 2500,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "implementation",
+    "math",
+    "matrices"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "math_number_theory",
+    "dp"
+  ],
+  "contest_date": "2022-07-08",
+  "solved_count": 1118,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7 5\n8 5 3 2 1 5 6\n",
+      "output": "\n0\n0\n1\n2\n5\n1\n5\n"
+    }
+  ],
+  "time_limit": "6.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2050C",
+  "contest_id": 2050,
+  "index": "C",
+  "title": "Uninteresting Number",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-12-05",
+  "solved_count": 24721,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n123\n322\n333333333333\n9997\n5472778912773\n1234567890\n23\n33\n52254522632",
+      "output": "\nNO\nYES\nYES\nNO\nNO\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

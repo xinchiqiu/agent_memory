@@ -1,0 +1,37 @@
+{
+  "problem_id": "1788B",
+  "contest_id": 1788,
+  "index": "B",
+  "title": "Sum of Two Numbers",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math",
+    "probabilities"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "math_number_theory",
+    "math_combinatorics"
+  ],
+  "contest_date": "2023-02-09",
+  "solved_count": 22190,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n1\n161\n67\n1206\n19\n",
+      "output": "\n1 0\n67 94\n60 7\n1138 68\n14 5"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

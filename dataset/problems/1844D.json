@@ -1,0 +1,36 @@
+{
+  "problem_id": "1844D",
+  "contest_id": 1844,
+  "index": "D",
+  "title": "Row Major",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "number theory",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2023-07-11",
+  "solved_count": 13753,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n2\n1\n6",
+      "output": "\nthat\nis\na\ntomato\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

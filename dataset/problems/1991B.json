@@ -1,0 +1,33 @@
+{
+  "problem_id": "1991B",
+  "contest_id": 1991,
+  "index": "B",
+  "title": "AND Reconstruction",
+  "rating": 1100,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2024-07-28",
+  "solved_count": 18798,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n1\n3\n2 0\n4\n1 2 3\n5\n3 5 4 2",
+      "output": "\n5 3\n3 2 1\n-1\n3 7 5 6 3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

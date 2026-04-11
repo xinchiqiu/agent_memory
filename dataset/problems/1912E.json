@@ -1,0 +1,37 @@
+{
+  "problem_id": "1912E",
+  "contest_id": 1912,
+  "index": "E",
+  "title": "Evaluate It and Back Again",
+  "rating": 2200,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-13",
+  "solved_count": 1264,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n1998 -3192",
+      "output": "\n2023-12-13"
+    },
+    {
+      "input": "\n\n413 908",
+      "output": "\n12*34+5"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

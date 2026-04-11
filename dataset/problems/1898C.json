@@ -1,0 +1,29 @@
+{
+  "problem_id": "1898C",
+  "contest_id": 1898,
+  "index": "C",
+  "title": "Colorful Grid",
+  "rating": 1700,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2023-11-19",
+  "solved_count": 6458,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 5 11\n3 3 2\n3 4 1000000000\n3 3 12588\n4 4 8",
+      "output": "\nYES\nR R B B\nR R R R\nB B B R\nR R B B\nR B B R B\nR B B B B\nB B R R R\nNO\nNO\nYES\nR B\nB B\nB R\nB B R\nR B B\nYES\nB B R\nR B R\nB R R\nR R B\nB R R B\nB B B B\nB R R R\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

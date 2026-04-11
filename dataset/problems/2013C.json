@@ -1,0 +1,33 @@
+{
+  "problem_id": "2013C",
+  "contest_id": 2013,
+  "index": "C",
+  "title": "Password Cracking",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "interactive",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2024-09-20",
+  "solved_count": 14389,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3\n\n0\n\n0\n\n1\n\n4\n\n4\n\n2",
+      "output": "\n\n\n? 00\n\n? 000\n\n? 010\n\n! 010\n\n! 1100\n\n! 0110\n\n! 10"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

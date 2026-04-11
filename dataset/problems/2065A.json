@@ -1,0 +1,37 @@
+{
+  "problem_id": "2065A",
+  "contest_id": 2065,
+  "index": "A",
+  "title": "Skibidus and Amog'u",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2025-02-09",
+  "solved_count": 54796,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\nus\nsus\nfungus\ncactus\nsussus\namogus\nchungus\nntarsus\nskibidus",
+      "output": "\ni\nsi\nfungi\ncacti\nsussi\namogi\nchungi\nntarsi\nskibidi\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

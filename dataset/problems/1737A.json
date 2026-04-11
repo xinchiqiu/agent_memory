@@ -1,0 +1,33 @@
+{
+  "problem_id": "1737A",
+  "contest_id": 1737,
+  "index": "A",
+  "title": "Ela Sorting Books",
+  "rating": 900,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-10-07",
+  "solved_count": 10798,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n12 3\ncabccadabaac\n12 6\ncabccadabaac\n12 12\ncabccadabaac\n25 1\nabcdefghijklmnopqrstuvwxy\n10 5\nbcdxedbcfg",
+      "output": "\nedb\nccbbba\nbbbbbaaaaaaa\nz\naaaaa\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

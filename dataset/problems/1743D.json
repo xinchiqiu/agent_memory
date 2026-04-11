@@ -1,0 +1,43 @@
+{
+  "problem_id": "1743D",
+  "contest_id": 1743,
+  "index": "D",
+  "title": "Problem with Random Tests",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "probabilities"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "math_combinatorics"
+  ],
+  "contest_date": "2022-10-17",
+  "solved_count": 8324,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n11010\n",
+      "output": "\n11111\n"
+    },
+    {
+      "input": "\n7\n1110010\n",
+      "output": "\n1111110\n"
+    },
+    {
+      "input": "\n4\n0000\n",
+      "output": "\n0\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

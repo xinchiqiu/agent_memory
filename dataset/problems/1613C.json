@@ -1,0 +1,29 @@
+{
+  "problem_id": "1613C",
+  "contest_id": 1613,
+  "index": "C",
+  "title": "Poisoned Dagger",
+  "rating": 1200,
+  "raw_tags": [
+    "binary search"
+  ],
+  "tags": [
+    "binary_search"
+  ],
+  "contest_date": "2021-12-01",
+  "solved_count": 29357,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n2 5\n1 5\n3 10\n2 4 10\n5 3\n1 2 4 5 7\n4 1000\n3 25 64 1337\n",
+      "output": "\n3\n4\n1\n470\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "2118E",
+  "contest_id": 2118,
+  "index": "E",
+  "title": "Grid Coloring",
+  "rating": 2400,
+  "raw_tags": [
+    "constructive algorithms",
+    "geometry",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "geometry",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-06-12",
+  "solved_count": 1400,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3 3\n1 1\n1 5",
+      "output": "\n2 1\n2 3\n2 2\n1 1\n3 2\n3 3\n3 1\n1 3\n1 2\n\n1 1\n\n1 2\n1 4\n1 5\n1 1\n1 3"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

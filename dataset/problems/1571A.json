@@ -1,0 +1,27 @@
+{
+  "problem_id": "1571A",
+  "contest_id": 1571,
+  "index": "A",
+  "title": "Sequence of Comparisons",
+  "rating": 800,
+  "raw_tags": [
+    "*special"
+  ],
+  "tags": [],
+  "contest_date": "2021-10-07",
+  "solved_count": 1642,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n>>>\n<><=<\n=\n<<==\n",
+      "output": "\n>\n?\n=\n<\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

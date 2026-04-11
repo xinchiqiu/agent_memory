@@ -1,0 +1,42 @@
+{
+  "problem_id": "1715D",
+  "contest_id": 1715,
+  "index": "D",
+  "title": "2+ doors",
+  "rating": 1900,
+  "raw_tags": [
+    "2-sat",
+    "bitmasks",
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "graph_dfs",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2022-08-20",
+  "solved_count": 6018,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 3\n1 2 3\n1 3 2\n4 1 2\n",
+      "output": "\n0 3 2 2 "
+    },
+    {
+      "input": "\n1 0\n",
+      "output": "\n0 "
+    },
+    {
+      "input": "\n2 1\n1 1 1073741823\n",
+      "output": "\n1073741823 0 "
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

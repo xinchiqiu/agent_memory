@@ -1,0 +1,31 @@
+{
+  "problem_id": "2061F1",
+  "contest_id": 2061,
+  "index": "F1",
+  "title": "Kevin and Binary String (Easy Version)",
+  "rating": 2100,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2025-01-20",
+  "solved_count": 2244,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n0001100111\n0000011111\n010101\n111000\n0101\n0110\n0101\n1010\n011001\n001110\n0\n1",
+      "output": "\n1\n3\n1\n-1\n-1\n-1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

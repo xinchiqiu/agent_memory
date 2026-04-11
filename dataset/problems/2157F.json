@@ -1,0 +1,37 @@
+{
+  "problem_id": "2157F",
+  "contest_id": 2157,
+  "index": "F",
+  "title": "Git Gud",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "divide and conquer",
+    "math",
+    "ternary search"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "divide_and_conquer",
+    "math_number_theory",
+    "binary_search"
+  ],
+  "contest_date": "2025-11-23",
+  "solved_count": 1255,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4",
+      "output": "\n4\n1 4\n3 1\n2 1\n3 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

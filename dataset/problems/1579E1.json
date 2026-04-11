@@ -1,0 +1,33 @@
+{
+  "problem_id": "1579E1",
+  "contest_id": 1579,
+  "index": "E1",
+  "title": "Permutation Minimization by Deque",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-09-28",
+  "solved_count": 24993,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n4\n3 1 2 4\n3\n3 2 1\n3\n3 1 2\n2\n1 2\n2\n2 1\n",
+      "output": "\n1 3 2 4 \n1 2 3 \n1 3 2 \n1 2 \n1 2 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

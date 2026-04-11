@@ -1,0 +1,34 @@
+{
+  "problem_id": "1722E",
+  "contest_id": 1722,
+  "index": "E",
+  "title": "Counting Rectangles",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp"
+  ],
+  "contest_date": "2022-08-30",
+  "solved_count": 13206,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 1\n2 3\n3 2\n1 1 3 4\n5 5\n1 1\n2 2\n3 3\n4 4\n5 5\n3 3 6 6\n2 1 4 5\n1 1 2 10\n1 1 100 100\n1 1 3 3\n3 1\n999 999\n999 999\n999 998\n1 1 1000 1000",
+      "output": "\n6\n41\n9\n0\n54\n4\n2993004\n"
+    }
+  ],
+  "time_limit": "6 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

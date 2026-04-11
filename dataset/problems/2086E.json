@@ -1,0 +1,41 @@
+{
+  "problem_id": "2086E",
+  "contest_id": 2086,
+  "index": "E",
+  "title": "Zebra-like Numbers",
+  "rating": 2400,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-04-03",
+  "solved_count": 1637,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 100 3\n1 1 1\n15 77 2\n2 10 100\n1234567 123456789101112131 12",
+      "output": "\n13\n1\n3\n0\n4246658701\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1686A",
+  "contest_id": 1686,
+  "index": "A",
+  "title": "Everything Everywhere All But One",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-05-25",
+  "solved_count": 21196,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n42 42 42\n5\n1 2 3 4 5\n4\n4 3 2 1\n3\n24 2 22",
+      "output": "\nYES\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

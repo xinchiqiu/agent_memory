@@ -1,0 +1,29 @@
+{
+  "problem_id": "1749B",
+  "contest_id": 1749,
+  "index": "B",
+  "title": "Death's Blessing",
+  "rating": 900,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-10-20",
+  "solved_count": 22465,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n10\n0\n3\n100 1 100\n1 100 1\n4\n2 6 7 3\n3 6 0 5\n2\n1000000000 1000000000\n1000000000 1000000000",
+      "output": "\n10\n203\n26\n3000000000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

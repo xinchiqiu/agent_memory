@@ -1,0 +1,32 @@
+{
+  "problem_id": "1910F",
+  "contest_id": 1910,
+  "index": "F",
+  "title": "Build Railway Stations",
+  "rating": 2000,
+  "raw_tags": [
+    "*special",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "greedy",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-12-11",
+  "solved_count": 216,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 2\n1 2\n2 3\n3 4\n4 5\n4 4\n1 2\n1 3\n1 4\n5 3\n1 2\n1 3\n2 4\n2 5",
+      "output": "\n34\n9\n26\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

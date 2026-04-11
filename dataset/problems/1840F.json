@@ -1,0 +1,34 @@
+{
+  "problem_id": "1840F",
+  "contest_id": 1840,
+  "index": "F",
+  "title": "Railguns",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "graphs"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2023-06-06",
+  "solved_count": 2093,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 3\n4\n1 2 0\n2 2 1\n3 2 2\n4 1 1\n3 3\n6\n2 1 0\n2 1 1\n2 1 2\n2 2 0\n2 2 1\n2 2 2\n2 1\n3\n7 1 2\n2 1 1\n7 2 1\n2 2\n5\n9 1 2\n3 2 0\n5 1 2\n4 2 2\n7 1 0\n4 6\n7\n6 1 2\n12 1 3\n4 1 0\n17 2 3\n1 2 6\n16 2 6\n3 2 4",
+      "output": "\n5\n-1\n3\n6\n10\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

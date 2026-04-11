@@ -1,0 +1,38 @@
+{
+  "problem_id": "1874B",
+  "contest_id": 1874,
+  "index": "B",
+  "title": "Jellyfish and Math",
+  "rating": 2400,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "graph_dfs",
+    "dp",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2023-09-30",
+  "solved_count": 1372,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n1 0 1 1 1\n3 3 1 2 1\n1 6 0 7 1\n2 4 4 9 8\n21 4 0 17 28\n50 50 0 0 39\n95 33 1 33 110\n138 202 174 64 108\n78 340 68 340 461\n457 291 491 566 766",
+      "output": "\n1\n-1\n2\n-1\n-1\n2\n1\n4\n1\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

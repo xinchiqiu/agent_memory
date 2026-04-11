@@ -1,0 +1,35 @@
+{
+  "problem_id": "2132D",
+  "contest_id": 2132,
+  "index": "D",
+  "title": "From 1 to Infinity",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "dp",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-08-21",
+  "solved_count": 8668,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5\n10\n13\n29\n1000000000\n1000000000000000",
+      "output": "\n15\n46\n48\n100\n4366712386\n4441049382716054\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1896E",
+  "contest_id": 1896,
+  "index": "E",
+  "title": "Permutation Sorting",
+  "rating": 2100,
+  "raw_tags": [
+    "data structures",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2023-11-25",
+  "solved_count": 2718,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n5\n3 2 4 1 5\n6\n2 1 4 6 5 3",
+      "output": "\n1 0 1 1 0 \n2 1 2 1 0 1 \n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

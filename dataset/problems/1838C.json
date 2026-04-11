@@ -1,0 +1,32 @@
+{
+  "problem_id": "1838C",
+  "contest_id": 1838,
+  "index": "C",
+  "title": "No Prime Differences",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-06-04",
+  "solved_count": 17106,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4 4\n5 7\n6 4",
+      "output": "\n16  7  1  9\n12  8  2  3\n13  4 10 11\n14  5  6 15\n\n29 23 17  9  5  6  2\n33 27 21 15 11  7  1\n32 31 25 19 20 16 10\n26 30 24 18 14  8  4\n35 34 28 22 13 12  3\n\n 2  3  7 11\n 8  9  1 10\n17 13  5  4\n18 14  6 12\n19 23 15 21\n20 24 16 22\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

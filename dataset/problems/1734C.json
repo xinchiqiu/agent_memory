@@ -1,0 +1,31 @@
+{
+  "problem_id": "1734C",
+  "contest_id": 1734,
+  "index": "C",
+  "title": "Removing Smallest Multiples",
+  "rating": 1200,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-09-23",
+  "solved_count": 27863,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n6\n111111\n7\n1101001\n4\n0000\n4\n0010\n8\n10010101\n15\n110011100101100",
+      "output": "\n0\n11\n4\n4\n17\n60\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

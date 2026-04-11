@@ -1,0 +1,33 @@
+{
+  "problem_id": "1671B",
+  "contest_id": 1671,
+  "index": "B",
+  "title": "Consecutive Points Segment",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2022-04-22",
+  "solved_count": 19617,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n1 4\n3\n1 2 3\n4\n1 2 3 7\n1\n1000000\n3\n2 5 6",
+      "output": "\nYES\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

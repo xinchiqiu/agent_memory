@@ -1,0 +1,41 @@
+{
+  "problem_id": "1788E",
+  "contest_id": 1788,
+  "index": "E",
+  "title": "Sum Over Zero",
+  "rating": 2200,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2023-02-09",
+  "solved_count": 3263,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n3 -3 -2 5 -4\n",
+      "output": "\n4"
+    },
+    {
+      "input": "\n10\n5 -2 -4 -6 2 3 -6 5 3 -2\n",
+      "output": "\n9"
+    },
+    {
+      "input": "\n4\n-1 -2 -3 -4\n",
+      "output": "\n0"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

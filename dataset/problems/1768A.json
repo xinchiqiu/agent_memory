@@ -1,0 +1,32 @@
+{
+  "problem_id": "1768A",
+  "contest_id": 1768,
+  "index": "A",
+  "title": "Greatest Convex",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-05",
+  "solved_count": 30920,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n6\n8\n10",
+      "output": "\n2\n5\n7\n9\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

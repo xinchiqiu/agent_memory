@@ -1,0 +1,40 @@
+{
+  "problem_id": "2159B",
+  "contest_id": 2159,
+  "index": "B",
+  "title": "Rectangles",
+  "rating": 2100,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "dsu",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp",
+    "union_find",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2025-10-12",
+  "solved_count": 2256,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3 5\n10101\n10100\n00101\n4 6\n011101\n010001\n100010\n101110\n5 5\n11100\n10110\n11111\n01101\n00111",
+      "output": "\n\n6 6 6 9 9\n6 6 6 9 9\n0 0 9 9 9\n0 10 8 8 10 10\n0 10 8 8 10 10\n10 10 8 8 10 0\n10 10 8 8 10 0\n6 6 6 0 0\n6 6 4 4 0\n6 4 4 4 6\n0 4 4 6 6\n0 0 6 6 6"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

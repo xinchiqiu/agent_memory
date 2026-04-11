@@ -1,0 +1,36 @@
+{
+  "problem_id": "2170A",
+  "contest_id": 2170,
+  "index": "A",
+  "title": "Maximum Neighborhood",
+  "rating": 800,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-11-28",
+  "solved_count": 19500,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n2\n3\n4\n5",
+      "output": "\n\n1\n9\n29\n56\n95"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

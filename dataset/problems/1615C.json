@@ -1,0 +1,35 @@
+{
+  "problem_id": "1615C",
+  "contest_id": 1615,
+  "index": "C",
+  "title": "Menorah",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "graphs",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-12-24",
+  "solved_count": 9155,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n5\n11010\n11010\n2\n01\n11\n3\n000\n101\n9\n100010111\n101101100\n9\n001011011\n011010101\n",
+      "output": "\n0\n1\n-1\n3\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

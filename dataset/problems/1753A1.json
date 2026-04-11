@@ -1,0 +1,33 @@
+{
+  "problem_id": "1753A1",
+  "contest_id": 1753,
+  "index": "A1",
+  "title": "Make Nonzero Sum (easy version)",
+  "rating": 1300,
+  "raw_tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2022-10-23",
+  "solved_count": 16368,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n1 1 1 1\n6\n-1 1 1 1 1 1\n3\n1 -1 1\n1\n1",
+      "output": "\n1\n1 4\n2\n1 3\n4 6\n-1\n-1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

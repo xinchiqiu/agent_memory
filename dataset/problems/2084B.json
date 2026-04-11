@@ -1,0 +1,32 @@
+{
+  "problem_id": "2084B",
+  "contest_id": 2084,
+  "index": "B",
+  "title": "MIN = GCD",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-04-05",
+  "solved_count": 16361,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n2\n1 1\n2\n1 2\n3\n2 2 3\n3\n2 3 4\n5\n4 5 6 9 3\n3\n998244359987710471 99824435698771045 1000000007\n6\n1 1 4 5 1 4",
+      "output": "\nYes\nNo\nYes\nNo\nYes\nYes\nYes\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,43 @@
+{
+  "problem_id": "1661D",
+  "contest_id": 1661,
+  "index": "D",
+  "title": "Progressions Covering",
+  "rating": 1900,
+  "raw_tags": [
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2022-04-09",
+  "solved_count": 5366,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 3\n5 4 6\n",
+      "output": "\n5\n"
+    },
+    {
+      "input": "\n6 3\n1 2 3 2 2 3\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n6 3\n1 2 4 1 2 3\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n7 3\n50 17 81 25 42 39 96\n",
+      "output": "\n92\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

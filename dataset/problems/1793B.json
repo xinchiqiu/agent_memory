@@ -1,0 +1,31 @@
+{
+  "problem_id": "1793B",
+  "contest_id": 1793,
+  "index": "B",
+  "title": "Fedya and Array",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-02-12",
+  "solved_count": 17001,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 -2\n4 -4\n2 -1\n5 -3",
+      "output": "\n10\n0 1 2 1 0 -1 0 -1 0 1\n16\n-2 -1 -2 -1 0 1 2 3 4 5 4 3 2 1 0 -1 \n6\n1 0 -1 0 1 0\n16\n2 3 2 1 0 -1 0 -1 0 -1 0 1 2 1 0 1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "2128D",
+  "contest_id": 2128,
+  "index": "D",
+  "title": "Sum of LDS",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-07-27",
+  "solved_count": 11978,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n3 2 1\n4\n4 3 1 2\n6\n6 1 5 2 4 3\n3\n2 3 1",
+      "output": "\n10\n17\n40\n8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

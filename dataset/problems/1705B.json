@@ -1,0 +1,33 @@
+{
+  "problem_id": "1705B",
+  "contest_id": 1705,
+  "index": "B",
+  "title": "Mark the Dust Sweeper",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2022-07-15",
+  "solved_count": 25230,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n2 0 0\n5\n0 2 0 2 0\n6\n2 0 3 0 4 6\n4\n0 0 0 10",
+      "output": "\n3\n5\n11\n0\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

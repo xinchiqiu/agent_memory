@@ -1,0 +1,31 @@
+{
+  "problem_id": "2144B",
+  "contest_id": 2144,
+  "index": "B",
+  "title": "Maximum Cost Permutation",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2025-09-15",
+  "solved_count": 18089,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n1 0 4 0 5\n3\n0 0 0\n4\n1 2 3 0\n3\n0 3 2",
+      "output": "\n\n3\n3\n0\n2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,32 @@
+{
+  "problem_id": "2070D",
+  "contest_id": 2070,
+  "index": "D",
+  "title": "Tree Jumps",
+  "rating": 1600,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2025-02-27",
+  "solved_count": 10888,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n1 2 1\n3\n1 2\n7\n1 2 2 1 4 5",
+      "output": "\n4\n2\n8\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,30 @@
+{
+  "problem_id": "1769D3",
+  "contest_id": 1769,
+  "index": "D3",
+  "title": "Игра в Девятку III",
+  "rating": 2300,
+  "raw_tags": [
+    "*special",
+    "brute force"
+  ],
+  "tags": [
+    "brute_force"
+  ],
+  "contest_date": "2022-12-03",
+  "solved_count": 124,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n",
+      "output": "\nKS QD 8D QC 8S 8C JD 9H AC TH 9S 9D QH 7H 8H TS 7S 9C\n6D JS 7D KH QS TC AD AS KC 6C 7C TD AH KD 6S JC JH 6H\n\nJC JS 8S TD JD KH 7D 9C KC TH QD 8D 7H TC KD 9H 8C 6D\n7S AC QH AD 8H TS 6H JH 6C AH 7C 6S 9D QC AS QS KS 9S\n"
+    }
+  ],
+  "time_limit": "ограничение по времени на тест5 секунд",
+  "memory_limit": "ограничение по памяти на тест512 мегабайт",
+  "editorial_text": null,
+  "reference_solutions": []
+}

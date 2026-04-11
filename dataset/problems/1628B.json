@@ -1,0 +1,31 @@
+{
+  "problem_id": "1628B",
+  "contest_id": 1628,
+  "index": "B",
+  "title": "Peculiar Movie Preferences",
+  "rating": 1700,
+  "raw_tags": [
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2022-01-22",
+  "solved_count": 12644,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5\nzx\nab\ncc\nzx\nba\n2\nab\nbad\n4\nco\ndef\norc\nes\n3\na\nb\nc\n3\nab\ncd\ncba\n2\nab\nab",
+      "output": "\nYES\nNO\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

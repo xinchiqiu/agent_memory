@@ -1,0 +1,33 @@
+{
+  "problem_id": "2003B",
+  "contest_id": 2003,
+  "index": "B",
+  "title": "Turtle and Piggy Are Playing a Game 2",
+  "rating": 800,
+  "raw_tags": [
+    "games",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-08-25",
+  "solved_count": 27391,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n1 2\n3\n1 1 2\n3\n1 2 3\n5\n3 1 2 2 3\n10\n10 2 5 2 7 9 2 5 10 7",
+      "output": "\n2\n1\n2\n2\n7\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

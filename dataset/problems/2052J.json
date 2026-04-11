@@ -1,0 +1,33 @@
+{
+  "problem_id": "2052J",
+  "contest_id": 2052,
+  "index": "J",
+  "title": "Judicious Watching",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-12-15",
+  "solved_count": 1520,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n1 2 3\n10\n15\n5 5\n5 15 20\n3 4 5\n8 100 8\n10 150 20\n2 32 1 1\n9 200 51 50 10",
+      "output": "\n1 1 2\n1 4 2 2 1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

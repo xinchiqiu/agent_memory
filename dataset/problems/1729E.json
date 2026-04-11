@@ -1,0 +1,31 @@
+{
+  "problem_id": "1729E",
+  "contest_id": 1729,
+  "index": "E",
+  "title": "Guess the Cycle Size",
+  "rating": 1800,
+  "raw_tags": [
+    "interactive",
+    "probabilities"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics"
+  ],
+  "contest_date": "2022-09-12",
+  "solved_count": 7875,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n1\n\n2\n\n-1",
+      "output": "\n? 1 2\n\n? 1 3\n\n? 1 4\n\n! 3"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "1850G",
+  "contest_id": 1850,
+  "index": "G",
+  "title": "The Morning Star",
+  "rating": 1500,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "geometry",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "geometry",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2023-07-21",
+  "solved_count": 15287,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n0 0\n-1 -1\n1 1\n4\n4 5\n5 7\n6 9\n10 13\n3\n-1000000000 1000000000\n0 0\n1000000000 -1000000000\n5\n0 0\n2 2\n-1 5\n-1 10\n2 11\n3\n0 0\n-1 2\n1 -2",
+      "output": "\n6\n2\n6\n8\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

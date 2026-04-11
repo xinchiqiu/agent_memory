@@ -1,0 +1,31 @@
+{
+  "problem_id": "1917E",
+  "contest_id": 1917,
+  "index": "E",
+  "title": "Construct Matrix",
+  "rating": 2500,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-24",
+  "solved_count": 1614,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n4 0\n6 6\n6 5\n4 2\n6 36\n",
+      "output": "\nYes\n0 0 0 0\n0 0 0 0\n0 0 0 0\n0 0 0 0\nYes\n1 0 0 0 0 0\n0 1 0 0 0 0\n0 0 1 0 0 0\n0 0 0 1 0 0\n0 0 0 0 1 0\n0 0 0 0 0 1\nNo\nNo\nYes\n1 1 1 1 1 1\n1 1 1 1 1 1\n1 1 1 1 1 1\n1 1 1 1 1 1\n1 1 1 1 1 1\n1 1 1 1 1 1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

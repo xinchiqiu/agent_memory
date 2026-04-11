@@ -1,0 +1,33 @@
+{
+  "problem_id": "1625C",
+  "contest_id": 1625,
+  "index": "C",
+  "title": "Road Optimization",
+  "rating": 1700,
+  "raw_tags": [
+    "dp"
+  ],
+  "tags": [
+    "dp"
+  ],
+  "contest_date": "2022-01-12",
+  "solved_count": 13059,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 10 0\n0 3 4 8\n5 8 3 6\n",
+      "output": "\n47\n"
+    },
+    {
+      "input": "\n4 10 2\n0 3 4 8\n5 8 3 6\n",
+      "output": "\n38\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "128 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

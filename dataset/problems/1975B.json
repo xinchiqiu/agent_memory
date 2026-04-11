@@ -1,0 +1,35 @@
+{
+  "problem_id": "1975B",
+  "contest_id": 1975,
+  "index": "B",
+  "title": "378QAQ and Mocha's Array",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-05-25",
+  "solved_count": 20918,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n7 3 8\n5\n7 1 9 3 5\n5\n4 12 2 6 3\n5\n7 49 9 3 1000000000",
+      "output": "\nNo\nYes\nYes\nNo\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

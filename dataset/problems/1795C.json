@@ -1,0 +1,32 @@
+{
+  "problem_id": "1795C",
+  "contest_id": 1795,
+  "index": "C",
+  "title": "Tea Tasting",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "implementation"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation"
+  ],
+  "contest_date": "2023-02-16",
+  "solved_count": 17585,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n10 20 15\n9 8 6\n1\n5\n7\n4\n13 8 5 4\n3 4 2 1\n3\n1000000000 1000000000 1000000000\n1 1 1000000000",
+      "output": "\n9 9 12 \n5 \n3 8 6 4 \n1 2 2999999997 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

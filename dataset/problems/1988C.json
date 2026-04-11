@@ -1,0 +1,33 @@
+{
+  "problem_id": "1988C",
+  "contest_id": 1988,
+  "index": "C",
+  "title": "Increasing Sequence with Fixed OR",
+  "rating": 1300,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2024-07-15",
+  "solved_count": 20122,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n3\n14\n23",
+      "output": "\n1\n1\n3\n1 2 3\n4\n4 10 12 14\n5\n7 18 21 22 23"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

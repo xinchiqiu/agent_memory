@@ -1,0 +1,40 @@
+{
+  "problem_id": "1955H",
+  "contest_id": 1955,
+  "index": "H",
+  "title": "The Most Reckless Defense",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "flows",
+    "graph matchings",
+    "shortest paths"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "constructive",
+    "dp",
+    "network_flow",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2024-04-08",
+  "solved_count": 1503,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2 2 1\n#.\n##\n1 2 1\n2 2 1\n#.\n##\n1 2 2\n2 2 1\n#.\n##\n1 2 500\n3 3 2\n#..\n##.\n.##\n1 2 4\n3 1 3\n3 5 2\n#.###\n#.#.#\n###.#\n2 2 2\n2 4 2\n5 5 4\n#....\n#....\n#....\n#....\n#####\n3 2 142\n4 5 9\n2 5 79\n1 3 50",
+      "output": "\n0\n1\n1491\n11\n8\n1797\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

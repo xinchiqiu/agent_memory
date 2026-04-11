@@ -1,0 +1,38 @@
+{
+  "problem_id": "1975D",
+  "contest_id": 1975,
+  "index": "D",
+  "title": "Paint the Tree",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "shortest paths",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2024-05-25",
+  "solved_count": 7428,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n1 2\n1 2\n5\n1 2\n1 2\n1 3\n1 4\n1 5\n8\n5 4\n7 1\n1 5\n1 8\n8 3\n7 2\n8 6\n3 4",
+      "output": "\n2\n8\n13\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

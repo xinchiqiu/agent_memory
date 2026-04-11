@@ -1,0 +1,35 @@
+{
+  "problem_id": "1995A",
+  "contest_id": 1995,
+  "index": "A",
+  "title": "Diagonals",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-07-23",
+  "solved_count": 26317,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1 0\n2 2\n2 3\n2 4\n10 50\n100 239\n3 9",
+      "output": "\n0\n1\n2\n3\n6\n3\n5\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

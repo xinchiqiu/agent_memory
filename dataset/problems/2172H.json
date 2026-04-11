@@ -1,0 +1,40 @@
+{
+  "problem_id": "2172H",
+  "contest_id": 2172,
+  "index": "H",
+  "title": "Shuffling Cards with Problem Solver 68!",
+  "rating": 2500,
+  "raw_tags": [
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "tags": [
+    "string_hashing",
+    "string_kmp"
+  ],
+  "contest_date": "2025-11-16",
+  "solved_count": 290,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 2\nbaaabaaabaaabaaa\n",
+      "output": "\naaaaaaaaaaaabbbb\n"
+    },
+    {
+      "input": "\n4 999999999\nabcdefghijklmnop\n",
+      "output": "\nacegikmobdfhjlnp\n"
+    },
+    {
+      "input": "\n4 17\nbbcttckrdezzzbcd\n",
+      "output": "\nbcckdrbdbecztztz\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

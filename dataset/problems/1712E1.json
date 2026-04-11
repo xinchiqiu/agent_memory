@@ -1,0 +1,38 @@
+{
+  "problem_id": "1712E1",
+  "contest_id": 1712,
+  "index": "E1",
+  "title": "LCM Sum (easy version)",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "math_combinatorics",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2022-08-13",
+  "solved_count": 2446,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 4\n3 5\n8 86\n68 86\n6 86868",
+      "output": "\n3\n1\n78975\n969\n109229059713337\n"
+    }
+  ],
+  "time_limit": "3.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

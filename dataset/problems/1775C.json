@@ -1,0 +1,31 @@
+{
+  "problem_id": "1775C",
+  "contest_id": 1775,
+  "index": "C",
+  "title": "Interesting Sequence",
+  "rating": 1600,
+  "raw_tags": [
+    "bitmasks",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-10",
+  "solved_count": 13874,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n10 8\n10 10\n10 42\n20 16\n1000000000000000000 0",
+      "output": "\n12\n10\n-1\n24\n1152921504606846976\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+  "problem_id": "1913E",
+  "contest_id": 1913,
+  "index": "E",
+  "title": "Matrix Problem",
+  "rating": 2400,
+  "raw_tags": [
+    "flows",
+    "graphs"
+  ],
+  "tags": [
+    "network_flow",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-12-18",
+  "solved_count": 1309,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3 3\n0 0 0\n0 0 0\n0 0 0\n1 1 1\n1 1 1",
+      "output": "\n3"
+    },
+    {
+      "input": "\n\n3 3\n1 1 1\n1 1 1\n1 1 1\n3 2 1\n1 2 3",
+      "output": "\n3"
+    },
+    {
+      "input": "\n\n2 2\n0 0\n0 0\n1 2\n0 1",
+      "output": "\n-1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

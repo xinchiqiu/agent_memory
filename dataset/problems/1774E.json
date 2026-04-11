@@ -1,0 +1,38 @@
+{
+  "problem_id": "1774E",
+  "contest_id": 1774,
+  "index": "E",
+  "title": "Two Chess Pieces",
+  "rating": 1900,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2022-12-17",
+  "solved_count": 3938,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 2\n1 2\n1 3\n2 4\n1 3\n1 4\n",
+      "output": "\n6"
+    },
+    {
+      "input": "\n4 2\n1 2\n2 3\n3 4\n4 1 2 3 4\n1 1\n",
+      "output": "\n8"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

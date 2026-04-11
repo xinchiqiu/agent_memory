@@ -1,0 +1,55 @@
+{
+  "problem_id": "1739E",
+  "contest_id": 1739,
+  "index": "E",
+  "title": "Cleaning Robot",
+  "rating": 2400,
+  "raw_tags": [
+    "bitmasks",
+    "dp"
+  ],
+  "tags": [
+    "implementation",
+    "dp"
+  ],
+  "contest_date": "2022-09-29",
+  "solved_count": 1442,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n01\n11\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n2\n01\n01\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n4\n0101\n1011\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n4\n0000\n0000\n",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n5\n00011\n10101\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n6\n011111\n111111\n",
+      "output": "\n8\n"
+    },
+    {
+      "input": "\n10\n0101001010\n1010100110\n",
+      "output": "\n6\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

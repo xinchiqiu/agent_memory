@@ -1,0 +1,31 @@
+{
+  "problem_id": "1985F",
+  "contest_id": 1985,
+  "index": "F",
+  "title": "Final Boss",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "data structures"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation"
+  ],
+  "contest_date": "2024-06-11",
+  "solved_count": 19777,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3 2\n2 1\n2 1\n5 2\n2 1\n2 1\n50 3\n5 6 7\n5 6 7\n50 3\n2 2 2\n3 3 3\n90000 2\n200000 200000\n1 1\n100000 1\n1\n200000\n6 7\n3 2 3 2 3 1 2\n6 5 9 5 10 7 7\n21 6\n1 1 1 1 1 1\n5 5 8 10 7 6",
+      "output": "\n1\n3\n15\n25\n1\n19999800001\n1\n21\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

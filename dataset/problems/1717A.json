@@ -1,0 +1,30 @@
+{
+  "problem_id": "1717A",
+  "contest_id": 1717,
+  "index": "A",
+  "title": "Madoka and Strange Thoughts",
+  "rating": 800,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2022-09-02",
+  "solved_count": 20885,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1\n2\n3\n4\n5\n100000000",
+      "output": "\n1\n4\n7\n10\n11\n266666666\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

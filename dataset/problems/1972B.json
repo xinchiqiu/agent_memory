@@ -1,0 +1,29 @@
+{
+  "problem_id": "1972B",
+  "contest_id": 1972,
+  "index": "B",
+  "title": "Coin Games",
+  "rating": 900,
+  "raw_tags": [
+    "games"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2024-04-30",
+  "solved_count": 25233,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\nUUDUD\n5\nUDDUD\n2\nUU",
+      "output": "\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

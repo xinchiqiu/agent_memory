@@ -1,0 +1,33 @@
+{
+  "problem_id": "1742B",
+  "contest_id": 1742,
+  "index": "B",
+  "title": "Increasing",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2022-10-13",
+  "solved_count": 60146,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n1 1 1 1\n5\n8 7 1 3 4\n1\n5",
+      "output": "\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,54 @@
+{
+  "problem_id": "1618F",
+  "contest_id": 1618,
+  "index": "F",
+  "title": "Reverse",
+  "rating": 2000,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dfs and similar",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "graph_dfs",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2021-12-14",
+  "solved_count": 4704,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 3\n",
+      "output": "\nYES\n"
+    },
+    {
+      "input": "\n7 4\n",
+      "output": "\nNO\n"
+    },
+    {
+      "input": "\n2 8\n",
+      "output": "\nNO\n"
+    },
+    {
+      "input": "\n34 69\n",
+      "output": "\nYES\n"
+    },
+    {
+      "input": "\n8935891487501725 71487131900013807\n",
+      "output": "\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

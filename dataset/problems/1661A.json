@@ -1,0 +1,31 @@
+{
+  "problem_id": "1661A",
+  "contest_id": 1661,
+  "index": "A",
+  "title": "Array Balancing",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-04-09",
+  "solved_count": 19262,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n3 3 10 10\n10 10 3 3\n5\n1 2 3 4 5\n6 7 8 9 10\n6\n72 101 108 108 111 44\n10 87 111 114 108 100",
+      "output": "\n0\n8\n218\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

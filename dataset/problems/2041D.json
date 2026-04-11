@@ -1,0 +1,42 @@
+{
+  "problem_id": "2041D",
+  "contest_id": 2041,
+  "index": "D",
+  "title": "Drunken Maze",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs",
+    "shortest paths"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2024-11-24",
+  "solved_count": 4545,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7 12\n############\n#S........T#\n#.########.#\n#..........#\n#..........#\n#..#..#....#\n############",
+      "output": "\n15\n"
+    },
+    {
+      "input": "\n\n5 8\n########\n#......#\n#.####.#\n#...T#S#\n########",
+      "output": "\n14\n"
+    },
+    {
+      "input": "\n\n5 8\n########\n#.#S...#\n#.####.#\n#...T#.#\n########",
+      "output": "\n-1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

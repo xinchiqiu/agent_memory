@@ -1,0 +1,45 @@
+{
+  "problem_id": "1767D",
+  "contest_id": 1767,
+  "index": "D",
+  "title": "Playoff",
+  "rating": 1500,
+  "raw_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "constructive",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-12-16",
+  "solved_count": 11164,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n101\n",
+      "output": "\n4 5 6 7 "
+    },
+    {
+      "input": "\n1\n1\n",
+      "output": "\n2 "
+    },
+    {
+      "input": "\n2\n01\n",
+      "output": "\n2 3 "
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

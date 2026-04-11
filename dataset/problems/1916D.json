@@ -1,0 +1,35 @@
+{
+  "problem_id": "1916D",
+  "contest_id": 1916,
+  "index": "D",
+  "title": "Mathematical Problem",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "geometry",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "geometry",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-30",
+  "solved_count": 9704,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1\n3\n5",
+      "output": "\n1\n169\n196\n961\n16384\n31684\n36481\n38416\n43681\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

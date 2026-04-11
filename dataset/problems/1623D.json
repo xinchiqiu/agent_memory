@@ -1,0 +1,33 @@
+{
+  "problem_id": "1623D",
+  "contest_id": 1623,
+  "index": "D",
+  "title": "Robot Cleaner Revisit",
+  "rating": 2300,
+  "raw_tags": [
+    "implementation",
+    "math",
+    "probabilities"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory",
+    "math_combinatorics"
+  ],
+  "contest_date": "2021-12-28",
+  "solved_count": 1464,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n2 2 1 1 2 1 25\n3 3 1 2 2 2 25\n10 10 1 1 10 10 75\n10 10 10 10 1 1 75\n5 5 1 3 2 2 10\n97 98 3 5 41 43 50\n",
+      "output": "\n3\n3\n15\n15\n332103349\n99224487\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

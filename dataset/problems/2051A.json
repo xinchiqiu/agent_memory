@@ -1,0 +1,29 @@
+{
+  "problem_id": "2051A",
+  "contest_id": 2051,
+  "index": "A",
+  "title": "Preparing for the Olympiad",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2024-12-22",
+  "solved_count": 34784,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n3 2\n2 1\n1\n5\n8\n3\n1 1 1\n2 2 2\n6\n8 2 5 6 2 6\n8 2 7 4 3 4",
+      "output": "\n4\n5\n1\n16\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

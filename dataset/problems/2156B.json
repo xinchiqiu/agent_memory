@@ -1,0 +1,35 @@
+{
+  "problem_id": "2156B",
+  "contest_id": 2156,
+  "index": "B",
+  "title": "Strange Machine",
+  "rating": 1000,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2025-10-24",
+  "solved_count": 20329,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 2\nBA\n3 4\n1 1\nB\n20\n6 4\nBAABBA\n2 8 32 95",
+      "output": "\n\n2\n3\n5\n2\n5\n8\n11"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

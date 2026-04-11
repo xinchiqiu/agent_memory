@@ -1,0 +1,35 @@
+{
+  "problem_id": "2146D2",
+  "contest_id": 2146,
+  "index": "D2",
+  "title": "Max Sum OR (Hard Version)",
+  "rating": 2000,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "divide and conquer",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "divide_and_conquer",
+    "greedy"
+  ],
+  "contest_date": "2025-09-21",
+  "solved_count": 3910,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n0 3\n0 9\n0 15\n6 10\n1 4\n3 6\n1000000007 1000000009",
+      "output": "\n\n12\n3 2 1 0 \n90\n7 8 5 4 3 2 9 0 1 6\n240\n15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 \n70\n10 8 7 6 9\n20\n2 1 4 3 \n28\n4 3 6 5 \n3000000039\n1000000008 1000000007 1000000009 "
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

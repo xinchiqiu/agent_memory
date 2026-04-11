@@ -1,0 +1,53 @@
+{
+  "problem_id": "1697E",
+  "contest_id": 1697,
+  "index": "E",
+  "title": "Coloring",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "dp",
+    "geometry",
+    "graphs",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "constructive",
+    "dp",
+    "geometry",
+    "graph_dfs",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-06-12",
+  "solved_count": 1441,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1 0\n3 0\n2 1\n",
+      "output": "\n9\n"
+    },
+    {
+      "input": "\n5\n1 2\n2 4\n3 4\n4 4\n1 3\n",
+      "output": "\n240\n"
+    },
+    {
+      "input": "\n4\n1 0\n3 0\n2 1\n2 0\n",
+      "output": "\n24\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "2103C",
+  "contest_id": 2103,
+  "index": "C",
+  "title": "Median Splits",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2025-04-21",
+  "solved_count": 10375,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3 2\n3 2 1\n3 1\n3 2 1\n6 3\n8 5 3 1 6 4\n8 7\n10 7 12 16 3 15 6 11\n6 8\n7 11 12 4 9 17\n3 500000000\n1000 1000000000 1000",
+      "output": "\nYES\nNO\nNO\nYES\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

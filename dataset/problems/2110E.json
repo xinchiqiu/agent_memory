@@ -1,0 +1,32 @@
+{
+  "problem_id": "2110E",
+  "contest_id": 2110,
+  "index": "E",
+  "title": "Melody",
+  "rating": 2300,
+  "raw_tags": [
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "tags": [
+    "graph_dfs",
+    "implementation"
+  ],
+  "contest_date": "2025-05-24",
+  "solved_count": 2589,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n179 239\n179 179\n239 179\n239 239\n3\n1 1\n2 1\n3 1\n1\n5 7\n5\n1 1\n1 2\n2 1\n2 2\n99 99\n7\n1 1\n1 3\n2 1\n2 2\n3 1\n3 2\n3 3",
+      "output": "\nYES\n4 3 2 1 \nNO\nYES\n1 \nNO\nYES\n3 4 6 7 2 1 5 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

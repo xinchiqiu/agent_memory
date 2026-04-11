@@ -1,0 +1,33 @@
+{
+  "problem_id": "1999D",
+  "contest_id": 1999,
+  "index": "D",
+  "title": "Slavic's Exam",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2024-08-06",
+  "solved_count": 32423,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n?????\nxbx\nab??e\nabcde\nayy?x\na\nab??e\ndac\npaiu\nmom",
+      "output": "\nYES\nxabax\nYES\nabcde\nYES\nayyyx\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

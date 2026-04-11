@@ -1,0 +1,35 @@
+{
+  "problem_id": "1743E",
+  "contest_id": 1743,
+  "index": "E",
+  "title": "FTL",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "dp"
+  ],
+  "tags": [
+    "binary_search",
+    "dp"
+  ],
+  "contest_date": "2022-10-17",
+  "solved_count": 1852,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 10\n4 9\n16 1\n",
+      "output": "\n20\n"
+    },
+    {
+      "input": "\n10 1\n5000 100000\n25 9\n",
+      "output": "\n25\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

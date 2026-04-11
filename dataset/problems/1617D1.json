@@ -1,0 +1,32 @@
+{
+  "problem_id": "1617D1",
+  "contest_id": 1617,
+  "index": "D1",
+  "title": "Too Many Impostors (easy version)",
+  "rating": 1800,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2021-12-16",
+  "solved_count": 5143,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n6\n\n0\n\n1\n\n9\n\n1",
+      "output": "\n? 1 2 3\n\n? 3 4 5\n\n! 3 4 1 2\n\n? 7 1 9\n\n! 4 2 3 6 8"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

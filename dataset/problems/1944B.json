@@ -1,0 +1,31 @@
+{
+  "problem_id": "1944B",
+  "contest_id": 1944,
+  "index": "B",
+  "title": "Equal XOR",
+  "rating": 1100,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms"
+  ],
+  "tags": [
+    "implementation",
+    "constructive"
+  ],
+  "contest_date": "2024-03-16",
+  "solved_count": 18066,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 1\n1 2 2 1\n6 1\n6 4 2 1 2 3 1 6 3 5 5 4\n4 1\n1 2 3 4 1 2 3 4\n6 2\n5 1 3 3 5 1 2 6 4 6 4 2",
+      "output": "\n2 1\n2 1\n6 4\n1 3\n1 2\n1 2\n5 1 3 3\n6 4 2 4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

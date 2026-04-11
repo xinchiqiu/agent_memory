@@ -1,0 +1,30 @@
+{
+  "problem_id": "1910A",
+  "contest_id": 1910,
+  "index": "A",
+  "title": "Username",
+  "rating": 1100,
+  "raw_tags": [
+    "*special",
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2023-12-11",
+  "solved_count": 1975,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\nuser0125\na1\nkotlin990000\n1code0forces101",
+      "output": "\nuser0\na\nkotlin9\n1code0forces"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

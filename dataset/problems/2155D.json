@@ -1,0 +1,38 @@
+{
+  "problem_id": "2155D",
+  "contest_id": 2155,
+  "index": "D",
+  "title": "Batteries",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "graph matchings",
+    "graphs",
+    "interactive",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-10-05",
+  "solved_count": 5714,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n3\n\n0\n\n1\n10\n\n0\n\n0\n\n1",
+      "output": "\n\n\n1 2\n\n2 3\n\n\n1 2\n\n1 3\n\n1 4\n\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

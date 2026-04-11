@@ -1,0 +1,39 @@
+{
+  "problem_id": "1695C",
+  "contest_id": 1695,
+  "index": "C",
+  "title": "Zero Path",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp",
+    "graph_dfs",
+    "greedy",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2022-06-18",
+  "solved_count": 13840,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 1\n1\n1 2\n1 -1\n1 4\n1 -1 1 -1\n3 4\n1 -1 -1 -1\n-1 1 1 -1\n1 1 1 -1\n3 4\n1 -1 1 1\n-1 1 -1 1\n1 -1 1 1",
+      "output": "\nNO\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

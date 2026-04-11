@@ -1,0 +1,37 @@
+{
+  "problem_id": "1731D",
+  "contest_id": 1731,
+  "index": "D",
+  "title": "Valiant's New Map",
+  "rating": 1700,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "dp",
+    "two_pointers"
+  ],
+  "contest_date": "2022-12-27",
+  "solved_count": 8405,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 2\n2 3\n4 5\n1 3\n1 2 3\n2 3\n4 4 3\n2 1 4\n5 6\n1 9 4 6 5 8\n10 9 5 8 11 6\n24 42 32 8 11 1\n23 1 9 69 13 3\n13 22 60 12 14 17",
+      "output": "\n2\n1\n1\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

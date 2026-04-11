@@ -1,0 +1,34 @@
+{
+  "problem_id": "2140E2",
+  "contest_id": 2140,
+  "index": "E2",
+  "title": "Prime Gaming (Hard Version)",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "probabilities"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "dp"
+  ],
+  "contest_date": "2025-09-09",
+  "solved_count": 1191,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2 3\n1\n1\n7 4\n3\n1 4 6\n12 31\n6\n1 3 5 7 9 11\n11 121\n11\n1 2 3 4 5 6 7 8 9 10 11\n19 6969\n2\n1 19",
+      "output": "\n18\n33664\n909076242\n683044824\n901058932\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

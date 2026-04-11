@@ -1,0 +1,31 @@
+{
+  "problem_id": "2069B",
+  "contest_id": 2069,
+  "index": "B",
+  "title": "Set of Strangers",
+  "rating": 1200,
+  "raw_tags": [
+    "greedy",
+    "matrices"
+  ],
+  "tags": [
+    "greedy",
+    "dp"
+  ],
+  "contest_date": "2025-02-18",
+  "solved_count": 18587,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1 1\n1\n3 3\n1 2 1\n2 3 2\n1 3 1\n1 6\n5 4 5 4 4 5\n3 4\n1 4 2 2\n1 4 3 5\n6 6 3 5",
+      "output": "\n0\n2\n1\n10\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

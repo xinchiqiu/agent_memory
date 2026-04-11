@@ -1,0 +1,33 @@
+{
+  "problem_id": "1670A",
+  "contest_id": 1670,
+  "index": "A",
+  "title": "Prof. Slim",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2022-05-06",
+  "solved_count": 15969,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n7\n7 3 2 -11 -13 -17 -23\n6\n4 10 25 47 71 96\n6\n71 -35 7 -4 -11 -25\n6\n-45 9 -48 -67 -55 7",
+      "output": "\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

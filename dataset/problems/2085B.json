@@ -1,0 +1,31 @@
+{
+  "problem_id": "2085B",
+  "contest_id": 2085,
+  "index": "B",
+  "title": "Serval and Final MEX",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "tags": [
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2025-03-22",
+  "solved_count": 16896,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n4\n1 2 3 4\n5\n0 1 0 0 1\n6\n0 0 0 0 0 0\n6\n5 4 3 2 1 0\n4\n0 0 1 1\n4\n1 0 0 0",
+      "output": "\n1\n1 4\n4\n1 2\n1 2\n1 2\n1 2\n4\n5 6\n3 4\n1 2\n1 3\n3\n4 5\n4 5\n1 4\n2\n1 2\n1 3\n2\n2 4\n1 2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1866I",
+  "contest_id": 1866,
+  "index": "I",
+  "title": "Imagination Castle",
+  "rating": 2300,
+  "raw_tags": [
+    "dp",
+    "games",
+    "two pointers"
+  ],
+  "tags": [
+    "dp",
+    "constructive",
+    "two_pointers"
+  ],
+  "contest_date": "2023-09-03",
+  "solved_count": 920,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 5 3\n1 3\n4 4\n1 5\n",
+      "output": "\nChaneka\n"
+    },
+    {
+      "input": "\n2 2 0\n",
+      "output": "\nBhinneka\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

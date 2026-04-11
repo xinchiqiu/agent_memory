@@ -1,0 +1,36 @@
+{
+  "problem_id": "2059E1",
+  "contest_id": 2059,
+  "index": "E1",
+  "title": "Stop Gaming (Easy Version)",
+  "rating": 2500,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "hashing",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2025-02-02",
+  "solved_count": 872,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 2\n2 6\n3 4\n1 2\n7 8\n1 5\n5 4 1 2 3\n5 4 3 2 1\n3 3\n1 2 3\n4 5 6\n7 8 9\n11 1 2\n12 3 4\n13 5 6\n4 4\n1 2 3 4\n5 6 7 8\n9 10 11 12\n13 14 15 16\n17 1 2 3\n4 18 5 6\n7 19 8 20\n9 21 22 10",
+      "output": "\n3\n5\n3\n6\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

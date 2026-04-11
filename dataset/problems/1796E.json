@@ -1,0 +1,36 @@
+{
+  "problem_id": "1796E",
+  "contest_id": 1796,
+  "index": "E",
+  "title": "Colored Subgraphs",
+  "rating": 2500,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "games",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2023-02-28",
+  "solved_count": 1018,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n1 2\n2 3\n3 4\n5\n1 2\n1 3\n1 4\n1 5\n3\n1 3\n3 2\n7\n3 2\n2 5\n7 5\n3 1\n1 6\n1 4",
+      "output": "\n4\n1\n3\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

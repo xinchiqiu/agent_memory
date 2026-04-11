@@ -1,0 +1,40 @@
+{
+  "problem_id": "1583E",
+  "contest_id": 1583,
+  "index": "E",
+  "title": "Moment of Bloom",
+  "rating": 2200,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "graph matchings",
+    "graphs",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2021-10-17",
+  "solved_count": 2458,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6 7\n2 1\n2 3\n3 5\n1 4\n6 1\n5 6\n4 5\n3\n1 4\n5 1\n4 5\n",
+      "output": "\nYES\n2\n1 4\n4\n5 3 2 1\n5\n4 1 2 3 5\n"
+    },
+    {
+      "input": "\n5 7\n4 3\n4 5\n2 1\n1 4\n1 3\n3 5\n3 2\n4\n4 2\n3 5\n5 1\n4 5\n",
+      "output": "\nNO\n2\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

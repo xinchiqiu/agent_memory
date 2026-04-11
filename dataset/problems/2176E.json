@@ -1,0 +1,39 @@
+{
+  "problem_id": "2176E",
+  "contest_id": 2176,
+  "index": "E",
+  "title": "Remove at the lowest cost",
+  "rating": 2400,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "union_find",
+    "greedy"
+  ],
+  "contest_date": "2025-12-11",
+  "solved_count": 1209,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n10\n5 5 8 10 4 3 4 10 5 5\n10 3 9 6 9 8 7 8 10 3\n1 10 2 9 5 6 7 4 3 8\n4\n1000000000 1000000000 1000000000 1000000000\n1000000000 1000000000 1000000000 1000000000\n1 2 4 3",
+      "output": "\n\n42 36 30 30 30 12 12 12 0 0 0 \n3000000000 0 0 0 0 "
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

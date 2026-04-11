@@ -1,0 +1,31 @@
+{
+  "problem_id": "1704A",
+  "contest_id": 1704,
+  "index": "A",
+  "title": "Two 0-1 Sequences",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2022-07-31",
+  "solved_count": 16624,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n6 2\n001001\n11\n6 2\n110111\n01\n6 2\n000001\n11\n6 2\n111111\n01\n8 5\n10000101\n11010\n7 4\n1010001\n1001\n8 6\n01010010\n010010\n8 4\n01010101\n1001\n8 4\n10101010\n0110\n7 5\n1011100\n11100",
+      "output": "\nYES\nYES\nNO\nNO\nNO\nYES\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

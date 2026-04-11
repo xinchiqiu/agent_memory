@@ -1,0 +1,33 @@
+{
+  "problem_id": "2173B",
+  "contest_id": 2173,
+  "index": "B",
+  "title": "Niko's Tactical Cards",
+  "rating": 1100,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-12-05",
+  "solved_count": 17626,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n4 -8 -1\n-3 -7 0\n5\n-3 1 0 7 1\n-5 3 -1 4 -5\n5\n-7 7 5 4 9\n-9 -3 3 2 2",
+      "output": "\n6\n12\n27"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

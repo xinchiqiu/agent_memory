@@ -1,0 +1,37 @@
+{
+  "problem_id": "1866H",
+  "contest_id": 1866,
+  "index": "H",
+  "title": "Happy Sets",
+  "rating": 2100,
+  "raw_tags": [
+    "combinatorics"
+  ],
+  "tags": [
+    "math_combinatorics"
+  ],
+  "contest_date": "2023-09-03",
+  "solved_count": 1893,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 2\n",
+      "output": "\n11\n"
+    },
+    {
+      "input": "\n1 3\n",
+      "output": "\n8\n"
+    },
+    {
+      "input": "\n3 1\n",
+      "output": "\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

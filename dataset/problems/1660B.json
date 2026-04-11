@@ -1,0 +1,29 @@
+{
+  "problem_id": "1660B",
+  "contest_id": 1660,
+  "index": "B",
+  "title": "Vlad and Candies",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2022-03-31",
+  "solved_count": 29653,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2\n2 3\n1\n2\n5\n1 6 2 4 3\n4\n2 2 2 1\n3\n1 1000000000 999999999\n1\n1",
+      "output": "\nYES\nNO\nNO\nYES\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

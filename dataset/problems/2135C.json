@@ -1,0 +1,40 @@
+{
+  "problem_id": "2135C",
+  "contest_id": 2135,
+  "index": "C",
+  "title": "By the Assignment",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "combinatorics",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "math_combinatorics",
+    "graph_dfs",
+    "union_find",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-08-28",
+  "solved_count": 3750,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 4 4\n-1 -1 -1 -1\n1 2\n2 3\n1 3\n4 3\n5 6 7\n2 2 -1 2 2\n1 2\n1 3\n1 4\n2 5\n3 5\n4 5\n7 8 9\n-1 -1 -1 -1 0 -1 0\n1 2\n2 3\n3 4\n1 4\n1 5\n5 6\n7 6\n7 5\n5 8 1000000000\n1 2 3 4 -1\n1 2\n3 2\n3 5\n5 1\n2 4\n4 3\n2 5\n1 4\n5 4 1000000000\n-1 2 -1 3 -1\n1 2\n1 3\n2 4\n2 5",
+      "output": "\n4\n1\n9\n0\n747068572\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

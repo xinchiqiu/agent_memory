@@ -1,0 +1,37 @@
+{
+  "problem_id": "1676C",
+  "contest_id": 1676,
+  "index": "C",
+  "title": "Most Similar Words",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2022-05-10",
+  "solved_count": 34366,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2 4\nbest\ncost\n6 3\nabb\nzba\nbef\ncdu\nooo\nzzz\n2 7\naaabbbc\nbbaezfe\n3 2\nab\nab\nab\n2 8\naaaaaaaa\nzzzzzzzz\n3 1\na\nu\ny",
+      "output": "\n11\n8\n35\n0\n200\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

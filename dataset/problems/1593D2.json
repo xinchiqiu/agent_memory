@@ -1,0 +1,32 @@
+{
+  "problem_id": "1593D2",
+  "contest_id": 1593,
+  "index": "D2",
+  "title": "Half of Same",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-13",
+  "solved_count": 5535,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n6\n48 13 22 -15 16 35\n8\n-1 0 1 -1 0 1 -1 0\n4\n100 -1000 -1000 -1000\n4\n1 1 1 1\n",
+      "output": "\n13\n2\n-1\n-1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

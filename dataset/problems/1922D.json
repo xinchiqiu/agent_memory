@@ -1,0 +1,36 @@
+{
+  "problem_id": "1922D",
+  "contest_id": 1922,
+  "index": "D",
+  "title": "Berserk Monsters",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dsu",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "union_find",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-01-18",
+  "solved_count": 6720,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n3 4 7 5 10\n4 9 1 18 1\n2\n2 1\n1 3\n4\n1 1 2 4\n3 3 4 2",
+      "output": "\n3 1 0 0 0 \n0 0 \n1 1 1 0 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

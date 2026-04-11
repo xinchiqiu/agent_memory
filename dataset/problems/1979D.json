@@ -1,0 +1,40 @@
+{
+  "problem_id": "1979D",
+  "contest_id": 1979,
+  "index": "D",
+  "title": "Fixing a Binary String",
+  "rating": 1800,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "hashing",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "constructive",
+    "dp",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-06-06",
+  "solved_count": 7790,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n8 4\n11100001\n4 2\n1110\n12 3\n111000100011\n5 5\n00000\n6 1\n101001\n8 4\n01110001\n12 2\n110001100110",
+      "output": "\n3\n-1\n7\n5\n4\n-1\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

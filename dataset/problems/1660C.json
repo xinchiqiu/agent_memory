@@ -1,0 +1,33 @@
+{
+  "problem_id": "1660C",
+  "contest_id": 1660,
+  "index": "C",
+  "title": "Get an Even String",
+  "rating": 1300,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2022-03-31",
+  "solved_count": 21839,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\naabbdabdccc\nzyx\naaababbb\naabbcc\noaoaaaoo\nbmefbmuyw",
+      "output": "\n3\n3\n2\n0\n2\n7\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1904D1",
+  "contest_id": 1904,
+  "index": "D1",
+  "title": "Set To Max (Easy Version)",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2023-12-09",
+  "solved_count": 8508,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\n1 2 3 2 4\n1 3 3 2 4\n5\n3 4 2 2 4\n3 4 3 4 4\n5\n3 2 1 1 1\n3 3 3 2 2\n2\n1 1\n1 2\n3\n1 1 2\n2 1 2",
+      "output": "\nYES\nNO\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,45 @@
+{
+  "problem_id": "1906A",
+  "contest_id": 1906,
+  "index": "A",
+  "title": "Easy As ABC",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force"
+  ],
+  "tags": [
+    "brute_force"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 5962,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\nBCB\nCAC\nBCB\n",
+      "output": "\nABC\n"
+    },
+    {
+      "input": "\nBCB\nCCC\nCCA\n",
+      "output": "\nACB\n"
+    },
+    {
+      "input": "\nACA\nCBC\nACA\n",
+      "output": "\nABA\n"
+    },
+    {
+      "input": "\nACA\nCAC\nACA\n",
+      "output": "\nAAA\n"
+    },
+    {
+      "input": "\nCCC\nCBC\nCCC\n",
+      "output": "\nBCC\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

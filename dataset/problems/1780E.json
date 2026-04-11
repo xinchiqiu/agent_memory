@@ -1,0 +1,36 @@
+{
+  "problem_id": "1780E",
+  "contest_id": 1780,
+  "index": "E",
+  "title": "Josuke and Complete Graph",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-25",
+  "solved_count": 1705,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n2 4\n16 24\n2 6\n1 10\n3 3\n2562 2568\n125 100090",
+      "output": "\n2\n6\n3\n5\n0\n5\n50045\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

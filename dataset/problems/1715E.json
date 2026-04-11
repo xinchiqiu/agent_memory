@@ -1,0 +1,53 @@
+{
+  "problem_id": "1715E",
+  "contest_id": 1715,
+  "index": "E",
+  "title": "Long Way Home",
+  "rating": 2400,
+  "raw_tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "geometry",
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "tags": [
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "geometry",
+    "graph_dfs",
+    "greedy",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2022-08-20",
+  "solved_count": 2104,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 1 2\n1 3 1\n",
+      "output": "\n0 1 1 "
+    },
+    {
+      "input": "\n4 3 1\n1 2 3\n2 4 5\n3 4 7\n",
+      "output": "\n0 1 4 6 "
+    },
+    {
+      "input": "\n2 1 1\n2 1 893746473\n",
+      "output": "\n0 1 "
+    },
+    {
+      "input": "\n5 5 2\n2 1 33\n1 5 93\n5 3 48\n2 3 21\n4 2 1\n",
+      "output": "\n0 1 2 2 3 "
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

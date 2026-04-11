@@ -1,0 +1,37 @@
+{
+  "problem_id": "1901E",
+  "contest_id": 1901,
+  "index": "E",
+  "title": "Compressed Tree",
+  "rating": 2200,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-11-24",
+  "solved_count": 1956,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n1 -2 2 1\n1 2\n3 2\n2 4\n2\n-2 -5\n2 1\n7\n-2 4 -2 3 3 2 -1\n1 2\n2 3\n3 4\n3 5\n4 6\n4 7",
+      "output": "\n3\n0\n9\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

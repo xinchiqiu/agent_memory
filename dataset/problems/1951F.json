@@ -1,0 +1,33 @@
+{
+  "problem_id": "1951F",
+  "contest_id": 1951,
+  "index": "F",
+  "title": "Inversion Composition",
+  "rating": 2500,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2024-04-06",
+  "solved_count": 951,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 4\n2 3 1\n5 5\n2 3 5 1 4\n6 11\n5 1 2 3 4 6\n9 51\n3 1 4 2 5 6 7 8 9\n1 0\n1",
+      "output": "\nYES\n3 2 1\nNO\nNO\nYES\n1 5 9 8 7 6 4 3 2\nYES\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

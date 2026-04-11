@@ -1,0 +1,31 @@
+{
+  "problem_id": "1792A",
+  "contest_id": 1792,
+  "index": "A",
+  "title": "GamingForces",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-01-24",
+  "solved_count": 30740,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n1 2 1 2\n3\n2 4 2\n5\n1 2 3 4 5",
+      "output": "\n3\n3\n5\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

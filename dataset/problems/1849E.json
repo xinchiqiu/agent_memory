@@ -1,0 +1,47 @@
+{
+  "problem_id": "1849E",
+  "contest_id": 1849,
+  "index": "E",
+  "title": "Max to the Right of Min",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "dsu",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "union_find",
+    "two_pointers"
+  ],
+  "contest_date": "2023-07-27",
+  "solved_count": 2152,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1 2 3\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n6\n5 3 6 1 4 2\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n10\n5 1 6 2 8 3 4 10 9 7\n",
+      "output": "\n38\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

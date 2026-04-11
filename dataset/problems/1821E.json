@@ -1,0 +1,37 @@
+{
+  "problem_id": "1821E",
+  "contest_id": 1821,
+  "index": "E",
+  "title": "Rearrange Brackets",
+  "rating": 2100,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2023-04-20",
+  "solved_count": 2683,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n0\n()\n0\n(())\n1\n(())\n5\n()\n1\n(()()(()))\n2\n((())()(()())((())))\n3\n((())()(()())((())))",
+      "output": "\n0\n1\n0\n0\n1\n4\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

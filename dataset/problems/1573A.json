@@ -1,0 +1,29 @@
+{
+  "problem_id": "1573A",
+  "contest_id": 1573,
+  "index": "A",
+  "title": "Countdown",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2021-09-18",
+  "solved_count": 21898,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n3\n007\n4\n1000\n5\n00000\n3\n103\n4\n2020\n9\n123456789\n30\n001678294039710047203946100020\n",
+      "output": "\n7\n2\n0\n5\n6\n53\n115\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

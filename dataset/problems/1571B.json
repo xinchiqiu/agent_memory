@@ -1,0 +1,30 @@
+{
+  "problem_id": "1571B",
+  "contest_id": 1571,
+  "index": "B",
+  "title": "Epic Novel",
+  "rating": 1300,
+  "raw_tags": [
+    "*special",
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-07",
+  "solved_count": 758,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1\n1 1\n100 1\n99\n4\n10 1\n20 4\n16\n100\n1 1\n100 100\n42\n100\n1 1\n100 2\n99\n",
+      "output": "\n1\n2\n42\n1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

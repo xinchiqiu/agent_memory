@@ -1,0 +1,29 @@
+{
+  "problem_id": "1634C",
+  "contest_id": 1634,
+  "index": "C",
+  "title": "OKEA",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2022-02-06",
+  "solved_count": 19048,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1 1\n2 2\n3 3\n3 1",
+      "output": "\nYES\n1 \nYES\n1 3 \n2 4 \nNO\nYES\n1 \n2 \n3 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

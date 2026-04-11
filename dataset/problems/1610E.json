@@ -1,0 +1,37 @@
+{
+  "problem_id": "1610E",
+  "contest_id": 1610,
+  "index": "E",
+  "title": "AmShZ and G.O.A.T.",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-11-23",
+  "solved_count": 1911,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3\n1 2 3\n5\n1 4 4 5 6\n6\n7 8 197860736 212611869 360417095 837913434\n8\n6 10 56026534 405137099 550504063 784959015 802926648 967281024\n",
+      "output": "\n0\n1\n2\n3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

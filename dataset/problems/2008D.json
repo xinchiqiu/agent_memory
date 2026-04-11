@@ -1,0 +1,35 @@
+{
+  "problem_id": "2008D",
+  "contest_id": 2008,
+  "index": "D",
+  "title": "Sakurako's Hobby",
+  "rating": 1100,
+  "raw_tags": [
+    "dp",
+    "dsu",
+    "graphs",
+    "math"
+  ],
+  "tags": [
+    "dp",
+    "union_find",
+    "graph_dfs",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-09-01",
+  "solved_count": 23206,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n1\n0\n5\n1 2 4 5 3\n10101\n5\n5 4 1 3 2\n10011\n6\n3 5 6 1 2 4\n010000\n6\n1 2 3 4 5 6\n100110",
+      "output": "\n1 \n0 1 1 1 1 \n2 2 2 2 2 \n4 1 4 4 1 4 \n0 1 1 0 0 1 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1703D",
+  "contest_id": 1703,
+  "index": "D",
+  "title": "Double Strings",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-07-12",
+  "solved_count": 29045,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\nabab\nab\nabc\nabacb\nc\n3\nx\nxx\nxxx\n8\ncodeforc\nes\ncodes\ncod\nforc\nforces\ne\ncode",
+      "output": "\n10100\n011\n10100101\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,36 @@
+{
+  "problem_id": "1955F",
+  "contest_id": 1955,
+  "index": "F",
+  "title": "Unfair Game",
+  "rating": 1800,
+  "raw_tags": [
+    "dp",
+    "games",
+    "greedy",
+    "math",
+    "schedules"
+  ],
+  "tags": [
+    "dp",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-08",
+  "solved_count": 8618,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 1 1 0\n1 0 1 2\n2 2 2 0\n3 3 2 0\n0 9 9 9",
+      "output": "\n1\n1\n3\n3\n12\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

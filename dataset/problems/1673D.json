@@ -1,0 +1,32 @@
+{
+  "problem_id": "1673D",
+  "contest_id": 1673,
+  "index": "D",
+  "title": "Lost Arithmetic Progression",
+  "rating": 1900,
+  "raw_tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-04-30",
+  "solved_count": 3614,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n-3 1 7\n-1 2 4\n-9 3 11\n0 6 3\n2 5 5\n7 5 4\n2 2 11\n10 5 3\n0 2 9\n2 4 3\n-11 4 12\n1 12 2\n-27 4 7\n-17 8 2\n-8400 420 1000000000\n0 4620 10",
+      "output": "\n0\n10\n-1\n0\n-1\n21\n0\n273000\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

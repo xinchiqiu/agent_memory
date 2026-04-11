@@ -1,0 +1,31 @@
+{
+  "problem_id": "1633C",
+  "contest_id": 1633,
+  "index": "C",
+  "title": "Kill the Monster",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-01-31",
+  "solved_count": 21188,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n25 4\n9 20\n1 1 10\n25 4\n12 20\n1 1 10\n100 1\n45 2\n0 4 10\n9 2\n69 2\n4 2 7",
+      "output": "\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

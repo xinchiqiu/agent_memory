@@ -1,0 +1,44 @@
+{
+  "problem_id": "1833G",
+  "contest_id": 1833,
+  "index": "G",
+  "title": "Ksyusha and Chinchilla",
+  "rating": 1800,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "dp",
+    "union_find",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-05-19",
+  "solved_count": 6320,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n9\n1 2\n4 3\n7 9\n5 4\n4 6\n3 2\n8 7\n1 7\n6\n1 2\n1 3\n4 3\n1 5\n6 1\n6\n1 2\n3 2\n3 4\n4 5\n6 5\n5\n1 3\n5 3\n5 2\n3 4",
+      "output": "\n2\n2 8 \n-1\n1\n3 \n-1\n"
+    },
+    {
+      "input": "\n\n4\n2\n1 2\n3\n1 2\n3 1\n6\n1 2\n3 1\n3 4\n3 5\n6 1\n9\n2 6\n6 9\n9 1\n9 7\n1 8\n7 3\n8 5\n4 7",
+      "output": "\n-1\n0\n\n1\n2 \n2\n4 3 \n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

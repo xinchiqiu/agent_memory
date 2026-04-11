@@ -1,0 +1,31 @@
+{
+  "problem_id": "1791B",
+  "contest_id": 1791,
+  "index": "B",
+  "title": "Following Directions",
+  "rating": 800,
+  "raw_tags": [
+    "geometry",
+    "implementation"
+  ],
+  "tags": [
+    "geometry",
+    "implementation"
+  ],
+  "contest_date": "2023-02-03",
+  "solved_count": 52188,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n7\nUUURDDL\n2\nUR\n8\nRRRUUDDD\n3\nLLL\n4\nDUUR\n5\nRUDLL\n11\nLLLLDDRUDRD",
+      "output": "\nYES\nYES\nNO\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

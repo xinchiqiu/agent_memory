@@ -1,0 +1,35 @@
+{
+  "problem_id": "2038B",
+  "contest_id": 2038,
+  "index": "B",
+  "title": "Make It Equal",
+  "rating": 2100,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-11-18",
+  "solved_count": 1896,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n1 1\n3\n1 3 2\n4\n2 1 2 6",
+      "output": "\n0\n-1\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

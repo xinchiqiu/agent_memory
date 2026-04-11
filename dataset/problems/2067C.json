@@ -1,0 +1,35 @@
+{
+  "problem_id": "2067C",
+  "contest_id": 2067,
+  "index": "C",
+  "title": "Devyatkino",
+  "rating": 1500,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-11",
+  "solved_count": 12550,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n16\n51\n60\n61\n777\n12345689\n1000000000\n2002\n3001\n977\n989898986\n80\n800001\n96\n70\n15\n90",
+      "output": "\n3\n2\n1\n0\n1\n3\n5\n4\n0\n7\n1\n2\n7\n0\n7\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

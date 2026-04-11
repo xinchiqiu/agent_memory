@@ -1,0 +1,35 @@
+{
+  "problem_id": "2109C1",
+  "contest_id": 2109,
+  "index": "C1",
+  "title": "Hacking Numbers (Easy Version)",
+  "rating": 1500,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "interactive",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-05-17",
+  "solved_count": 11175,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n100\n\n0\n\n1\n\n1\n\n1\n\n5\n\n1\n\n1\n\n1",
+      "output": "\n\nadd -10\n\nadd 1\n\nmul 10\n\n!\n\ndigit\n\ndiv 2\n\n!"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

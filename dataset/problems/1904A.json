@@ -1,0 +1,31 @@
+{
+  "problem_id": "1904A",
+  "contest_id": 1904,
+  "index": "A",
+  "title": "Forked!",
+  "rating": 900,
+  "raw_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2023-12-09",
+  "solved_count": 39078,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 1\n0 0\n3 3\n1 1\n3 1\n1 3\n4 4\n0 0\n8 0\n4 2\n1 4\n3 4",
+      "output": "\n2\n1\n2\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

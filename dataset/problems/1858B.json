@@ -1,0 +1,36 @@
+{
+  "problem_id": "1858B",
+  "contest_id": 1858,
+  "index": "B",
+  "title": "The Walkway",
+  "rating": 1500,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-08-15",
+  "solved_count": 12889,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n6 2 2\n2 5\n8 3 2\n3 5 8\n10 4 9\n2 8 9 10\n30 5 8\n6 8 15 24 29\n30 5 8\n6 8 12 20 27\n8 8 3\n1 2 3 4 5 6 7 8\n2 2 2\n1 2\n1000000000 3 20000000\n57008429 66778899 837653445",
+      "output": "\n3 1\n4 1\n4 4\n6 4\n5 2\n7 7\n1 1\n51 1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

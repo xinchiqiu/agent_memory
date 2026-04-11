@@ -1,0 +1,41 @@
+{
+  "problem_id": "1860D",
+  "contest_id": 1860,
+  "index": "D",
+  "title": "Balanced String",
+  "rating": 2200,
+  "raw_tags": [
+    "dp"
+  ],
+  "tags": [
+    "dp"
+  ],
+  "contest_date": "2023-08-17",
+  "solved_count": 3569,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n101\n",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n1000110\n",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n11010\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n11001100\n",
+      "output": "\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

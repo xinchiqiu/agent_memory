@@ -1,0 +1,35 @@
+{
+  "problem_id": "1768C",
+  "contest_id": 1768,
+  "index": "C",
+  "title": "Elemental Decompress",
+  "rating": 1300,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2023-01-05",
+  "solved_count": 15635,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1\n1\n5\n5 3 4 2 5\n2\n1 1",
+      "output": "\nYES\n1 \n1 \nYES\n1 3 4 2 5 \n5 2 3 1 4 \nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

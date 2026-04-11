@@ -1,0 +1,43 @@
+{
+  "problem_id": "2041I",
+  "contest_id": 2041,
+  "index": "I",
+  "title": "Auto Complete",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "hashing",
+    "implementation",
+    "sortings",
+    "strings",
+    "trees"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "string_hashing",
+    "sorting",
+    "graph_dfs"
+  ],
+  "contest_date": "2024-11-24",
+  "solved_count": 664,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\nadd 1 pattern1_alice\nadd 2 pattern2_bob\nadd 3 pattern3_charlie\nappend pattern\nappend 2_bobabc\nbackspace 3\n",
+      "output": "\n1\n1\n3\n3\n-1\n2\n"
+    },
+    {
+      "input": "\n6\nappend pattern\nadd 1 pattern1_alice____\nadd 2 pattern2_bob______\nadd 3 pattern3_charlie__\ndelete 1\ndelete 2\n",
+      "output": "\n-1\n1\n1\n1\n2\n3\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

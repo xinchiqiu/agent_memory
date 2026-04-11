@@ -1,0 +1,31 @@
+{
+  "problem_id": "2185A",
+  "contest_id": 2185,
+  "index": "A",
+  "title": "Perfect Root",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2026-01-18",
+  "solved_count": 40548,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1\n2\n5\n",
+      "output": "\n1\n2 4\n2 102 43 1 21"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

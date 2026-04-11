@@ -1,0 +1,33 @@
+{
+  "problem_id": "1703C",
+  "contest_id": 1703,
+  "index": "C",
+  "title": "Cypher",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-07-12",
+  "solved_count": 40485,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n9 3 1\n3 DDD\n4 UDUU\n2 DU\n2\n0 9\n9 DDDDDDDDD\n9 UUUUUUUUU\n5\n0 5 9 8 3\n10 UUUUUUUUUU\n3 UUD\n8 UUDUUDDD\n10 UUDUUDUDDU\n4 UUUU",
+      "output": "\n2 1 1 \n9 0 \n0 4 9 6 9 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

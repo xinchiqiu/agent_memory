@@ -1,0 +1,31 @@
+{
+  "problem_id": "1669G",
+  "contest_id": 1669,
+  "index": "G",
+  "title": "Fall Down",
+  "rating": 1200,
+  "raw_tags": [
+    "dfs and similar",
+    "implementation"
+  ],
+  "tags": [
+    "graph_dfs",
+    "implementation"
+  ],
+  "contest_date": "2022-04-21",
+  "solved_count": 21495,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n6 10\n.*.*....*.\n.*.......*\n...o....o.\n.*.*....*.\n..........\n.o......o*\n2 9\n...***ooo\n.*o.*o.*o\n5 5\n*****\n*....\n*****\n....*\n*****\n",
+      "output": "\n..........\n...*....*.\n.*.o....o.\n.*........\n.*......**\n.o.*....o*\n\n....**ooo\n.*o**o.*o\n\n.....\n*...*\n*****\n*****\n*****\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

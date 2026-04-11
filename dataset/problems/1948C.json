@@ -1,0 +1,38 @@
+{
+  "problem_id": "1948C",
+  "contest_id": 1948,
+  "index": "C",
+  "title": "Arrow Path",
+  "rating": 1300,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "dp",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2024-03-15",
+  "solved_count": 20797,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n>><<\n>>><\n2\n><\n><\n4\n>>><\n>><<\n6\n>><<><\n><>>><",
+      "output": "\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+  "problem_id": "1906E",
+  "contest_id": 1906,
+  "index": "E",
+  "title": "Merge Not Sort",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms",
+    "dp"
+  ],
+  "tags": [
+    "constructive",
+    "dp"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 2295,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n3 1 4 5 2 6\n",
+      "output": "\n3 1 6\n4 5 2"
+    },
+    {
+      "input": "\n4\n1 2 3 4 5 6 7 8\n",
+      "output": "\n2 3 5 7\n1 4 6 8"
+    },
+    {
+      "input": "\n2\n4 3 2 1\n",
+      "output": "\n-1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

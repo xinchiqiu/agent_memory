@@ -1,0 +1,39 @@
+{
+  "problem_id": "1659C",
+  "contest_id": 1659,
+  "index": "C",
+  "title": "Line Empire",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "dp",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-04-17",
+  "solved_count": 14692,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5 2 7\n3 5 12 13 21\n5 6 3\n1 5 6 21 30\n2 9 3\n10 15\n11 27182 31415\n16 18 33 98 874 989 4848 20458 34365 38117 72030",
+      "output": "\n173\n171\n75\n3298918744\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

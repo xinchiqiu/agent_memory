@@ -1,0 +1,29 @@
+{
+  "problem_id": "1765B",
+  "contest_id": 1765,
+  "index": "B",
+  "title": "Broken Keyboard",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-11-27",
+  "solved_count": 9832,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\nossu\n2\naa\n6\naddonn\n3\nqwe",
+      "output": "\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

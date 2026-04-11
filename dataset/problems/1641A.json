@@ -1,0 +1,33 @@
+{
+  "problem_id": "1641A",
+  "contest_id": 1641,
+  "index": "A",
+  "title": "Great Sequence",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-02-23",
+  "solved_count": 18913,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 4\n1 16 4 4\n6 2\n1 2 2 2 4 7\n5 3\n5 2 3 5 15\n9 10\n10 10 10 20 1 100 200 2000 3",
+      "output": "\n0\n2\n3\n3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

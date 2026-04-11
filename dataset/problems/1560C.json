@@ -1,0 +1,31 @@
+{
+  "problem_id": "1560C",
+  "contest_id": 1560,
+  "index": "C",
+  "title": "Infinity Table",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-08-18",
+  "solved_count": 27878,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n11\n14\n5\n4\n1\n2\n1000000000\n",
+      "output": "\n2 4\n4 3\n1 3\n2 1\n1 1\n1 2\n31623 14130\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,41 @@
+{
+  "problem_id": "2179F",
+  "contest_id": 2179,
+  "index": "F",
+  "title": "Blackslex and Another RGB Walking",
+  "rating": 2000,
+  "raw_tags": [
+    "communication",
+    "constructive algorithms",
+    "graphs",
+    "interactive",
+    "number theory",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-12-23",
+  "solved_count": 2638,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\nfirst\n2\n7 8\n1 2\n1 6\n3 2\n4 2\n6 4\n4 7\n5 6\n5 7\n\n4 4\n1 2\n1 3\n4 2\n4 3\n",
+      "output": "\nrrgbggr\nrbbb\n"
+    },
+    {
+      "input": "\nsecond\n2\n2\n3\ngrr\n3\ngbr\n\n1\n2\nrb\n",
+      "output": "\n1\n3\n1\n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

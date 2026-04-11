@@ -1,0 +1,37 @@
+{
+  "problem_id": "1991F",
+  "contest_id": 1991,
+  "index": "F",
+  "title": "Triangle Formation",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-07-28",
+  "solved_count": 2758,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10 5\n5 2 2 10 4 10 6 1 5 3\n1 6\n2 7\n2 8\n5 10\n4 10",
+      "output": "\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

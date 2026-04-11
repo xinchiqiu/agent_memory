@@ -1,0 +1,37 @@
+{
+  "problem_id": "1971D",
+  "contest_id": 1971,
+  "index": "D",
+  "title": "Binary Cut",
+  "rating": 1100,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2024-05-10",
+  "solved_count": 30298,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n11010\n00000000\n1\n10\n0001111\n0110",
+      "output": "\n3\n1\n1\n2\n1\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

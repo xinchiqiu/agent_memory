@@ -1,0 +1,35 @@
+{
+  "problem_id": "1929D",
+  "contest_id": 1929,
+  "index": "D",
+  "title": "Sasha and a Walk in the City",
+  "rating": 1900,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory",
+    "graph_dfs"
+  ],
+  "contest_date": "2024-02-15",
+  "solved_count": 5702,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n1 3\n3 2\n4\n3 4\n2 3\n3 1\n5\n1 2\n3 4\n5 1\n2 3\n4\n1 2\n2 3\n3 4",
+      "output": "\n7\n12\n16\n11\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

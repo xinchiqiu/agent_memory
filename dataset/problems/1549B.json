@@ -1,0 +1,39 @@
+{
+  "problem_id": "1549B",
+  "contest_id": 1549,
+  "index": "B",
+  "title": "Gregor and the Pawn Game",
+  "rating": 800,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "flows",
+    "graph matchings",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "network_flow",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2021-08-01",
+  "solved_count": 26560,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3\n000\n111\n4\n1111\n1111\n3\n010\n010\n5\n11001\n00000\n",
+      "output": "\n3\n4\n0\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

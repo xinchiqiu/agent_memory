@@ -1,0 +1,29 @@
+{
+  "problem_id": "2149C",
+  "contest_id": 2149,
+  "index": "C",
+  "title": "MEX rose",
+  "rating": 900,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2025-09-25",
+  "solved_count": 27595,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 0\n0\n3 1\n0 2 3\n5 5\n0 1 2 3 4\n6 2\n0 3 4 2 6 2\n7 4\n0 1 5 4 4 7 3",
+      "output": "\n\n1\n0\n0\n2\n2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

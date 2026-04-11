@@ -1,0 +1,37 @@
+{
+  "problem_id": "2086D",
+  "contest_id": 2086,
+  "index": "D",
+  "title": "Even String",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2025-04-03",
+  "solved_count": 8232,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n3 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0\n0 0 0 0 0 0 0 0 0 0 0 0 1 0 3 0 0 0 0 0 0 0 0 0 0 0\n1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 233527 233827",
+      "output": "\n4\n960\n0\n1\n789493841\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

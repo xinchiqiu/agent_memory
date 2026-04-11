@@ -1,0 +1,33 @@
+{
+  "problem_id": "1627B",
+  "contest_id": 1627,
+  "index": "B",
+  "title": "Not Sitting",
+  "rating": 1300,
+  "raw_tags": [
+    "games",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-01-15",
+  "solved_count": 17508,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n4 3\n1 2",
+      "output": "\n3 3 4 4 4 4 4 4 5 5 5 5 \n1 1 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

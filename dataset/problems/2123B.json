@@ -1,0 +1,29 @@
+{
+  "problem_id": "2123B",
+  "contest_id": 2123,
+  "index": "B",
+  "title": "Tournament",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2025-07-01",
+  "solved_count": 34573,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 2 3\n3 2 4 4 1\n5 4 1\n5 3 4 5 2\n6 1 1\n1 2 3 4 5 6",
+      "output": "\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2181B",
+  "contest_id": 2181,
+  "index": "B",
+  "title": "Battle of Arrays",
+  "rating": 1400,
+  "raw_tags": [
+    "data structures",
+    "games",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2025-12-17",
+  "solved_count": 5236,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n1 1\n70\n90\n2 3\n30 30\n20 20 40",
+      "output": "\nAlice\nBob\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

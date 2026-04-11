@@ -1,0 +1,40 @@
+{
+  "problem_id": "2114F",
+  "contest_id": 2114,
+  "index": "F",
+  "title": "Small Operations",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "graph_dfs",
+    "dp",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2025-05-26",
+  "solved_count": 5437,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n4 6 3\n4 5 3\n4 6 2\n10 45 3\n780 23 42\n11 270 23\n1 982800 13\n1 6 2",
+      "output": "\n2\n-1\n-1\n3\n3\n3\n6\n-1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

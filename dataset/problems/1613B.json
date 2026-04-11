@@ -1,0 +1,33 @@
+{
+  "problem_id": "1613B",
+  "contest_id": 1613,
+  "index": "B",
+  "title": "Absent Remainder",
+  "rating": 1000,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2021-12-01",
+  "solved_count": 23230,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n2\n1 4\n4\n2 8 3 4\n5\n3 8 5 9 7\n6\n2 7 5 3 4 8\n",
+      "output": "\n4 1\n8 2\n8 4\n9 5\n7 5\n8 7\n4 3\n5 2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

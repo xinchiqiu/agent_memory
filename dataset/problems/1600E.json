@@ -1,0 +1,41 @@
+{
+  "problem_id": "1600E",
+  "contest_id": 1600,
+  "index": "E",
+  "title": "Array Game",
+  "rating": 1900,
+  "raw_tags": [
+    "games",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2021-10-09",
+  "solved_count": 2350,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n1\n5\n",
+      "output": "\nAlice\n"
+    },
+    {
+      "input": "\n3\n5 4 5\n",
+      "output": "\nAlice\n"
+    },
+    {
+      "input": "\n6\n5 8 2 1 10 9\n",
+      "output": "\nBob\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

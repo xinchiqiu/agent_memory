@@ -1,0 +1,30 @@
+{
+  "problem_id": "2061D",
+  "contest_id": 2061,
+  "index": "D",
+  "title": "Kevin and Numbers",
+  "rating": 1600,
+  "raw_tags": [
+    "bitmasks",
+    "data structures"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2025-01-20",
+  "solved_count": 10611,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n2 1\n4 5\n9\n2 1\n3 6\n9\n4 2\n1 2 2 2\n3 4\n4 2\n1 1 3 3\n3 5\n4 2\n1 2 3 4\n3 5\n5 5\n1 2 3 4 5\n5 4 3 2 1\n4 2\n1 1 1 1\n1 1\n4 4\n1 1 1 1\n1 1 1 2\n1 1\n1\n1000000000",
+      "output": "\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nNo\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

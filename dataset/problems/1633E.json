@@ -1,0 +1,51 @@
+{
+  "problem_id": "1633E",
+  "contest_id": 1633,
+  "index": "E",
+  "title": "Spanning Tree Queries",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "math",
+    "sortings",
+    "trees"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "graph_dfs",
+    "union_find",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2022-01-31",
+  "solved_count": 1716,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 8\n4 1 4\n3 1 0\n3 5 3\n2 5 4\n3 4 8\n4 3 4\n4 2 8\n5 3 9\n3 11 1 1 10\n0 1 2\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n6 7\n2 4 0\n5 4 7\n2 4 0\n2 1 7\n2 6 1\n3 4 4\n1 4 8\n4 10 3 3 7\n3 0 2 1\n",
+      "output": "\n5\n"
+    },
+    {
+      "input": "\n3 3\n1 2 50\n2 3 100\n1 3 150\n1 10000000 0 0 100000000\n75\n",
+      "output": "\n164\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1719B",
+  "contest_id": 1719,
+  "index": "B",
+  "title": "Mathematical Circus",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-08-16",
+  "solved_count": 19126,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 1\n2 0\n12 10\n14 11",
+      "output": "\nYES\n1 2\n3 4\nNO\nYES\n3 4\n7 8\n11 12\n2 1\n6 5\n10 9\nYES\n1 2\n3 4\n5 6\n7 8\n9 10\n11 12\n13 14\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

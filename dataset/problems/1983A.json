@@ -1,0 +1,31 @@
+{
+  "problem_id": "1983A",
+  "contest_id": 1983,
+  "index": "A",
+  "title": "Array Divisibility",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-07-07",
+  "solved_count": 28020,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n3\n6\n7\n",
+      "output": "\n4 22 18\n10 6 15 32 125 54\n23 18 27 36 5 66 7"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

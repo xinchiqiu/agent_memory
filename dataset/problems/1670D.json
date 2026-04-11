@@ -1,0 +1,39 @@
+{
+  "problem_id": "1670D",
+  "contest_id": 1670,
+  "index": "D",
+  "title": "Very Suspicious",
+  "rating": 1700,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-05-06",
+  "solved_count": 5577,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n2\n3\n4567",
+      "output": "\n2\n2\n3\n83\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

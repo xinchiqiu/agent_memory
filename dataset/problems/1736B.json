@@ -1,0 +1,30 @@
+{
+  "problem_id": "1736B",
+  "contest_id": 1736,
+  "index": "B",
+  "title": "Playing with GCD",
+  "rating": 1200,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-10",
+  "solved_count": 20072,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n343\n2\n4 2\n3\n4 2 4\n4\n1 1 1 1",
+      "output": "\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

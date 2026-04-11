@@ -1,0 +1,31 @@
+{
+  "problem_id": "2193A",
+  "contest_id": 2193,
+  "index": "A",
+  "title": "DBMB and the Array",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2026-01-25",
+  "solved_count": 41256,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3 3 5\n1 1 1\n3 8 2\n1 2 3\n4 7 2\n1 1 1 1\n3 15 1\n2 4 10\n2 100 5\n4 6\n5 12 1\n1 2 2 3 2",
+      "output": "\n\nYES\nYES\nNO\nNO\nYES\nYES"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

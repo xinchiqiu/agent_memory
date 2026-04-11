@@ -1,0 +1,29 @@
+{
+  "problem_id": "1593A",
+  "contest_id": 1593,
+  "index": "A",
+  "title": "Elections",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-13",
+  "solved_count": 41303,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n0 0 0\n10 75 15\n13 13 17\n1000 0 0\n0 1000000000 0\n",
+      "output": "\n1 1 1\n66 0 61\n5 5 0\n0 1001 1001\n1000000001 0 1000000001\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

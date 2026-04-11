@@ -1,0 +1,33 @@
+{
+  "problem_id": "1886A",
+  "contest_id": 1886,
+  "index": "A",
+  "title": "Sum of Three",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-10-09",
+  "solved_count": 27620,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n10\n4\n15\n9",
+      "output": "\nYES\n4 5 1\nNO\nYES\n2 8 5\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

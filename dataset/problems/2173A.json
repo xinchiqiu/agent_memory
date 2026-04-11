@@ -1,0 +1,31 @@
+{
+  "problem_id": "2173A",
+  "contest_id": 2173,
+  "index": "A",
+  "title": "Sleeping Through Classes",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2025-12-05",
+  "solved_count": 23261,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 1\n1001\n3 3\n000\n3 1\n001\n8 2\n01000101",
+      "output": "\n1\n3\n2\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

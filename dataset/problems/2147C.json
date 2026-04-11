@@ -1,0 +1,35 @@
+{
+  "problem_id": "2147C",
+  "contest_id": 2147,
+  "index": "C",
+  "title": "Rabbits",
+  "rating": 1500,
+  "raw_tags": [
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "constructive",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2025-09-20",
+  "solved_count": 9457,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\n4\n0100\n3\n000\n8\n11011011\n5\n00100\n1\n1\n5\n01011\n2\n01\n7\n0101011\n7\n1101010\n5\n11001\n4\n1101\n9\n001101100",
+      "output": "\n\nYES\nYES\nNO\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nNO\nNO"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

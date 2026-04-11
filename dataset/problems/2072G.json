@@ -1,0 +1,38 @@
+{
+  "problem_id": "2072G",
+  "contest_id": 2072,
+  "index": "G",
+  "title": "I've Been Flipping Numbers for 300 Years and Calculated the Sum",
+  "rating": 2200,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "combinatorics",
+    "divide and conquer",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "math_combinatorics",
+    "divide_and_conquer",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-25",
+  "solved_count": 2125,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\n3 2\n42 52\n1 10\n4 4\n16 2\n69 69\n9 3\n19 84\n9982 44353\n100000 1000000007\n17 30\n777 1000000000000000000",
+      "output": "\n3\n7594\n9\n6\n1\n33471\n10\n2006\n120792461\n584502117\n775\n46058362\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

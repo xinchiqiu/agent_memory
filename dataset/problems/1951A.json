@@ -1,0 +1,33 @@
+{
+  "problem_id": "1951A",
+  "contest_id": 1951,
+  "index": "A",
+  "title": "Dual Trigger",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-06",
+  "solved_count": 22448,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n10\n1101010110\n10\n1001001110\n6\n000000\n1\n1\n12\n111111111111",
+      "output": "\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

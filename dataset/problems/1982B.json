@@ -1,0 +1,34 @@
+{
+  "problem_id": "1982B",
+  "contest_id": 1982,
+  "index": "B",
+  "title": "Collatz Conjecture",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-06-25",
+  "solved_count": 19653,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n13\n1 3 1\n2 3 1\n24 5 5\n16 3 2\n2 2 1\n1337 18 1\n1 2 144133\n12345678 3 10\n998244353 2 998244353\n998244353 123456789 998244352\n998244354 998241111 998244352\n998244355 2 9982443\n1000000000 1000000000 1000000000",
+      "output": "\n2\n1\n1\n2\n3\n1338\n1\n16936\n1\n21180097\n6486\n1\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

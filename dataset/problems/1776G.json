@@ -1,0 +1,39 @@
+{
+  "problem_id": "1776G",
+  "contest_id": 1776,
+  "index": "G",
+  "title": "Another Wine Tasting Event",
+  "rating": 2100,
+  "raw_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "constructive",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2023-02-19",
+  "solved_count": 2348,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\nRWWRRRWWW\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n1\nR\n",
+      "output": "\n0\n"
+    }
+  ],
+  "time_limit": "0.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,49 @@
+{
+  "problem_id": "1620G",
+  "contest_id": 1620,
+  "index": "G",
+  "title": "Subsequences Galore",
+  "rating": 2400,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "dp"
+  ],
+  "contest_date": "2021-12-18",
+  "solved_count": 1146,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\na\nb\nc\n",
+      "output": "\n92\n"
+    },
+    {
+      "input": "\n2\naa\na\n",
+      "output": "\n21\n"
+    },
+    {
+      "input": "\n2\na\na\n",
+      "output": "\n10\n"
+    },
+    {
+      "input": "\n2\nabcd\naabb\n",
+      "output": "\n124\n"
+    },
+    {
+      "input": "\n3\nddd\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaaaaabbbbbbbbbbbcccccccccccciiiiiiiiiiiiiiiiiiiiiiooooooooooqqqqqqqqqqqqqqqqqqvvvvvzzzzzzzzzzzz\n",
+      "output": "\n15706243380\n"
+    }
+  ],
+  "time_limit": "10 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

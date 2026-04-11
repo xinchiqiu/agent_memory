@@ -1,0 +1,29 @@
+{
+  "problem_id": "1692C",
+  "contest_id": 1692,
+  "index": "C",
+  "title": "Where's the Bishop?",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-06-14",
+  "solved_count": 38595,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n.....#..\n#...#...\n.#.#....\n..#.....\n.#.#....\n#...#...\n.....#..\n......#.\n#.#.....\n.#......\n#.#.....\n...#....\n....#...\n.....#..\n......#.\n.......#\n.#.....#\n..#...#.\n...#.#..\n....#...\n...#.#..\n..#...#.\n.#.....#\n#.......",
+      "output": "\n4 3\n2 2\n4 5\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

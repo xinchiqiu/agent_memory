@@ -1,0 +1,37 @@
+{
+  "problem_id": "1720B",
+  "contest_id": 1720,
+  "index": "B",
+  "title": "Interesting Sum",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2022-08-18",
+  "solved_count": 22373,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n8\n1 2 2 3 1 5 6 1\n5\n1 2 3 100 200\n4\n3 3 3 3\n6\n7 8 3 1 1 8\n",
+      "output": "\n9\n297\n0\n14\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

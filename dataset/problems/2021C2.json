@@ -1,0 +1,36 @@
+{
+  "problem_id": "2021C2",
+  "contest_id": 2021,
+  "index": "C2",
+  "title": "Adjust The Presentation (Hard Version)",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-10-06",
+  "solved_count": 4466,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4 2 2\n1 2 3 4\n1 1\n1 2\n1 1\n3 6 2\n1 2 3\n1 1 2 3 3 2\n3 3\n2 2\n4 6 2\n3 1 4 2\n3 1 1 2 3 4\n3 4\n4 2",
+      "output": "\nYA\nTIDAK\nYA\nYA\nTIDAK\nYA\nTIDAK\nYA\nYA\n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

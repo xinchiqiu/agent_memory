@@ -1,0 +1,32 @@
+{
+  "problem_id": "1866C",
+  "contest_id": 1866,
+  "index": "C",
+  "title": "Completely Searching for Inversions",
+  "rating": 1900,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2023-09-03",
+  "solved_count": 3405,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n2\n4 0\n3 1\n0\n1\n2 0\n2\n3 1\n5 1\n0\n",
+      "output": "\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

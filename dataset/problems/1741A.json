@@ -1,0 +1,31 @@
+{
+  "problem_id": "1741A",
+  "contest_id": 1741,
+  "index": "A",
+  "title": "Compare T-Shirt Sizes",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-10-11",
+  "solved_count": 33662,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\nXXXS XS\nXXXL XL\nXL M\nXXL XXL\nXXXXXS M\nL M",
+      "output": "\n<\n>\n>\n=\n<\n>\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1902B",
+  "contest_id": 1902,
+  "index": "B",
+  "title": "Getting Points",
+  "rating": 1100,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 16282,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 5 5 2\n14 3000000000 1000000000 500000000\n100 20 1 10\n8 120 10 20\n42 280 13 37",
+      "output": "\n0\n12\n99\n0\n37\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

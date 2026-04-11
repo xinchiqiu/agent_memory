@@ -1,0 +1,46 @@
+{
+  "problem_id": "1769B1",
+  "contest_id": 1769,
+  "index": "B1",
+  "title": "Копирование файлов I",
+  "rating": 1000,
+  "raw_tags": [
+    "*special",
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-12-03",
+  "solved_count": 1585,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n1\n6\n",
+      "output": "\n0\n16\n33\n50\n66\n83\n100\n"
+    },
+    {
+      "input": "\n2\n100 500\n",
+      "output": "\n0\n95\n96\n97\n98\n99\n100\n"
+    },
+    {
+      "input": "\n4\n1000 2 2 998\n",
+      "output": "\n0\n50\n99\n100\n"
+    },
+    {
+      "input": "\n6\n170 130 400 256 30 100\n",
+      "output": "\n0\n17\n43\n44\n84\n90\n99\n100\n"
+    }
+  ],
+  "time_limit": "ограничение по времени на тест2 секунды",
+  "memory_limit": "ограничение по памяти на тест512 мегабайт",
+  "editorial_text": null,
+  "reference_solutions": []
+}

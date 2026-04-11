@@ -1,0 +1,45 @@
+{
+  "problem_id": "1901D",
+  "contest_id": 1901,
+  "index": "D",
+  "title": "Yet Another Monster Fight",
+  "rating": 1700,
+  "raw_tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "dp",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-11-24",
+  "solved_count": 8477,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n2 1 5 6 4 3\n",
+      "output": "\n8\n"
+    },
+    {
+      "input": "\n5\n4 4 4 4 4\n",
+      "output": "\n8\n"
+    },
+    {
+      "input": "\n2\n1 1000000000\n",
+      "output": "\n1000000000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

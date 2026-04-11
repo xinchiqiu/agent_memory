@@ -1,0 +1,35 @@
+{
+  "problem_id": "2053C",
+  "contest_id": 2053,
+  "index": "C",
+  "title": "Bewitching Stargazer",
+  "rating": 1500,
+  "raw_tags": [
+    "bitmasks",
+    "divide and conquer",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-12-28",
+  "solved_count": 12215,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n7 2\n11 3\n55 13\n5801 6\n8919 64\n8765432 1",
+      "output": "\n12\n18\n196\n1975581\n958900\n38416403456028\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

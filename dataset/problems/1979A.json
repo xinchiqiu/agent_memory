@@ -1,0 +1,33 @@
+{
+  "problem_id": "1979A",
+  "contest_id": 1979,
+  "index": "A",
+  "title": "Guess the Maximum",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-06-06",
+  "solved_count": 31587,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n4\n2 4 1 7\n5\n1 2 3 4 5\n2\n1 1\n3\n37 8 16\n5\n10 10 10 10 9\n10\n3 12 9 5 2 3 2 9 8 2",
+      "output": "\n3\n1\n0\n15\n9\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1971G",
+  "contest_id": 1971,
+  "index": "G",
+  "title": "XOUR",
+  "rating": 1700,
+  "raw_tags": [
+    "data structures",
+    "dsu",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "union_find",
+    "sorting"
+  ],
+  "contest_date": "2024-05-10",
+  "solved_count": 11339,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n1 0 3 2\n5\n2 7 1 5 6\n8\n1 2 1 2 1 2 1 2\n4\n16 4 1 64",
+      "output": "\n0 1 2 3 \n1 5 2 6 7 \n1 1 1 1 2 2 2 2 \n16 4 1 64 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

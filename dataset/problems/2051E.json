@@ -1,0 +1,37 @@
+{
+  "problem_id": "2051E",
+  "contest_id": 2051,
+  "index": "E",
+  "title": "Best Price",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-12-22",
+  "solved_count": 11788,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2 0\n2 1\n3 4\n1 1\n2\n5\n3 3\n1 5 2\n3 6 4\n4 3\n2 3 2 8\n3 7 3 9\n3 1\n2 9 5\n12 14 9",
+      "output": "\n2\n5\n9\n14\n15\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

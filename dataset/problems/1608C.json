@@ -1,0 +1,38 @@
+{
+  "problem_id": "1608C",
+  "contest_id": 1608,
+  "index": "C",
+  "title": "Game Master",
+  "rating": 1700,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2021-12-11",
+  "solved_count": 7313,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n4\n1 2 3 4\n1 2 3 4\n4\n11 12 20 21\n44 22 11 30\n1\n1000000000\n1000000000\n",
+      "output": "\n0001\n1111\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

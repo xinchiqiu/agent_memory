@@ -1,0 +1,34 @@
+{
+  "problem_id": "2091E",
+  "contest_id": 2091,
+  "index": "E",
+  "title": "Interesting Ratio",
+  "rating": 1300,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2025-03-25",
+  "solved_count": 19347,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n10\n34\n10007",
+      "output": "\n4\n11\n49\n24317\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,32 @@
+{
+  "problem_id": "2065G",
+  "contest_id": 2065,
+  "index": "G",
+  "title": "Skibidus and Capping",
+  "rating": 1700,
+  "raw_tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-09",
+  "solved_count": 6147,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n2 2 3 4\n6\n2 2 3 4 5 6\n9\n2 2 4 5 7 8 9 3 5",
+      "output": "\n5\n12\n18\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1819B",
+  "contest_id": 1819,
+  "index": "B",
+  "title": "The Butcher",
+  "rating": 1900,
+  "raw_tags": [
+    "geometry",
+    "greedy",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "geometry",
+    "greedy",
+    "implementation",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2023-04-15",
+  "solved_count": 4155,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n1 2\n3 5\n1 3\n3\n1 1\n1 1\n1 1\n1\n10 10\n4\n3 2\n5 5\n2 2\n8 7",
+      "output": "\n1\n4 5\n2\n1 3\n3 1\n1\n10 10\n1\n13 7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

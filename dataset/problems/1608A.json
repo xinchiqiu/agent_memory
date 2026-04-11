@@ -1,0 +1,31 @@
+{
+  "problem_id": "1608A",
+  "contest_id": 1608,
+  "index": "A",
+  "title": "Find Array",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-12-11",
+  "solved_count": 20184,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1\n2\n7\n",
+      "output": "\n1\n2 3\n111 1111 11111 111111 1111111 11111111 111111111"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "2082B",
+  "contest_id": 2082,
+  "index": "B",
+  "title": "Floor or Ceil",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2025-03-15",
+  "solved_count": 8104,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n12 1 2\n12 1 1\n12 0 0\n12 1000000000 1000000000\n706636307 0 3",
+      "output": "\n1 2\n3 3\n12 12\n0 0\n88329539 88329539\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

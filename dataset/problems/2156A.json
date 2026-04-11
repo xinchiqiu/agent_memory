@@ -1,0 +1,33 @@
+{
+  "problem_id": "2156A",
+  "contest_id": 2156,
+  "index": "A",
+  "title": "Pizza Time",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2025-10-24",
+  "solved_count": 26383,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n8\n4\n3",
+      "output": "\n\n3\n1\n1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

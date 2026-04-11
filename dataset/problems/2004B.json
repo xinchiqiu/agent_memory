@@ -1,0 +1,31 @@
+{
+  "problem_id": "2004B",
+  "contest_id": 2004,
+  "index": "B",
+  "title": "Game with Doors",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2024-08-15",
+  "solved_count": 31255,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1 2\n3 4\n2 5\n2 5\n3 7\n6 7\n4 5\n2 8",
+      "output": "\n1\n3\n2\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

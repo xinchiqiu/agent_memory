@@ -1,0 +1,32 @@
+{
+  "problem_id": "1840E",
+  "contest_id": 1840,
+  "index": "E",
+  "title": "Character Blocking",
+  "rating": 1600,
+  "raw_tags": [
+    "data structures",
+    "hashing",
+    "implementation"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2023-06-06",
+  "solved_count": 9241,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\ncodeforces\ncodeblocks\n5 7\n3\n1 5\n1 6\n1 7\n1 9\n3\n3\ncool\nclub\n2 5\n2 1 2 2 3\n2 2 2 2 4\n1 2\n3\n3",
+      "output": "\nNO\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,42 @@
+{
+  "problem_id": "1968G2",
+  "contest_id": 1968,
+  "index": "G2",
+  "title": "Division + LCP (hard version)",
+  "rating": 2200,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "hashing",
+    "math",
+    "string suffix structures",
+    "strings"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "dp",
+    "string_hashing",
+    "math_number_theory",
+    "string_kmp"
+  ],
+  "contest_date": "2024-05-02",
+  "solved_count": 2467,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3 1 3\naba\n3 2 3\naaa\n7 1 5\nabacaba\n9 1 6\nabababcab\n10 1 10\naaaaaaawac\n9 1 9\nabafababa\n7 2 7\nvvzvvvv",
+      "output": "\n3 1 0 \n1 1 \n7 3 1 1 0 \n9 2 2 2 0 0 \n10 3 2 1 1 1 1 1 0 0 \n9 3 2 1 1 0 0 0 0 \n2 2 1 1 1 0 \n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

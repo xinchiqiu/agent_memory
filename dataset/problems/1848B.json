@@ -1,0 +1,38 @@
+{
+  "problem_id": "1848B",
+  "contest_id": 1848,
+  "index": "B",
+  "title": "Vika and the Bridge",
+  "rating": 1200,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2023-07-16",
+  "solved_count": 23742,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5 2\n1 1 2 1 1\n7 3\n1 2 3 3 3 2 1\n6 6\n1 2 3 4 5 6\n8 4\n1 2 3 4 2 3 1 4\n3 1\n1 1 1",
+      "output": "\n0\n1\n2\n2\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

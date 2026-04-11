@@ -1,0 +1,40 @@
+{
+  "problem_id": "1626C",
+  "contest_id": 1626,
+  "index": "C",
+  "title": "Monsters And Spells",
+  "rating": 1700,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2022-01-16",
+  "solved_count": 11702,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1\n6\n4\n2\n4 5\n2 2\n3\n5 7 9\n2 1 2",
+      "output": "\n10\n6\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

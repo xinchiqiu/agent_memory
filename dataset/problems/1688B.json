@@ -1,0 +1,35 @@
+{
+  "problem_id": "1688B",
+  "contest_id": 1688,
+  "index": "B",
+  "title": "Patchouli's Magical Talisman",
+  "rating": 800,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-06-03",
+  "solved_count": 18975,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n1 9\n3\n1 1 2\n3\n2 4 8\n3\n1049600 33792 1280",
+      "output": "\n0\n1\n3\n10\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

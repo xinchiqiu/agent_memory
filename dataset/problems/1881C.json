@@ -1,0 +1,31 @@
+{
+  "problem_id": "1881C",
+  "contest_id": 1881,
+  "index": "C",
+  "title": "Perfect Square",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2023-10-12",
+  "solved_count": 19138,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\nabba\nbcbb\nbccb\nabba\n2\nab\nba\n6\ncodefo\nrcesco\ndeforc\nescode\nforces\ncodefo\n4\nbaaa\nabba\nbaba\nbaab\n4\nbbaa\nabba\naaba\nabba",
+      "output": "\n1\n2\n181\n5\n9\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

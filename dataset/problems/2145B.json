@@ -1,0 +1,31 @@
+{
+  "problem_id": "2145B",
+  "contest_id": 2145,
+  "index": "B",
+  "title": "Deck of Cards",
+  "rating": 1000,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2025-10-06",
+  "solved_count": 21096,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 2\n01\n3 2\n22\n1 1\n2\n7 5\n01201",
+      "output": "\n\n-++-\n???\n-\n--?+?--"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

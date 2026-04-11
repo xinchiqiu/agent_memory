@@ -1,0 +1,30 @@
+{
+  "problem_id": "2093C",
+  "contest_id": 2093,
+  "index": "C",
+  "title": "Simple Repetition",
+  "rating": 1000,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2025-04-08",
+  "solved_count": 30496,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n52 3\n6 7\n7 1\n1 7",
+      "output": "\nNO\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

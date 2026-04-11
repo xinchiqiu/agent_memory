@@ -1,0 +1,29 @@
+{
+  "problem_id": "2149D",
+  "contest_id": 2149,
+  "index": "D",
+  "title": "A and B",
+  "rating": 1200,
+  "raw_tags": [
+    "strings"
+  ],
+  "tags": [
+    "string_hashing"
+  ],
+  "contest_date": "2025-09-25",
+  "solved_count": 18946,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\nabab\n6\nbababa\n7\nabababa\n2\nab\n1\nb",
+      "output": "\n\n1\n2\n2\n0\n0"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

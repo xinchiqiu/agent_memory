@@ -1,0 +1,34 @@
+{
+  "problem_id": "1715C",
+  "contest_id": 1715,
+  "index": "C",
+  "title": "Monoblock",
+  "rating": 1700,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-08-20",
+  "solved_count": 10255,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 5\n1 2 3 4 5\n3 2\n4 2\n3 1\n2 1\n2 2\n",
+      "output": "\n29\n23\n35\n25\n35\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+  "problem_id": "1684E",
+  "contest_id": 1684,
+  "index": "E",
+  "title": "MEX vs DIFF",
+  "rating": 2100,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "constructive",
+    "implementation",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2022-05-19",
+  "solved_count": 3596,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 1\n3 0 1 2\n4 1\n0 2 4 5\n7 2\n4 13 0 0 13 1337 1000000000\n6 2\n1 2 8 0 0 0",
+      "output": "\n0\n1\n2\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

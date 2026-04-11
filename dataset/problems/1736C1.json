@@ -1,0 +1,35 @@
+{
+  "problem_id": "1736C1",
+  "contest_id": 1736,
+  "index": "C1",
+  "title": "Good Subarrays (Easy Version)",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "schedules",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2022-10-10",
+  "solved_count": 16429,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n1 2 3\n3\n1 1 1\n4\n2 1 4 3",
+      "output": "\n6\n3\n7\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

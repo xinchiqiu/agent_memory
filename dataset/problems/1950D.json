@@ -1,0 +1,35 @@
+{
+  "problem_id": "1950D",
+  "contest_id": 1950,
+  "index": "D",
+  "title": "Product of Binary Decimals",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "implementation",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-03-28",
+  "solved_count": 26349,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n121\n1\n14641\n12221\n10110\n100000\n99\n112\n2024\n12421\n1001",
+      "output": "\nYES\nYES\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

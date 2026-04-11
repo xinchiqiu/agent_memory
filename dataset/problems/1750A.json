@@ -1,0 +1,33 @@
+{
+  "problem_id": "1750A",
+  "contest_id": 1750,
+  "index": "A",
+  "title": "Indirect Sort",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-11-06",
+  "solved_count": 17781,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3\n1 2 3\n3\n1 3 2\n7\n5 3 4 7 6 2 1\n7\n7 6 5 4 3 2 1\n5\n2 1 4 5 3\n5\n2 1 3 4 5\n7\n1 2 6 7 4 3 5",
+      "output": "\nYes\nYes\nNo\nNo\nNo\nNo\nYes\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

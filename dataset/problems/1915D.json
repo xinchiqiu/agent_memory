@@ -1,0 +1,33 @@
+{
+  "problem_id": "1915D",
+  "contest_id": 1915,
+  "index": "D",
+  "title": "Unnatural Language Processing",
+  "rating": 900,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2023-12-28",
+  "solved_count": 34815,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n8\nbacedbab\n4\nbaba\n13\ndaddecabeddad\n3\ndac\n6\ndacdac\n22\ndababbabababbabbababba",
+      "output": "\nba.ced.bab\nba.ba\ndad.de.ca.bed.dad\ndac\ndac.dac\nda.bab.ba.ba.bab.bab.ba.bab.ba\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

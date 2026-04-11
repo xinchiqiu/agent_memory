@@ -1,0 +1,33 @@
+{
+  "problem_id": "1862E",
+  "contest_id": 1862,
+  "index": "E",
+  "title": "Kolya and Movie Theatre",
+  "rating": 1600,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2023-08-24",
+  "solved_count": 12658,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5 2 2\n3 2 5 4 6\n4 3 2\n1 1 1 1\n6 6 6\n-82 45 1 -77 39 11\n5 2 2\n3 2 5 4 8\n2 1 1\n-1 2\n6 3 2\n-8 8 -2 -1 9 0",
+      "output": "\n2\n0\n60\n3\n0\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

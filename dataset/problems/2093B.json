@@ -1,0 +1,31 @@
+{
+  "problem_id": "2093B",
+  "contest_id": 2093,
+  "index": "B",
+  "title": "Expensive Number",
+  "rating": 900,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-04-08",
+  "solved_count": 30545,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n666\n13700\n102030\n7",
+      "output": "\n2\n4\n3\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

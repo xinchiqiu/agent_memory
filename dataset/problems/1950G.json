@@ -1,0 +1,38 @@
+{
+  "problem_id": "1950G",
+  "contest_id": 1950,
+  "index": "G",
+  "title": "Shuffling Songs",
+  "rating": 1900,
+  "raw_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "hashing",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "string_hashing"
+  ],
+  "contest_date": "2024-03-28",
+  "solved_count": 5958,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\npop taylorswift\n4\nelectronic themotans\nelectronic carlasdreams\npop themotans\npop irinarimes\n7\nrap eminem\nrap drdre\nrap kanyewest\npop taylorswift\nindierock arcticmonkeys\nindierock arcticmonkeys\npunkrock theoffspring\n4\na b\nc d\ne f\ng h",
+      "output": "\n0\n0\n4\n3\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

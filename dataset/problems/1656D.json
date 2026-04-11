@@ -1,0 +1,32 @@
+{
+  "problem_id": "1656D",
+  "contest_id": 1656,
+  "index": "D",
+  "title": "K-good",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-03-24",
+  "solved_count": 7515,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n2\n4\n6\n15\n20\n",
+      "output": "\n-1\n-1\n3\n3\n5\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1816A",
+  "contest_id": 1816,
+  "index": "A",
+  "title": "Ian Visits Mary",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "geometry",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "geometry",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-04-09",
+  "solved_count": 18809,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3 4\n4 4\n3 6\n2 2\n1 1\n7 3\n2022 2023\n1000000000 1000000000",
+      "output": "\n1\n3 4\n2\n3 2\n4 4\n2\n5 3\n3 6\n2\n1 0\n2 2\n1\n1 1\n1\n7 3\n1\n2022 2023\n2\n69420420 469696969\n1000000000 1000000000\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

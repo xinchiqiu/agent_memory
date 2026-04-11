@@ -1,0 +1,37 @@
+{
+  "problem_id": "1714D",
+  "contest_id": 1714,
+  "index": "D",
+  "title": "Color with Occurrences",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2022-08-01",
+  "solved_count": 10265,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\nbababa\n2\nba\naba\ncaba\n2\nbac\nacab\nabacabaca\n3\naba\nbac\naca\nbaca\n3\na\nc\nb\ncodeforces\n4\ndef\ncode\nefo\nforces\naaaabbbbcccceeee\n4\neeee\ncccc\naaaa\nbbbb",
+      "output": "\n3\n2 2\n1 1\n2 4\n-1\n4\n1 1\n2 6\n3 3\n3 7\n4\n3 1\n1 2\n2 3\n1 4\n2\n4 5\n2 1\n4\n3 1\n4 5\n2 9\n1 13"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

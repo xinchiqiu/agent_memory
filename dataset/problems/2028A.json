@@ -1,0 +1,33 @@
+{
+  "problem_id": "2028A",
+  "contest_id": 2028,
+  "index": "A",
+  "title": "Alice's Adventures in ''Chess''",
+  "rating": 900,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-11-10",
+  "solved_count": 20140,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2 2 2\nNE\n3 2 2\nNNE\n6 2 1\nNNEESW\n6 10 10\nNNEESW\n3 4 2\nNEE\n4 5 5\nNEWS",
+      "output": "\nYES\nNO\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

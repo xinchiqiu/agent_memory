@@ -1,0 +1,38 @@
+{
+  "problem_id": "1610D",
+  "contest_id": 1610,
+  "index": "D",
+  "title": "Not Quite Lee",
+  "rating": 2000,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-11-23",
+  "solved_count": 2983,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n2 2 4 7\n",
+      "output": "\n10\n"
+    },
+    {
+      "input": "\n10\n12391240 103904 1000000000 4142834 12039 142035823 1032840 49932183 230194823 984293123\n",
+      "output": "\n996\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

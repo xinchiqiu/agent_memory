@@ -1,0 +1,37 @@
+{
+  "problem_id": "1721D",
+  "contest_id": 1721,
+  "index": "D",
+  "title": "Maximum AND",
+  "rating": 1800,
+  "raw_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "divide and conquer",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "divide_and_conquer",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-08-27",
+  "solved_count": 7642,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n1 0 0 3 3\n2 3 2 1 0\n3\n1 1 1\n0 0 3\n8\n0 1 2 3 4 5 6 7\n7 6 5 4 3 2 1 0",
+      "output": "\n2\n0\n7\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

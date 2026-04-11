@@ -1,0 +1,35 @@
+{
+  "problem_id": "2089C1",
+  "contest_id": 2089,
+  "index": "C1",
+  "title": "Key of Like (Easy Version)",
+  "rating": 2200,
+  "raw_tags": [
+    "dp",
+    "games",
+    "math",
+    "probabilities"
+  ],
+  "tags": [
+    "dp",
+    "constructive",
+    "math_number_theory",
+    "math_combinatorics"
+  ],
+  "contest_date": "2025-03-23",
+  "solved_count": 1378,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 1 0\n3 2 0\n2 5 0\n9 104 0",
+      "output": "\n1 0 0\n500000004 1 500000004\n200000004 800000008\n869203933 991076635 39374313 496894434 9358446 51822059 979588764 523836809 38844739\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

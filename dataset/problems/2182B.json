@@ -1,0 +1,29 @@
+{
+  "problem_id": "2182B",
+  "contest_id": 2182,
+  "index": "B",
+  "title": "New Year Cake",
+  "rating": 800,
+  "raw_tags": [
+    "brute force"
+  ],
+  "tags": [
+    "brute_force"
+  ],
+  "contest_date": "2025-12-29",
+  "solved_count": 22813,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1 1\n1 2\n3 1\n4 3\n5 2\n1000000 1000000\n1000000 1",
+      "output": "\n\n1\n2\n2\n2\n3\n20\n2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

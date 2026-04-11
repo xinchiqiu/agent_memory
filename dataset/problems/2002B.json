@@ -1,0 +1,30 @@
+{
+  "problem_id": "2002B",
+  "contest_id": 2002,
+  "index": "B",
+  "title": "Removals Game",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "games"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2024-08-11",
+  "solved_count": 22841,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n2\n1 2\n1 2\n3\n1 2 3\n2 3 1",
+      "output": "\nBob\nAlice\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

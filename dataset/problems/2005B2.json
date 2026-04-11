@@ -1,0 +1,35 @@
+{
+  "problem_id": "2005B2",
+  "contest_id": 2005,
+  "index": "B2",
+  "title": "The Strict Teacher (Hard Version)",
+  "rating": 1200,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-09-14",
+  "solved_count": 21448,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n8 1 1\n6\n3\n10 3 3\n1 4 8\n2 3 10",
+      "output": "\n5\n1\n1\n2\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

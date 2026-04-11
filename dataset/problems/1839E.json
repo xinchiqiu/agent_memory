@@ -1,0 +1,41 @@
+{
+  "problem_id": "1839E",
+  "contest_id": 1839,
+  "index": "E",
+  "title": "Decreasing Game",
+  "rating": 2400,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-06-03",
+  "solved_count": 1480,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n10 4 6 3\n\n\n3\n\n1\n\n0",
+      "output": "\n\n\nFirst\n1\n\n2\n\n4"
+    },
+    {
+      "input": "\n6\n4 5 5 11 3 2\n\n2\n\n5\n\n4\n\n6\n\n1\n\n0",
+      "output": "\n\n\nSecond \n\n4\n\n4\n\n3\n\n1\n\n3"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

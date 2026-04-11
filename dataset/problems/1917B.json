@@ -1,0 +1,37 @@
+{
+  "problem_id": "1917B",
+  "contest_id": 1917,
+  "index": "B",
+  "title": "Erase First or Second Letter",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "data structures",
+    "dp",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "implementation",
+    "dp",
+    "string_hashing"
+  ],
+  "contest_date": "2023-12-24",
+  "solved_count": 35382,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\naaaaa\n1\nz\n5\nababa\n14\nbcdaaaabcdaaaa\n20\nabcdefghijklmnopqrst",
+      "output": "\n5\n1\n9\n50\n210\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

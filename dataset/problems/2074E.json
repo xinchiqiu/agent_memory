@@ -1,0 +1,33 @@
+{
+  "problem_id": "2074E",
+  "contest_id": 2074,
+  "index": "E",
+  "title": "Empty Triangle",
+  "rating": 1600,
+  "raw_tags": [
+    "geometry",
+    "interactive",
+    "probabilities"
+  ],
+  "tags": [
+    "geometry",
+    "implementation",
+    "math_combinatorics"
+  ],
+  "contest_date": "2025-03-11",
+  "solved_count": 6577,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n6\n\n5\n\n4\n\n0\n\n3\n",
+      "output": "\n\n\n? 1 2 3\n\n? 1 5 3\n\n? 2 5 6\n\n! 2 5 6\n\n! 1 2 3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

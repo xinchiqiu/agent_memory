@@ -1,0 +1,35 @@
+{
+  "problem_id": "1647B",
+  "contest_id": 1647,
+  "index": "B",
+  "title": "Madoka and the Elegant Gift",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "graphs",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "implementation"
+  ],
+  "contest_date": "2022-03-11",
+  "solved_count": 16952,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 3\n100\n011\n011\n3 3\n110\n111\n110\n1 5\n01111\n4 5\n11111\n01010\n01000\n01000\n3 2\n11\n00\n11",
+      "output": "\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

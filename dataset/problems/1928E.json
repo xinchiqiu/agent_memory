@@ -1,0 +1,40 @@
+{
+  "problem_id": "1928E",
+  "contest_id": 1928,
+  "index": "E",
+  "title": "Modular Sequence",
+  "rating": 2300,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "dp",
+    "graph_dfs",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-11",
+  "solved_count": 2071,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 8 3 28\n3 5 3 6\n9 1 5 79",
+      "output": "\nYES\n8 11 2 2 5 \nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

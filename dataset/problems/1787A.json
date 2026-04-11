@@ -1,0 +1,31 @@
+{
+  "problem_id": "1787A",
+  "contest_id": 1787,
+  "index": "A",
+  "title": "Exponential Equation",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-29",
+  "solved_count": 20348,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n7\n42\n31250\n20732790",
+      "output": "\n-1\n-1\n2 3\n5 5\n3 13\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

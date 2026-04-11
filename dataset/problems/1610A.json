@@ -1,0 +1,29 @@
+{
+  "problem_id": "1610A",
+  "contest_id": 1610,
+  "index": "A",
+  "title": "Anti Light's Cell Guessing",
+  "rating": 900,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2021-11-23",
+  "solved_count": 17028,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n2 3\n3 1\n",
+      "output": "\n2\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

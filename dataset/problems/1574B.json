@@ -1,0 +1,33 @@
+{
+  "problem_id": "1574B",
+  "contest_id": 1574,
+  "index": "B",
+  "title": "Combinatorics Homework",
+  "rating": 1100,
+  "raw_tags": [
+    "combinatorics",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-09-20",
+  "solved_count": 18125,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n2 2 1 0\n1 1 1 1\n1 2 3 2\n",
+      "output": "\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

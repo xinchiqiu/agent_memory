@@ -1,0 +1,35 @@
+{
+  "problem_id": "1862D",
+  "contest_id": 1862,
+  "index": "D",
+  "title": "Ice Cream Balls",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "combinatorics",
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "math_combinatorics",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-08-24",
+  "solved_count": 19680,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n3\n6\n179\n1000000000000000000",
+      "output": "\n2\n3\n4\n27\n2648956421\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1760E",
+  "contest_id": 1760,
+  "index": "E",
+  "title": "Binary Inversions",
+  "rating": 1100,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-11-21",
+  "solved_count": 22858,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n1 0 1 0\n6\n0 1 0 0 1 0\n2\n0 0\n8\n1 0 1 1 0 0 0 1\n3\n1 1 1",
+      "output": "\n3\n7\n1\n13\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "2183C",
+  "contest_id": 2183,
+  "index": "C",
+  "title": "War Strategy",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2026-01-07",
+  "solved_count": 10317,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3 1 3\n3 3 2\n4 2 2\n3 2 1\n4 3 3\n7 7 4\n100000 1000000000 100000",
+      "output": "\n\n2\n3\n3\n2\n3\n6\n100000"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

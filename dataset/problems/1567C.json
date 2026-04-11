@@ -1,0 +1,35 @@
+{
+  "problem_id": "1567C",
+  "contest_id": 1567,
+  "index": "C",
+  "title": "Carrying Conundrum",
+  "rating": 1600,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-09-05",
+  "solved_count": 13035,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n100\n12\n8\n2021\n10000\n",
+      "output": "\n9\n4\n7\n44\n99\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

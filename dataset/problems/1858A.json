@@ -1,0 +1,33 @@
+{
+  "problem_id": "1858A",
+  "contest_id": 1858,
+  "index": "A",
+  "title": "Buttons",
+  "rating": 800,
+  "raw_tags": [
+    "games",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-08-15",
+  "solved_count": 64242,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 1 1\n9 3 3\n1 2 3\n6 6 9\n2 2 8",
+      "output": "\nFirst\nFirst\nSecond\nFirst\nSecond\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

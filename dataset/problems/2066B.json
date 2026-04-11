@@ -1,0 +1,36 @@
+{
+  "problem_id": "2066B",
+  "contest_id": 2066,
+  "index": "B",
+  "title": "White Magic",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2025-02-11",
+  "solved_count": 5364,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n5\n4 3 2 1 0\n6\n4 3 3 2 1 0\n4\n2 0 1 2\n1\n777\n4\n1000000000 1 7 9\n2\n0 1\n2\n1 2\n4\n0 1 0 1",
+      "output": "\n5\n5\n3\n1\n4\n2\n2\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

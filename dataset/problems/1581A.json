@@ -1,0 +1,32 @@
+{
+  "problem_id": "1581A",
+  "contest_id": 1581,
+  "index": "A",
+  "title": "CQXYM Count Permutations",
+  "rating": 800,
+  "raw_tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-09-30",
+  "solved_count": 14225,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1\n2\n9\n91234\n",
+      "output": "\n1\n12\n830455698\n890287984\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

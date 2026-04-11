@@ -1,0 +1,31 @@
+{
+  "problem_id": "1941A",
+  "contest_id": 1941,
+  "index": "A",
+  "title": "Rudolf and the Ticket",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-03-11",
+  "solved_count": 47429,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 4 8\n1 5 10 14\n2 1 8 1\n2 3 4\n4 8\n1 2 3\n4 2 7\n1 1 1 1\n2 7\n3 4 2000\n1 1 1\n1 1 1 1",
+      "output": "\n6\n0\n4\n12\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

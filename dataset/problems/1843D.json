@@ -1,0 +1,40 @@
+{
+  "problem_id": "1843D",
+  "contest_id": 1843,
+  "index": "D",
+  "title": "Apple Tree",
+  "rating": 1200,
+  "raw_tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "graph_dfs",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-06-20",
+  "solved_count": 21390,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n5\n1 2\n3 4\n5 3\n3 2\n4\n3 4\n5 1\n4 4\n1 3\n3\n1 2\n1 3\n3\n1 1\n2 3\n3 1",
+      "output": "\n2\n2\n1\n4\n4\n1\n2\n"
+    },
+    {
+      "input": "\n\n2\n5\n5 1\n1 2\n2 3\n4 3\n2\n5 5\n5 1\n5\n3 2\n5 3\n2 1\n4 2\n3\n4 3\n2 1\n4 2",
+      "output": "\n1\n2\n1\n4\n2\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

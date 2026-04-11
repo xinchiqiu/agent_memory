@@ -1,0 +1,33 @@
+{
+  "problem_id": "1901C",
+  "contest_id": 1901,
+  "index": "C",
+  "title": "Add, Divide and Floor",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-11-24",
+  "solved_count": 14126,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n10\n2\n4 6\n6\n2 1 2 1 2 1\n2\n0 32",
+      "output": "\n0\n2\n2 5\n1\n1\n6\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

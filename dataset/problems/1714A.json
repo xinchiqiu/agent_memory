@@ -1,0 +1,31 @@
+{
+  "problem_id": "1714A",
+  "contest_id": 1714,
+  "index": "A",
+  "title": "Everyone Loves to Sleep",
+  "rating": 900,
+  "raw_tags": [
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-08-01",
+  "solved_count": 32671,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1 6 13\n8 0\n3 6 0\n12 30\n14 45\n6 0\n2 23 35\n20 15\n10 30",
+      "output": "\n1 47\n0 0\n10 55\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1592C",
+  "contest_id": 1592,
+  "index": "C",
+  "title": "Bakry and Partitioning",
+  "rating": 1700,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2021-10-03",
+  "solved_count": 8998,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n2 2\n1 3\n1 2\n5 5\n3 3 3 3 3\n1 2\n2 3\n1 4\n4 5\n5 2\n1 7 2 3 5\n1 2\n2 3\n1 4\n4 5\n5 3\n1 6 4 1 2\n1 2\n2 3\n1 4\n4 5\n3 3\n1 7 4\n1 2\n2 3\n",
+      "output": "\nNO\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

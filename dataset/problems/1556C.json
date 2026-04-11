@@ -1,0 +1,39 @@
+{
+  "problem_id": "1556C",
+  "contest_id": 1556,
+  "index": "C",
+  "title": "Compressed Bracket Sequence",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2021-08-29",
+  "solved_count": 6179,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n4 1 2 3 1\n",
+      "output": "\n5\n"
+    },
+    {
+      "input": "\n6\n1 3 2 1 2 4\n",
+      "output": "\n6\n"
+    },
+    {
+      "input": "\n6\n1 1 1 1 2 2\n",
+      "output": "\n7\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

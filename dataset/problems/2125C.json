@@ -1,0 +1,34 @@
+{
+  "problem_id": "2125C",
+  "contest_id": 2125,
+  "index": "C",
+  "title": "Count Good Numbers",
+  "rating": 1100,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-07-22",
+  "solved_count": 22452,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 100\n2 1000\n13 37\n2 1000000000000000000",
+      "output": "\n21\n227\n7\n228571428571428570\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

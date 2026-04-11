@@ -1,0 +1,38 @@
+{
+  "problem_id": "1867D",
+  "contest_id": 1867,
+  "index": "D",
+  "title": "Cyclic Operations",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "graph_dfs",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-09-11",
+  "solved_count": 6829,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5 3\n2 3 5 3 4\n4 2\n2 4 3 1\n1 1\n1\n3 1\n1 2 3\n5 3\n5 4 3 2 1\n6 1\n1 2 3 1 5 6",
+      "output": "\nYES\nNO\nYES\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

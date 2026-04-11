@@ -1,0 +1,35 @@
+{
+  "problem_id": "1941B",
+  "contest_id": 1941,
+  "index": "B",
+  "title": "Rudolf and 121",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-03-11",
+  "solved_count": 34531,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5\n1 3 5 5 2\n5\n2 4 4 5 1\n5\n0 1 3 3 1\n6\n5 6 0 2 3 0\n4\n1 2 7 2\n3\n7 1 0\n4\n1 1 1 1",
+      "output": "\nYES\nNO\nYES\nNO\nNO\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

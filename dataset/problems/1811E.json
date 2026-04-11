@@ -1,0 +1,34 @@
+{
+  "problem_id": "1811E",
+  "contest_id": 1811,
+  "index": "E",
+  "title": "Living Sequence",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "binary_search",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-04-04",
+  "solved_count": 14316,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3\n5\n22\n10\n100\n12345\n827264634912",
+      "output": "\n3\n6\n25\n11\n121\n18937\n2932285320890\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

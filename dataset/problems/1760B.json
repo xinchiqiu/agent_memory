@@ -1,0 +1,33 @@
+{
+  "problem_id": "1760B",
+  "contest_id": 1760,
+  "index": "B",
+  "title": "Atilla's Favorite Problem",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-11-21",
+  "solved_count": 52905,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\na\n4\ndown\n10\ncodeforces\n3\nbcf\n5\nzzzzz",
+      "output": "\n1\n23\n19\n6\n26\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

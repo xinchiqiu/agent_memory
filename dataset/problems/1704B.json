@@ -1,0 +1,33 @@
+{
+  "problem_id": "1704B",
+  "contest_id": 1704,
+  "index": "B",
+  "title": "Luke is a Foodie",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2022-07-31",
+  "solved_count": 29081,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5 3\n3 8 5 6 7\n5 3\n3 10 9 8 7\n12 8\n25 3 3 17 8 6 1 16 15 25 17 23\n10 2\n1 2 3 4 5 6 7 8 9 10\n8 2\n2 4 6 8 6 4 12 14\n8 2\n2 7 8 9 6 13 21 28\n15 5\n11 4 13 23 7 10 5 21 20 11 17 5 29 16 11",
+      "output": "\n0\n1\n2\n1\n2\n4\n6\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,30 @@
+{
+  "problem_id": "1703B",
+  "contest_id": 1703,
+  "index": "B",
+  "title": "ICPC Balloons",
+  "rating": 800,
+  "raw_tags": [
+    "data structures",
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-07-12",
+  "solved_count": 64993,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\nABA\n1\nA\n3\nORZ\n5\nBAAAA\n4\nBKPT\n10\nCODEFORCES",
+      "output": "\n5\n2\n6\n7\n8\n17\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

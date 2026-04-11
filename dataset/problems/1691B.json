@@ -1,0 +1,35 @@
+{
+  "problem_id": "1691B",
+  "contest_id": 1691,
+  "index": "B",
+  "title": "Shoe Shuffling",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "two_pointers"
+  ],
+  "contest_date": "2022-05-31",
+  "solved_count": 34473,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n5\n1 1 1 1 1\n6\n3 6 8 13 15 21\n",
+      "output": "\n5 1 2 3 4 \n-1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

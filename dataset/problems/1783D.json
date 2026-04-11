@@ -1,0 +1,37 @@
+{
+  "problem_id": "1783D",
+  "contest_id": 1783,
+  "index": "D",
+  "title": "Different Arrays",
+  "rating": 2000,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2023-01-08",
+  "solved_count": 5229,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1 1 1 1\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n5\n1 2 3 5 0\n",
+      "output": "\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "2096C",
+  "contest_id": 2096,
+  "index": "C",
+  "title": "Wonderful City",
+  "rating": 1700,
+  "raw_tags": [
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2025-04-19",
+  "solved_count": 8066,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n1 2\n2 1\n100 100\n100 100\n4\n1 2 1 2\n3 2 1 2\n1 2 1 1\n1 3 1 2\n1 2 3 4\n5 6 7 8\n3\n1 2 2\n2 2 1\n2 1 1\n100 100 100\n100 100 100\n6\n8 7 2 8 4 8\n7 7 9 7 1 1\n8 3 1 1 8 5\n6 8 3 1 1 4\n1 4 5 1 9 6\n7 1 1 6 8 2\n11 23 20 79 30 15\n15 83 73 57 34 63",
+      "output": "\n0\n14\n-1\n183\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

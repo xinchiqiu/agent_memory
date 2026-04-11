@@ -1,0 +1,37 @@
+{
+  "problem_id": "2074C",
+  "contest_id": 2074,
+  "index": "C",
+  "title": "XOR and Triangle",
+  "rating": 1100,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "geometry",
+    "greedy",
+    "probabilities"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "geometry",
+    "greedy",
+    "math_combinatorics"
+  ],
+  "contest_date": "2025-03-11",
+  "solved_count": 21773,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5\n2\n6\n3\n69\n4\n420",
+      "output": "\n3\n-1\n5\n-1\n66\n-1\n320\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

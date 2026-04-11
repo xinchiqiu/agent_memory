@@ -1,0 +1,38 @@
+{
+  "problem_id": "1929C",
+  "contest_id": 1929,
+  "index": "C",
+  "title": "Sasha and the Casino",
+  "rating": 1400,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "games",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-15",
+  "solved_count": 17150,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n2 1 7\n2 1 1\n2 3 15\n3 3 6\n4 4 5\n5 4 7\n4 88 1000000000\n25 69 231\n13 97 18806",
+      "output": "\nYES\nNO\nYES\nNO\nNO\nYES\nNO\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

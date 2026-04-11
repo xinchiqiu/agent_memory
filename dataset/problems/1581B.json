@@ -1,0 +1,35 @@
+{
+  "problem_id": "1581B",
+  "contest_id": 1581,
+  "index": "B",
+  "title": "Diameter of Graph",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-09-30",
+  "solved_count": 12413,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n1 0 3\n4 5 3\n4 6 3\n5 4 1\n2 1 1\n",
+      "output": "\nYES\nNO\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

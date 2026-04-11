@@ -1,0 +1,38 @@
+{
+  "problem_id": "2110D",
+  "contest_id": 2110,
+  "index": "D",
+  "title": "Fewer Batteries",
+  "rating": 1700,
+  "raw_tags": [
+    "binary search",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "hashing"
+  ],
+  "tags": [
+    "binary_search",
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2025-05-24",
+  "solved_count": 8414,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 3\n2 0 0\n1 2 1\n2 3 1\n1 3 2\n5 6\n2 2 5 0 1\n1 2 2\n1 3 1\n1 4 3\n3 5 5\n2 4 4\n4 5 3\n2 0\n1 1\n4 4\n3 10 0 0\n1 2 1\n1 3 3\n2 3 10\n3 4 5",
+      "output": "\n1\n4\n-1\n10\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

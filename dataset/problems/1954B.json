@@ -1,0 +1,31 @@
+{
+  "problem_id": "1954B",
+  "contest_id": 1954,
+  "index": "B",
+  "title": "Make It Ugly",
+  "rating": 1200,
+  "raw_tags": [
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-12",
+  "solved_count": 21368,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n2 2 2\n5\n1 2 1 2 1\n1\n1\n7\n3 3 3 5 3 3 3",
+      "output": "\n-1\n1\n-1\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

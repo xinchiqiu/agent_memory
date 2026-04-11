@@ -1,0 +1,29 @@
+{
+  "problem_id": "1882A",
+  "contest_id": 1882,
+  "index": "A",
+  "title": "Increasing Sequence",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2023-09-25",
+  "solved_count": 27258,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n1 3 2 6 7\n4\n2 3 4 5\n1\n1",
+      "output": "\n8\n4\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

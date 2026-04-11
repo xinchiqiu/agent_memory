@@ -1,0 +1,27 @@
+{
+  "problem_id": "1958C",
+  "contest_id": 1958,
+  "index": "C",
+  "title": "Firewood",
+  "rating": 1500,
+  "raw_tags": [
+    "*special"
+  ],
+  "tags": [],
+  "contest_date": "2024-05-13",
+  "solved_count": 983,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 2\n2 1\n10 3\n50 36679020707840",
+      "output": "\n1\n2\n10\n16\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

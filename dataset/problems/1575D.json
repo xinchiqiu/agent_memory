@@ -1,0 +1,49 @@
+{
+  "problem_id": "1575D",
+  "contest_id": 1575,
+  "index": "D",
+  "title": "Divisible by Twenty-Five",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2021-10-02",
+  "solved_count": 2855,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n25\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n_00\n",
+      "output": "\n9\n"
+    },
+    {
+      "input": "\n_XX\n",
+      "output": "\n9\n"
+    },
+    {
+      "input": "\n0\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n0_25\n",
+      "output": "\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

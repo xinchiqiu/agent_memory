@@ -1,0 +1,40 @@
+{
+  "problem_id": "1866B",
+  "contest_id": 1866,
+  "index": "B",
+  "title": "Battling with Numbers",
+  "rating": 1400,
+  "raw_tags": [
+    "combinatorics",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-09-03",
+  "solved_count": 9111,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n2 3 5 7\n2 1 1 2\n2\n3 7\n1 1\n",
+      "output": "\n8\n"
+    },
+    {
+      "input": "\n2\n1299721 1999993\n100000 265\n2\n1299721 1999993\n100000 265\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n2\n2 5\n1 1\n2\n2 3\n1 1\n",
+      "output": "\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

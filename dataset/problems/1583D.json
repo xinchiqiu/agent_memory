@@ -1,0 +1,33 @@
+{
+  "problem_id": "1583D",
+  "contest_id": 1583,
+  "index": "D",
+  "title": "Omkar and the Meaning of Life",
+  "rating": 1800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2021-10-17",
+  "solved_count": 5917,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n\n2\n\n0\n\n1\n",
+      "output": "\n\n? 4 4 2 3 2\n\n? 3 5 1 5 5\n\n? 5 2 4 3 1\n\n! 3 2 1 5 4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

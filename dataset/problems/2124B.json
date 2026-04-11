@@ -1,0 +1,29 @@
+{
+  "problem_id": "2124B",
+  "contest_id": 2124,
+  "index": "B",
+  "title": "Minimise Sum",
+  "rating": 1000,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2025-07-06",
+  "solved_count": 19902,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n1 2\n3\n1 2 3\n4\n3 0 2 3",
+      "output": "\n2\n2\n3\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

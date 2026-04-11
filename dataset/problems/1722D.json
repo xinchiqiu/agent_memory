@@ -1,0 +1,31 @@
+{
+  "problem_id": "1722D",
+  "contest_id": 1722,
+  "index": "D",
+  "title": "Line",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-08-30",
+  "solved_count": 26395,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\nLLR\n5\nLRRLL\n1\nL\n12\nLRRRLLLRLLRL\n10\nLLLLLRRRRR\n9\nLRLRLRLRL",
+      "output": "\n3 5 5 \n16 16 16 16 16 \n0 \n86 95 98 101 102 102 102 102 102 102 102 102 \n29 38 45 52 57 62 65 68 69 70 \n44 50 54 56 56 56 56 56 56 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

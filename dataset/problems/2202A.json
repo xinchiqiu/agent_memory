@@ -1,0 +1,29 @@
+{
+  "problem_id": "2202A",
+  "contest_id": 2202,
+  "index": "A",
+  "title": "Parkour Design",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2026-02-23",
+  "solved_count": 14016,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n2 1\n3 0\n4 -1\n4 1\n14 1\n1 -4\n3 -1\n2 10\n24 -1\n24 -3\n8 4",
+      "output": "\n\nYES\nYES\nYES\nNO\nYES\nNO\nNO\nNO\nNO\nYES\nYES"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

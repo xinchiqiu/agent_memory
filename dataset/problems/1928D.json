@@ -1,0 +1,37 @@
+{
+  "problem_id": "1928D",
+  "contest_id": 1928,
+  "index": "D",
+  "title": "Lonely Mountain Dungeons",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "math",
+    "ternary search"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "binary_search"
+  ],
+  "contest_date": "2024-02-11",
+  "solved_count": 5117,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 1 0\n1 2 3\n3 5 10\n2 5 3\n4 3 3\n3 2 1 2\n4 1 0\n4 1 4 2\n4 1 10\n4 1 4 2",
+      "output": "\n4\n40\n9\n13\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

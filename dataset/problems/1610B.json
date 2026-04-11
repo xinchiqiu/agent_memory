@@ -1,0 +1,31 @@
+{
+  "problem_id": "1610B",
+  "contest_id": 1610,
+  "index": "B",
+  "title": "Kalindrome Array",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2021-11-23",
+  "solved_count": 22791,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1\n1\n2\n1 2\n3\n1 2 3\n5\n1 4 4 1 4\n",
+      "output": "\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

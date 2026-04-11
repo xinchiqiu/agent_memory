@@ -1,0 +1,36 @@
+{
+  "problem_id": "1988E",
+  "contest_id": 1988,
+  "index": "E",
+  "title": "Range Minimum Sum",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "divide and conquer",
+    "implementation"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "divide_and_conquer"
+  ],
+  "contest_date": "2024-07-15",
+  "solved_count": 1771,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n1\n3\n3 1 2\n5\n4 2 1 5 3\n8\n8 1 4 6 7 3 5 2",
+      "output": "\n0 \n4 7 5 \n19 21 27 17 19 \n79 100 72 68 67 80 73 80 \n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "1781E",
+  "contest_id": 1781,
+  "index": "E",
+  "title": "Rectangle Shrinking",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2023-01-15",
+  "solved_count": 1417,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n5\n1 2 2 4\n2 4 2 8\n1 4 2 7\n1 2 1 2\n1 9 1 10\n2\n1 1 1 10\n1 5 1 15\n2\n1 1 1 10\n1 1 1 10\n5\n1 3 1 7\n1 3 1 8\n1 1 1 4\n1 2 1 7\n1 10 1 11\n2\n1 1 2 10\n1 5 1 8\n2\n1 5 2 10\n1 2 1 7\n2\n1 5 2 10\n2 2 2 15\n5\n2 6 2 7\n1 4 2 5\n1 5 1 9\n1 7 2 10\n1 2 1 6",
+      "output": "\n15\n1 2 2 4\n2 5 2 8\n1 5 1 7\n0 0 0 0\n1 9 1 10\n15\n1 1 1 10\n1 11 1 15\n10\n1 1 1 10\n0 0 0 0\n10\n0 0 0 0\n1 8 1 8\n1 1 1 4\n1 5 1 7\n1 10 1 11\n20\n1 1 2 10\n0 0 0 0\n15\n1 5 2 10\n1 2 1 4\n20\n1 5 1 10\n2 2 2 15\n16\n2 6 2 6\n2 4 2 5\n0 0 0 0\n1 7 2 10\n1 2 1 6\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

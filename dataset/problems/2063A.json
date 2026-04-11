@@ -1,0 +1,30 @@
+{
+  "problem_id": "2063A",
+  "contest_id": 2063,
+  "index": "A",
+  "title": "Minimal Coprime",
+  "rating": 800,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2025-01-22",
+  "solved_count": 31516,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1 2\n1 10\n49 49\n69 420\n1 1\n9982 44353",
+      "output": "\n1\n9\n0\n351\n1\n34371\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "2197B",
+  "contest_id": 2197,
+  "index": "B",
+  "title": "Array and Permutation",
+  "rating": 1100,
+  "raw_tags": [
+    "implementation",
+    "schedules",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2026-02-11",
+  "solved_count": 14798,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n1 2 3\n1 2 2\n4\n3 1 2 4\n3 4 2 2\n5\n1 3 2 5 4\n3 3 3 5 4\n7\n3 7 4 2 1 6 5\n3 3 4 4 5 6 5\n7\n1 2 3 4 5 6 7\n7 7 7 7 7 7 7\n7\n1 3 2 7 5 4 6\n2 2 7 7 7 5 6",
+      "output": "\n\nYES\nNO\nYES\nNO\nYES\nYES"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

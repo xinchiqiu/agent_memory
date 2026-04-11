@@ -1,0 +1,35 @@
+{
+  "problem_id": "1567D",
+  "contest_id": 1567,
+  "index": "D",
+  "title": "Expression Evaluation Error",
+  "rating": 2000,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-09-05",
+  "solved_count": 4825,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n97 2\n17 1\n111 4\n100 2\n10 9\n999999 3\n",
+      "output": "\n70 27 \n17 \n3 4 100 4\n10 90\n1 1 2 1 1 1 1 1 1 \n999900 90 9\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

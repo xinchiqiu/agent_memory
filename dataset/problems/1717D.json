@@ -1,0 +1,43 @@
+{
+  "problem_id": "1717D",
+  "contest_id": 1717,
+  "index": "D",
+  "title": "Madoka and The Corruption Scheme",
+  "rating": 1900,
+  "raw_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-09-02",
+  "solved_count": 4830,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n1 1\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n2 1\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n3 2\n",
+      "output": "\n7\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

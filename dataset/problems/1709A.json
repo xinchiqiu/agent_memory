@@ -1,0 +1,35 @@
+{
+  "problem_id": "1709A",
+  "contest_id": 1709,
+  "index": "A",
+  "title": "Three Doors",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-07-21",
+  "solved_count": 31483,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n0 1 2\n1\n0 3 2\n2\n3 1 0\n2\n1 3 0",
+      "output": "\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

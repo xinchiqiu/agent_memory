@@ -1,0 +1,33 @@
+{
+  "problem_id": "1996F",
+  "contest_id": 1996,
+  "index": "F",
+  "title": "Bomb",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-07-26",
+  "solved_count": 6249,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 4\n5 6 7\n2 3 4\n5 9\n32 52 68 64 14\n18 14 53 24 8\n5 1000\n1 2 3 4 5\n5 4 3 2 1\n1 1000000\n1000000\n1\n10 6\n3 3 5 10 6 8 6 8 7 7\n6 1 7 4 1 1 8 9 3 1",
+      "output": "\n21\n349\n27\n500000500000\n47\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

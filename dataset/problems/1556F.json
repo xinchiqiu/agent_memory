@@ -1,0 +1,42 @@
+{
+  "problem_id": "1556F",
+  "contest_id": 1556,
+  "index": "F",
+  "title": "Sports Betting",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "graphs",
+    "math",
+    "probabilities"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "dp",
+    "graph_dfs",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-08-29",
+  "solved_count": 1408,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n1 2\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n5\n1 5 2 11 14\n",
+      "output": "\n642377629\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

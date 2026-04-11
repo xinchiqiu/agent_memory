@@ -1,0 +1,37 @@
+{
+  "problem_id": "1801C",
+  "contest_id": 1801,
+  "index": "C",
+  "title": "Music Festival",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-03-09",
+  "solved_count": 4051,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n4\n5\n4 9 4 6 8\n1\n7\n2\n8 6\n1\n1\n4\n2\n3 4\n2\n1 8\n2\n2 8\n2\n7 9",
+      "output": "\n4\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

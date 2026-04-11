@@ -1,0 +1,50 @@
+{
+  "problem_id": "2010C2",
+  "contest_id": 2010,
+  "index": "C2",
+  "title": "Message Transmission Error (hard version)",
+  "rating": 1700,
+  "raw_tags": [
+    "hashing",
+    "string suffix structures",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "string_hashing",
+    "string_kmp",
+    "two_pointers"
+  ],
+  "contest_date": "2024-08-28",
+  "solved_count": 4523,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "abrakadabrabrakadabra",
+      "output": "YES\nabrakadabra"
+    },
+    {
+      "input": "acacacaca",
+      "output": "YES\nacacaca"
+    },
+    {
+      "input": "abcabc",
+      "output": "NO"
+    },
+    {
+      "input": "abababab",
+      "output": "YES\nababab"
+    },
+    {
+      "input": "tatbt",
+      "output": "NO"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

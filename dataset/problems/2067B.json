@@ -1,0 +1,35 @@
+{
+  "problem_id": "2067B",
+  "contest_id": 2067,
+  "index": "B",
+  "title": "Two Large Bags",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2025-02-11",
+  "solved_count": 18754,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n2\n1 1\n2\n2 1\n4\n1 1 4 4\n4\n3 4 3 3\n4\n2 3 4 4\n6\n3 3 4 5 3 3\n6\n2 2 2 4 4 4\n8\n1 1 1 1 1 1 1 4\n10\n9 9 9 10 10 10 10 10 10 10",
+      "output": "\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nYes\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

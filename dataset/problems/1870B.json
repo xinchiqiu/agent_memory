@@ -1,0 +1,33 @@
+{
+  "problem_id": "1870B",
+  "contest_id": 1870,
+  "index": "B",
+  "title": "Friendly Arrays",
+  "rating": 1200,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-09-18",
+  "solved_count": 15990,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n2 3\n0 1\n1 2 3\n3 1\n1 1 2\n1",
+      "output": "\n0 1\n2 3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

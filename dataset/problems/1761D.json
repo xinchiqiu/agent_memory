@@ -1,0 +1,39 @@
+{
+  "problem_id": "1761D",
+  "contest_id": 1761,
+  "index": "D",
+  "title": "Carry Bit",
+  "rating": 2100,
+  "raw_tags": [
+    "combinatorics",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-11-20",
+  "solved_count": 2747,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 1\n",
+      "output": "\n15\n"
+    },
+    {
+      "input": "\n3 0\n",
+      "output": "\n27\n"
+    },
+    {
+      "input": "\n998 244\n",
+      "output": "\n573035660\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

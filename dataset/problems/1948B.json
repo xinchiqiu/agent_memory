@@ -1,0 +1,35 @@
+{
+  "problem_id": "1948B",
+  "contest_id": 1948,
+  "index": "B",
+  "title": "Array Fix",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-03-15",
+  "solved_count": 26066,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n12 3 45 67\n3\n12 28 5\n2\n0 0",
+      "output": "\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

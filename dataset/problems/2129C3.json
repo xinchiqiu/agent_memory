@@ -1,0 +1,36 @@
+{
+  "problem_id": "2129C3",
+  "contest_id": 2129,
+  "index": "C3",
+  "title": "Interactive RBS (Hard Version)",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "interactive"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "constructive",
+    "dp"
+  ],
+  "contest_date": "2025-07-31",
+  "solved_count": 1630,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n3\n\n0\n\n1\n\n1\n\n2\n\n3\n\n",
+      "output": "\n\n\n? 4 1 2 3 3\n\n? 2 2 1\n\n? 2 3 1\n\n! )((\n\n? 4 1 2 1 2\n\n! ()\n\n\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

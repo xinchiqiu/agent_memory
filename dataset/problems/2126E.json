@@ -1,0 +1,30 @@
+{
+  "problem_id": "2126E",
+  "contest_id": 2126,
+  "index": "E",
+  "title": "G-C-D, Unlucky!",
+  "rating": 1400,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2025-07-17",
+  "solved_count": 16733,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n6\n72 24 3 3 3 3\n3 3 3 6 12 144\n3\n1 2 3\n4 5 6\n5\n125 125 125 25 25\n25 25 25 25 75\n4\n123 421 282 251\n125 1981 239 223\n3\n124 521 125\n125 121 121",
+      "output": "\nYES\nNO\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

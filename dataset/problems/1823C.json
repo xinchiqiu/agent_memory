@@ -1,0 +1,32 @@
+{
+  "problem_id": "1823C",
+  "contest_id": 1823,
+  "index": "C",
+  "title": "Strongly Composite",
+  "rating": 1300,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-04-27",
+  "solved_count": 13758,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n2\n3 6\n3\n3 4 5\n2\n2 3\n3\n3 10 14\n2\n25 30\n1\n1080\n9\n3 3 3 5 5 5 7 7 7\n20\n12 15 2 2 2 2 2 3 3 3 17 21 21 21 30 6 6 33 31 39",
+      "output": "\n1\n1\n0\n2\n2\n3\n4\n15\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

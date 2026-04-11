@@ -1,0 +1,33 @@
+{
+  "problem_id": "1611F",
+  "contest_id": 1611,
+  "index": "F",
+  "title": "ATM and Students",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "two_pointers"
+  ],
+  "contest_date": "2021-11-25",
+  "solved_count": 7343,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n4 10\n-16 2 -6 8\n3 1000\n-100000 -100000 -100000\n6 0\n2 6 -164 1 -1 -6543\n",
+      "output": "\n2 4\n-1\n1 2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

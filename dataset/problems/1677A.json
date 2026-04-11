@@ -1,0 +1,33 @@
+{
+  "problem_id": "1677A",
+  "contest_id": 1677,
+  "index": "A",
+  "title": "Tokitsukaze and Strange Inequality",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp"
+  ],
+  "contest_date": "2022-05-08",
+  "solved_count": 9305,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n6\n5 3 6 1 4 2\n4\n1 2 3 4\n10\n5 1 6 2 8 3 4 10 9 7",
+      "output": "\n3\n0\n28\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+  "problem_id": "2051G",
+  "contest_id": 2051,
+  "index": "G",
+  "title": "Snakes",
+  "rating": 2100,
+  "raw_tags": [
+    "bitmasks",
+    "dp",
+    "dsu",
+    "graphs"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "union_find",
+    "graph_dfs"
+  ],
+  "contest_date": "2024-12-22",
+  "solved_count": 2391,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3 6\n1 +\n1 -\n3 +\n3 -\n2 +\n2 -",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n\n5 13\n5 +\n3 +\n5 -\n2 +\n4 +\n3 +\n5 +\n5 -\n2 +\n3 -\n3 +\n3 -\n2 +",
+      "output": "\n11\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

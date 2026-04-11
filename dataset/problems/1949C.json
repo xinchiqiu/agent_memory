@@ -1,0 +1,42 @@
+{
+  "problem_id": "1949C",
+  "contest_id": 1949,
+  "index": "C",
+  "title": "Annual Ants' Gathering",
+  "rating": 1900,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2024-03-24",
+  "solved_count": 2502,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5 1\n3 2\n4 6\n3 6\n7 1\n1 3",
+      "output": "\nYES\n"
+    },
+    {
+      "input": "\n\n5\n1 4\n4 2\n3 2\n5 3",
+      "output": "\nNO\n"
+    },
+    {
+      "input": "\n\n6\n4 5\n5 6\n6 1\n2 6\n3 2",
+      "output": "\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

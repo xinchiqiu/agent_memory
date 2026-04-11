@@ -1,0 +1,32 @@
+{
+  "problem_id": "1744E2",
+  "contest_id": 1744,
+  "index": "E2",
+  "title": "Divisible Numbers (hard version)",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-16",
+  "solved_count": 6611,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n1 1 2 2\n3 4 5 7\n8 9 15 18\n12 21 14 24\n36 60 48 66\n1024 729 373248 730\n1024 729 373247 730\n5040 40320 40319 1000000000\n999999999 999999999 1000000000 1000000000\n268435456 268435456 1000000000 1000000000",
+      "output": "\n2 2\n4 6\n12 12\n-1 -1\n-1 -1\n373248 730\n-1 -1\n15120 53760\n-1 -1\n536870912 536870912\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

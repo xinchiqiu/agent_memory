@@ -1,0 +1,35 @@
+{
+  "problem_id": "2180D",
+  "contest_id": 2180,
+  "index": "D",
+  "title": "Insolvable Disks",
+  "rating": 1900,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-12-19",
+  "solved_count": 4164,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n1 2 3\n4\n1 2 4 5\n6\n1 2 11 12 21 22\n7\n0 1 2 3 5 8 13",
+      "output": "\n\n2\n2\n3\n6"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2179E",
+  "contest_id": 2179,
+  "index": "E",
+  "title": "Blackslex and Girls",
+  "rating": 1800,
+  "raw_tags": [
+    "constructive algorithms",
+    "geometry",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "geometry",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-12-23",
+  "solved_count": 5622,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3 5 5\n010\n2 4 3\n4 2 3\n0001\n1 1 1 1\n2 4 2\n00\n3 3\n4 23 20\n1111\n2 2 2 2\n1 25 26\n0\n51\n2 4 2\n00\n3 4",
+      "output": "\n\nYES\nNO\nYES\nNO\nNO\nNO"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

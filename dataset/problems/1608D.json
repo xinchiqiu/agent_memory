@@ -1,0 +1,43 @@
+{
+  "problem_id": "1608D",
+  "contest_id": 1608,
+  "index": "D",
+  "title": "Dominoes",
+  "rating": 2400,
+  "raw_tags": [
+    "combinatorics",
+    "fft",
+    "graphs",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory",
+    "graph_dfs"
+  ],
+  "contest_date": "2021-12-11",
+  "solved_count": 1545,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n1\n?W\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n2\n??\nW?\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n4\nBB\n??\nW?\n??\n",
+      "output": "\n10\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

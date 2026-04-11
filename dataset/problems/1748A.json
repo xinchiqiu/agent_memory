@@ -1,0 +1,29 @@
+{
+  "problem_id": "1748A",
+  "contest_id": 1748,
+  "index": "A",
+  "title": "The Ultimate Square",
+  "rating": 800,
+  "raw_tags": [
+    "math"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2022-11-12",
+  "solved_count": 25257,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n5\n197654321",
+      "output": "\n1\n3\n98827161\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

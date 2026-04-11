@@ -1,0 +1,35 @@
+{
+  "problem_id": "2066C",
+  "contest_id": 2066,
+  "index": "C",
+  "title": "Bitwise Slides",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-11",
+  "solved_count": 2416,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n1 7 9\n4\n179 1 1 179\n5\n1 2 3 3 2\n12\n8 2 5 3 9 1 8 12 9 9 9 4\n1\n1000000000",
+      "output": "\n3\n9\n39\n123\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

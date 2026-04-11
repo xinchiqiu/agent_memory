@@ -1,0 +1,30 @@
+{
+  "problem_id": "1549A",
+  "contest_id": 1549,
+  "index": "A",
+  "title": "Gregor and Cryptography",
+  "rating": 800,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2021-08-01",
+  "solved_count": 35375,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n17\n5\n",
+      "output": "\n3 5\n2 4"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

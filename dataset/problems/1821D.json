@@ -1,0 +1,35 @@
+{
+  "problem_id": "1821D",
+  "contest_id": 1821,
+  "index": "D",
+  "title": "Black Cells",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-04-20",
+  "solved_count": 5509,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 3\n1 3\n1 4\n4 20\n10 13 16 19\n11 14 17 20\n2 3\n1 3\n1 10\n2 4\n99 999999999\n100 1000000000",
+      "output": "\n8\n-1\n7\n1000000004\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

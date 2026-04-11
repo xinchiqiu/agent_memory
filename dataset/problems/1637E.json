@@ -1,0 +1,33 @@
+{
+  "problem_id": "1637E",
+  "contest_id": 1637,
+  "index": "E",
+  "title": "Best Pair",
+  "rating": 2100,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "implementation"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2022-02-12",
+  "solved_count": 3780,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n6 1\n6 3 6 7 3 3\n3 6\n2 0\n3 4\n7 4\n1 2 2 3 1 5 1\n1 5\n3 5\n1 3\n2 5",
+      "output": "\n40\n14\n15\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

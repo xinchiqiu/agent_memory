@@ -1,0 +1,46 @@
+{
+  "problem_id": "1749D",
+  "contest_id": 1749,
+  "index": "D",
+  "title": "Counting Arrays",
+  "rating": 1900,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-20",
+  "solved_count": 6315,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 3\n",
+      "output": "\n6\n"
+    },
+    {
+      "input": "\n4 2\n",
+      "output": "\n26\n"
+    },
+    {
+      "input": "\n4 6\n",
+      "output": "\n1494\n"
+    },
+    {
+      "input": "\n1337 424242424242\n",
+      "output": "\n119112628\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1746A",
+  "contest_id": 1746,
+  "index": "A",
+  "title": "Maxmina",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2022-10-15",
+  "solved_count": 21039,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3 2\n0 1 0\n5 3\n1 0 1 1 0\n2 2\n1 1\n4 4\n0 0 0 0\n6 3\n0 0 1 0 0 1\n7 5\n1 1 1 1 1 1 1\n5 3\n0 0 1 0 0",
+      "output": "\nYES\nYES\nYES\nNO\nYES\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

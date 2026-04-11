@@ -1,0 +1,31 @@
+{
+  "problem_id": "2068J",
+  "contest_id": 2068,
+  "index": "J",
+  "title": "The Ultimate Wine Tasting Event",
+  "rating": 2000,
+  "raw_tags": [
+    "combinatorics",
+    "greedy"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "greedy"
+  ],
+  "contest_date": "2025-03-02",
+  "solved_count": 1585,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\nWRRWWWRR\n1\nWR\n20\nWWWWRRWRRRRRWRRWRWRRWRRWWWWWWWRWWRWWRRRR",
+      "output": "\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

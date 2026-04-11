@@ -1,0 +1,38 @@
+{
+  "problem_id": "2027D2",
+  "contest_id": 2027,
+  "index": "D2",
+  "title": "The Endspeaker (Hard Version)",
+  "rating": 2200,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2024-10-26",
+  "solved_count": 1882,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 2\n9 3 4 3\n11 7\n1 2\n20\n19 18\n10 2\n2 5 2 1 10 3 2 9 9 6\n17 9\n10 11\n2 2 2 2 2 2 2 2 2 2\n20 18 16 14 12 10 8 6 4 2 1\n1 6\n10\n32 16 8 4 2 1",
+      "output": "\n1 3\n-1\n2 11\n10 42\n4 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1703G",
+  "contest_id": 1703,
+  "index": "G",
+  "title": "Good Key, Bad Key",
+  "rating": 1600,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-07-12",
+  "solved_count": 12620,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 5\n10 10 3 1\n1 2\n1\n3 12\n10 10 29\n12 51\n5 74 89 45 18 69 67 67 11 96 23 59\n2 57\n85 60",
+      "output": "\n11\n0\n13\n60\n58\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

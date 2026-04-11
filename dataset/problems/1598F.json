@@ -1,0 +1,48 @@
+{
+  "problem_id": "1598F",
+  "contest_id": 1598,
+  "index": "F",
+  "title": "RBS",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "brute force",
+    "data structures",
+    "dp"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "brute_force",
+    "dp"
+  ],
+  "contest_date": "2021-10-10",
+  "solved_count": 1614,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n(\n)\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n4\n()()())\n(\n(\n)\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n1\n(())\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n1\n)(()\n",
+      "output": "\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

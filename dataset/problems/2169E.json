@@ -1,0 +1,31 @@
+{
+  "problem_id": "2169E",
+  "contest_id": 2169,
+  "index": "E",
+  "title": "Points Selection",
+  "rating": 2400,
+  "raw_tags": [
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2025-11-14",
+  "solved_count": 974,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n42\n42\n1000\n4\n5 10 5 0\n0 5 10 5\n1 1 1 1\n4\n6 7 8 9\n3 3 3 3\n9 0 9 0\n2\n1000000000 10\n10 1000000000\n12345 54321",
+      "output": "\n\n0\n40\n22\n3999999960"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

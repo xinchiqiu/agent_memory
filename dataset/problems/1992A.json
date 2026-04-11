@@ -1,0 +1,37 @@
+{
+  "problem_id": "1992A",
+  "contest_id": 1992,
+  "index": "A",
+  "title": "Only Pluses",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-07-11",
+  "solved_count": 48804,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n2 3 4\n10 1 10",
+      "output": "\n100\n600\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

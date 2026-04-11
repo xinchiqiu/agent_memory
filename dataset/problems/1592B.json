@@ -1,0 +1,35 @@
+{
+  "problem_id": "1592B",
+  "contest_id": 1592,
+  "index": "B",
+  "title": "Hemose Shopping",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "dsu",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "union_find",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2021-10-03",
+  "solved_count": 17034,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3 3\n3 2 1\n4 3\n1 2 3 4\n5 2\n5 1 2 3 4\n5 4\n1 2 3 4 4\n",
+      "output": "\nNO\nYES\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2072C",
+  "contest_id": 2072,
+  "index": "C",
+  "title": "Creating Keys for StORages Has Become My Main Skill",
+  "rating": 1200,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2025-02-25",
+  "solved_count": 19351,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n1 69\n7 7\n5 7\n7 3\n8 7\n3 52\n9 11\n6 15\n2 3",
+      "output": "\n69\n6 0 3 4 1 2 5\n4 1 3 0 2\n0 1 2 3 2 1 0\n7 0 6 1 5 2 4 3\n0 52 0\n0 1 8 3 0 9 11 2 10\n4 0 3 8 1 2\n0 3"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

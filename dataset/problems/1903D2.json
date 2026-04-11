@@ -1,0 +1,43 @@
+{
+  "problem_id": "1903D2",
+  "contest_id": 1903,
+  "index": "D2",
+  "title": "Maximum And Queries (hard version)",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "divide and conquer",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2023-11-30",
+  "solved_count": 1011,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4 2\n1 3 7 5\n2\n10",
+      "output": "\n2\n6\n"
+    },
+    {
+      "input": "\n\n3 5\n4 0 2\n9\n8\n17\n1\n3",
+      "output": "\n5\n4\n7\n0\n1\n"
+    },
+    {
+      "input": "\n\n1 2\n10\n5\n2318381298321",
+      "output": "\n15\n2318381298331\n"
+    }
+  ],
+  "time_limit": "7 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

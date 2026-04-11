@@ -1,0 +1,35 @@
+{
+  "problem_id": "1598A",
+  "contest_id": 1598,
+  "index": "A",
+  "title": "Computer Game",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2021-10-10",
+  "solved_count": 25435,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3\n000\n000\n4\n0011\n1100\n4\n0111\n1110\n6\n010101\n101010\n",
+      "output": "\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

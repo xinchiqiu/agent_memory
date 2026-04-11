@@ -1,0 +1,38 @@
+{
+  "problem_id": "1691E",
+  "contest_id": 1691,
+  "index": "E",
+  "title": "Number of Groups",
+  "rating": 2300,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "union_find",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-05-31",
+  "solved_count": 2078,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n5\n0 0 5\n1 2 12\n0 4 7\n1 9 16\n0 13 19\n3\n1 0 1\n1 1 2\n0 3 4",
+      "output": "\n2\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

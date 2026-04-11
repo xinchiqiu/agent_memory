@@ -1,0 +1,37 @@
+{
+  "problem_id": "2164C",
+  "contest_id": 2164,
+  "index": "C",
+  "title": "Dungeon",
+  "rating": 1400,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2025-11-06",
+  "solved_count": 10338,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 2\n2 2 2\n2 3\n3 2\n2 3\n2 3\n2 3 4\n0 0 0\n3 5\n1 7 7\n6 6 2 2 2\n2 0 0 7 2\n4 4\n1 5 3 5\n7 4 6 5\n0 0 1 6\n2 2\n1 1000000000\n1000000000 1\n1000000000 0",
+      "output": "\n\n2\n2\n5\n3\n2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

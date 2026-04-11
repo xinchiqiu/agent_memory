@@ -1,0 +1,29 @@
+{
+  "problem_id": "1776H",
+  "contest_id": 1776,
+  "index": "H",
+  "title": "Beppa and SwerChat",
+  "rating": 1300,
+  "raw_tags": [
+    "two pointers"
+  ],
+  "tags": [
+    "two_pointers"
+  ],
+  "contest_date": "2023-02-19",
+  "solved_count": 7488,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n1 4 2 5 3\n4 5 1 2 3\n6\n1 2 3 4 5 6\n1 2 3 4 5 6\n8\n8 2 4 7 1 6 5 3\n5 6 1 4 8 2 7 3\n1\n1\n1",
+      "output": "\n2\n0\n4\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

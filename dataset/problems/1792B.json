@@ -1,0 +1,31 @@
+{
+  "problem_id": "1792B",
+  "contest_id": 1792,
+  "index": "B",
+  "title": "Stand-up Comedian",
+  "rating": 1200,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-01-24",
+  "solved_count": 23993,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5 0 0 0\n0 0 0 5\n2 5 10 6\n3 0 0 7",
+      "output": "\n5\n1\n15\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

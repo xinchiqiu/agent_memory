@@ -1,0 +1,43 @@
+{
+  "problem_id": "1775D",
+  "contest_id": 1775,
+  "index": "D",
+  "title": "Friendly Spiders",
+  "rating": 1800,
+  "raw_tags": [
+    "dfs and similar",
+    "graphs",
+    "math",
+    "number theory",
+    "shortest paths"
+  ],
+  "tags": [
+    "graph_dfs",
+    "math_number_theory",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2023-01-10",
+  "solved_count": 8263,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n2 14 9 6 8 15 11\n5 6\n",
+      "output": "\n3\n5 4 6 "
+    },
+    {
+      "input": "\n7\n2 14 9 6 8 15 11\n5 7\n",
+      "output": "\n-1"
+    },
+    {
+      "input": "\n7\n2 14 9 6 8 15 11\n5 5\n",
+      "output": "\n1\n5\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

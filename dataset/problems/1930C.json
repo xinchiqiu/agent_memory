@@ -1,0 +1,37 @@
+{
+  "problem_id": "1930C",
+  "contest_id": 1930,
+  "index": "C",
+  "title": "Lexicographically Largest",
+  "rating": 1700,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-02-17",
+  "solved_count": 8083,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n2 1\n5\n1 100 1000 1000000 1000000000\n3\n6 4 8",
+      "output": "\n3 2 \n1000000005 1000004 1003 102 2 \n11 7 6 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

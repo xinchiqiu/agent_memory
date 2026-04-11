@@ -1,0 +1,35 @@
+{
+  "problem_id": "1990A",
+  "contest_id": 1990,
+  "index": "A",
+  "title": "Submission Bait",
+  "rating": 900,
+  "raw_tags": [
+    "brute force",
+    "games",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2024-07-20",
+  "solved_count": 26667,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n2 1\n2\n1 1\n3\n3 3 3\n4\n3 3 4 4\n4\n1 2 2 2",
+      "output": "\nYES\nNO\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "1672E",
+  "contest_id": 1672,
+  "index": "E",
+  "title": "notepad.exe",
+  "rating": 2200,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "greedy",
+    "interactive"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2022-04-23",
+  "solved_count": 2505,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n\n0\n\n4\n\n2\n\n",
+      "output": "\n\n? 1\n\n? 9\n\n? 16\n\n! 32\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

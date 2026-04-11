@@ -1,0 +1,37 @@
+{
+  "problem_id": "2185H",
+  "contest_id": 2185,
+  "index": "H",
+  "title": "BattleCows 2",
+  "rating": 2500,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2026-01-18",
+  "solved_count": 613,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n2 0\n2 1\n2 0\n1 1\n3 1\n1 1 3\n3 0\n2 1 1\n3 1\n1 3 1\n4 1\n1 2 1 3\n7 2\n1 3 3 17 39 3 12",
+      "output": "\n\n2 0 \n1 1 \n2 2 3 \n2 0 0 \n3 3 2 \n4 4 4 4 \n4 6 6 7 7 5 7 "
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

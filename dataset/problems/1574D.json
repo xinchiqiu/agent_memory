@@ -1,0 +1,53 @@
+{
+  "problem_id": "1574D",
+  "contest_id": 1574,
+  "index": "D",
+  "title": "The Strongest Build",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "graphs",
+    "greedy",
+    "hashing",
+    "implementation"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "graph_dfs",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2021-09-20",
+  "solved_count": 4818,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n3 1 2 3\n2 1 5\n3 2 4 6\n2\n3 2 3\n3 2 2\n",
+      "output": "\n2 2 3 \n"
+    },
+    {
+      "input": "\n3\n3 1 2 3\n2 1 5\n3 2 4 6\n2\n3 2 3\n2 2 3\n",
+      "output": "\n1 2 3\n"
+    },
+    {
+      "input": "\n3\n3 1 2 3\n2 1 5\n3 2 4 6\n2\n3 2 3\n2 2 3\n",
+      "output": "\n3 2 2\n"
+    },
+    {
+      "input": "\n4\n1 10\n1 4\n1 7\n1 3\n0\n",
+      "output": "\n1 1 1 1 \n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

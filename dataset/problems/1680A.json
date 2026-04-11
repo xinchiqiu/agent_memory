@@ -1,0 +1,31 @@
+{
+  "problem_id": "1680A",
+  "contest_id": 1680,
+  "index": "A",
+  "title": "Minimums and Maximums",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-05-13",
+  "solved_count": 22318,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3 5 4 6\n5 8 5 5\n3 3 10 12\n1 5 3 3\n1 1 2 2\n2 2 1 1\n6 6 6 6",
+      "output": "\n4\n5\n13\n3\n3\n3\n6\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

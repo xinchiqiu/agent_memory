@@ -1,0 +1,34 @@
+{
+  "problem_id": "1707B",
+  "contest_id": 1707,
+  "index": "B",
+  "title": "Difference Array",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2022-07-16",
+  "solved_count": 6361,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n1 10 100\n4\n4 8 9 13\n5\n0 0 0 8 13\n6\n2 4 8 16 32 64\n7\n0 0 0 0 0 0 0",
+      "output": "\n81\n3\n1\n2\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

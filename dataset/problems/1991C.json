@@ -1,0 +1,33 @@
+{
+  "problem_id": "1991C",
+  "contest_id": 1991,
+  "index": "C",
+  "title": "Absolute Zero",
+  "rating": 1300,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-07-28",
+  "solved_count": 17599,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n5\n2\n0 0\n3\n4 6 8\n4\n80 40 20 10\n5\n1 2 3 4 5",
+      "output": "\n1\n5\n0\n\n3\n6 1 1\n7\n60 40 20 10 30 25 5\n-1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

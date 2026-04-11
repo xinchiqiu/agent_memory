@@ -1,0 +1,33 @@
+{
+  "problem_id": "1842B",
+  "contest_id": 1842,
+  "index": "B",
+  "title": "Tenzing and Books",
+  "rating": 1100,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-06-24",
+  "solved_count": 24907,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 7\n1 2 3 4 5\n5 4 3 2 1\n1 3 5 7 9\n5 2\n3 2 3 4 5\n5 4 3 2 1\n3 3 5 7 9\n3 0\n1 2 3\n3 2 1\n2 2 2",
+      "output": "\nYes\nNo\nYes\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

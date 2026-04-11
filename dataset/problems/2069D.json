@@ -1,0 +1,36 @@
+{
+  "problem_id": "2069D",
+  "contest_id": 2069,
+  "index": "D",
+  "title": "Palindrome Shuffle",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "hashing",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2025-02-18",
+  "solved_count": 6939,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\nbaba\ncc\nddaa\nacbacddacbca",
+      "output": "\n2\n0\n3\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

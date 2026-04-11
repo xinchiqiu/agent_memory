@@ -1,0 +1,35 @@
+{
+  "problem_id": "1969D",
+  "contest_id": 1969,
+  "index": "D",
+  "title": "Shop Game",
+  "rating": 1900,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-04-29",
+  "solved_count": 5652,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 0\n2 1\n1 2\n4 1\n1 2 1 4\n3 3 2 3\n4 2\n2 1 1 1\n4 2 3 2\n6 2\n1 3 4 9 1 3\n7 6 8 10 6 8",
+      "output": "\n1\n1\n0\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

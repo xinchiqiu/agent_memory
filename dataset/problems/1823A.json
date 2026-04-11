@@ -1,0 +1,33 @@
+{
+  "problem_id": "1823A",
+  "contest_id": 1823,
+  "index": "A",
+  "title": "A-characteristic",
+  "rating": 800,
+  "raw_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-04-27",
+  "solved_count": 17129,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n2 0\n2 1\n3 1\n3 2\n3 3\n5 4\n5 5",
+      "output": "\nYES\n1 -1 \nYES\n1 1 \nYES\n1 -1 1 \nNO\nYES\n1 1 1 \nYES\n-1 1 -1 1 1 \nNO"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

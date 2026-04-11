@@ -1,0 +1,33 @@
+{
+  "problem_id": "1973E",
+  "contest_id": 1973,
+  "index": "E",
+  "title": "Cat, Fox and Swaps ",
+  "rating": 2500,
+  "raw_tags": [
+    "graphs",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "graph_dfs",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-05-17",
+  "solved_count": 983,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n2\n2 1\n3\n3 1 2\n4\n3 2 1 4\n5\n5 3 1 2 4\n5\n1 2 3 4 5\n6\n3 2 1 5 4 6\n6\n1 3 2 4 5 6",
+      "output": "\n6\n11\n23\n29\n55\n46\n58\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

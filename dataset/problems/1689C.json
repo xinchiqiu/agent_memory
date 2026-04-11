@@ -1,0 +1,32 @@
+{
+  "problem_id": "1689C",
+  "contest_id": 1689,
+  "index": "C",
+  "title": "Infected Tree",
+  "rating": 1600,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2022-06-10",
+  "solved_count": 13317,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n1 2\n4\n1 2\n2 3\n2 4\n7\n1 2\n1 5\n2 3\n2 4\n5 6\n5 7\n15\n1 2\n2 3\n3 4\n4 5\n4 6\n3 7\n2 8\n1 9\n9 10\n9 11\n10 12\n10 13\n11 14\n11 15",
+      "output": "\n0\n2\n2\n10\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

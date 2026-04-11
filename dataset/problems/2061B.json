@@ -1,0 +1,31 @@
+{
+  "problem_id": "2061B",
+  "contest_id": 2061,
+  "index": "B",
+  "title": "Kevin and Geometry",
+  "rating": 1100,
+  "raw_tags": [
+    "binary search",
+    "geometry"
+  ],
+  "tags": [
+    "binary_search",
+    "geometry"
+  ],
+  "contest_date": "2025-01-20",
+  "solved_count": 14558,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n4\n5 5 5 10\n4\n10 5 10 5\n4\n1 2 3 4\n4\n1 1 1 3\n6\n4 2 1 5 7 1\n6\n10 200 30 300 30 100\n4\n100000000 100000000 1 2",
+      "output": "\n5 5 5 10\n5 5 10 10\n-1\n-1\n1 1 4 5\n-1\n100000000 100000000 1 2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

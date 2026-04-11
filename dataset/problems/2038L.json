@@ -1,0 +1,45 @@
+{
+  "problem_id": "2038L",
+  "contest_id": 2038,
+  "index": "L",
+  "title": "Bridge Renovation",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2024-11-18",
+  "solved_count": 7892,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n1",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n\n3",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n\n1000",
+      "output": "\n1167\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

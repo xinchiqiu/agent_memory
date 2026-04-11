@@ -1,0 +1,29 @@
+{
+  "problem_id": "1554A",
+  "contest_id": 1554,
+  "index": "A",
+  "title": "Cherry",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2021-07-29",
+  "solved_count": 31183,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n3\n2 4 3\n4\n3 2 3 1\n2\n69 69\n6\n719313 273225 402638 473783 804745 323328\n",
+      "output": "\n12\n6\n4761\n381274500335\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

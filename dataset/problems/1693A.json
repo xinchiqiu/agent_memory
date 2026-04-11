@@ -1,0 +1,29 @@
+{
+  "problem_id": "1693A",
+  "contest_id": 1693,
+  "index": "A",
+  "title": "Directional Increase",
+  "rating": 1300,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2022-06-16",
+  "solved_count": 17384,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n2\n1 0\n4\n2 -1 -1 0\n4\n1 -4 3 0\n4\n1 -1 1 -1\n5\n1 2 3 4 -10\n7\n2 -1 1 -2 0 0 0\n1\n0\n",
+      "output": "\nNo\nYes\nNo\nNo\nYes\nYes\nYes\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "1574E",
+  "contest_id": 1574,
+  "index": "E",
+  "title": "Coloring",
+  "rating": 2500,
+  "raw_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "constructive",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-09-20",
+  "solved_count": 1029,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 2 7\n1 1 1\n1 2 1\n2 1 1\n1 1 0\n1 2 -1\n2 1 -1\n1 1 -1\n",
+      "output": "\n3\n1\n0\n1\n2\n3\n6\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

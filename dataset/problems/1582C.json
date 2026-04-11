@@ -1,0 +1,37 @@
+{
+  "problem_id": "1582C",
+  "contest_id": 1582,
+  "index": "C",
+  "title": "Grandma Capa Knits a Scarf",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "greedy",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2021-10-24",
+  "solved_count": 23072,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n8\nabcaacab\n6\nxyzxyz\n4\nabba\n8\nrprarlap\n10\nkhyyhhyhky\n",
+      "output": "\n2\n-1\n0\n3\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

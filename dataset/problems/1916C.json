@@ -1,0 +1,36 @@
+{
+  "problem_id": "1916C",
+  "contest_id": 1916,
+  "index": "C",
+  "title": "Training Before the Olympiad",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "games",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-30",
+  "solved_count": 19783,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n31\n6\n6 3 7 2 5 4\n3\n3 10 11\n5\n7 13 11 19 1",
+      "output": "\n31 \n6 8 16 18 22 26 \n3 12 24 \n7 20 30 48 50 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,48 @@
+{
+  "problem_id": "1571F",
+  "contest_id": 1571,
+  "index": "F",
+  "title": "Kotlinforces",
+  "rating": 2000,
+  "raw_tags": [
+    "*special",
+    "constructive algorithms",
+    "dp"
+  ],
+  "tags": [
+    "constructive",
+    "dp"
+  ],
+  "contest_date": "2021-10-07",
+  "solved_count": 224,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 7\n3 2\n2 2\n2 2\n",
+      "output": "\n2 5 1\n"
+    },
+    {
+      "input": "\n1 7\n4 2\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n1 7\n5 2\n",
+      "output": "\n-1\n"
+    },
+    {
+      "input": "\n2 4\n2 1\n2 2\n",
+      "output": "\n-1\n"
+    },
+    {
+      "input": "\n2 5\n2 1\n2 2\n",
+      "output": "\n4 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

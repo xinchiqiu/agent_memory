@@ -1,0 +1,43 @@
+{
+  "problem_id": "1843F1",
+  "contest_id": 1843,
+  "index": "F1",
+  "title": "Omsk Metro (simple version)",
+  "rating": 1800,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-06-20",
+  "solved_count": 6288,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n1\n8\n+ 1 -1\n? 1 1 2\n? 1 2 1\n+ 1 1\n? 1 3 -1\n? 1 1 1\n? 1 3 2\n? 1 1 0",
+      "output": "\nNO\nYES\nNO\nYES\nYES\nYES\n"
+    },
+    {
+      "input": "\n\n1\n10\n+ 1 -1\n+ 1 -1\n+ 3 1\n+ 3 -1\n+ 3 1\n? 1 6 -1\n? 1 6 2\n? 1 2 0\n? 1 5 -2\n? 1 4 3",
+      "output": "\nYES\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

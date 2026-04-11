@@ -1,0 +1,31 @@
+{
+  "problem_id": "1993B",
+  "contest_id": 1993,
+  "index": "B",
+  "title": "Parity and Sum",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2024-08-04",
+  "solved_count": 26247,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5\n1 3 5 7 9\n4\n4 4 4 4\n3\n2 3 4\n4\n3 2 2 8\n6\n4 3 6 1 2 1\n6\n3 6 1 2 1 2\n5\n999999996 999999997 999999998 999999999 1000000000",
+      "output": "\n0\n0\n2\n4\n3\n3\n3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "2062B",
+  "contest_id": 2062,
+  "index": "B",
+  "title": "Clockwork",
+  "rating": 900,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-01-26",
+  "solved_count": 23497,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n4 10\n2\n2 2\n3\n4 10 5\n3\n5 3 5\n5\n12 13 25 17 30",
+      "output": "\nYES\nNO\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "2191A",
+  "contest_id": 2191,
+  "index": "A",
+  "title": "Array Coloring",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2026-01-17",
+  "solved_count": 26762,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n2 3 4 1\n3\n2 3 1\n5\n3 4 1 2 5\n5\n3 1 4 2 5",
+      "output": "\n\nYES\nNO\nYES\nNO"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

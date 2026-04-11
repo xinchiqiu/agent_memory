@@ -1,0 +1,31 @@
+{
+  "problem_id": "1833A",
+  "contest_id": 1833,
+  "index": "A",
+  "title": "Musical Puzzle",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2023-05-19",
+  "solved_count": 34922,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\nabab\n7\nabacaba\n6\naaaaaa\n7\nabcdefg\n5\nbabdd",
+      "output": "\n2\n4\n1\n6\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1802B",
+  "contest_id": 1802,
+  "index": "B",
+  "title": "Settlement of Guinea Pigs",
+  "rating": 1000,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-03-09",
+  "solved_count": 14566,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n1 1 1\n3\n2 2 2\n5\n1 1 1 2 1\n10\n1 2 1 2 1 2 1 2 1 2\n20\n1 2 1 1 1 1 1 2 1 2 1 2 2 1 1 1 1 1 1 1\n20\n2 1 1 2 1 1 2 1 2 2 1 1 1 2 2 1 1 1 1 2",
+      "output": "\n3\n0\n3\n4\n12\n9\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

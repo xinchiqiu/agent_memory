@@ -1,0 +1,29 @@
+{
+  "problem_id": "1784B",
+  "contest_id": 1784,
+  "index": "B",
+  "title": "Letter Exchange",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2023-02-05",
+  "solved_count": 3636,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\nnwi\ninw\n3\ninn\nnww\nwii\n4\nwin\nwww\niii\nnnn",
+      "output": "\n0\n2\n2 w 3 i\n3 w 1 n\n3\n2 w 3 i\n2 w 4 n\n3 i 4 n\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

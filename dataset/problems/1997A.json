@@ -1,0 +1,33 @@
+{
+  "problem_id": "1997A",
+  "contest_id": 1997,
+  "index": "A",
+  "title": "Strong Password",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2024-07-30",
+  "solved_count": 33198,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\na\naaa\nabb\npassword",
+      "output": "\nwa\naada\nabcb\npastsword\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

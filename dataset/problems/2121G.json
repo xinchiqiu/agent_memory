@@ -1,0 +1,35 @@
+{
+  "problem_id": "2121G",
+  "contest_id": 2121,
+  "index": "G",
+  "title": "Gangsta",
+  "rating": 1900,
+  "raw_tags": [
+    "data structures",
+    "divide and conquer",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "divide_and_conquer",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2025-06-17",
+  "solved_count": 5270,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1\n0\n2\n01\n4\n0110\n6\n110001\n8\n10011100\n11\n01011011100",
+      "output": "\n1\n3\n14\n40\n78\n190\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

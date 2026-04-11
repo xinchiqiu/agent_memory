@@ -1,0 +1,31 @@
+{
+  "problem_id": "2180B",
+  "contest_id": 2180,
+  "index": "B",
+  "title": "Ashmal",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2025-12-19",
+  "solved_count": 24146,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "3\n4\namir rima amin nima\n1\ncodeforces\n3\na ab abc",
+      "output": "aminamirrimanima\ncodeforces\naababc"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

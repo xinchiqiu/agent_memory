@@ -1,0 +1,50 @@
+{
+  "problem_id": "1824C",
+  "contest_id": 1824,
+  "index": "C",
+  "title": "LuoTianyi and XOR-Tree",
+  "rating": 2500,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "union_find",
+    "greedy"
+  ],
+  "contest_date": "2023-05-08",
+  "solved_count": 1664,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n3 5 7 5 8 4\n1 2\n1 3\n1 4\n3 5\n4 6\n",
+      "output": "\n3"
+    },
+    {
+      "input": "\n8\n7 10 7 16 19 9 16 11\n1 5\n4 2\n6 5\n5 2\n7 2\n2 3\n3 8\n",
+      "output": "\n3"
+    },
+    {
+      "input": "\n4\n1 2 1 2\n1 2\n2 3\n4 3\n",
+      "output": "\n0"
+    },
+    {
+      "input": "\n9\n4 3 6 1 5 5 5 2 7\n1 2\n2 3\n4 1\n4 5\n4 6\n4 7\n8 1\n8 9\n",
+      "output": "\n2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

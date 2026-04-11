@@ -1,0 +1,33 @@
+{
+  "problem_id": "2029F",
+  "contest_id": 2029,
+  "index": "F",
+  "title": "Palindrome Everywhere",
+  "rating": 2500,
+  "raw_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2024-11-09",
+  "solved_count": 839,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5\nRRRRR\n5\nRRRRB\n5\nRBBRB\n6\nRBRBRB\n6\nRRBBRB\n5\nRBRBR\n12\nRRBRRBRRBRRB",
+      "output": "\nYES\nYES\nYES\nNO\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

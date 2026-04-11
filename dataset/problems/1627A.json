@@ -1,0 +1,31 @@
+{
+  "problem_id": "1627A",
+  "contest_id": 1627,
+  "index": "A",
+  "title": "Not Shading",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation"
+  ],
+  "tags": [
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2022-01-15",
+  "solved_count": 24812,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n3 5 1 4\nWBWWW\nBBBWB\nWWBBB\n4 3 2 1\nBWW\nBBW\nWBB\nWWB\n2 3 2 2\nWWW\nWWW\n2 2 1 1\nWW\nWB\n5 9 5 9\nWWWWWWWWW\nWBWBWBBBW\nWBBBWWBWW\nWBWBWBBBW\nWWWWWWWWW\n1 1 1 1\nB\n1 1 1 1\nW\n1 2 1 1\nWB\n2 1 1 1\nW\nB",
+      "output": "\n1\n0\n-1\n2\n2\n0\n-1\n1\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

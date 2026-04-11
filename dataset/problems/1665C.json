@@ -1,0 +1,35 @@
+{
+  "problem_id": "1665C",
+  "contest_id": 1665,
+  "index": "C",
+  "title": "Tree Infection",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "sortings",
+    "trees"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "sorting",
+    "graph_dfs"
+  ],
+  "contest_date": "2022-04-08",
+  "solved_count": 9734,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n7\n1 1 1 2 2 4\n5\n5 5 1 4\n2\n1\n3\n3 1\n6\n1 1 1 1 1",
+      "output": "\n4\n4\n2\n3\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

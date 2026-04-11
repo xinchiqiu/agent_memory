@@ -1,0 +1,36 @@
+{
+  "problem_id": "1957E",
+  "contest_id": 1957,
+  "index": "E",
+  "title": "Carousel of Combinations",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-21",
+  "solved_count": 1601,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n3\n6\n314159",
+      "output": "\n0\n4\n24\n78926217\n"
+    }
+  ],
+  "time_limit": "2.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

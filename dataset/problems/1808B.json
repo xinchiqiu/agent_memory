@@ -1,0 +1,31 @@
+{
+  "problem_id": "1808B",
+  "contest_id": 1808,
+  "index": "B",
+  "title": "Playing in a Casino",
+  "rating": 1200,
+  "raw_tags": [
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2023-03-29",
+  "solved_count": 28594,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3 5\n1 4 2 8 5\n7 9 2 1 4\n3 8 5 3 1\n1 4\n4 15 1 10\n4 3\n1 2 3\n3 2 1\n1 2 1\n4 2 7",
+      "output": "\n50\n0\n31\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

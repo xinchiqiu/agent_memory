@@ -1,0 +1,32 @@
+{
+  "problem_id": "2190A",
+  "contest_id": 2190,
+  "index": "A",
+  "title": "Sorting Game",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "games",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2026-01-17",
+  "solved_count": 16345,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n000\n2\n10\n3\n101",
+      "output": "\n\nBob\nAlice\n2\n1 2 \nAlice\n2\n1 2 "
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

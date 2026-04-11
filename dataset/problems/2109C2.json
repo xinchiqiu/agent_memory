@@ -1,0 +1,34 @@
+{
+  "problem_id": "2109C2",
+  "contest_id": 2109,
+  "index": "C2",
+  "title": "Hacking Numbers (Medium Version)",
+  "rating": 1700,
+  "raw_tags": [
+    "constructive algorithms",
+    "interactive",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-05-17",
+  "solved_count": 8481,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n100\n\n0\n\n1\n\n1\n\n1\n\n5\n\n1\n\n1\n\n1\n",
+      "output": "\n\nadd -10\n\nadd 1\n\nmul 10\n\n!\n\ndigit\n\ndiv 2\n\n!\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

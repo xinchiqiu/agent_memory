@@ -1,0 +1,29 @@
+{
+  "problem_id": "2109A",
+  "contest_id": 2109,
+  "index": "A",
+  "title": "It's Time To Duel",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2025-05-17",
+  "solved_count": 26682,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n0 1 0\n2\n0 0\n2\n1 1\n4\n0 1 1 1\n4\n1 0 0 1\n7\n0 1 0 1 0 1 0",
+      "output": "\nNO\nYES\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

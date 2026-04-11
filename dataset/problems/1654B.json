@@ -1,0 +1,29 @@
+{
+  "problem_id": "1654B",
+  "contest_id": 1654,
+  "index": "B",
+  "title": "Prefix Removals",
+  "rating": 800,
+  "raw_tags": [
+    "strings"
+  ],
+  "tags": [
+    "string_hashing"
+  ],
+  "contest_date": "2022-03-20",
+  "solved_count": 16669,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\nabcabdc\na\nbbbbbbbbbb\ncodeforces\ncffcfccffccfcffcfccfcffccffcfccf\nzyzyzwxxyyxxyyzzyzzxxwzxwywxwzxxyzzw",
+      "output": "\nabdc\na\nb\ndeforces\ncf\nxyzzw\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

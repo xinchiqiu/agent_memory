@@ -1,0 +1,31 @@
+{
+  "problem_id": "2029A",
+  "contest_id": 2029,
+  "index": "A",
+  "title": "Set",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-11-09",
+  "solved_count": 14090,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3 9 2\n4 9 1\n7 9 2\n2 10 2\n154 220 2\n147 294 2\n998 24435 3\n1 1000000000 2",
+      "output": "\n2\n6\n0\n4\n0\n1\n7148\n500000000\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

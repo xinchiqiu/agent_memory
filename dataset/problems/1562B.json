@@ -1,0 +1,36 @@
+{
+  "problem_id": "1562B",
+  "contest_id": 1562,
+  "index": "B",
+  "title": "Scenes From a Memory",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-08-26",
+  "solved_count": 20497,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n3\n237\n5\n44444\n3\n221\n2\n35\n3\n773\n1\n4\n30\n626221626221626221626221626221\n",
+      "output": "\n2\n27\n1\n4\n1\n1\n2\n35\n2\n77\n1\n4\n1\n6\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

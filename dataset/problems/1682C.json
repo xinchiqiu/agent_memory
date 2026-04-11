@@ -1,0 +1,35 @@
+{
+  "problem_id": "1682C",
+  "contest_id": 1682,
+  "index": "C",
+  "title": "LIS or Reverse LIS?",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-05-22",
+  "solved_count": 16389,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n6 6 6\n6\n2 5 4 5 2 4\n4\n1 3 2 2",
+      "output": "\n1\n3\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

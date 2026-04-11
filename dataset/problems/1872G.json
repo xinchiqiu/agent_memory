@@ -1,0 +1,33 @@
+{
+  "problem_id": "1872G",
+  "contest_id": 1872,
+  "index": "G",
+  "title": "Replace With Product",
+  "rating": 2000,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-09-07",
+  "solved_count": 4976,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n4\n1 3 1 3\n4\n1 1 2 3\n5\n1 1 1 1 1\n5\n10 1 10 1 10\n1\n1\n2\n2 2\n3\n2 1 2\n4\n2 1 1 3\n6\n2 1 2 1 1 3",
+      "output": "\n2 4\n3 4\n1 1\n1 5\n1 1\n1 2\n2 2\n4 4\n1 6\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "1691D",
+  "contest_id": 1691,
+  "index": "D",
+  "title": "Max GEQ Sum",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "divide and conquer",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "implementation",
+    "divide_and_conquer",
+    "two_pointers"
+  ],
+  "contest_date": "2022-05-31",
+  "solved_count": 7368,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n-1 1 -1 2\n5\n-1 2 -3 2 -1\n3\n2 3 -1",
+      "output": "\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,34 @@
+{
+  "problem_id": "1747D",
+  "contest_id": 1747,
+  "index": "D",
+  "title": "Yet Another Problem",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "constructive algorithms",
+    "data structures"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "constructive"
+  ],
+  "contest_date": "2022-11-04",
+  "solved_count": 5503,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7 6\n3 0 3 3 1 2 3\n3 4\n4 6\n3 7\n5 6\n1 6\n2 2\n",
+      "output": "\n-1\n1\n1\n-1\n2\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1847B",
+  "contest_id": 1847,
+  "index": "B",
+  "title": "Hamon Odyssey",
+  "rating": 1000,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2023-07-06",
+  "solved_count": 22168,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n1 2 3\n5\n2 3 1 5 2\n4\n5 7 12 6",
+      "output": "\n1\n2\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

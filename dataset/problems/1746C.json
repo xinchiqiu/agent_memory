@@ -1,0 +1,35 @@
+{
+  "problem_id": "1746C",
+  "contest_id": 1746,
+  "index": "C",
+  "title": "Permutation Operations",
+  "rating": 1300,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-15",
+  "solved_count": 13976,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n1 2 3 4\n5\n1 3 2 4 5\n3\n2 3 1\n1\n1",
+      "output": "\n1 1 1 1\n1 4 3 2 1\n1 3 3\n1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

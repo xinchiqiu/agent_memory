@@ -1,0 +1,33 @@
+{
+  "problem_id": "1912B",
+  "contest_id": 1912,
+  "index": "B",
+  "title": "Blueprint for Seating",
+  "rating": 2100,
+  "raw_tags": [
+    "combinatorics",
+    "divide and conquer",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "divide_and_conquer",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-13",
+  "solved_count": 1416,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n4 1\n3 2\n4 2\n5 2\n6 1\n6 2\n1000000000 1\n9 2",
+      "output": "\n2 1\n0 1\n0 1\n1 3\n6 1\n2 4\n249999999500000000 1\n6 3\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

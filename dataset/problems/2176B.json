@@ -1,0 +1,33 @@
+{
+  "problem_id": "2176B",
+  "contest_id": 2176,
+  "index": "B",
+  "title": "Optimal Shifts",
+  "rating": 1000,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2025-12-11",
+  "solved_count": 22362,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n1\n3\n101\n4\n0110\n11\n10101010100\n2\n11",
+      "output": "\n\n0\n1\n2\n2\n0"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

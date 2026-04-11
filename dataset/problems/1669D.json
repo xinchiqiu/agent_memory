@@ -1,0 +1,29 @@
+{
+  "problem_id": "1669D",
+  "contest_id": 1669,
+  "index": "D",
+  "title": "Colorful Stamp",
+  "rating": 1100,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-04-21",
+  "solved_count": 25234,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\n5\nBRBBW\n1\nB\n2\nWB\n2\nRW\n3\nBRB\n3\nRBB\n7\nWWWWWWW\n9\nRBWBWRRBW\n10\nBRBRBRBRRB\n12\nBBBRWWRRRWBR\n10\nBRBRBRBRBW\n5\nRBWBW",
+      "output": "\nYES\nNO\nNO\nNO\nYES\nYES\nYES\nNO\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,42 @@
+{
+  "problem_id": "2157E",
+  "contest_id": 2157,
+  "index": "E",
+  "title": "Adjusting Drones",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dp",
+    "dsu",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "dp",
+    "union_find",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2025-11-23",
+  "solved_count": 3482,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n6 3\n1 1 1 1 1 1\n5 1\n1 3 2 1 4\n6 2\n1 1 1 2 3 3\n4 1\n8 8 8 8\n2 2\n1 2",
+      "output": "\n\n3\n4\n4\n3\n0"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

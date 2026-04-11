@@ -1,0 +1,31 @@
+{
+  "problem_id": "1850C",
+  "contest_id": 1850,
+  "index": "C",
+  "title": "Word on the Paper",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2023-07-21",
+  "solved_count": 52985,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n........\n........\n........\n........\n...i....\n........\n........\n........\n........\n.l......\n.o......\n.s......\n.t......\n........\n........\n........\n........\n........\n........\n........\n......t.\n......h.\n......e.\n........\n........\n........\n........\n........\n.......g\n.......a\n.......m\n.......e\na.......\na.......\na.......\na.......\na.......\na.......\na.......\na.......",
+      "output": "\ni\nlost\nthe\ngame\naaaaaaaa\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

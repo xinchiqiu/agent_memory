@@ -1,0 +1,36 @@
+{
+  "problem_id": "1712E2",
+  "contest_id": 1712,
+  "index": "E2",
+  "title": "LCM Sum (hard version)",
+  "rating": 2500,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2022-08-13",
+  "solved_count": 1606,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 4\n3 5\n8 86\n68 86\n6 86868",
+      "output": "\n3\n1\n78975\n969\n109229059713337\n"
+    }
+  ],
+  "time_limit": "3.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

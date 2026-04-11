@@ -1,0 +1,38 @@
+{
+  "problem_id": "2123G",
+  "contest_id": 2123,
+  "index": "G",
+  "title": "Modular Sorting",
+  "rating": 2100,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2025-07-01",
+  "solved_count": 3163,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n7 6 6\n4 5 2 2 4 1 0\n2 4\n1 4 5\n2 4\n2 3\n1 7 2\n2 3\n8 8 3\n0 1 2 3 4 5 6 7\n2 4\n1 3 4\n2 4",
+      "output": "\nYES\nNO\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

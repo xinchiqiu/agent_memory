@@ -73,6 +73,16 @@ CONFIG = {
     "eval_problems_count":  500,
     "log_dir":              "logs/experiment_001",
     "checkpoint_interval":  50,
+
+    # --- Granularity ablation (Experiment 2) ---
+    # Controls what information from retrieved entries is shown to the model.
+    # "G1" = no retrieval (free generation only)
+    # "G2" = tag hints only (~20 tokens per entry)
+    # "G3" = strategy only (technique chain + insight + preconditions) — DEFAULT
+    # "G4" = strategy + code snippet (first 400 chars of solution)
+    # "G5" = full solution code (up to 1000 chars)
+    # "G6" = 3 full solutions (up to 1000 chars each)
+    "granularity_mode": "G3",
 }
 
 ALLOWED_ALGORITHM_TAGS = {

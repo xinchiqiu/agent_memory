@@ -1,0 +1,36 @@
+{
+  "problem_id": "1638E",
+  "contest_id": 1638,
+  "index": "E",
+  "title": "Colorful Operations",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2022-02-14",
+  "solved_count": 2334,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 8\nColor 2 4 2\nAdd 2 2\nQuery 3\nColor 4 5 3\nColor 2 2 3\nAdd 3 3\nQuery 2\nQuery 5\n",
+      "output": "\n2\n5\n3\n"
+    },
+    {
+      "input": "\n2 7\nAdd 1 7\nQuery 1\nAdd 2 4\nQuery 2\nColor 1 1 1\nAdd 1 1\nQuery 2\n",
+      "output": "\n7\n7\n8\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

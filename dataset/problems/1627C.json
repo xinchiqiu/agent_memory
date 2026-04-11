@@ -1,0 +1,34 @@
+{
+  "problem_id": "1627C",
+  "contest_id": 1627,
+  "index": "C",
+  "title": "Not Assigning",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "number theory",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-01-15",
+  "solved_count": 16143,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n1 2\n4\n1 3\n4 3\n2 1\n7\n1 2\n1 3\n3 4\n3 5\n6 2\n7 2",
+      "output": "\n17\n2 5 11\n-1"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

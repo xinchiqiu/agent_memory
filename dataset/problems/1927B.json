@@ -1,0 +1,33 @@
+{
+  "problem_id": "1927B",
+  "contest_id": 1927,
+  "index": "B",
+  "title": "Following the String",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-02-06",
+  "solved_count": 37852,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n11\n0 0 0 1 0 2 0 3 1 1 4\n10\n0 0 0 0 0 1 0 1 1 0\n1\n0\n8\n0 1 2 3 4 5 6 7\n8\n0 0 0 0 0 0 0 0",
+      "output": "\nabracadabra\ncodeforces\na\naaaaaaaa\ndijkstra\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

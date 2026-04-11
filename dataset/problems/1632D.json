@@ -1,0 +1,46 @@
+{
+  "problem_id": "1632D",
+  "contest_id": 1632,
+  "index": "D",
+  "title": "New Year Concert",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "math",
+    "number theory",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2022-01-30",
+  "solved_count": 5278,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n1\n1\n",
+      "output": "\n1 "
+    },
+    {
+      "input": "\n3\n1 4 2\n",
+      "output": "\n1 1 2 "
+    },
+    {
+      "input": "\n7\n2 12 4 8 18 3 6\n",
+      "output": "\n0 1 1 1 2 2 2 "
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

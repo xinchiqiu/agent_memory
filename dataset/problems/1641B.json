@@ -1,0 +1,33 @@
+{
+  "problem_id": "1641B",
+  "contest_id": 1641,
+  "index": "B",
+  "title": "Repetitions Decoding",
+  "rating": 2000,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2022-02-23",
+  "solved_count": 4049,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n5 7\n2\n5 5\n6\n1 3 1 2 2 3\n6\n3 2 1 1 2 3",
+      "output": "\n-1\n0\n1\n2\n4\n1 3\n5 3\n5 3\n10 3\n2\n8 6 \n5\n0 3\n8 3\n5 3 \n6 2 \n7 1\n4\n2 6 6 2"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

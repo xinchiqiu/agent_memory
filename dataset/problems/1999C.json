@@ -1,0 +1,31 @@
+{
+  "problem_id": "1999C",
+  "contest_id": 1999,
+  "index": "C",
+  "title": "Showering",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-08-06",
+  "solved_count": 41284,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 3 10\n3 5\n6 8\n9 10\n3 3 10\n1 2\n3 5\n6 7\n3 3 10\n1 2\n3 5\n6 8\n3 4 10\n1 2\n6 7\n8 9",
+      "output": "\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

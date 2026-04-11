@@ -1,0 +1,29 @@
+{
+  "problem_id": "1841B",
+  "contest_id": 1841,
+  "index": "B",
+  "title": "Keep it Beautiful",
+  "rating": 1000,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2023-06-12",
+  "solved_count": 23959,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n9\n3 7 7 9 2 4 6 3 4\n5\n1 1 1 1 1\n5\n3 2 1 2 3",
+      "output": "\n111110010\n11111\n11011\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

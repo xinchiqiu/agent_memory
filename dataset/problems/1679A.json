@@ -1,0 +1,34 @@
+{
+  "problem_id": "1679A",
+  "contest_id": 1679,
+  "index": "A",
+  "title": "AvtoBus",
+  "rating": 900,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-05-14",
+  "solved_count": 39024,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n7\n24\n998244353998244352",
+      "output": "\n1 1\n-1\n4 6\n166374058999707392 249561088499561088\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

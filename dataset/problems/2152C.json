@@ -1,0 +1,33 @@
+{
+  "problem_id": "2152C",
+  "contest_id": 2152,
+  "index": "C",
+  "title": "Triple Removal",
+  "rating": 1400,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-10-03",
+  "solved_count": 11870,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n12 4\n0 0 1 1 0 1 0 1 0 1 1 0\n1 12\n2 7\n5 10\n6 11\n6 3\n0 0 0 1 1 1\n1 3\n4 6\n1 6",
+      "output": "\n\n4\n2\n3\n-1\n1\n1\n2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

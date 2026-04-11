@@ -1,0 +1,41 @@
+{
+  "problem_id": "1693C",
+  "contest_id": 1693,
+  "index": "C",
+  "title": "Keshi in Search of AmShZ",
+  "rating": 2300,
+  "raw_tags": [
+    "graphs",
+    "greedy",
+    "shortest paths"
+  ],
+  "tags": [
+    "graph_dfs",
+    "greedy",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2022-06-16",
+  "solved_count": 3160,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 1\n1 2\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n4 4\n1 2\n1 4\n2 4\n1 4\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n5 7\n1 2\n2 3\n3 5\n1 4\n4 3\n4 5\n3 1\n",
+      "output": "\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

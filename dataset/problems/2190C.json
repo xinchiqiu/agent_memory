@@ -1,0 +1,36 @@
+{
+  "problem_id": "2190C",
+  "contest_id": 2190,
+  "index": "C",
+  "title": "Comparable Permutations",
+  "rating": 2300,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "interactive",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2026-01-17",
+  "solved_count": 1244,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n5\n\n1\n\n4\n\n1\n\n0\n\n1\n\n0\n\n9\n",
+      "output": "\n\n\n? 2 1\n\n! 1 2 4 5 3\n\n? 2 3\n\n? 1 3\n\n? 1 4\n\n? 2 2\n\n! -1\n\n! 1 2 3 6 7 4 5 8 9\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

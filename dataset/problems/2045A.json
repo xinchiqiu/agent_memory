@@ -1,0 +1,47 @@
+{
+  "problem_id": "2045A",
+  "contest_id": 2045,
+  "index": "A",
+  "title": "Scrambled Scrabble",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2024-12-01",
+  "solved_count": 2514,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\nICPCJAKARTA\n",
+      "output": "\n9\n"
+    },
+    {
+      "input": "\nNGENG\n",
+      "output": "\n5\n"
+    },
+    {
+      "input": "\nYYY\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\nDANGAN\n",
+      "output": "\n6\n"
+    },
+    {
+      "input": "\nAEIOUY\n",
+      "output": "\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

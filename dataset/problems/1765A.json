@@ -1,0 +1,38 @@
+{
+  "problem_id": "1765A",
+  "contest_id": 1765,
+  "index": "A",
+  "title": "Access Levels",
+  "rating": 2400,
+  "raw_tags": [
+    "bitmasks",
+    "dsu",
+    "flows",
+    "graph matchings"
+  ],
+  "tags": [
+    "implementation",
+    "union_find",
+    "network_flow"
+  ],
+  "contest_date": "2022-11-27",
+  "solved_count": 838,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 2\n01\n11\n10\n",
+      "output": "\n2\n1 2 \n2 2 \n1 2 \n2 2 \n2 1 \n"
+    },
+    {
+      "input": "\n2 3\n101\n100\n",
+      "output": "\n1\n1 1 1\n1 10 5\n8\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

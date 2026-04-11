@@ -1,0 +1,42 @@
+{
+  "problem_id": "1725E",
+  "contest_id": 1725,
+  "index": "E",
+  "title": "Electrical Efficiency",
+  "rating": 2500,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "dp",
+    "math",
+    "number theory",
+    "trees"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "dp",
+    "math_number_theory",
+    "graph_dfs"
+  ],
+  "contest_date": "2022-09-04",
+  "solved_count": 584,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1 2 3\n1 2\n2 3\n",
+      "output": "\n0"
+    },
+    {
+      "input": "\n4\n6 14 6 6\n1 2\n2 3\n2 4\n",
+      "output": "\n12"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

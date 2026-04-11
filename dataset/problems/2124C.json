@@ -1,0 +1,34 @@
+{
+  "problem_id": "2124C",
+  "contest_id": 2124,
+  "index": "C",
+  "title": "Subset Multiplication",
+  "rating": 1300,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-07-06",
+  "solved_count": 14288,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n2 4\n3\n1 1000000000 500000000\n4\n4 8 4 8\n7\n42 42 14 84 28 73080 255780",
+      "output": "\n343\n2\n4\n6\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

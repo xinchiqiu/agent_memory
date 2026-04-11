@@ -1,0 +1,35 @@
+{
+  "problem_id": "1685B",
+  "contest_id": 1685,
+  "index": "B",
+  "title": "Linguistics",
+  "rating": 2000,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2022-05-25",
+  "solved_count": 3646,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8\n1 0 0 0\nB\n0 0 1 0\nAB\n1 1 0 1\nABAB\n1 0 1 1\nABAAB\n1 1 2 2\nBAABBABBAA\n1 1 2 3\nABABABBAABAB\n2 3 5 4\nAABAABBABAAABABBABBBABB\n1 3 3 10\nBBABABABABBBABABABABABABAABABA\n",
+      "output": "\nNO\nYES\nYES\nYES\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

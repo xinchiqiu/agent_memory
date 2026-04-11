@@ -1,0 +1,34 @@
+{
+  "problem_id": "2029E",
+  "contest_id": 2029,
+  "index": "E",
+  "title": "Common Generator",
+  "rating": 2100,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-11-09",
+  "solved_count": 3496,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n8 9 10\n4\n2 3 4 5\n2\n147 154\n5\n3 6 8 25 100000",
+      "output": "\n2\n-1\n7\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1607H",
+  "contest_id": 1607,
+  "index": "H",
+  "title": "Banquet Preparations 2",
+  "rating": 2200,
+  "raw_tags": [
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "greedy",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2021-11-02",
+  "solved_count": 1408,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n\n3\n10 10 2\n9 9 0\n10 9 1\n\n2\n3 4 1\n5 1 2\n\n3\n7 2 5\n6 5 4\n5 5 6\n\n1\n13 42 50\n\n5\n5 7 12\n3 1 4\n7 3 7\n0 0 0\n4 1 5\n",
+      "output": "\n1\n1 1\n0 0\n1 0\n2\n0 1\n1 1\n2\n3 2\n0 4\n1 5\n1\n8 42\n2\n5 7\n3 1\n4 3\n0 0\n4 1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1851F",
+  "contest_id": 1851,
+  "index": "F",
+  "title": "Lisa and the Martians",
+  "rating": 1800,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "math",
+    "strings",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "string_hashing",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-07-25",
+  "solved_count": 7302,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n5 4\n3 9 1 4 13\n3 1\n1 0 1\n6 12\n144 1580 1024 100 9 13\n4 3\n7 3 0 4\n3 2\n0 0 1\n2 4\n12 2\n9 4\n6 14 9 4 4 4 5 10 2\n2 1\n1 0\n2 4\n11 4\n9 4\n2 11 10 1 6 9 11 0 5",
+      "output": "\n1 3 14\n1 3 0\n5 6 4082\n2 3 7\n1 2 3\n1 2 15\n4 5 11\n1 2 0\n1 2 0\n2 7 4\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,36 @@
+{
+  "problem_id": "1710E",
+  "contest_id": 1710,
+  "index": "E",
+  "title": "Two Arrays",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "games",
+    "graph matchings"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive"
+  ],
+  "contest_date": "2022-07-24",
+  "solved_count": 577,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 1\n3 2\n2\n",
+      "output": "\n4\n"
+    },
+    {
+      "input": "\n4 5\n235499701 451218171 355604420 132973458\n365049318 264083156 491406845 62875547 175951751\n",
+      "output": "\n531556171\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

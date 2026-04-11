@@ -1,0 +1,35 @@
+{
+  "problem_id": "2026E",
+  "contest_id": 2026,
+  "index": "E",
+  "title": "Best Subsequence",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "flows",
+    "graph matchings",
+    "graphs"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "network_flow"
+  ],
+  "contest_date": "2024-10-28",
+  "solved_count": 1976,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n0 0 0\n4\n1 0 1 2\n1\n5\n8\n7 1 48 14 13 8 7 6",
+      "output": "\n3\n2\n0\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1606B",
+  "contest_id": 1606,
+  "index": "B",
+  "title": "Update Files",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-29",
+  "solved_count": 19465,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n8 3\n6 6\n7 1\n1 1\n",
+      "output": "\n4\n3\n6\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

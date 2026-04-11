@@ -1,0 +1,35 @@
+{
+  "problem_id": "2097A",
+  "contest_id": 2097,
+  "index": "A",
+  "title": "Sports Betting",
+  "rating": 1400,
+  "raw_tags": [
+    "2-sat",
+    "brute force",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "graph_dfs",
+    "brute_force",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2025-04-26",
+  "solved_count": 8385,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n1 1 1 1\n3\n2 2 2\n5\n2 4 3 2 4\n8\n6 3 1 1 5 1 2 6\n1\n1000000000",
+      "output": "\nYes\nNo\nYes\nNo\nNo\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

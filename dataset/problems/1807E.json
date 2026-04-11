@@ -1,0 +1,32 @@
+{
+  "problem_id": "1807E",
+  "contest_id": 1807,
+  "index": "E",
+  "title": "Interview",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "implementation",
+    "interactive"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation"
+  ],
+  "contest_date": "2023-03-19",
+  "solved_count": 16436,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n5\n1 2 3 4 5\n\n11\n\n6\n\n3\n\n7\n1 2 3 5 3 4 2\n\n12\n\n6\n",
+      "output": "\n? 4 1 2 3 4\n\n? 2 2 3\n\n? 1 2\n\n! 2\n\n? 4 2 3 5 6\n\n? 2 1 4\n\n! 7\n\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

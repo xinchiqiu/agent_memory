@@ -1,0 +1,33 @@
+{
+  "problem_id": "2174A",
+  "contest_id": 2174,
+  "index": "A",
+  "title": "Needle in a Haystack",
+  "rating": 1200,
+  "raw_tags": [
+    "greedy",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2025-12-06",
+  "solved_count": 13693,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\ndcbe\nbedbaecfc\nbabadab\nabacabadabacaba\nbabaisyou\nflagiswin",
+      "output": "\n\nabcdcbeef\naaaaabababccdab\nImpossible"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1889C1",
+  "contest_id": 1889,
+  "index": "C1",
+  "title": "Doremy's Drying Plan (Easy Version)",
+  "rating": 2000,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-10-28",
+  "solved_count": 3880,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2 3 2\n1 2\n1 2\n1 1\n5 3 2\n1 3\n2 4\n3 5\n10 6 2\n1 5\n6 10\n2 2\n3 7\n5 8\n1 4\n100 6 2\n1 100\n1 100\n1 100\n1 100\n1 100\n1 100\n1000 2 2\n1 1\n1 1\n20 5 2\n9 20\n3 3\n10 11\n11 13\n6 18",
+      "output": "\n1\n2\n3\n0\n1000\n15\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1701A",
+  "contest_id": 1701,
+  "index": "A",
+  "title": "Grass Field",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-07-08",
+  "solved_count": 27483,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n0 0\n0 0\n1 0\n0 1\n1 1\n1 1",
+      "output": "\n0\n1\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

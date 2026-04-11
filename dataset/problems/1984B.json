@@ -1,0 +1,31 @@
+{
+  "problem_id": "1984B",
+  "contest_id": 1984,
+  "index": "B",
+  "title": "Large Addition",
+  "rating": 1100,
+  "raw_tags": [
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-06-09",
+  "solved_count": 20842,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n1337\n200\n1393938\n1434\n98765432123456789\n11111111111111111\n420\n1984\n10\n69\n119",
+      "output": "\nYES\nNO\nYES\nYES\nNO\nYES\nNO\nYES\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

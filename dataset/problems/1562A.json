@@ -1,0 +1,31 @@
+{
+  "problem_id": "1562A",
+  "contest_id": 1562,
+  "index": "A",
+  "title": "The Miracle and the Sleeper",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-08-26",
+  "solved_count": 26323,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1 1\n999999999 1000000000\n8 26\n1 999999999\n",
+      "output": "\n0\n1\n12\n499999999\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

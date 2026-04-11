@@ -1,0 +1,35 @@
+{
+  "problem_id": "2162G",
+  "contest_id": 2162,
+  "index": "G",
+  "title": "Beautiful Tree",
+  "rating": 2200,
+  "raw_tags": [
+    "constructive algorithms",
+    "math",
+    "probabilities",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory",
+    "math_combinatorics",
+    "graph_dfs"
+  ],
+  "contest_date": "2025-10-17",
+  "solved_count": 2761,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n3\n4",
+      "output": "\n\n-1\n1 3\n2 3\n1 2\n3 1\n4 1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

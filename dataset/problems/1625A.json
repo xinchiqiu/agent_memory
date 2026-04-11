@@ -1,0 +1,33 @@
+{
+  "problem_id": "1625A",
+  "contest_id": 1625,
+  "index": "A",
+  "title": "Ancient Civilization",
+  "rating": 800,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-01-12",
+  "solved_count": 18192,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3 5\n18 9 21\n3 5\n18 18 18\n1 1\n1\n5 30\n1 2 3 4 5\n6 10\n99 35 85 46 78 55\n2 1\n0 1\n8 8\n5 16 42 15 83 65 78 42",
+      "output": "\n17\n18\n1\n1\n39\n0\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

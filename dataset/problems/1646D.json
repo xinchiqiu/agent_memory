@@ -1,0 +1,48 @@
+{
+  "problem_id": "1646D",
+  "contest_id": 1646,
+  "index": "D",
+  "title": "Weight the Tree",
+  "rating": 2000,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "dp",
+    "implementation",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2022-03-04",
+  "solved_count": 4400,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1 2\n2 3\n2 4\n",
+      "output": "\n3 4\n1 1 1 1 \n"
+    },
+    {
+      "input": "\n3\n1 2\n1 3\n",
+      "output": "\n2 3\n1 1 1 \n"
+    },
+    {
+      "input": "\n2\n1 2\n",
+      "output": "\n2 2\n1 1\n"
+    },
+    {
+      "input": "\n9\n3 4\n7 6\n2 1\n8 3\n5 6\n1 8\n8 6\n9 6\n",
+      "output": "\n6 11\n1 1 1 1 1 1 1 3 1 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

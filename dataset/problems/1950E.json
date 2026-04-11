@@ -1,0 +1,35 @@
+{
+  "problem_id": "1950E",
+  "contest_id": 1950,
+  "index": "E",
+  "title": "Nearly Shortest Repeating Substring",
+  "rating": 1500,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "number theory",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2024-03-28",
+  "solved_count": 17267,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\nabaa\n4\nabba\n13\nslavicgslavic\n8\nhshahaha\n20\nstormflamestornflame",
+      "output": "\n1\n4\n13\n2\n10\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

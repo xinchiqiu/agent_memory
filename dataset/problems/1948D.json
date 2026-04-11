@@ -1,0 +1,33 @@
+{
+  "problem_id": "1948D",
+  "contest_id": 1948,
+  "index": "D",
+  "title": "Tandem Repeats?",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2024-03-15",
+  "solved_count": 12086,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\nzaabaabz\n?????\ncode?????s\ncodeforces",
+      "output": "\n6\n4\n10\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "problem_id": "1991E",
+  "contest_id": 1991,
+  "index": "E",
+  "title": "Coloring Game",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms",
+    "dfs and similar",
+    "games",
+    "graphs",
+    "greedy",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2024-07-28",
+  "solved_count": 5071,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n3 3\n1 2\n2 3\n3 1\n\n\n3 1\n\n2 2\n\n1 1\n4 4\n1 2\n2 3\n3 4\n4 1\n\n2 3\n\n1 2\n\n2 1\n\n3 1\n\n",
+      "output": "\n\n\n\n\n\nAlice\n3 1\n\n1 2\n\n2 1\n\n\n\n\n\n\nBob\n\n1 2\n\n2 1\n\n4 1\n\n3 3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

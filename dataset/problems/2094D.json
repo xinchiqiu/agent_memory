@@ -1,0 +1,33 @@
+{
+  "problem_id": "2094D",
+  "contest_id": 2094,
+  "index": "D",
+  "title": "Tung Tung Sahur",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2025-04-13",
+  "solved_count": 23526,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\nR\nRR\nLRLR\nLRLR\nLR\nLLLR\nLLLLLRL\nLLLLRRLL\nLLRLRLRRL\nLLLRLRRLLRRRL",
+      "output": "\nYES\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "1765K",
+  "contest_id": 1765,
+  "index": "K",
+  "title": "Torus Path",
+  "rating": 1500,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-11-27",
+  "solved_count": 6721,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n1 2\n3 4\n",
+      "output": "\n8\n"
+    },
+    {
+      "input": "\n3\n10 10 10\n10 0 10\n10 10 10\n",
+      "output": "\n80\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2145C",
+  "contest_id": 2145,
+  "index": "C",
+  "title": "Monocarp's String",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2025-10-06",
+  "solved_count": 15031,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5\nbbbab\n6\nbbaaba\n4\naaaa\n12\naabbaaabbaab\n5\naabaa",
+      "output": "\n\n3\n0\n-1\n2\n-1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

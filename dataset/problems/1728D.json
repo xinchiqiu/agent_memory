@@ -1,0 +1,34 @@
+{
+  "problem_id": "1728D",
+  "contest_id": 1728,
+  "index": "D",
+  "title": "Letter Picking",
+  "rating": 1800,
+  "raw_tags": [
+    "constructive algorithms",
+    "dp",
+    "games",
+    "two pointers"
+  ],
+  "tags": [
+    "constructive",
+    "dp",
+    "two_pointers"
+  ],
+  "contest_date": "2022-09-08",
+  "solved_count": 8190,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\nforces\nabba",
+      "output": "\nAlice\nDraw\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

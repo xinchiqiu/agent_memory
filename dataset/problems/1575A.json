@@ -1,0 +1,33 @@
+{
+  "problem_id": "1575A",
+  "contest_id": 1575,
+  "index": "A",
+  "title": "Another Sorting Problem",
+  "rating": 1100,
+  "raw_tags": [
+    "data structures",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2021-10-02",
+  "solved_count": 5156,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 2\nAA\nAB\nBB\nBA\nAZ\n",
+      "output": "\n5 2 1 3 4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

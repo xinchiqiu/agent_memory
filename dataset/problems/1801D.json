@@ -1,0 +1,41 @@
+{
+  "problem_id": "1801D",
+  "contest_id": 1801,
+  "index": "D",
+  "title": "The way home",
+  "rating": 2100,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "graphs",
+    "greedy",
+    "shortest paths",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "graph_dfs",
+    "greedy",
+    "graph_dijkstra",
+    "sorting"
+  ],
+  "contest_date": "2023-03-09",
+  "solved_count": 2829,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 4 2\n7 4 3 1\n1 2 21\n3 2 6\n1 3 8\n2 4 11\n4 4 10\n1 2 10 1\n1 2 20\n2 4 30\n1 3 25\n3 4 89\n4 4 7\n5 1 6 2\n1 2 5\n2 3 10\n3 4 50\n3 4 70\n4 1 2\n1 1 1 1\n1 3 2",
+      "output": "\n4\n24\n10\n-1\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

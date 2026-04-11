@@ -1,0 +1,33 @@
+{
+  "problem_id": "1914E2",
+  "contest_id": 1914,
+  "index": "E2",
+  "title": "Game with Marbles (Hard Version)",
+  "rating": 1400,
+  "raw_tags": [
+    "games",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2023-12-19",
+  "solved_count": 14637,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n4 2 1\n1 2 4\n4\n1 20 1 20\n100 15 10 20\n5\n1000000000 1000000000 1000000000 1000000000 1000000000\n1 1 1 1 1\n3\n5 6 5\n2 1 7\n6\n3 2 4 2 5 5\n9 4 7 9 2 5",
+      "output": "\n1\n-9\n2999999997\n8\n-6\n"
+    }
+  ],
+  "time_limit": "3.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

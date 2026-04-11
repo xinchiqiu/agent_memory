@@ -1,0 +1,48 @@
+{
+  "problem_id": "1769D1",
+  "contest_id": 1769,
+  "index": "D1",
+  "title": "Игра в Девятку I",
+  "rating": 1800,
+  "raw_tags": [
+    "*special",
+    "brute force",
+    "dp"
+  ],
+  "tags": [
+    "brute_force",
+    "dp"
+  ],
+  "contest_date": "2022-12-03",
+  "solved_count": 421,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\nJD 7S 9S JS 8S 9D 6D 8C 8D TH KS QD QH TD 6C AD KD AC\nKH QC 9H 6H KC 9C JC TS 6S QS TC JH 7D 7H AS AH 7C 8H\n",
+      "output": "\nAlice\n"
+    },
+    {
+      "input": "\n7S KD 8C AH QS AC KS JC 6C 7D 9H TS 7C 6D JH JD 6S KC\n8D QD AS TD AD TH KH 9S JS 9C QC 8S 8H 7H TC QH 9D 6H\n",
+      "output": "\nBob\n"
+    },
+    {
+      "input": "\n6C 7S 6H KS 9C 6S QS 7C TS JD 8H KC 9D 8C 7H KD JC QC\n6D TH TD AD JS 9H TC QD 8D AC JH AH KH AS 7D 8S 9S QH\n",
+      "output": "\nAlice\n"
+    },
+    {
+      "input": "\nJS KS JD TH KH JC KC QD AS JH 6H 9H 7H 6C 9D AC 6D 9S\n8D 8H 7C 7S KD 7D 6S QH 8C TS AD TD TC 9C QC 8S QS AH\n",
+      "output": "\nBob\n"
+    },
+    {
+      "input": "\n6S KC TD 8S AC 9S KD TS TH 7D 7C KH TC QC JH QD JC JD\nQH AS 9H 6C 8C 9C 6D AH AD KS JS 7H 6H 8H 9D QS 7S 8D\n",
+      "output": "\nBob\n"
+    }
+  ],
+  "time_limit": "ограничение по времени на тест5 секунд",
+  "memory_limit": "ограничение по памяти на тест512 мегабайт",
+  "editorial_text": null,
+  "reference_solutions": []
+}

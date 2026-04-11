@@ -1,0 +1,33 @@
+{
+  "problem_id": "2072A",
+  "contest_id": 2072,
+  "index": "A",
+  "title": "New World, New Me, New Array",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-02-25",
+  "solved_count": 40409,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n21 100 10\n9 -420 42\n5 -7 2\n13 37 7\n10 0 49\n1 10 9\n7 -7 7\n20 31 1",
+      "output": "\n10\n-1\n4\n6\n0\n-1\n1\n-1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

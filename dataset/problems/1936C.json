@@ -1,0 +1,38 @@
+{
+  "problem_id": "1936C",
+  "contest_id": 1936,
+  "index": "C",
+  "title": "Pokémon Arena",
+  "rating": 2400,
+  "raw_tags": [
+    "data structures",
+    "graphs",
+    "greedy",
+    "implementation",
+    "shortest paths",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "greedy",
+    "graph_dijkstra",
+    "sorting"
+  ],
+  "contest_date": "2024-02-29",
+  "solved_count": 1704,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 3\n2 3 1\n2 9 9\n6 1 7\n1 2 1\n3 3\n2 3 1\n9 9 9\n6 1 7\n1 2 1\n4 2\n2 8 3 5\n18 24\n17 10\n1 10\n1 1\n6 3\n21412674 3212925 172015806 250849370 306960171 333018900\n950000001 950000001 950000001\n821757276 783362401 760000001\n570000001 700246226 600757652\n380000001 423513575 474035234\n315201473 300580025 287023445\n1 1 1",
+      "output": "\n2\n6\n17\n1224474550\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

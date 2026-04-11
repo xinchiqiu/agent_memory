@@ -1,0 +1,30 @@
+{
+  "problem_id": "1679C",
+  "contest_id": 1679,
+  "index": "C",
+  "title": "Rooks Defenders",
+  "rating": 1400,
+  "raw_tags": [
+    "data structures",
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-05-14",
+  "solved_count": 11632,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8 10\n1 2 4\n3 6 2 7 2\n1 3 2\n3 6 2 7 2\n1 4 3\n3 2 6 4 8\n2 4 3\n3 2 6 4 8\n1 4 8\n3 2 6 4 8\n",
+      "output": "\nNo\nYes\nYes\nNo\nYes\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

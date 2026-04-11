@@ -1,0 +1,34 @@
+{
+  "problem_id": "1660F2",
+  "contest_id": 1660,
+  "index": "F2",
+  "title": "Promising String (hard version)",
+  "rating": 2100,
+  "raw_tags": [
+    "data structures",
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2022-03-31",
+  "solved_count": 3123,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n+-+\n5\n-+---\n4\n----\n7\n--+---+\n6\n+++---",
+      "output": "\n2\n4\n2\n7\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

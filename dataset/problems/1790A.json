@@ -1,0 +1,33 @@
+{
+  "problem_id": "1790A",
+  "contest_id": 1790,
+  "index": "A",
+  "title": "Polycarp and the Day of Pi",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2023-01-27",
+  "solved_count": 40683,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n000\n3\n4141592653\n141592653589793238462643383279\n31420\n31415\n314159265358\n27182\n314159265358979323846264338327",
+      "output": "\n0\n1\n0\n0\n3\n5\n12\n0\n30\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

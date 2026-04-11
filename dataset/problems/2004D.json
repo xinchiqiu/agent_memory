@@ -1,0 +1,40 @@
+{
+  "problem_id": "2004D",
+  "contest_id": 2004,
+  "index": "D",
+  "title": "Colored Portals",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "graphs",
+    "greedy",
+    "implementation",
+    "shortest paths"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "graph_dfs",
+    "greedy",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2024-08-15",
+  "solved_count": 13089,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n4 5\nBR BR GY GR\n1 2\n3 1\n4 4\n1 4\n4 2\n2 1\nBG RY\n1 2",
+      "output": "\n1\n4\n0\n3\n2\n-1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

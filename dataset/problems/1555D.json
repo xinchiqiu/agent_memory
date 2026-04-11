@@ -1,0 +1,35 @@
+{
+  "problem_id": "1555D",
+  "contest_id": 1555,
+  "index": "D",
+  "title": "Say No to Palindromes",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "dp",
+    "string_hashing"
+  ],
+  "contest_date": "2021-07-30",
+  "solved_count": 15129,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5 4\nbaacb\n1 3\n1 5\n4 5\n2 3\n",
+      "output": "\n1\n2\n0\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

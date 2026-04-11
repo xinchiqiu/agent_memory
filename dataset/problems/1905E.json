@@ -1,0 +1,36 @@
+{
+  "problem_id": "1905E",
+  "contest_id": 1905,
+  "index": "E",
+  "title": "One-X",
+  "rating": 2400,
+  "raw_tags": [
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "math",
+    "trees"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "graph_dfs",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-16",
+  "solved_count": 1249,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n3\n4\n5\n53278",
+      "output": "\n6\n17\n36\n69\n593324855\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

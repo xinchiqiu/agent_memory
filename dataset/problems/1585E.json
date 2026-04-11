@@ -1,0 +1,32 @@
+{
+  "problem_id": "1585E",
+  "contest_id": 1585,
+  "index": "E",
+  "title": "Frequency Queries",
+  "rating": 2400,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs"
+  ],
+  "contest_date": "2021-12-12",
+  "solved_count": 1192,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n3 3\n1 1 1\n1 2\n3 1 1\n3 1 2\n3 2 1\n5 5\n1 2 1 1 2\n1 1 2 2\n3 1 1\n2 1 2\n4 1 1\n4 2 1\n4 2 2\n",
+      "output": "\n1 -1 1 \n1 1 2 1 -1 \n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

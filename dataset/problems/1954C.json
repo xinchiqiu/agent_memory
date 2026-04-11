@@ -1,0 +1,32 @@
+{
+  "problem_id": "1954C",
+  "contest_id": 1954,
+  "index": "C",
+  "title": "Long Multiplication",
+  "rating": 1200,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-04-12",
+  "solved_count": 22611,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n73\n31\n2\n5\n3516\n3982",
+      "output": "\n71\n33\n5\n2\n3912\n3586\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

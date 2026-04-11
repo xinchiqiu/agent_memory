@@ -1,0 +1,31 @@
+{
+  "problem_id": "1793A",
+  "contest_id": 1793,
+  "index": "A",
+  "title": "Yet Another Promotion",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-02-12",
+  "solved_count": 18782,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n5 4\n3 1\n5 4\n3 2\n3 4\n3 5\n20 15\n10 2\n1000000000 900000000\n1000000000 8",
+      "output": "\n9\n10\n9\n135\n888888888900000000\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

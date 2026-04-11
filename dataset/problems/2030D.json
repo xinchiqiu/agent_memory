@@ -1,0 +1,32 @@
+{
+  "problem_id": "2030D",
+  "contest_id": 2030,
+  "index": "D",
+  "title": "QED's Favorite Permutation",
+  "rating": 1700,
+  "raw_tags": [
+    "data structures",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2024-10-19",
+  "solved_count": 8507,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 3\n1 4 2 5 3\nRLRLL\n2\n4\n3\n8 5\n1 5 2 4 8 3 6 7\nRRLLRRRL\n4\n3\n5\n3\n4\n6 2\n1 2 3 4 5 6\nRLRLRL\n4\n5",
+      "output": "\nYES\nYES\nNO\nNO\nYES\nNO\nNO\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

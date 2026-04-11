@@ -1,0 +1,29 @@
+{
+  "problem_id": "2160C",
+  "contest_id": 2160,
+  "index": "C",
+  "title": "Reverse XOR",
+  "rating": 1300,
+  "raw_tags": [
+    "bitmasks"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2025-10-12",
+  "solved_count": 14806,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n0\n3\n6\n8\n10\n11",
+      "output": "\n\nYES\nYES\nYES\nNO\nYES\nNO"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

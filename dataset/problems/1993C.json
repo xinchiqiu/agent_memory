@@ -1,0 +1,31 @@
+{
+  "problem_id": "1993C",
+  "contest_id": 1993,
+  "index": "C",
+  "title": "Light Switches",
+  "rating": 1400,
+  "raw_tags": [
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-08-04",
+  "solved_count": 16067,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n4 4\n2 3 4 5\n4 3\n2 3 4 5\n4 3\n3 4 8 9\n3 3\n6 2 1\n1 1\n1\n7 5\n14 34 6 25 46 7 17\n6 5\n40 80 99 60 90 50\n6 5\n64 40 50 68 70 10\n2 1\n1 1000000000",
+      "output": "\n5\n-1\n10\n8\n1\n47\n100\n-1\n-1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

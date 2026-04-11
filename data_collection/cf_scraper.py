@@ -27,8 +27,7 @@ def _make_session() -> requests.Session:
     s.headers.update({
         "User-Agent": (
             "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/120.0 Safari/537.36 "
-            "(research project — competitive programming NLP)"
+            "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"
         ),
         "Accept-Language": "en-US,en;q=0.9",
     })
@@ -224,35 +223,99 @@ def _extract_sample_tests(sample_div: Tag) -> List[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Submission source code scraping
+# Submission source code — CodeContests dataset (primary) + CF scraping (fallback)
 # ---------------------------------------------------------------------------
+# NOTE: Codeforces renders submission source code via JavaScript, so a plain
+# requests-based scraper cannot retrieve it.  We use the publicly available
+# DeepMind CodeContests dataset (HuggingFace) as the primary source of
+# verified reference solutions, and keep the old scraping path as a fallback
+# for the rare cases where CF exposes code in plain HTML (very old problems).
 
-def scrape_submission_code(contest_id: int, submission_id: int,
-                           delay: float = _DEFAULT_DELAY) -> Optional[str]:
-    """Scrape the source code of a specific submission.
+def _build_codecontests_index() -> Dict[str, list]:
+    """Load the CodeContests HF dataset and build a problem_name -> solutions map.
 
-    Returns the source code string, or None on failure.
+    Returns {} if the dataset is not installed or network is unavailable.
+    The index maps lowercase problem name → list of solution dicts.
     """
-    url = f"{CF_BASE}/contest/{contest_id}/submission/{submission_id}"
-    soup = _get_html(url)
-    time.sleep(delay)
+    try:
+        from datasets import load_dataset
+    except ImportError:
+        logging.warning("'datasets' package not installed; skipping CodeContests index.")
+        return {}
 
-    if soup is None:
-        return None
+    # Language code -> readable name (from CodeContests schema)
+    _LANG_MAP = {
+        2: "C++", 3: "Python3", 4: "Java", 9: "C", 12: "PyPy3",
+        14: "Go", 19: "Rust", 54: "TypeScript", 55: "JavaScript",
+    }
 
-    code_pre = soup.find("pre", id="program-source-text")
-    if code_pre:
-        return code_pre.get_text()
+    def _try_load(split_name: str):
+        try:
+            return load_dataset("deepmind/code_contests", split=split_name)
+        except Exception:
+            return None
 
-    # Fallback: look inside the source viewer div
-    source_div = soup.find("div", id="program-source")
-    if source_div:
-        pre = source_div.find("pre")
-        if pre:
-            return pre.get_text()
+    index: Dict[str, list] = {}
+    for split in ("train", "test", "valid"):
+        logging.info(f"Loading CodeContests '{split}' split…")
+        ds = _try_load(split)
+        if ds is None:
+            logging.warning(f"Could not load CodeContests '{split}' split, skipping")
+            continue
+        for row in ds:
+            key = row.get("name", "").lower().strip()
+            if not key:
+                continue
+            solutions = []
+            for sol in row.get("solutions", {}).get("solution", []):
+                code = sol if isinstance(sol, str) else ""
+                if code and 100 <= len(code) <= 8000:
+                    solutions.append({"code": code, "language": "unknown",
+                                      "author": "codecontests"})
+            # Alternative schema: solutions as dict of lang_id -> [code, ...]
+            raw_sols = row.get("solutions", {})
+            if isinstance(raw_sols, dict):
+                for lang_key, codes in raw_sols.items():
+                    lang_name = _LANG_MAP.get(int(lang_key), str(lang_key)) \
+                        if str(lang_key).isdigit() else str(lang_key)
+                    if isinstance(codes, list):
+                        for code in codes:
+                            if isinstance(code, str) and 100 <= len(code) <= 8000:
+                                solutions.append({"code": code, "language": lang_name,
+                                                  "author": "codecontests"})
+            if solutions:
+                index[key] = solutions
 
-    logging.warning(f"Could not find source code for submission {submission_id}")
-    return None
+    if index:
+        logging.info(f"CodeContests index built: {len(index)} problems with solutions")
+    else:
+        logging.warning("CodeContests index is empty — dataset may have changed schema")
+    return index
+
+
+# Module-level cache — loaded once per process
+_CC_INDEX: Optional[Dict[str, list]] = None
+
+
+def get_codecontests_solutions(problem_title: str,
+                               max_solutions: int = 3) -> List[dict]:
+    """Look up reference solutions for a problem from the CodeContests dataset.
+
+    Args:
+        problem_title: The problem title (matched case-insensitively).
+        max_solutions: Maximum solutions to return.
+
+    Returns:
+        List of dicts with keys: code, language, author.
+        Empty list if not found.
+    """
+    global _CC_INDEX
+    if _CC_INDEX is None:
+        _CC_INDEX = _build_codecontests_index()
+
+    key = problem_title.lower().strip()
+    solutions = _CC_INDEX.get(key, [])
+    return solutions[:max_solutions]
 
 
 def scrape_accepted_solutions(contest_id: int,
@@ -260,34 +323,19 @@ def scrape_accepted_solutions(contest_id: int,
                                submission_candidates: List[dict],
                                max_solutions: int = 3,
                                min_code_len: int = 100,
-                               max_code_len: int = 5000,
+                               max_code_len: int = 8000,
                                delay: float = _DEFAULT_DELAY) -> List[dict]:
-    """Scrape source code for a list of candidate submissions.
+    """Attempt to get accepted solutions for a problem.
 
-    Args:
-        contest_id: Contest ID (used to build the submission URL).
-        index: Problem index (for logging only).
-        submission_candidates: Output of cf_api.fetch_contest_submissions().
-        max_solutions: Stop after collecting this many solutions.
-        min_code_len / max_code_len: Skip solutions outside this length range.
-        delay: Seconds to sleep between requests.
-
-    Returns:
-        List of dicts: {submission_id, author, execution_time_ms, memory_kb,
-                        language, code}
+    Codeforces renders submission source via JavaScript, so direct scraping
+    is not reliable.  This function is kept for interface compatibility but
+    returns an empty list.  Use get_codecontests_solutions() for verified code.
     """
-    solutions = []
-    for cand in submission_candidates:
-        if len(solutions) >= max_solutions:
-            break
-        code = scrape_submission_code(contest_id, cand["submission_id"], delay=delay)
-        if code is None:
-            continue
-        code = code.strip()
-        if not (min_code_len <= len(code) <= max_code_len):
-            continue
-        solutions.append({**cand, "code": code})
-    return solutions
+    logging.debug(
+        f"scrape_accepted_solutions: CF source scraping is unavailable "
+        f"(JS-rendered pages). Use get_codecontests_solutions() instead."
+    )
+    return []
 
 
 # ---------------------------------------------------------------------------

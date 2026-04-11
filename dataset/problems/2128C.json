@@ -1,0 +1,31 @@
+{
+  "problem_id": "2128C",
+  "contest_id": 2128,
+  "index": "C",
+  "title": "Leftmost Below",
+  "rating": 1200,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-07-27",
+  "solved_count": 20198,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n5 6 1 1\n3\n3 1 2\n3\n40 60 90\n2\n1 1",
+      "output": "\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

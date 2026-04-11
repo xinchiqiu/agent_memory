@@ -1,0 +1,38 @@
+{
+  "problem_id": "1933F",
+  "contest_id": 1933,
+  "index": "F",
+  "title": "Turtle Mission: Robot and the Earthquake",
+  "rating": 2100,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs",
+    "shortest paths"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2024-02-27",
+  "solved_count": 2924,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n4 5\n0 1 0 0 0\n0 0 1 0 0\n1 0 1 1 0\n0 0 0 0 0\n3 3\n0 0 0\n1 0 0\n0 0 0\n5 3\n0 0 0\n0 0 0\n1 0 0\n0 0 0\n1 0 0\n3 7\n0 0 1 0 0 1 0\n1 0 1 0 1 0 0\n0 1 0 0 0 0 0\n3 4\n0 1 0 0\n1 0 0 0\n0 1 1 0\n5 5\n0 0 0 0 0\n0 1 0 1 0\n0 1 0 1 0\n0 1 0 1 0\n0 0 0 1 0",
+      "output": "\n7\n3\n3\n8\n-1\n12\n"
+    },
+    {
+      "input": "\n\n6\n3 3\n0 0 0\n0 0 0\n0 0 0\n4 3\n0 1 0\n1 0 0\n0 1 0\n1 0 0\n4 3\n0 1 0\n0 1 0\n0 1 0\n0 1 0\n3 3\n0 0 0\n1 1 0\n0 0 0\n3 3\n0 1 0\n0 0 0\n0 1 0\n5 5\n0 0 0 0 0\n0 1 1 0 0\n0 1 1 0 0\n0 0 0 0 0\n0 0 1 0 0",
+      "output": "\n3\n3\n-1\n-1\n3\n8\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

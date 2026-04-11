@@ -1,0 +1,29 @@
+{
+  "problem_id": "1632A",
+  "contest_id": 1632,
+  "index": "A",
+  "title": "ABC",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-01-30",
+  "solved_count": 30966,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n1\n2\n10\n2\n01\n4\n1010",
+      "output": "\nYES\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

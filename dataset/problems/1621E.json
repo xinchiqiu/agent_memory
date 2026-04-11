@@ -1,0 +1,38 @@
+{
+  "problem_id": "1621E",
+  "contest_id": 1621,
+  "index": "E",
+  "title": "New School",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-01-03",
+  "solved_count": 1910,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n1 1\n30\n3\n25 16 37\n4 2\n9 12 12 6\n2\n4 5\n3\n111 11 11",
+      "output": "\n101\n00100\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

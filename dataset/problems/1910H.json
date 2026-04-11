@@ -1,0 +1,36 @@
+{
+  "problem_id": "1910H",
+  "contest_id": 1910,
+  "index": "H",
+  "title": "Sum of Digits of Sums",
+  "rating": 2400,
+  "raw_tags": [
+    "*special",
+    "binary search",
+    "data structures"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation"
+  ],
+  "contest_date": "2023-12-11",
+  "solved_count": 107,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1 3 3 7\n",
+      "output": "\n18 17 17 15 \n"
+    },
+    {
+      "input": "\n3\n42 1337 999\n",
+      "output": "\n38 53 47 \n"
+    }
+  ],
+  "time_limit": "6 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

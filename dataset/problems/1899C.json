@@ -1,0 +1,33 @@
+{
+  "problem_id": "1899C",
+  "contest_id": 1899,
+  "index": "C",
+  "title": "Yarik and Array",
+  "rating": 1100,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2023-11-17",
+  "solved_count": 33844,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5\n1 2 3 4 5\n4\n9 9 8 8\n6\n-1 4 -1 0 5 -4\n4\n-1 2 4 -3\n1\n-1000\n3\n101 -99 101\n20\n-10 5 -8 10 6 -10 7 9 -2 -6 7 2 -4 6 -1 7 -6 -7 4 1",
+      "output": "\n15\n17\n8\n4\n-1000\n101\n10\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

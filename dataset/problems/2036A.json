@@ -1,0 +1,29 @@
+{
+  "problem_id": "2036A",
+  "contest_id": 2036,
+  "index": "A",
+  "title": "Quintomania",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2024-11-02",
+  "solved_count": 40432,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n2\n114 109\n2\n17 10\n3\n76 83 88\n8\n38 45 38 80 85 92 99 106\n5\n63 58 65 58 65\n8\n117 124 48 53 48 43 54 49\n5\n95 102 107 114 121\n10\n72 77 82 75 70 75 68 75 68 75",
+      "output": "\nYES\nYES\nYES\nNO\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1774B",
+  "contest_id": 1774,
+  "index": "B",
+  "title": "Coloring",
+  "rating": 1500,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-12-17",
+  "solved_count": 13914,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n12 6 2\n1 1 1 1 1 7\n12 6 2\n2 2 2 2 2 2",
+      "output": "\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

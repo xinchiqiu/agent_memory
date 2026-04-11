@@ -1,0 +1,32 @@
+{
+  "problem_id": "2164B",
+  "contest_id": 2164,
+  "index": "B",
+  "title": "Even Modulo Pair",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-11-06",
+  "solved_count": 17817,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n1 3 4 5 6\n6\n2 3 5 7 11 13\n4\n2 3 13 37\n3\n17 117 1117",
+      "output": "\n3 5\n3 11\n-1\n17 1117\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

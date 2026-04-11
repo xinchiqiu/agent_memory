@@ -1,0 +1,43 @@
+{
+  "problem_id": "1861E",
+  "contest_id": 1861,
+  "index": "E",
+  "title": "Non-Intersecting Subpermutations",
+  "rating": 2300,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-08-31",
+  "solved_count": 2019,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n10 3\n",
+      "output": "\n71712\n"
+    },
+    {
+      "input": "\n2 2\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n1337 42\n",
+      "output": "\n524933698\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

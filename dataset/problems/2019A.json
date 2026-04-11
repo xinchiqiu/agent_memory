@@ -1,0 +1,33 @@
+{
+  "problem_id": "2019A",
+  "contest_id": 2019,
+  "index": "A",
+  "title": "Max Plus Size",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2024-09-27",
+  "solved_count": 26878,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n5 4 5\n3\n4 5 4\n10\n3 3 3 3 4 1 2 3 4 5\n9\n17 89 92 42 29 92 14 70 45",
+      "output": "\n7\n6\n10\n97\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1903E",
+  "contest_id": 1903,
+  "index": "E",
+  "title": "Geo Game",
+  "rating": 2000,
+  "raw_tags": [
+    "greedy",
+    "interactive",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-11-30",
+  "solved_count": 2487,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n6\n4 6\n7 6\n8 5\n2 1\n6 2\n6 4\n3 3\n\n2\n\n5\n\n1\n4\n1 1\n3 2\n2 1\n3 3\n1 2\n\n\n2\n\n3\n\n",
+      "output": "\nSecond\n\n4\n\n6\n\n3\nFirst\n1\n\n4\n\n"
+    }
+  ],
+  "time_limit": "2.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

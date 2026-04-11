@@ -1,0 +1,35 @@
+{
+  "problem_id": "1913D",
+  "contest_id": 1913,
+  "index": "D",
+  "title": "Array Collapse",
+  "rating": 2100,
+  "raw_tags": [
+    "data structures",
+    "divide and conquer",
+    "dp",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-12-18",
+  "solved_count": 4077,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n2 1\n4\n2 4 1 3\n5\n10 2 6 3 4",
+      "output": "\n2\n6\n12\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

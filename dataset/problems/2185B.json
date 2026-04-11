@@ -1,0 +1,29 @@
+{
+  "problem_id": "2185B",
+  "contest_id": 2185,
+  "index": "B",
+  "title": "Prefix Max",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2026-01-18",
+  "solved_count": 38366,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n2 1 4 5 3\n2\n5 1\n3\n3 2 1\n2\n6 7",
+      "output": "\n\n25\n10\n9\n14"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

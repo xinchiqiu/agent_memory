@@ -1,0 +1,31 @@
+{
+  "problem_id": "1970A1",
+  "contest_id": 1970,
+  "index": "A1",
+  "title": "Balanced Shuffle (Easy)",
+  "rating": 1000,
+  "raw_tags": [
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2024-05-04",
+  "solved_count": 7116,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n(()(()))\n",
+      "output": "\n()(()())\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

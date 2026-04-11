@@ -1,0 +1,35 @@
+{
+  "problem_id": "1618G",
+  "contest_id": 1618,
+  "index": "G",
+  "title": "Trader Problem",
+  "rating": 2200,
+  "raw_tags": [
+    "data structures",
+    "dsu",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "implementation",
+    "union_find",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2021-12-14",
+  "solved_count": 1912,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 4 5\n10 30 15\n12 31 14 18\n0 1 2 3 4\n",
+      "output": "\n55\n56\n60\n64\n64\n"
+    }
+  ],
+  "time_limit": "4.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

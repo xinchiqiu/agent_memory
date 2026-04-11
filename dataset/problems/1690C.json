@@ -1,0 +1,32 @@
+{
+  "problem_id": "1690C",
+  "contest_id": 1690,
+  "index": "C",
+  "title": "Restoring the Duration of Tasks",
+  "rating": 800,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2022-06-07",
+  "solved_count": 27986,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n0 3 7\n2 10 11\n2\n10 15\n11 16\n9\n12 16 90 195 1456 1569 3001 5237 19275\n13 199 200 260 9100 10000 10914 91066 5735533\n1\n0\n1000000000",
+      "output": "\n2 7 1 \n1 1 \n1 183 1 60 7644 900 914 80152 5644467 \n1000000000 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

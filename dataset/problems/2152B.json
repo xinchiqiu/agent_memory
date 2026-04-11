@@ -1,0 +1,29 @@
+{
+  "problem_id": "2152B",
+  "contest_id": 2152,
+  "index": "B",
+  "title": "Catching the Krug",
+  "rating": 1300,
+  "raw_tags": [
+    "games"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2025-10-03",
+  "solved_count": 12652,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n2 0 0 1 1\n3 1 1 0 1\n1 1 0 0 1\n6 1 3 3 2\n9 4 1 4 2\n82 64 2 63 2\n1000000000 500000000 500000000 1000000000 0",
+      "output": "\n\n1\n3\n1\n4\n2\n19\n1000000000"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

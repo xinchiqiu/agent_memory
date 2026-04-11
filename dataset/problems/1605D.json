@@ -1,0 +1,38 @@
+{
+  "problem_id": "1605D",
+  "contest_id": 1605,
+  "index": "D",
+  "title": "Treelabeling",
+  "rating": 2100,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dfs and similar",
+    "games",
+    "greedy",
+    "implementation",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2021-11-12",
+  "solved_count": 3233,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1\n2\n1 2\n3\n1 2\n1 3\n",
+      "output": "\n1\n2 1\n1 2 3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

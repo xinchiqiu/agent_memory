@@ -1,0 +1,31 @@
+{
+  "problem_id": "1836B",
+  "contest_id": 1836,
+  "index": "B",
+  "title": "Astrophysicists",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-06-18",
+  "solved_count": 13536,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 3 100\n2 1 14\n91 2 13\n36 16 6\n73 8 22",
+      "output": "\n100\n0\n26\n72\n176\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

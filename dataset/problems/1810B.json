@@ -1,0 +1,32 @@
+{
+  "problem_id": "1810B",
+  "contest_id": 1810,
+  "index": "B",
+  "title": "Candies",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-03-31",
+  "solved_count": 18814,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n3\n7\n17",
+      "output": "\n-1\n1\n2 \n2\n2 2 \n4\n2 1 1 1 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

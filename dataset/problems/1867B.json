@@ -1,0 +1,33 @@
+{
+  "problem_id": "1867B",
+  "contest_id": 1867,
+  "index": "B",
+  "title": "XOR Palindromes",
+  "rating": 1100,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "string_hashing"
+  ],
+  "contest_date": "2023-09-11",
+  "solved_count": 18551,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n6\n101011\n5\n00000\n9\n100100011\n3\n100\n1\n1",
+      "output": "\n0010100\n111111\n0011111100\n0110\n11\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,32 @@
+{
+  "problem_id": "2150A",
+  "contest_id": 2150,
+  "index": "A",
+  "title": "Incremental Path",
+  "rating": 1300,
+  "raw_tags": [
+    "data structures",
+    "hashing",
+    "implementation"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2025-09-24",
+  "solved_count": 11416,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 2\nBAB\n2 5\n3 4\nABA\n1 4 9 10\n5 2\nABABB\n1 7\n3 1\nBBA\n6\n1 4\nA\n1 3 4 1000000000",
+      "output": "\n\n4\n2 3 5 6 \n7\n1 2 3 4 6 9 10 \n7\n1 2 3 5 6 7 9 \n3\n2 4 6 \n5\n1 2 3 4 1000000000 "
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

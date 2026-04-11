@@ -1,0 +1,29 @@
+{
+  "problem_id": "1741E",
+  "contest_id": 1741,
+  "index": "E",
+  "title": "Sending a Sequence Over the Network",
+  "rating": 1600,
+  "raw_tags": [
+    "dp"
+  ],
+  "tags": [
+    "dp"
+  ],
+  "contest_date": "2022-10-11",
+  "solved_count": 17341,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n9\n1 1 2 3 1 3 2 2 3\n5\n12 1 2 7 5\n6\n5 7 8 9 10 3\n4\n4 8 6 2\n2\n3 1\n10\n4 6 2 1 9 4 9 3 4 2\n1\n1",
+      "output": "\nYES\nYES\nYES\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

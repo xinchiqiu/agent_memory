@@ -1,0 +1,33 @@
+{
+  "problem_id": "1620B",
+  "contest_id": 1620,
+  "index": "B",
+  "title": "Triangles on a Rectangle",
+  "rating": 1000,
+  "raw_tags": [
+    "geometry",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "geometry",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-12-18",
+  "solved_count": 30706,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n5 8\n2 1 2\n3 2 3 4\n3 1 4 6\n2 4 5\n10 7\n2 3 9\n2 1 7\n3 1 3 4\n3 4 5 6\n11 5\n3 1 6 8\n3 3 6 8\n3 1 3 4\n2 2 4\n",
+      "output": "\n25\n42\n35\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

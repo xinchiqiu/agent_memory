@@ -1,0 +1,39 @@
+{
+  "problem_id": "1994D",
+  "contest_id": 1994,
+  "index": "D",
+  "title": "Funny Game",
+  "rating": 1900,
+  "raw_tags": [
+    "constructive algorithms",
+    "dsu",
+    "graphs",
+    "greedy",
+    "math",
+    "number theory",
+    "trees"
+  ],
+  "tags": [
+    "constructive",
+    "union_find",
+    "graph_dfs",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-07-18",
+  "solved_count": 7270,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n2\n1 4\n4\n99 7 1 13\n5\n10 2 31 44 73\n5\n87 6 81 44 32\n5\n62 35 33 79 16\n5\n6 51 31 69 42\n5\n52 63 25 21 5\n12\n33 40 3 11 31 43 37 8 50 5 12 22",
+      "output": "\nYES\n2 1\nYES\n4 1\n2 1\n3 2\nYES\n5 1\n4 1\n3 1\n2 1\nYES\n4 1\n3 1\n2 1\n5 4\nYES\n3 1\n5 1\n2 1\n4 2\nYES\n4 1\n5 1\n2 1\n3 2\nYES\n2 1\n5 2\n3 1\n4 3\nYES\n9 1\n12 9\n11 1\n10 1\n6 1\n7 6\n2 1\n8 2\n5 2\n3 1\n4 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

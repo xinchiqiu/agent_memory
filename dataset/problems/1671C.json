@@ -1,0 +1,35 @@
+{
+  "problem_id": "1671C",
+  "contest_id": 1671,
+  "index": "C",
+  "title": "Dolce Vita",
+  "rating": 1200,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-04-22",
+  "solved_count": 24805,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 7\n2 1 2\n5 9\n10 20 30 40 50\n1 1\n1\n2 1000\n1 1",
+      "output": "\n11\n0\n1\n1500\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

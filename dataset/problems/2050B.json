@@ -1,0 +1,33 @@
+{
+  "problem_id": "2050B",
+  "contest_id": 2050,
+  "index": "B",
+  "title": "Transfusion",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-12-05",
+  "solved_count": 26829,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3\n3 2 1\n3\n1 1 3\n4\n1 2 5 4\n4\n1 6 6 1\n5\n6 2 1 4 2\n4\n1 4 2 1\n5\n3 1 2 1 3\n3\n2 4 2",
+      "output": "\nYES\nNO\nYES\nNO\nYES\nNO\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1611B",
+  "contest_id": 1611,
+  "index": "B",
+  "title": "Team Composition: Programmers and Mathematicians",
+  "rating": 800,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-11-25",
+  "solved_count": 31760,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6\n5 5\n10 1\n2 3\n0 0\n17 2\n1000000000 1000000000\n",
+      "output": "\n2\n1\n1\n0\n2\n500000000\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

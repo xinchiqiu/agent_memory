@@ -1,0 +1,33 @@
+{
+  "problem_id": "1748B",
+  "contest_id": 1748,
+  "index": "B",
+  "title": "Diverse Substrings",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-11-12",
+  "solved_count": 16710,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1\n7\n2\n77\n4\n1010\n5\n01100\n6\n399996\n5\n23456\n18\n789987887987998798",
+      "output": "\n1\n2\n10\n12\n10\n15\n106\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

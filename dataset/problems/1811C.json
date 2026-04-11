@@ -1,0 +1,31 @@
+{
+  "problem_id": "1811C",
+  "contest_id": 1811,
+  "index": "C",
+  "title": "Restore the Array",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2023-04-04",
+  "solved_count": 22145,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n5\n3 4 4 5\n4\n2 2 1\n5\n0 0 0 0\n6\n0 3 4 4 3\n2\n10\n4\n3 3 3\n5\n4 2 5 5\n4\n3 3 3\n4\n2 1 0\n3\n4 4\n6\n8 1 3 5 10",
+      "output": "\n3 0 4 0 5\n2 2 1 1\n0 0 0 0 0\n0 0 3 4 3 3\n10 10\n3 3 3 1\n4 2 2 5 5\n3 3 3 3\n2 1 0 0\n2 4 4\n8 1 1 3 5 10"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

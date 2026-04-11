@@ -1,0 +1,34 @@
+{
+  "problem_id": "2148G",
+  "contest_id": 2148,
+  "index": "G",
+  "title": "Farmer John's Last Wish",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-09-13",
+  "solved_count": 4080,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n8\n2 4 3 6 5 7 8 6\n6\n6 6 6 6 6 6\n9\n8 4 2 6 3 9 5 7 8",
+      "output": "\n0 1 2 3 3 3 4 5 \n0 0 0 0 0 0 \n0 1 2 2 4 4 4 4 5 \n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

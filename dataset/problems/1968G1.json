@@ -1,0 +1,38 @@
+{
+  "problem_id": "1968G1",
+  "contest_id": 1968,
+  "index": "G1",
+  "title": "Division + LCP (easy version)",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "hashing",
+    "string suffix structures",
+    "strings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "string_hashing",
+    "string_kmp"
+  ],
+  "contest_date": "2024-05-02",
+  "solved_count": 5214,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3 3 3\naba\n3 3 3\naaa\n7 2 2\nabacaba\n9 4 4\nabababcab\n10 1 1\ncodeforces\n9 3 3\nabafababa\n5 3 3\nzpozp",
+      "output": "\n0\n1\n3\n2\n10\n2\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

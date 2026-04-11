@@ -1,0 +1,35 @@
+{
+  "problem_id": "1808C",
+  "contest_id": 1808,
+  "index": "C",
+  "title": "Unlucky Numbers",
+  "rating": 1900,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-03-29",
+  "solved_count": 4285,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n59 63\n42 49\n48 53\n90 90\n1 100",
+      "output": "\n63\n44\n53\n90\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

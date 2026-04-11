@@ -1,0 +1,40 @@
+{
+  "problem_id": "2035E",
+  "contest_id": 2035,
+  "index": "E",
+  "title": "Monster",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "math",
+    "ternary search"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "constructive",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-10-27",
+  "solved_count": 1952,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 3 5 5\n10 20 40 5\n1 60 100 10\n60 1 100 10",
+      "output": "\n12\n190\n280\n160\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

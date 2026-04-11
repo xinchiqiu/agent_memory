@@ -1,0 +1,32 @@
+{
+  "problem_id": "1966A",
+  "contest_id": 1966,
+  "index": "A",
+  "title": "Card Exchange",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "games",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2024-04-27",
+  "solved_count": 19508,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5 3\n4 1 1 4 4\n1 10\n7\n7 2\n4 2 1 100 5 2 3\n10 4\n1 1 1 1 1 1 1 1 1 1\n5 2\n3 8 1 48 7\n6 2\n10 20 30 10 20 40\n6 3\n10 20 30 10 20 40",
+      "output": "\n2\n1\n1\n3\n5\n1\n6\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

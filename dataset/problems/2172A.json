@@ -1,0 +1,41 @@
+{
+  "problem_id": "2172A",
+  "contest_id": 2172,
+  "index": "A",
+  "title": "ASCII Art Contest",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2025-11-16",
+  "solved_count": 14079,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n88 94 95\n",
+      "output": "\nfinal 94\n"
+    },
+    {
+      "input": "\n100 80 81\n",
+      "output": "\ncheck again\n"
+    },
+    {
+      "input": "\n98 99 98\n",
+      "output": "\nfinal 98\n"
+    },
+    {
+      "input": "\n95 86 85\n",
+      "output": "\ncheck again\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

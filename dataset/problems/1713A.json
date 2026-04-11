@@ -1,0 +1,33 @@
+{
+  "problem_id": "1713A",
+  "contest_id": 1713,
+  "index": "A",
+  "title": "Traveling Salesman Problem",
+  "rating": 800,
+  "raw_tags": [
+    "geometry",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "geometry",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2022-08-06",
+  "solved_count": 22779,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n0 -2\n1 0\n-1 0\n0 2\n3\n0 2\n-3 0\n0 -1\n1\n0 0",
+      "output": "\n12\n12\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

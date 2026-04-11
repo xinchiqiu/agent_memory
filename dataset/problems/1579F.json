@@ -1,0 +1,36 @@
+{
+  "problem_id": "1579F",
+  "contest_id": 1579,
+  "index": "F",
+  "title": "Array Stabilization (AND version)",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "graphs",
+    "math",
+    "number theory",
+    "shortest paths"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "math_number_theory",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2021-09-28",
+  "solved_count": 5315,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n2 1\n0 1\n3 2\n0 1 0\n5 2\n1 1 0 1 0\n4 2\n0 1 0 1\n1 1\n0\n",
+      "output": "\n1\n1\n3\n-1\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

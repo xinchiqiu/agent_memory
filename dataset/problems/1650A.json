@@ -1,0 +1,31 @@
+{
+  "problem_id": "1650A",
+  "contest_id": 1650,
+  "index": "A",
+  "title": "Deletions of Two Adjacent Letters",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-03-08",
+  "solved_count": 37178,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\nabcde\nc\nabcde\nb\nx\ny\naaaaaaaaaaaaaaa\na\ncontest\nt",
+      "output": "\nYES\nNO\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

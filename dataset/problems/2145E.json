@@ -1,0 +1,35 @@
+{
+  "problem_id": "2145E",
+  "contest_id": 2145,
+  "index": "E",
+  "title": "Predicting Popularity",
+  "rating": 2100,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2025-10-06",
+  "solved_count": 2949,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n20 25\n4\n1 22 1 30\n1 22 50 30\n5\n3 1 25\n2 23 22\n4 10 27\n1 21 21\n3 20 26",
+      "output": "\n3\n2\n4\n4\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

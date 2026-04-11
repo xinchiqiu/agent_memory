@@ -1,0 +1,29 @@
+{
+  "problem_id": "1935B",
+  "contest_id": 1935,
+  "index": "B",
+  "title": "Informatics in MAC",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2024-03-05",
+  "solved_count": 20791,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n0 0\n5\n0 1 2 3 4\n8\n0 1 7 1 0 1 0 3\n3\n2 2 2\n4\n0 1 2 0",
+      "output": "\n2\n1 1\n2 2\n-1\n3\n1 3\n4 5\n6 8\n3\n1 1\n2 2\n3 3\n-1"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "2113C",
+  "contest_id": 2113,
+  "index": "C",
+  "title": "Smilo and Minecraft",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2025-06-15",
+  "solved_count": 7849,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 3 1\n#.#\ng.g\n2 3 2\n#.#\ng.g\n3 4 2\n.gg.\ng..#\ng##.",
+      "output": "\n2\n0\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "1943D1",
+  "contest_id": 1943,
+  "index": "D1",
+  "title": "Counting Is Fun (Easy Version)",
+  "rating": 2400,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-03-16",
+  "solved_count": 1921,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3 1 998244853\n4 1 998244353\n3 2 998244353\n343 343 998244353",
+      "output": "\n4\n7\n10\n456615865\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

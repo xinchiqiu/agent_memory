@@ -1,0 +1,30 @@
+{
+  "problem_id": "1910C",
+  "contest_id": 1910,
+  "index": "C",
+  "title": "Poisonous Swamp",
+  "rating": 1600,
+  "raw_tags": [
+    "*special",
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2023-12-11",
+  "solved_count": 732,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5\n*..**\n.**..\n1\n*\n.\n3\n...\n***",
+      "output": "\n2\n0\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

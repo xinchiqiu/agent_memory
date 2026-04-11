@@ -1,0 +1,31 @@
+{
+  "problem_id": "2027B",
+  "contest_id": 2027,
+  "index": "B",
+  "title": "Stalin Sort",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy"
+  ],
+  "contest_date": "2024-10-26",
+  "solved_count": 17585,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n7\n3 6 4 9 2 5 2\n5\n5 4 4 2 2\n8\n2 2 4 4 6 6 10 10\n1\n1000\n9\n6 8 9 10 12 9 7 5 4\n7\n300000000 600000000 400000000 900000000 200000000 400000000 200000000",
+      "output": "\n2\n0\n6\n0\n4\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

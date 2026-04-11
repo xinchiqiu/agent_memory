@@ -1,0 +1,38 @@
+{
+  "problem_id": "2114G",
+  "contest_id": 2114,
+  "index": "G",
+  "title": "Build an Array",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-05-26",
+  "solved_count": 2002,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3 3\n2 1 4\n3 7\n2 1 4\n2 15\n2 16\n3 10\n256 32 1\n3 289\n768 96 1\n3 290\n768 96 1\n5 7\n5 1 6 3 10\n4 6\n6 8 5 10",
+      "output": "\nYES\nNO\nYES\nYES\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

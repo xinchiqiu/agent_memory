@@ -1,0 +1,37 @@
+{
+  "problem_id": "2153C",
+  "contest_id": 2153,
+  "index": "C",
+  "title": "Symmetrical Polygons",
+  "rating": 1500,
+  "raw_tags": [
+    "constructive algorithms",
+    "geometry",
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "geometry",
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2025-10-10",
+  "solved_count": 11573,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n5 5 7\n3\n4 5 7\n3\n5 5 10\n7\n4 3 5 1 5 3 3\n4\n2 3 5 7",
+      "output": "\n\n17\n0\n0\n23\n0"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

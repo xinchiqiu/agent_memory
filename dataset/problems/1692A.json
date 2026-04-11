@@ -1,0 +1,29 @@
+{
+  "problem_id": "1692A",
+  "contest_id": 1692,
+  "index": "A",
+  "title": "Marathon",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-06-14",
+  "solved_count": 84550,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2 3 4 1\n10000 0 1 2\n500 600 400 300\n0 9999 10000 9998",
+      "output": "\n2\n0\n1\n3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

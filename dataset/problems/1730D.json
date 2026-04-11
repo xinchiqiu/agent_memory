@@ -1,0 +1,33 @@
+{
+  "problem_id": "1730D",
+  "contest_id": 1730,
+  "index": "D",
+  "title": "Prefixes and Suffixes",
+  "rating": 2200,
+  "raw_tags": [
+    "constructive algorithms",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "constructive",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2022-09-25",
+  "solved_count": 3006,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n3\ncbc\naba\n5\nabcaa\ncbabb\n5\nabcaa\ncbabz\n1\na\na\n1\na\nb\n6\nabadaa\nadaaba\n8\nabcabdaa\nadabcaba",
+      "output": "\nYES\nYES\nNO\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

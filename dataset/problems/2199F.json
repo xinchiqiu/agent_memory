@@ -1,0 +1,32 @@
+{
+  "problem_id": "2199F",
+  "contest_id": 2199,
+  "index": "F",
+  "title": "Self-Produced Sequences",
+  "rating": 2000,
+  "raw_tags": [
+    "*special",
+    "combinatorics",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2026-03-02",
+  "solved_count": 120,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n1 1 2\n2\n0 0\n5\n0 1 0 1 0\n6\n1 0 2 2 1 1\n11\n2 0 3 1 0 0 2 3 0 3 2",
+      "output": "\n\n2\n4\n12\n8\n41"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

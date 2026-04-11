@@ -1,0 +1,31 @@
+{
+  "problem_id": "1987D",
+  "contest_id": 1987,
+  "index": "D",
+  "title": "World is Mine",
+  "rating": 1800,
+  "raw_tags": [
+    "dp",
+    "games"
+  ],
+  "tags": [
+    "dp",
+    "constructive"
+  ],
+  "contest_date": "2024-06-30",
+  "solved_count": 8621,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n9\n4\n1 4 2 3\n3\n1 1 1\n5\n1 4 2 3 4\n4\n3 4 1 4\n1\n1\n8\n4 3 2 5 6 8 3 4\n7\n6 1 1 3 5 3 1\n11\n6 11 6 8 7 5 3 11 2 3 5\n17\n2 6 5 3 9 1 6 2 5 6 3 2 3 9 6 1 6",
+      "output": "\n2\n1\n3\n2\n1\n3\n2\n4\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

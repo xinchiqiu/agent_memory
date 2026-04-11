@@ -1,0 +1,33 @@
+{
+  "problem_id": "1759E",
+  "contest_id": 1759,
+  "index": "E",
+  "title": "The Humanoid",
+  "rating": 1500,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "sortings"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "sorting"
+  ],
+  "contest_date": "2022-11-18",
+  "solved_count": 12427,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n4 1\n2 1 8 9\n3 3\n6 2 60\n4 5\n5 1 100 5\n3 2\n38 6 3\n1 1\n12\n4 6\n12 12 36 100\n4 1\n2 1 1 15\n3 5\n15 1 13",
+      "output": "\n4\n3\n3\n3\n0\n4\n4\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

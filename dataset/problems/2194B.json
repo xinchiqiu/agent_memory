@@ -1,0 +1,33 @@
+{
+  "problem_id": "2194B",
+  "contest_id": 2194,
+  "index": "B",
+  "title": "Offshores",
+  "rating": 1000,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2026-02-08",
+  "solved_count": 17044,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n4 5 4\n10 9 8 7\n5 13 11\n47 52 64 13 91\n2 1 1\n1000 1000\n3 15 14\n34 43 52\n6 7 6\n15 17 14 15 12 16\n2 15 10\n45 44",
+      "output": "\n\n25\n229\n2000\n113\n72\n74"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

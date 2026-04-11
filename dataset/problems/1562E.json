@@ -1,0 +1,35 @@
+{
+  "problem_id": "1562E",
+  "contest_id": 1562,
+  "index": "E",
+  "title": "Rescue Niwen!",
+  "rating": 2500,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "string suffix structures",
+    "strings"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "string_kmp",
+    "string_hashing"
+  ],
+  "contest_date": "2021-08-26",
+  "solved_count": 1563,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\n5\nacbac\n8\nacabacba\n12\naaaaaaaaaaaa\n10\nabacabadac\n8\ndcbaabcd\n3\ncba\n6\nsparky\n",
+      "output": "\n9\n17\n12\n29\n14\n3\n9\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

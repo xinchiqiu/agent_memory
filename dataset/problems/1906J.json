@@ -1,0 +1,43 @@
+{
+  "problem_id": "1906J",
+  "contest_id": 1906,
+  "index": "J",
+  "title": "Count BFS Graph",
+  "rating": 2100,
+  "raw_tags": [
+    "combinatorics",
+    "dp"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp"
+  ],
+  "contest_date": "2023-12-03",
+  "solved_count": 1075,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1 2 3\n",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n3\n1 3 2\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n5\n1 3 2 4 5\n",
+      "output": "\n17\n"
+    },
+    {
+      "input": "\n11\n1 2 3 4 5 6 7 8 9 10 11\n",
+      "output": "\n379394847\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,39 @@
+{
+  "problem_id": "1933G",
+  "contest_id": 1933,
+  "index": "G",
+  "title": "Turtle Magic: Royal Turtle Shell Pattern",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "combinatorics",
+    "constructive algorithms",
+    "dfs and similar",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "math_combinatorics",
+    "constructive",
+    "graph_dfs",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-27",
+  "solved_count": 1165,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n6 7 4\n3 3 circle\n3 6 square\n5 3 circle\n5 4 square\n5 5 3\n1 1 circle\n1 2 circle\n1 3 circle",
+      "output": "\n8\n4\n3\n1\n0\n8\n4\n1\n0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

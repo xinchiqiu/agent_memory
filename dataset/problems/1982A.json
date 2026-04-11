@@ -1,0 +1,35 @@
+{
+  "problem_id": "1982A",
+  "contest_id": 1982,
+  "index": "A",
+  "title": "Soccer",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2024-06-25",
+  "solved_count": 27311,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1 0\n5 0\n1 2\n3 2\n1 2\n4 5\n1 2\n4 3\n1 2\n1 2\n998244353 0\n1000000000 999999999",
+      "output": "\nYES\nNO\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1633A",
+  "contest_id": 1633,
+  "index": "A",
+  "title": "Div. 7",
+  "rating": 800,
+  "raw_tags": [
+    "brute force"
+  ],
+  "tags": [
+    "brute_force"
+  ],
+  "contest_date": "2022-01-31",
+  "solved_count": 35890,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n42\n23\n377",
+      "output": "\n42\n28\n777\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

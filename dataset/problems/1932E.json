@@ -1,0 +1,32 @@
+{
+  "problem_id": "1932E",
+  "contest_id": 1932,
+  "index": "E",
+  "title": "Final Countdown",
+  "rating": 1600,
+  "raw_tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-18",
+  "solved_count": 10073,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n42\n5\n12345\n2\n99\n4\n0005\n27\n456480697259671309012631002",
+      "output": "\n46\n13715\n108\n5\n507200774732968121125145546\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

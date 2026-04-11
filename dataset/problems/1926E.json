@@ -1,0 +1,38 @@
+{
+  "problem_id": "1926E",
+  "contest_id": 1926,
+  "index": "E",
+  "title": "Vlad and an Odd Ordering",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "data structures",
+    "dp",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-19",
+  "solved_count": 14715,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n7 1\n7 2\n7 3\n7 4\n7 5\n7 6\n7 7\n1 1\n34 14\n84 19\n1000000000 1000000000",
+      "output": "\n1\n3\n5\n7\n2\n6\n4\n1\n27\n37\n536870912\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

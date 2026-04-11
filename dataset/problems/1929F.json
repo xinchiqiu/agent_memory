@@ -1,0 +1,38 @@
+{
+  "problem_id": "1929F",
+  "contest_id": 1929,
+  "index": "F",
+  "title": "Sasha and the Wedding Binary Search Tree",
+  "rating": 2300,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "data structures",
+    "dfs and similar",
+    "math",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "implementation",
+    "graph_dfs",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-15",
+  "solved_count": 2246,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 5\n2 3 -1\n-1 -1 2\n4 -1 3\n-1 5 -1\n-1 -1 -1\n3 69\n2 3 47\n-1 -1 13\n-1 -1 69\n3 3\n2 3 -1\n-1 -1 -1\n-1 -1 -1",
+      "output": "\n4\n1\n10\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

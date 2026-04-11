@@ -1,0 +1,29 @@
+{
+  "problem_id": "1711A",
+  "contest_id": 1711,
+  "index": "A",
+  "title": "Perfect Permutation",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2022-07-24",
+  "solved_count": 26373,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n1\n4",
+      "output": "\n1\n2 1 4 3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

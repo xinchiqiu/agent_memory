@@ -1,0 +1,33 @@
+{
+  "problem_id": "2000A",
+  "contest_id": 2000,
+  "index": "A",
+  "title": "Primary Task",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2024-08-13",
+  "solved_count": 43805,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n100\n1010\n101\n105\n2033\n1019\n1002",
+      "output": "\nNO\nYES\nNO\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

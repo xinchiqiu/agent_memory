@@ -1,0 +1,43 @@
+{
+  "problem_id": "2063D",
+  "contest_id": 2063,
+  "index": "D",
+  "title": "Game With Triangles",
+  "rating": 2000,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "geometry",
+    "greedy",
+    "implementation",
+    "math",
+    "ternary search",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "geometry",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2025-01-22",
+  "solved_count": 4937,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1 3\n0\n0 1 -1\n2 4\n0 100\n-100 -50 0 50\n2 4\n0 1000\n-100 -50 0 50\n6 6\n20 1 27 100 43 42\n100 84 1 24 22 77\n8 2\n564040265 -509489796 469913620 198872582 -400714529 553177666 131159391 -20796763\n-1000000000 1000000000",
+      "output": "\n1\n2\n2\n150 200\n2\n1000 200\n4\n99 198 260 283\n2\n2000000000 2027422256\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

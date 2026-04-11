@@ -1,0 +1,34 @@
+{
+  "problem_id": "1719C",
+  "contest_id": 1719,
+  "index": "C",
+  "title": "Fighting Tournament",
+  "rating": 1400,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "two_pointers"
+  ],
+  "contest_date": "2022-08-16",
+  "solved_count": 14316,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3 1\n3 1 2\n1 2\n4 2\n1 3 4 2\n4 5\n3 2\n5 2\n1 2 3 5 4\n5 1000000000\n4 6",
+      "output": "\n2\n0\n1\n0\n4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "1830C",
+  "contest_id": 1830,
+  "index": "C",
+  "title": "Hyperregular Bracket Strings",
+  "rating": 2400,
+  "raw_tags": [
+    "combinatorics",
+    "greedy",
+    "hashing",
+    "math",
+    "number theory",
+    "sortings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "greedy",
+    "string_hashing",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2023-05-28",
+  "solved_count": 2147,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n6 0\n5 0\n8 1\n1 3\n10 2\n3 4\n6 9\n1000 3\n100 701\n200 801\n300 901\n28 5\n1 12\n3 20\n11 14\n4 9\n18 19\n4 3\n1 4\n1 4\n1 4",
+      "output": "\n5\n0\n0\n4\n839415253\n140\n2\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

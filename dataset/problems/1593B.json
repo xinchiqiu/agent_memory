@@ -1,0 +1,35 @@
+{
+  "problem_id": "1593B",
+  "contest_id": 1593,
+  "index": "B",
+  "title": "Make it Divisible by 25",
+  "rating": 900,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-13",
+  "solved_count": 39663,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n100\n71345\n3259\n50555\n2050047\n",
+      "output": "\n0\n3\n1\n3\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

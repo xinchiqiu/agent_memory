@@ -1,0 +1,37 @@
+{
+  "problem_id": "2181A",
+  "contest_id": 2181,
+  "index": "A",
+  "title": "Alphabet City",
+  "rating": 1300,
+  "raw_tags": [
+    "binary search",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "binary_search",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2025-12-17",
+  "solved_count": 3540,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3 10\nNEERC\nNERC\nNEF",
+      "output": "\n9 9 -1\n"
+    },
+    {
+      "input": "\n\n4 4\nLENSE\nTEN\nSENSELESSNESSES\nLENSE",
+      "output": "\n3 -1 0 3\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

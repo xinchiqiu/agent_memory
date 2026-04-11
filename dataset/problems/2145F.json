@@ -1,0 +1,40 @@
+{
+  "problem_id": "2145F",
+  "contest_id": 2145,
+  "index": "F",
+  "title": "Long Journey",
+  "rating": 2500,
+  "raw_tags": [
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "graphs",
+    "greedy",
+    "math",
+    "matrices",
+    "number theory"
+  ],
+  "tags": [
+    "graph_dfs",
+    "divide_and_conquer",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-10-06",
+  "solved_count": 946,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2 5\n2 2\n0 1\n2 5\n2 2\n1 0\n1 7\n3\n2\n4 212398151713\n3 2 5 2\n0 1 3 0\n2 4\n3 4\n0 0",
+      "output": "\n\n5\n6\n-1\n424796303424\n5"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

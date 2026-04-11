@@ -1,0 +1,33 @@
+{
+  "problem_id": "2052F",
+  "contest_id": 2052,
+  "index": "F",
+  "title": "Fix Flooded Floor",
+  "rating": 1700,
+  "raw_tags": [
+    "constructive algorithms",
+    "dp",
+    "graphs"
+  ],
+  "tags": [
+    "constructive",
+    "dp",
+    "graph_dfs"
+  ],
+  "contest_date": "2024-12-15",
+  "solved_count": 3676,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n10\n#.......##\n##..#.##..\n6\n...#..\n..#...\n8\n........\n........\n3\n###\n###",
+      "output": "\nUnique\nNone\nMultiple\nUnique\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1989B",
+  "contest_id": 1989,
+  "index": "B",
+  "title": "Substring and Subsequence",
+  "rating": 1200,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2024-06-27",
+  "solved_count": 23178,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\naba\ncb\ner\ncf\nmmm\nmmm\ncontest\ntest\ncde\nabcefg",
+      "output": "\n4\n4\n3\n7\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

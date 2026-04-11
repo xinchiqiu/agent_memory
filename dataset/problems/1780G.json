@@ -1,0 +1,50 @@
+{
+  "problem_id": "1780G",
+  "contest_id": 1780,
+  "index": "G",
+  "title": "Delicious Dessert",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "dsu",
+    "hashing",
+    "math",
+    "number theory",
+    "string suffix structures"
+  ],
+  "tags": [
+    "binary_search",
+    "union_find",
+    "string_hashing",
+    "math_number_theory",
+    "string_kmp"
+  ],
+  "contest_date": "2023-01-25",
+  "solved_count": 975,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7\nabacaba\n",
+      "output": "\n11\n"
+    },
+    {
+      "input": "\n8\nabaababa\n",
+      "output": "\n11\n"
+    },
+    {
+      "input": "\n10\ndeadinside\n",
+      "output": "\n12\n"
+    },
+    {
+      "input": "\n5\naaaaa\n",
+      "output": "\n12\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

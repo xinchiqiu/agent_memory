@@ -1,0 +1,39 @@
+{
+  "problem_id": "1666E",
+  "contest_id": 1666,
+  "index": "E",
+  "title": "Even Split",
+  "rating": 2500,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-04-13",
+  "solved_count": 877,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n6 3\n1 3 5\n",
+      "output": "\n0 2\n2 4\n4 6\n"
+    },
+    {
+      "input": "\n10 2\n1 2\n",
+      "output": "\n0 2\n2 10\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

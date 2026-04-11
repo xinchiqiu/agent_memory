@@ -1,0 +1,29 @@
+{
+  "problem_id": "1818B",
+  "contest_id": 1818,
+  "index": "B",
+  "title": "Indivisible",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2023-04-29",
+  "solved_count": 16954,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n1\n2\n3\n",
+      "output": "\n1\n1 2\n-1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

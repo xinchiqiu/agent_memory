@@ -1,0 +1,31 @@
+{
+  "problem_id": "2196A",
+  "contest_id": 2196,
+  "index": "A",
+  "title": "Game with a Fraction",
+  "rating": 1200,
+  "raw_tags": [
+    "games",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2026-02-11",
+  "solved_count": 14463,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n4 6\n10 14\n15 15\n7 12\n7000000000000000 10487275715782582\n1000000000000000000 1000000000000000000",
+      "output": "\n\nBob\nBob\nAlice\nAlice\nBob\nAlice"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

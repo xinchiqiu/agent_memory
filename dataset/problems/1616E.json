@@ -1,0 +1,35 @@
+{
+  "problem_id": "1616E",
+  "contest_id": 1616,
+  "index": "E",
+  "title": "Lexicographically Small Enough",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2021-12-29",
+  "solved_count": 2696,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4\n1\na\na\n3\nrll\nrrr\n3\ncaa\naca\n5\nababa\naabba\n",
+      "output": "\n-1\n0\n2\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

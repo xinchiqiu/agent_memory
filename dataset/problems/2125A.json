@@ -1,0 +1,35 @@
+{
+  "problem_id": "2125A",
+  "contest_id": 2125,
+  "index": "A",
+  "title": "Difficult Contest",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2025-07-22",
+  "solved_count": 27727,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\nFFT\nABFBANTTA\nFFTNTT\nFFTFFTFFTNNTNNT\nAFFTBFFNTTFTTZ",
+      "output": "\nFTF\nABFBANATT\nNTFTFT\nTFFFFFFNTNTNTNT\nAFTFBTTFFNFTTZ\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

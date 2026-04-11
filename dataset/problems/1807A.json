@@ -1,0 +1,29 @@
+{
+  "problem_id": "1807A",
+  "contest_id": 1807,
+  "index": "A",
+  "title": "Plus or Minus",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2023-03-19",
+  "solved_count": 83235,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n1 2 3\n3 2 1\n2 9 -7\n3 4 7\n1 1 2\n1 1 0\n3 3 6\n9 9 18\n9 9 0\n1 9 -8\n1 9 10",
+      "output": "\n+\n-\n-\n+\n+\n-\n+\n+\n-\n-\n+\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

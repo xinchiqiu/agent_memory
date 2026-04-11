@@ -1,0 +1,29 @@
+{
+  "problem_id": "1695A",
+  "contest_id": 1695,
+  "index": "A",
+  "title": "Subrectangle Guess",
+  "rating": 800,
+  "raw_tags": [
+    "games"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2022-06-18",
+  "solved_count": 16772,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1 1\n3\n4 4\n2 12 6 10\n3 15 16 4\n1 13 8 11\n14 7 9 5\n2 3\n-7 5 2\n0 8 -3",
+      "output": "\n1\n9\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

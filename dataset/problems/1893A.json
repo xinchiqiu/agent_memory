@@ -1,0 +1,34 @@
+{
+  "problem_id": "1893A",
+  "contest_id": 1893,
+  "index": "A",
+  "title": "Anonymous Informant",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "dfs and similar",
+    "graphs",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "graph_dfs",
+    "implementation"
+  ],
+  "contest_date": "2023-11-07",
+  "solved_count": 14825,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5 3\n4 3 3 2 3\n3 100\n7 2 1\n5 5\n6 1 1 1 1\n1 1000000000\n1\n8 48\n9 10 11 12 13 14 15 8\n2 1\n1 42",
+      "output": "\nYes\nYes\nNo\nYes\nYes\nNo\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

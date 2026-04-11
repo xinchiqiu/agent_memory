@@ -1,0 +1,29 @@
+{
+  "problem_id": "1989A",
+  "contest_id": 1989,
+  "index": "A",
+  "title": "Catch the Coin",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2024-06-27",
+  "solved_count": 29224,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n24 42\n-2 -1\n-1 -2\n0 -50\n15 0",
+      "output": "\nYES\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

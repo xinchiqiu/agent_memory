@@ -1,0 +1,36 @@
+{
+  "problem_id": "2020A",
+  "contest_id": 2020,
+  "index": "A",
+  "title": "Find Minimum Operations",
+  "rating": 800,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-09-29",
+  "solved_count": 25743,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5 2\n3 5\n16 4\n100 3\n6492 10\n10 1",
+      "output": "\n2\n3\n1\n4\n21\n10\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

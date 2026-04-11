@@ -1,0 +1,29 @@
+{
+  "problem_id": "1644A",
+  "contest_id": 1644,
+  "index": "A",
+  "title": "Doors and Keys",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-02-22",
+  "solved_count": 28567,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\nrgbBRG\nRgbrBG\nbBrRgG\nrgRGBb",
+      "output": "\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

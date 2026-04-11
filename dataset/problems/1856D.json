@@ -1,0 +1,31 @@
+{
+  "problem_id": "1856D",
+  "contest_id": 1856,
+  "index": "D",
+  "title": "More Wrong",
+  "rating": 2100,
+  "raw_tags": [
+    "divide and conquer",
+    "interactive"
+  ],
+  "tags": [
+    "divide_and_conquer",
+    "implementation"
+  ],
+  "contest_date": "2023-08-05",
+  "solved_count": 3717,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n4\n\n1\n\n0\n\n2\n\n1",
+      "output": "\n\n? 1 3\n\n? 3 4\n\n! 4\n\n? 1 2\n\n! 1"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

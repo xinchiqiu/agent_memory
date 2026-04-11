@@ -1,0 +1,33 @@
+{
+  "problem_id": "2013B",
+  "contest_id": 2013,
+  "index": "B",
+  "title": "Battle for Survive",
+  "rating": 900,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-09-20",
+  "solved_count": 28001,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n2 1\n3\n2 2 8\n4\n1 2 4 3\n5\n1 2 3 4 5\n5\n3 2 4 5 4",
+      "output": "\n-1\n8\n2\n7\n8\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

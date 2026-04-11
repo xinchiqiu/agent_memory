@@ -1,0 +1,34 @@
+{
+  "problem_id": "1780D",
+  "contest_id": 1780,
+  "index": "D",
+  "title": "Bit Guessing Game",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "bitmasks",
+    "constructive algorithms",
+    "interactive"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "constructive"
+  ],
+  "contest_date": "2023-01-25",
+  "solved_count": 5756,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n\n1\n\n0\n\n1\n\n1\n\n0\n\n2\n\n1\n\n0",
+      "output": "\n- 1\n\n! 1\n\n- 1\n\n- 1\n\n! 2\n\n- 2\n\n- 1\n\n! 3"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

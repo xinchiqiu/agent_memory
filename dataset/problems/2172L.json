@@ -1,0 +1,39 @@
+{
+  "problem_id": "2172L",
+  "contest_id": 2172,
+  "index": "L",
+  "title": "Maximum Color Segment",
+  "rating": 2300,
+  "raw_tags": [
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2025-11-16",
+  "solved_count": 770,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5 4 3\nRRBRR",
+      "output": "\n5\n"
+    },
+    {
+      "input": "\n\n10 3 3\nRRRRBBRRRB",
+      "output": "\n8\n"
+    },
+    {
+      "input": "\n\n7 4 7\nRRBRBBR",
+      "output": "\n5\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

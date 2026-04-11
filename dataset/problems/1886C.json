@@ -1,0 +1,31 @@
+{
+  "problem_id": "1886C",
+  "contest_id": 1886,
+  "index": "C",
+  "title": "Decreasing String",
+  "rating": 1600,
+  "raw_tags": [
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2023-10-09",
+  "solved_count": 16187,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\ncab\n6\nabcd\n9\nx\n1",
+      "output": "\nabx"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

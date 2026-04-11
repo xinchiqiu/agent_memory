@@ -1,0 +1,32 @@
+{
+  "problem_id": "2199E",
+  "contest_id": 2199,
+  "index": "E",
+  "title": "Supersequence",
+  "rating": 2100,
+  "raw_tags": [
+    "*special",
+    "binary search",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy"
+  ],
+  "contest_date": "2026-03-02",
+  "solved_count": 161,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5 16\n4 1 1 5 9\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16",
+      "output": "\n4 3 2 1 0 1 2 3 4 5 6 7 8 9 -1 -1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1744C",
+  "contest_id": 1744,
+  "index": "C",
+  "title": "Traffic Light",
+  "rating": 1000,
+  "raw_tags": [
+    "binary search",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "two_pointers"
+  ],
+  "contest_date": "2022-10-16",
+  "solved_count": 42790,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5 r\nrggry\n1 g\ng\n3 r\nrrg\n5 y\nyrrgy\n7 r\nrgrgyrg\n9 y\nrrrgyyygy",
+      "output": "\n3\n0\n2\n4\n1\n4\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

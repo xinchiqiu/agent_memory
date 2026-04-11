@@ -1,0 +1,31 @@
+{
+  "problem_id": "2103B",
+  "contest_id": 2103,
+  "index": "B",
+  "title": "Binary Typewriter",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-04-21",
+  "solved_count": 17518,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n000\n3\n111\n3\n011\n3\n100\n5\n10101\n19\n1101010010011011100",
+      "output": "\n3\n4\n4\n4\n8\n29\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

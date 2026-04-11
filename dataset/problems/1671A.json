@@ -1,0 +1,29 @@
+{
+  "problem_id": "1671A",
+  "contest_id": 1671,
+  "index": "A",
+  "title": "String Building",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-04-22",
+  "solved_count": 21347,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\naaaabbb\nbbaaaaabbb\naaaaaa\nabab\na\nb\naaaab\nbbaaa",
+      "output": "\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

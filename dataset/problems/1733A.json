@@ -1,0 +1,31 @@
+{
+  "problem_id": "1733A",
+  "contest_id": 1733,
+  "index": "A",
+  "title": "Consecutive Sum",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-09-19",
+  "solved_count": 21812,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 2\n5 6 0\n1 1\n7\n5 3\n7 0 4 0 4\n4 2\n2 7 3 4\n3 3\n1000000000 1000000000 999999997",
+      "output": "\n11\n7\n15\n10\n2999999997\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

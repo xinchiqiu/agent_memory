@@ -1,0 +1,31 @@
+{
+  "problem_id": "1833C",
+  "contest_id": 1833,
+  "index": "C",
+  "title": "Vlad Building Beautiful Array",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-05-19",
+  "solved_count": 27802,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5\n2 6 8 4 3\n5\n1 4 7 6 9\n4\n2 6 4 10\n7\n5 29 13 9 10000001 11 3\n5\n2 1 2 4 2\n5\n2 4 5 4 3\n4\n2 5 5 4",
+      "output": "\nNO\nYES\nYES\nYES\nYES\nNO\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

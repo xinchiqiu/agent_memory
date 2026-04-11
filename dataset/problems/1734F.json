@@ -1,0 +1,35 @@
+{
+  "problem_id": "1734F",
+  "contest_id": 1734,
+  "index": "F",
+  "title": "Zeros and Ones",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "divide and conquer",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "divide_and_conquer",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-09-23",
+  "solved_count": 957,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1 1\n5 10\n34 211\n73 34\n19124639 56348772\n12073412269 96221437021",
+      "output": "\n1\n6\n95\n20\n28208137\n48102976088\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

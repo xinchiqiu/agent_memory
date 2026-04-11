@@ -1,0 +1,29 @@
+{
+  "problem_id": "2081B",
+  "contest_id": 2081,
+  "index": "B",
+  "title": "Balancing",
+  "rating": 2500,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2025-03-15",
+  "solved_count": 982,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n3 2 1\n3\n3 1 2\n4\n-2 -5 5 2\n7\n1 9 1 9 8 1 0",
+      "output": "\n2\n1\n1\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1791F",
+  "contest_id": 1791,
+  "index": "F",
+  "title": "Range Update Point Query",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2023-02-03",
+  "solved_count": 15349,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n5 8\n1 420 69 1434 2023\n1 2 3\n2 2\n2 3\n2 4\n1 2 5\n2 1\n2 3\n2 5\n2 3\n9999 1000\n1 1 2\n2 1\n2 2\n1 1\n1\n2 1",
+      "output": "\n6\n15\n1434\n1\n6\n7\n36\n1\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

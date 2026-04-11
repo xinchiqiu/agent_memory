@@ -1,0 +1,45 @@
+{
+  "problem_id": "1765F",
+  "contest_id": 1765,
+  "index": "F",
+  "title": "Chemistry Lab",
+  "rating": 2200,
+  "raw_tags": [
+    "dp",
+    "geometry",
+    "probabilities"
+  ],
+  "tags": [
+    "dp",
+    "geometry",
+    "math_combinatorics"
+  ],
+  "contest_date": "2022-11-27",
+  "solved_count": 751,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2 10\n0 10 20\n100 15 20\n",
+      "output": "\n175.000000000000000\n"
+    },
+    {
+      "input": "\n2 10\n0 100 20\n100 150 20\n",
+      "output": "\n0.000000000000000\n"
+    },
+    {
+      "input": "\n6 15\n79 5 35\n30 13 132\n37 3 52\n24 2 60\n76 18 14\n71 17 7\n",
+      "output": "\n680.125000000000000\n"
+    },
+    {
+      "input": "\n10 15\n46 11 11\n4 12 170\n69 2 130\n2 8 72\n82 7 117\n100 5 154\n38 9 146\n97 1 132\n0 12 82\n53 1 144\n",
+      "output": "\n2379.400000000000000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

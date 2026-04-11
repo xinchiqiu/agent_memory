@@ -1,0 +1,29 @@
+{
+  "problem_id": "1676H1",
+  "contest_id": 1676,
+  "index": "H1",
+  "title": "Maximum Crossings (Easy Version)",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force"
+  ],
+  "tags": [
+    "brute_force"
+  ],
+  "contest_date": "2022-05-10",
+  "solved_count": 16180,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n7\n4 1 4 6 7 7 5\n2\n2 1\n1\n1\n3\n2 2 2",
+      "output": "\n6\n1\n0\n3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

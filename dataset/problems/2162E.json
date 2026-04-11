@@ -1,0 +1,32 @@
+{
+  "problem_id": "2162E",
+  "contest_id": 2162,
+  "index": "E",
+  "title": "Beautiful Palindromes",
+  "rating": 1600,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "schedules"
+  ],
+  "tags": [
+    "constructive",
+    "greedy"
+  ],
+  "contest_date": "2025-10-17",
+  "solved_count": 9052,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 1\n1 3 3 4\n4 2\n2 2 2 2\n5 1\n4 1 5 2 2\n6 3\n1 2 3 4 5 6\n5 3\n3 2 5 2 3",
+      "output": "\n\n2 \n1 3 \n3 \n3 4 1\n4 1 5"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

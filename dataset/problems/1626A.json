@@ -1,0 +1,31 @@
+{
+  "problem_id": "1626A",
+  "contest_id": 1626,
+  "index": "A",
+  "title": "Equidistant Letters",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "sorting"
+  ],
+  "contest_date": "2022-01-16",
+  "solved_count": 30803,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\noelhl\nabcdcba\nac",
+      "output": "\nhello\nababcdc\nac\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

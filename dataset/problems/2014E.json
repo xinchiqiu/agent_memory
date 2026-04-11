@@ -1,0 +1,32 @@
+{
+  "problem_id": "2014E",
+  "contest_id": 2014,
+  "index": "E",
+  "title": "Rendez-vous de Marian et Robin",
+  "rating": 1800,
+  "raw_tags": [
+    "dfs and similar",
+    "graphs",
+    "shortest paths"
+  ],
+  "tags": [
+    "graph_dfs",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2024-09-21",
+  "solved_count": 8493,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2 1 1\n1\n1 2 10\n3 1 2\n2 3\n1 2 10\n3 3 1\n2\n1 2 4\n1 3 10\n2 3 6\n4 3 2\n2 3\n1 2 10\n2 3 18\n3 4 16\n3 2 1\n2\n1 2 4\n1 3 16\n7 7 1\n3\n1 5 2\n2 6 12\n1 2 12\n6 4 8\n7 3 4\n6 3 4\n7 6 4",
+      "output": "\n5\n-1\n6\n19\n14\n12\n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

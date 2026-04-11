@@ -1,0 +1,35 @@
+{
+  "problem_id": "1789B",
+  "contest_id": 1789,
+  "index": "B",
+  "title": "Serval and Inversion Magic",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "implementation",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2023-02-25",
+  "solved_count": 17455,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n4\n1001\n5\n10010\n7\n0111011",
+      "output": "\nYes\nYes\nNo\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

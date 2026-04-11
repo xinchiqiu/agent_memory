@@ -1,0 +1,42 @@
+{
+  "problem_id": "1864E",
+  "contest_id": 1864,
+  "index": "E",
+  "title": "Guess Game",
+  "rating": 2100,
+  "raw_tags": [
+    "bitmasks",
+    "data structures",
+    "games",
+    "math",
+    "probabilities",
+    "sortings",
+    "strings",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "math_number_theory",
+    "math_combinatorics",
+    "sorting",
+    "string_hashing",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-08-26",
+  "solved_count": 3003,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n2\n2 3\n3\n0 0 0\n3\n9 9 6\n8\n34124838 0 113193378 8 321939321 113193378 9463828 99",
+      "output": "\n499122179\n1\n332748120\n77987843\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1994C",
+  "contest_id": 1994,
+  "index": "C",
+  "title": "Hungry Games",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "dp",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "dp",
+    "two_pointers"
+  ],
+  "contest_date": "2024-07-18",
+  "solved_count": 13377,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4 2\n1 1 1 1\n3 2\n1 2 3\n1 6\n10\n6 3\n1 2 1 4 3 8\n5 999999999\n999999999 999999998 1000000000 1000000000 500000000",
+      "output": "\n8\n2\n0\n10\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "1970C3",
+  "contest_id": 1970,
+  "index": "C3",
+  "title": "Game on Tree (Hard)",
+  "rating": 1900,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "games",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "constructive"
+  ],
+  "contest_date": "2024-05-04",
+  "solved_count": 2375,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5 2\n1 2\n1 3\n3 4\n3 5\n1 2",
+      "output": "\nRon\nRon\n"
+    },
+    {
+      "input": "\n\n6 3\n1 2\n2 3\n1 4\n4 5\n4 6\n1 4 6",
+      "output": "\nHermione\nRon\nHermione\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

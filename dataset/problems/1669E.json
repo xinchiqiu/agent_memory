@@ -1,0 +1,33 @@
+{
+  "problem_id": "1669E",
+  "contest_id": 1669,
+  "index": "E",
+  "title": "2-Letter Strings",
+  "rating": 1200,
+  "raw_tags": [
+    "data structures",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2022-04-21",
+  "solved_count": 21011,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n6\nab\ncb\ndb\naa\ncc\nef\n7\naa\nbb\ncc\nac\nca\nbb\naa\n4\nkk\nkk\nab\nab\n5\njf\njf\njk\njk\njk",
+      "output": "\n5\n6\n0\n6\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

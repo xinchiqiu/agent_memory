@@ -1,0 +1,34 @@
+{
+  "problem_id": "2154C1",
+  "contest_id": 2154,
+  "index": "C1",
+  "title": "No Cost Too Great (Easy Version)",
+  "rating": 1400,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-10-19",
+  "solved_count": 13209,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2\n1 1\n1 1\n2\n4 8\n1 1\n5\n1 1 727 1 1\n1 1 1 1 1\n2\n3 11\n1 1\n3\n2 7 11\n1 1 1\n3\n7 12 13\n1 1 1",
+      "output": "\n\n2\n0\n2\n1\n1\n1"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

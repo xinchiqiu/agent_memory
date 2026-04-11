@@ -1,0 +1,33 @@
+{
+  "problem_id": "1685A",
+  "contest_id": 1685,
+  "index": "A",
+  "title": "Circular Local MiniMax",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "sorting"
+  ],
+  "contest_date": "2022-05-25",
+  "solved_count": 18501,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n1 1 2\n4\n1 9 8 4\n4\n2 0 2 2\n6\n1 1 1 11 111 1111",
+      "output": "\nNO\nYES\n1 8 4 9 \nNO\nYES\n1 11 1 111 1 1111 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

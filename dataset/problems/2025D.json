@@ -1,0 +1,46 @@
+{
+  "problem_id": "2025D",
+  "contest_id": 2025,
+  "index": "D",
+  "title": "Attribute Checks",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dp",
+    "implementation",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "dp",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2024-10-14",
+  "solved_count": 7776,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10 5\n0 1 0 2 0 -3 0 -4 0 -5",
+      "output": "\n3\n"
+    },
+    {
+      "input": "\n\n3 1\n1 -1 0",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n\n9 3\n0 0 1 0 2 -3 -2 -2 1",
+      "output": "\n4\n"
+    }
+  ],
+  "time_limit": "2.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

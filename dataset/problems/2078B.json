@@ -1,0 +1,37 @@
+{
+  "problem_id": "2078B",
+  "contest_id": 2078,
+  "index": "B",
+  "title": "Vicious Labyrinth",
+  "rating": 1100,
+  "raw_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-03-10",
+  "solved_count": 18109,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n2 1\n3 2",
+      "output": "\n2 1\n2 3 2\n"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

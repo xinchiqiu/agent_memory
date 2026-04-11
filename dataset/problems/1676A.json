@@ -1,0 +1,29 @@
+{
+  "problem_id": "1676A",
+  "contest_id": 1676,
+  "index": "A",
+  "title": "Lucky?",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2022-05-10",
+  "solved_count": 86005,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n213132\n973894\n045207\n000000\n055776",
+      "output": "\nYES\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

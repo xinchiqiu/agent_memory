@@ -1,0 +1,38 @@
+{
+  "problem_id": "1717E",
+  "contest_id": 1717,
+  "index": "E",
+  "title": "Madoka and The Best University",
+  "rating": 2200,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2022-09-02",
+  "solved_count": 3360,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n5\n",
+      "output": "\n11\n"
+    },
+    {
+      "input": "\n69228\n",
+      "output": "\n778304278\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1734B",
+  "contest_id": 1734,
+  "index": "B",
+  "title": "Bright, Nice, Brilliant",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms"
+  ],
+  "tags": [
+    "constructive"
+  ],
+  "contest_date": "2022-09-23",
+  "solved_count": 16366,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n1\n2\n3",
+      "output": "\n1 \n1 \n1 1 \n1 \n1 1 \n1 0 1 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

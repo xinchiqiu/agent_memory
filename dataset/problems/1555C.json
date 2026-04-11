@@ -1,0 +1,35 @@
+{
+  "problem_id": "1555C",
+  "contest_id": 1555,
+  "index": "C",
+  "title": "Coin Rows",
+  "rating": 1300,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2021-07-30",
+  "solved_count": 23831,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n3\n1 3 7\n3 5 1\n3\n1 3 9\n3 5 1\n1\n4\n7\n",
+      "output": "\n7\n8\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

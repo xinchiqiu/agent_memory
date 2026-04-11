@@ -1,0 +1,35 @@
+{
+  "problem_id": "1656B",
+  "contest_id": 1656,
+  "index": "B",
+  "title": "Subtract Operation",
+  "rating": 1100,
+  "raw_tags": [
+    "data structures",
+    "greedy",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2022-03-24",
+  "solved_count": 26221,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 5\n4 2 2 7\n5 4\n1 9 1 3 4\n2 17\n17 0\n2 17\n18 18",
+      "output": "\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

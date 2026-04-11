@@ -1,0 +1,35 @@
+{
+  "problem_id": "1575B",
+  "contest_id": 1575,
+  "index": "B",
+  "title": "Building an Amusement Park",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "geometry"
+  ],
+  "tags": [
+    "binary_search",
+    "geometry"
+  ],
+  "contest_date": "2021-10-02",
+  "solved_count": 531,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8 4\n-3 1\n-4 4\n1 5\n2 2\n2 -2\n-2 -4\n-1 -1\n-6 0\n",
+      "output": "\n3.1622776589\n"
+    },
+    {
+      "input": "\n1 1\n0 0\n",
+      "output": "\n0.0000000000\n"
+    }
+  ],
+  "time_limit": "5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

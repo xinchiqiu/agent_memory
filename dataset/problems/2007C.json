@@ -1,0 +1,30 @@
+{
+  "problem_id": "2007C",
+  "contest_id": 2007,
+  "index": "C",
+  "title": "Dora and C++",
+  "rating": 1500,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2024-08-30",
+  "solved_count": 15685,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n4 5 5\n1 3 4 4\n4 2 3\n1 3 4 6\n4 7 7\n1 1 2 6\n3 15 9\n1 9 5\n3 18 12\n1 4 5\n7 27 36\n33 13 23 12 35 24 41\n10 6 9\n15 5 6 9 8 2 12 15 3 8\n2 1 1000000000\n1 1000000000\n6 336718728 709848696\n552806726 474775724 15129785 371139304 178408298 13106071\n6 335734893 671469786\n138885253 70095920 456876775 9345665 214704906 375508929",
+      "output": "\n3\n0\n3\n2\n3\n5\n1\n0\n17\n205359241\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

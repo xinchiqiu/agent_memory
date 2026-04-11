@@ -1,0 +1,37 @@
+{
+  "problem_id": "1689A",
+  "contest_id": 1689,
+  "index": "A",
+  "title": "Lex String",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2022-06-10",
+  "solved_count": 17691,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n6 4 2\naaaaaa\nbbbb\n5 9 3\ncaaca\nbedededeb\n7 7 1\nnoskill\nwxhtzdy",
+      "output": "\naabaabaa\naaabbcc\ndihktlwlxnyoz\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

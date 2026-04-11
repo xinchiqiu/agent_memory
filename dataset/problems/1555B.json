@@ -1,0 +1,29 @@
+{
+  "problem_id": "1555B",
+  "contest_id": 1555,
+  "index": "B",
+  "title": "Two Tables",
+  "rating": 1300,
+  "raw_tags": [
+    "brute force"
+  ],
+  "tags": [
+    "brute_force"
+  ],
+  "contest_date": "2021-07-30",
+  "solved_count": 17184,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n8 5\n2 1 7 4\n4 2\n5 4\n2 2 5 4\n3 3\n1 8\n0 3 1 6\n1 5\n8 1\n3 0 6 1\n5 1\n8 10\n4 5 7 8\n8 5\n",
+      "output": "\n1.000000000\n-1\n2.000000000\n2.000000000\n0.000000000\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,32 @@
+{
+  "problem_id": "1709B",
+  "contest_id": 1709,
+  "index": "B",
+  "title": "Also Try Minecraft",
+  "rating": 900,
+  "raw_tags": [
+    "data structures",
+    "dp",
+    "implementation"
+  ],
+  "tags": [
+    "implementation",
+    "dp"
+  ],
+  "contest_date": "2022-07-21",
+  "solved_count": 25704,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n7 6\n10 8 9 6 8 12 7\n1 2\n1 7\n4 6\n7 1\n3 5\n4 2\n",
+      "output": "\n2\n10\n0\n7\n3\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

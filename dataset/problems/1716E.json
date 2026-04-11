@@ -1,0 +1,36 @@
+{
+  "problem_id": "1716E",
+  "contest_id": 1716,
+  "index": "E",
+  "title": "Swap and Maximum Block",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dp"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "divide_and_conquer",
+    "dp"
+  ],
+  "contest_date": "2022-08-04",
+  "solved_count": 1309,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n-3 5 -3 2 8 -20 6 -1\n3\n1\n0\n1\n",
+      "output": "\n18\n8\n13\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

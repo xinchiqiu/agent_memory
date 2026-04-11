@@ -1,0 +1,32 @@
+{
+  "problem_id": "1798C",
+  "contest_id": 1798,
+  "index": "C",
+  "title": "Candy Store",
+  "rating": 1700,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-03-26",
+  "solved_count": 9327,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n20 3\n6 2\n14 5\n20 7\n3\n444 5\n2002 10\n2020 2\n5\n7 7\n6 5\n15 2\n10 3\n7 7\n5\n10 1\n11 5\n5 1\n2 2\n8 2\n6\n7 12\n12 3\n5 3\n9 12\n9 3\n1000000000 10000",
+      "output": "\n2\n1\n3\n2\n5\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

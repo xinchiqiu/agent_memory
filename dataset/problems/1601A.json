@@ -1,0 +1,34 @@
+{
+  "problem_id": "1601A",
+  "contest_id": 1601,
+  "index": "A",
+  "title": "Array Elimination",
+  "rating": 1300,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2021-10-25",
+  "solved_count": 20638,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n5\n4\n4 4 4 4\n4\n13 7 25 19\n6\n3 5 3 1 7 1\n1\n1\n5\n0 0 0 0 0\n",
+      "output": "\n1 2 4\n1 2\n1\n1\n1 2 3 4 5\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

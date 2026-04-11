@@ -1,0 +1,31 @@
+{
+  "problem_id": "2074A",
+  "contest_id": 2074,
+  "index": "A",
+  "title": "Draw a Square",
+  "rating": 800,
+  "raw_tags": [
+    "geometry",
+    "implementation"
+  ],
+  "tags": [
+    "geometry",
+    "implementation"
+  ],
+  "contest_date": "2025-03-11",
+  "solved_count": 43951,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n2 2 2 2\n1 2 3 4",
+      "output": "\nYes\nNo\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

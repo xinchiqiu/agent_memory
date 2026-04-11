@@ -1,0 +1,39 @@
+{
+  "problem_id": "1720D1",
+  "contest_id": 1720,
+  "index": "D1",
+  "title": "Xor-Subsequence (easy version)",
+  "rating": 1800,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "strings",
+    "trees",
+    "two pointers"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "string_hashing",
+    "graph_dfs",
+    "two_pointers"
+  ],
+  "contest_date": "2022-08-18",
+  "solved_count": 6668,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n1 2\n5\n5 2 4 3 1\n10\n3 8 8 2 9 1 6 2 8 3",
+      "output": "\n2\n3\n6\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

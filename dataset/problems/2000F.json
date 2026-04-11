@@ -1,0 +1,35 @@
+{
+  "problem_id": "2000F",
+  "contest_id": 2000,
+  "index": "F",
+  "title": "Color Rows and Columns",
+  "rating": 1900,
+  "raw_tags": [
+    "dp",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "dp",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-08-13",
+  "solved_count": 6847,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n1 4\n6 3\n1 5\n4 4\n5 10\n1 1\n1 1\n1 1\n1 1\n1 1\n2 100\n1 2\n5 6\n3 11\n2 2\n3 3\n4 4\n3 25\n9 2\n4 3\n8 10\n4 18\n5 4\n8 5\n8 3\n6 2",
+      "output": "\n12\n14\n5\n-1\n17\n80\n35\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

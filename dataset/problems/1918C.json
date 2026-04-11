@@ -1,0 +1,34 @@
+{
+  "problem_id": "1918C",
+  "contest_id": 1918,
+  "index": "C",
+  "title": "XOR-distance",
+  "rating": 1400,
+  "raw_tags": [
+    "bitmasks",
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-01-30",
+  "solved_count": 16472,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n4 6 0\n0 3 2\n9 6 10\n92 256 23\n165 839 201\n1 14 5\n2 7 2\n96549 34359 13851\n853686404475946 283666553522252166 127929199446003072\n735268590557942972 916721749674600979 895150420120690183",
+      "output": "\n2\n1\n1\n164\n542\n5\n3\n37102\n27934920819538516\n104449824168870225\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "2026C",
+  "contest_id": 2026,
+  "index": "C",
+  "title": "Action Figures",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "constructive algorithms",
+    "data structures",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "constructive",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2024-10-28",
+  "solved_count": 12485,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n1\n6\n101101\n7\n1110001\n5\n11111",
+      "output": "\n1\n8\n18\n6\n"
+    }
+  ],
+  "time_limit": "2.5 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

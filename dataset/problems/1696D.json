@@ -1,0 +1,39 @@
+{
+  "problem_id": "1696D",
+  "contest_id": 1696,
+  "index": "D",
+  "title": "Permutation Graph",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "constructive algorithms",
+    "data structures",
+    "divide and conquer",
+    "greedy",
+    "shortest paths"
+  ],
+  "tags": [
+    "binary_search",
+    "constructive",
+    "implementation",
+    "divide_and_conquer",
+    "greedy",
+    "graph_dijkstra"
+  ],
+  "contest_date": "2022-06-25",
+  "solved_count": 5990,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n1\n1\n2\n1 2\n5\n1 4 2 3 5\n5\n2 1 5 3 4\n10\n7 4 8 1 6 10 3 5 2 9",
+      "output": "\n0\n1\n1\n4\n6\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

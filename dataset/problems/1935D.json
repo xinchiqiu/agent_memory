@@ -1,0 +1,35 @@
+{
+  "problem_id": "1935D",
+  "contest_id": 1935,
+  "index": "D",
+  "title": "Exam in MAC",
+  "rating": 1800,
+  "raw_tags": [
+    "binary search",
+    "combinatorics",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "math_combinatorics",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-03-05",
+  "solved_count": 10472,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3 3\n1 2 3\n1 179\n57\n4 6\n0 3 5 6\n1 1\n1\n5 10\n0 2 4 8 10\n5 10\n1 3 5 7 9\n4 10\n2 4 6 7\n3 1000000000\n228 1337 998244353",
+      "output": "\n3\n16139\n10\n2\n33\n36\n35\n499999998999122959\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1775E",
+  "contest_id": 1775,
+  "index": "E",
+  "title": "The Human Equation",
+  "rating": 2100,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2023-01-10",
+  "solved_count": 3835,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3\n1 2 -3\n5\n1 0 0 -1 -1\n6\n2 -4 3 -5 4 1\n5\n1 -1 1 -1 1\n7\n0 0 0 0 0 0 0",
+      "output": "\n3\n2\n6\n1\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,34 @@
+{
+  "problem_id": "1909B",
+  "contest_id": 1909,
+  "index": "B",
+  "title": "Make Almost Equal With Mod",
+  "rating": 1200,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-12-23",
+  "solved_count": 29988,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n4\n8 15 22 30\n5\n60 90 98 120 308\n6\n328 769 541 986 215 734\n5\n1000 2000 7000 11000 16000\n2\n2 1",
+      "output": "\n7\n30\n3\n5000\n1000000000000000000"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

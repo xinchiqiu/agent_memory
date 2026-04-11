@@ -1,0 +1,33 @@
+{
+  "problem_id": "2035C",
+  "contest_id": 2035,
+  "index": "C",
+  "title": "Alya and Permutation",
+  "rating": 1400,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-10-27",
+  "solved_count": 11391,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n5\n6\n7\n8\n9\n10",
+      "output": "\n5\n2 1 3 4 5 \n7\n1 2 4 6 5 3 \n7\n2 4 5 1 3 6 7 \n15\n2 4 5 1 3 6 7 8 \n9\n2 4 5 6 7 1 3 8 9 \n15\n1 2 3 4 5 6 8 10 9 7 \n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

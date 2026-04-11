@@ -1,0 +1,35 @@
+{
+  "problem_id": "1738B",
+  "contest_id": 1738,
+  "index": "B",
+  "title": "Prefix Sum Addicts",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2022-09-30",
+  "solved_count": 18626,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5 5\n1 2 3 4 5\n7 4\n-6 -5 -3 0\n3 3\n2 3 4\n3 2\n3 4",
+      "output": "\nYes\nYes\nNo\nNo\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "1776A",
+  "contest_id": 1776,
+  "index": "A",
+  "title": "Walking Boy",
+  "rating": 800,
+  "raw_tags": [
+    "greedy"
+  ],
+  "tags": [
+    "greedy"
+  ],
+  "contest_date": "2023-02-19",
+  "solved_count": 7930,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n14\n100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400\n12\n100 200 300 400 600 700 800 900 1100 1200 1300 1400\n13\n100 200 300 400 500 600 700 800 900 1100 1200 1300 1400\n13\n101 189 272 356 463 563 659 739 979 1071 1170 1274 1358\n1\n42\n5\n0 1 2 3 4",
+      "output": "\nNO\nYES\nNO\nYES\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

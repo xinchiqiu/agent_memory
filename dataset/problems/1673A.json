@@ -1,0 +1,33 @@
+{
+  "problem_id": "1673A",
+  "contest_id": 1673,
+  "index": "A",
+  "title": "Subtle Substring Subtraction",
+  "rating": 800,
+  "raw_tags": [
+    "games",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2022-04-30",
+  "solved_count": 19121,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\naba\nabc\ncba\nn\ncodeforces",
+      "output": "\nAlice 2\nAlice 4\nAlice 4\nBob 14\nAlice 93\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

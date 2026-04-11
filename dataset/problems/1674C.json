@@ -1,0 +1,33 @@
+{
+  "problem_id": "1674C",
+  "contest_id": 1674,
+  "index": "C",
+  "title": "Infinite Replacement",
+  "rating": 1000,
+  "raw_tags": [
+    "combinatorics",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2022-05-02",
+  "solved_count": 26182,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\naaaa\na\naa\nabc\na\nb",
+      "output": "\n1\n-1\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,36 @@
+{
+  "problem_id": "1624G",
+  "contest_id": 1624,
+  "index": "G",
+  "title": "MinOr Tree",
+  "rating": 1900,
+  "raw_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dsu",
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "union_find",
+    "greedy"
+  ],
+  "contest_date": "2022-01-10",
+  "solved_count": 7480,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3 3\n1 2 1\n2 3 2\n1 3 2\n5 7\n4 2 7\n2 5 8\n3 4 2\n3 2 1\n2 4 2\n4 1 2\n1 2 2\n3 4\n1 2 1\n2 3 2\n1 3 3\n3 1 4",
+      "output": "\n2\n10\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

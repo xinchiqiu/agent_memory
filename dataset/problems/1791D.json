@@ -1,0 +1,33 @@
+{
+  "problem_id": "1791D",
+  "contest_id": 1791,
+  "index": "D",
+  "title": "Distinct Split",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2023-02-03",
+  "solved_count": 48065,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\naa\n7\nabcabcd\n5\naaaaa\n10\npaiumoment\n4\naazz",
+      "output": "\n2\n7\n2\n10\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

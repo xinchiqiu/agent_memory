@@ -1,0 +1,46 @@
+{
+  "problem_id": "1657E",
+  "contest_id": 1657,
+  "index": "E",
+  "title": "Star MST",
+  "rating": 2200,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "graph matchings",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-03-22",
+  "solved_count": 2466,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 2\n",
+      "output": "\n5\n"
+    },
+    {
+      "input": "\n4 4\n",
+      "output": "\n571\n"
+    },
+    {
+      "input": "\n6 9\n",
+      "output": "\n310640163\n"
+    },
+    {
+      "input": "\n42 13\n",
+      "output": "\n136246935\n"
+    }
+  ],
+  "time_limit": "6 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

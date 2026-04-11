@@ -1,0 +1,40 @@
+{
+  "problem_id": "1674G",
+  "contest_id": 1674,
+  "index": "G",
+  "title": "Remove Directed Edges",
+  "rating": 2000,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "graphs"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2022-05-02",
+  "solved_count": 2876,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 3\n1 2\n2 3\n1 3\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n5 0\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n7 8\n7 1\n1 3\n6 2\n2 3\n7 2\n2 4\n7 3\n6 3\n",
+      "output": "\n3\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

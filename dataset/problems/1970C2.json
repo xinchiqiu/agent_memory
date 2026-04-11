@@ -1,0 +1,34 @@
+{
+  "problem_id": "1970C2",
+  "contest_id": 1970,
+  "index": "C2",
+  "title": "Game on Tree (Medium)",
+  "rating": 1700,
+  "raw_tags": [
+    "dfs and similar",
+    "dp",
+    "games",
+    "trees"
+  ],
+  "tags": [
+    "graph_dfs",
+    "dp",
+    "constructive"
+  ],
+  "contest_date": "2024-05-04",
+  "solved_count": 4253,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5 1\n1 2\n1 3\n3 4\n3 5\n1",
+      "output": "\nRon\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

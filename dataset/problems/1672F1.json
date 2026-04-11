@@ -1,0 +1,33 @@
+{
+  "problem_id": "1672F1",
+  "contest_id": 1672,
+  "index": "F1",
+  "title": "Array Shuffling",
+  "rating": 2000,
+  "raw_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2022-04-23",
+  "solved_count": 3505,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n2\n2 1\n4\n1 2 3 3",
+      "output": "\n1 2\n3 3 2 1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

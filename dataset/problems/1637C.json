@@ -1,0 +1,31 @@
+{
+  "problem_id": "1637C",
+  "contest_id": 1637,
+  "index": "C",
+  "title": "Andrew and Stones",
+  "rating": 1200,
+  "raw_tags": [
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2022-02-12",
+  "solved_count": 18687,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n1 2 2 3 6\n3\n1 3 1\n3\n1 2 1\n4\n3 1 1 2",
+      "output": "\n4\n-1\n1\n-1 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,35 @@
+{
+  "problem_id": "2092B",
+  "contest_id": 2092,
+  "index": "B",
+  "title": "Lady Bug",
+  "rating": 1000,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-03-29",
+  "solved_count": 24528,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n000\n000\n6\n010001\n010111\n5\n10000\n01010\n2\n11\n00",
+      "output": "\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

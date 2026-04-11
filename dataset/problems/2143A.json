@@ -1,0 +1,31 @@
+{
+  "problem_id": "2143A",
+  "contest_id": 2143,
+  "index": "A",
+  "title": "All Lengths Subtraction",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "two pointers"
+  ],
+  "tags": [
+    "brute_force",
+    "two_pointers"
+  ],
+  "contest_date": "2025-09-17",
+  "solved_count": 20387,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n1 3 4 2\n5\n1 5 2 4 3\n5\n2 4 5 3 1\n3\n3 1 2",
+      "output": "\n\nYES\nNO\nYES\nNO"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

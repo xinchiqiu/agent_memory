@@ -1,0 +1,35 @@
+{
+  "problem_id": "1738E",
+  "contest_id": 1738,
+  "index": "E",
+  "title": "Balance Addicts",
+  "rating": 2300,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math",
+    "two pointers"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory",
+    "two_pointers"
+  ],
+  "contest_date": "2022-09-30",
+  "solved_count": 1785,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1\n1000000000\n2\n1 1\n4\n0 0 1 0\n5\n1 2 3 2 1\n5\n1 3 5 7 9\n32\n0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+      "output": "\n1\n2\n3\n4\n2\n150994942\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

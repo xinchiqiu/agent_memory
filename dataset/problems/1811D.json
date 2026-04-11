@@ -1,0 +1,33 @@
+{
+  "problem_id": "1811D",
+  "contest_id": 1811,
+  "index": "D",
+  "title": "Umka and a Long Flight",
+  "rating": 1600,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-04-04",
+  "solved_count": 8589,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n12\n1 1 1\n2 1 2\n3 1 4\n3 3 2\n4 4 6\n4 3 3\n5 6 5\n5 4 12\n5 2 12\n4 2 1\n1 1 2\n44 758465880 1277583853",
+      "output": "\nYES\nNO\nYES\nYES\nYES\nNO\nYES\nNO\nNO\nYES\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

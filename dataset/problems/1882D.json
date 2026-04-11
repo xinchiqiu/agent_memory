@@ -1,0 +1,36 @@
+{
+  "problem_id": "1882D",
+  "contest_id": 1882,
+  "index": "D",
+  "title": "Tree XOR",
+  "rating": 1900,
+  "raw_tags": [
+    "bitmasks",
+    "dfs and similar",
+    "dp",
+    "greedy",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2023-09-25",
+  "solved_count": 6998,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n4\n3 2 1 0\n1 2\n2 3\n2 4\n1\n100",
+      "output": "\n8 6 12 10 \n0 \n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

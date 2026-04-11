@@ -1,0 +1,33 @@
+{
+  "problem_id": "2048E",
+  "contest_id": 2048,
+  "index": "E",
+  "title": "Kevin and Bipartite Graph",
+  "rating": 2000,
+  "raw_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2024-12-19",
+  "solved_count": 3423,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 2\n3 7\n5 4",
+      "output": "\nYES\n1 2\n2 1\n2 2\n2 1\nNO\nYES\n1 1 1 1\n1 2 2 2\n1 2 3 3\n1 2 3 4\n1 2 3 4\n1 2 3 4\n1 2 3 4\n1 2 3 4\n1 2 3 4\n1 2 3 4\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

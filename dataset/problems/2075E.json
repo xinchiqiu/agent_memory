@@ -1,0 +1,36 @@
+{
+  "problem_id": "2075E",
+  "contest_id": 2075,
+  "index": "E",
+  "title": "XOR Matrix",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "combinatorics",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-03-17",
+  "solved_count": 1131,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n2 2 2 2\n2 3 4 5\n5 7 4 3\n1337 42 1337 42\n4 2 13 37\n536870902 536370902 536390912 466128231",
+      "output": "\n57\n864\n50360\n439988899\n112000\n732195491\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

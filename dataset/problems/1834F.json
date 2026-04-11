@@ -1,0 +1,39 @@
+{
+  "problem_id": "1834F",
+  "contest_id": 1834,
+  "index": "F",
+  "title": "Typewriter",
+  "rating": 2500,
+  "raw_tags": [
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-06-18",
+  "solved_count": 634,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n2 3 1\n0\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n3\n1 2 3\n2\n2 1\n3\n",
+      "output": "\n0\n2\n1\n"
+    },
+    {
+      "input": "\n5\n3 1 2 5 4\n5\n1 3\n3\n2 3\n1 4\n3\n",
+      "output": "\n3\n2\n1\n2\n1\n2\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

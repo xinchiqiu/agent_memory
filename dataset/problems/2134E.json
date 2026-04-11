@@ -1,0 +1,34 @@
+{
+  "problem_id": "2134E",
+  "contest_id": 2134,
+  "index": "E",
+  "title": "Power Boxes",
+  "rating": 2300,
+  "raw_tags": [
+    "constructive algorithms",
+    "dp",
+    "implementation",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "dp",
+    "implementation"
+  ],
+  "contest_date": "2025-08-26",
+  "solved_count": 2331,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n4\n\n2\n\n\n3\n\n3\n\n2\n\n2\n\n\n1\n\n\n",
+      "output": "\n\n\nthrow 2\n\nswap 3\nthrow 2\n\nthrow 1\n\n! 2 1 2 1\n\nthrow 1\n\nswap 1\nthrow 1\n\n! 1 2"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

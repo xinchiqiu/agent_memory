@@ -1,0 +1,33 @@
+{
+  "problem_id": "2096B",
+  "contest_id": 2096,
+  "index": "B",
+  "title": "Wonderful Gloves",
+  "rating": 1100,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory",
+    "sorting"
+  ],
+  "contest_date": "2025-04-19",
+  "solved_count": 16402,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n3 3\n1 1 1\n1 1 1\n1 1\n100\n1\n3 2\n100 1 1\n200 1 1\n5 2\n97 59 50 87 36\n95 77 33 13 74\n10 6\n97 59 50 87 36 95 77 33 13 74\n91 14 84 33 54 89 68 34 14 15",
+      "output": "\n6\n101\n303\n481\n1010\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

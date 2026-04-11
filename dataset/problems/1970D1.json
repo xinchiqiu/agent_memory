@@ -1,0 +1,35 @@
+{
+  "problem_id": "1970D1",
+  "contest_id": 1970,
+  "index": "D1",
+  "title": "Arithmancy (Easy)",
+  "rating": 2100,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "interactive",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2024-05-04",
+  "solved_count": 931,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n\n\n2\n15\n\n11",
+      "output": "\n\nXOXO\nX\n\n\n1 1\n\n2 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

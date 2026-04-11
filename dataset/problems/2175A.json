@@ -1,0 +1,29 @@
+{
+  "problem_id": "2175A",
+  "contest_id": 2175,
+  "index": "A",
+  "title": "Little Fairy's Painting",
+  "rating": 800,
+  "raw_tags": [
+    "implementation"
+  ],
+  "tags": [
+    "implementation"
+  ],
+  "contest_date": "2025-12-06",
+  "solved_count": 18250,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n6\n1 1 1 1 1 1\n1\n1000\n5\n8 10 15 20 25\n8\n2 5 2 4 1 2 5 3\n6\n40 4 1 95 8 40",
+      "output": "\n\n1\n1000\n8\n5\n8"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

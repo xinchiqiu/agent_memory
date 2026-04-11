@@ -1,0 +1,33 @@
+{
+  "problem_id": "1872A",
+  "contest_id": 1872,
+  "index": "A",
+  "title": "Two Vessels",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-09-07",
+  "solved_count": 42870,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3 7 2\n17 4 3\n17 17 1\n17 21 100\n1 100 1\n97 4 3",
+      "output": "\n1\n3\n0\n1\n50\n16\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

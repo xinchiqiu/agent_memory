@@ -1,0 +1,30 @@
+{
+  "problem_id": "1872C",
+  "contest_id": 1872,
+  "index": "C",
+  "title": "Non-coprime Split",
+  "rating": 1100,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2023-09-07",
+  "solved_count": 26201,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n11\n11 15\n1 3\n18 19\n41 43\n777 777\n8000000 10000000\n2000 2023\n1791791 1791791\n1 4\n2 3\n9840769 9840769",
+      "output": "\n6 9\n-1\n14 4\n36 6\n111 666\n4000000 5000000 \n2009 7\n-1\n2 2\n-1\n6274 9834495"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

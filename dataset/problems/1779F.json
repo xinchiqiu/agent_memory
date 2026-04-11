@@ -1,0 +1,43 @@
+{
+  "problem_id": "1779F",
+  "contest_id": 1779,
+  "index": "F",
+  "title": "Xorcerer's Stones",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "constructive algorithms",
+    "dp",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "constructive",
+    "dp",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-01-03",
+  "solved_count": 1400,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n13 13\n1\n",
+      "output": "\n1\n1\n"
+    },
+    {
+      "input": "\n7\n5 2 8 3 4 1 31\n1 1 2 2 3 3\n",
+      "output": "\n-1\n"
+    },
+    {
+      "input": "\n9\n3 31 1 2 7 30 7 3 1\n1 1 1 2 5 5 3 4\n",
+      "output": "\n6\n3 2 3 1 2 2"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

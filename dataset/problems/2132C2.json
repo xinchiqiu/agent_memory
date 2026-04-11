@@ -1,0 +1,33 @@
+{
+  "problem_id": "2132C2",
+  "contest_id": 2132,
+  "index": "C2",
+  "title": "The Cunning Seller (hard version)",
+  "rating": 1400,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-08-21",
+  "solved_count": 13117,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n1 1\n3 3\n8 3\n2 4\n10 10\n20 14\n3 2\n9 1",
+      "output": "\n3\n9\n-1\n6\n30\n63\n10\n33\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

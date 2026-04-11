@@ -1,0 +1,30 @@
+{
+  "problem_id": "1605A",
+  "contest_id": 1605,
+  "index": "A",
+  "title": "A.M. Deviation",
+  "rating": 800,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2021-11-12",
+  "solved_count": 21593,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n3 4 5\n2 2 6\n1 6 5\n",
+      "output": "\n0\n1\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

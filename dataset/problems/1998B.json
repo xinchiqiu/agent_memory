@@ -1,0 +1,32 @@
+{
+  "problem_id": "1998B",
+  "contest_id": 1998,
+  "index": "B",
+  "title": "Minimize Equal Sum Subarrays",
+  "rating": 1000,
+  "raw_tags": [
+    "constructive algorithms",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-08-10",
+  "solved_count": 27917,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n1 2\n5\n1 2 3 4 5\n7\n4 7 5 1 2 6 3",
+      "output": "\n2 1\n3 5 4 2 1\n6 2 1 4 7 3 5"
+    }
+  ],
+  "time_limit": "1.5 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

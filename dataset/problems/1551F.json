@@ -1,0 +1,36 @@
+{
+  "problem_id": "1551F",
+  "contest_id": 1551,
+  "index": "F",
+  "title": "Equidistant Vertices",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "combinatorics",
+    "dfs and similar",
+    "dp",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "math_combinatorics",
+    "graph_dfs",
+    "dp"
+  ],
+  "contest_date": "2021-07-23",
+  "solved_count": 2100,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n\n4 2\n1 2\n2 3\n2 4\n\n3 3\n1 2\n2 3\n\n5 3\n1 2\n2 3\n2 4\n4 5\n",
+      "output": "\n6\n0\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

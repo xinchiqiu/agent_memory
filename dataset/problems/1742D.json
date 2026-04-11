@@ -1,0 +1,33 @@
+{
+  "problem_id": "1742D",
+  "contest_id": 1742,
+  "index": "D",
+  "title": "Coprime",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-13",
+  "solved_count": 33341,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n3\n3 2 1\n7\n1 3 5 2 4 7 7\n5\n1 2 3 4 5\n3\n2 2 4\n6\n5 4 3 15 12 16\n5\n1 2 2 3 6",
+      "output": "\n6\n12\n9\n-1\n10\n7\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

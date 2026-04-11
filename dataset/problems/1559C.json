@@ -1,0 +1,31 @@
+{
+  "problem_id": "1559C",
+  "contest_id": 1559,
+  "index": "C",
+  "title": "Mocha and Hiking",
+  "rating": 1200,
+  "raw_tags": [
+    "constructive algorithms",
+    "graphs"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs"
+  ],
+  "contest_date": "2021-08-15",
+  "solved_count": 22492,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n3\n0 1 0\n3\n1 1 0\n",
+      "output": "\n1 4 2 3 \n4 1 2 3 \n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

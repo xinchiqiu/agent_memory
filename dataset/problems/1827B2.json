@@ -1,0 +1,35 @@
+{
+  "problem_id": "1827B2",
+  "contest_id": 1827,
+  "index": "B2",
+  "title": "Range Sorting (Hard Version)",
+  "rating": 2400,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2023-05-14",
+  "solved_count": 2278,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n2\n6 4\n3\n3 10 6\n4\n4 8 7 2\n5\n9 8 2 4 6\n12\n2 6 13 3 15 5 10 8 16 9 11 18",
+      "output": "\n1\n2\n8\n16\n232\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

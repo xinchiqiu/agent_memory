@@ -1,0 +1,33 @@
+{
+  "problem_id": "1809B",
+  "contest_id": 1809,
+  "index": "B",
+  "title": "Points on Plane",
+  "rating": 1000,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-03-23",
+  "solved_count": 22232,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\n3\n5\n975461057789971042",
+      "output": "\n0\n1\n2\n987654321\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

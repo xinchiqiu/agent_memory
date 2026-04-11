@@ -1,0 +1,33 @@
+{
+  "problem_id": "1579D",
+  "contest_id": 1579,
+  "index": "D",
+  "title": "Productive Meeting",
+  "rating": 1400,
+  "raw_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy"
+  ],
+  "contest_date": "2021-09-28",
+  "solved_count": 18157,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n8\n2\n2 3\n3\n1 2 3\n4\n1 2 3 4\n3\n0 0 2\n2\n6 2\n3\n0 0 2\n5\n8 2 0 1 1\n5\n0 1 0 0 6\n",
+      "output": "\n2\n1 2\n1 2\n3\n1 3\n2 3\n2 3\n5\n1 3\n2 4\n2 4\n3 4\n3 4\n0\n2\n1 2\n1 2\n0\n4\n1 2\n1 5\n1 4\n1 2\n1\n5 2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

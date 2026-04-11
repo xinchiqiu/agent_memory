@@ -1,0 +1,31 @@
+{
+  "problem_id": "1740A",
+  "contest_id": 1740,
+  "index": "A",
+  "title": "Factorise N+M",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "number theory"
+  ],
+  "tags": [
+    "constructive",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-10-29",
+  "solved_count": 23006,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n7\n2\n75619",
+      "output": "\n2\n7\n47837\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

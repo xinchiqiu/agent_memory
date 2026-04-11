@@ -1,0 +1,39 @@
+{
+  "problem_id": "1800E1",
+  "contest_id": 1800,
+  "index": "E1",
+  "title": "Unforgivable Curse (easy version)",
+  "rating": 1400,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "dsu",
+    "graphs",
+    "greedy",
+    "strings"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "union_find",
+    "graph_dfs",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2023-03-02",
+  "solved_count": 15339,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n6 3\ntalant\natltna\n7 3\nabacaba\naaaabbc\n12 3\nabracadabraa\navadakedavra\n5 3\naccio\ncicao\n5 3\nlumos\nmolus\n4 3\nuwjt\ntwju\n4 3\nkvpx\nvxpk",
+      "output": "\nYES\nYES\nNO\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

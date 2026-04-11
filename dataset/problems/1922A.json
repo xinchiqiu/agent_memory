@@ -1,0 +1,33 @@
+{
+  "problem_id": "1922A",
+  "contest_id": 1922,
+  "index": "A",
+  "title": "Tricky Template",
+  "rating": 800,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "strings"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "string_hashing"
+  ],
+  "contest_date": "2024-01-18",
+  "solved_count": 28688,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n1\na\nb\nc\n2\naa\nbb\naa\n10\nmathforces\nluckforces\nadhoccoder\n3\nacc\nabd\nabc",
+      "output": "\nYES\nNO\nYES\nNO\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,31 @@
+{
+  "problem_id": "1814A",
+  "contest_id": 1814,
+  "index": "A",
+  "title": "Coins",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-04-06",
+  "solved_count": 49792,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5 3\n6 1\n7 4\n8 8",
+      "output": "\nYES\nYES\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

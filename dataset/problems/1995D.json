@@ -1,0 +1,35 @@
+{
+  "problem_id": "1995D",
+  "contest_id": 1995,
+  "index": "D",
+  "title": "Cases",
+  "rating": 2300,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "dp",
+    "strings"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "dp",
+    "string_hashing"
+  ],
+  "contest_date": "2024-07-23",
+  "solved_count": 2865,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n5 5 1\nABCDE\n3 1 2\nAAA\n3 2 2\nAAB\n10 2 2\nABABABABAB\n4 4 4\nDCBA\n1 17 1\nQ\n9 3 2\nABCABCABC",
+      "output": "\n5\n1\n2\n1\n1\n1\n2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

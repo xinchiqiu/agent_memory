@@ -1,0 +1,39 @@
+{
+  "problem_id": "1625E1",
+  "contest_id": 1625,
+  "index": "E1",
+  "title": "Cats on the Upgrade (easy version)",
+  "rating": 2500,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "divide and conquer",
+    "dp",
+    "graphs",
+    "trees"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "graph_dfs",
+    "divide_and_conquer",
+    "dp"
+  ],
+  "contest_date": "2022-01-12",
+  "solved_count": 1145,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n9 4\n)(()())()\n2 3 6\n2 2 7\n2 8 9\n2 2 9\n",
+      "output": "\n3\n4\n1\n6\n"
+    }
+  ],
+  "time_limit": "6 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

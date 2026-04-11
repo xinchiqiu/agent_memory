@@ -1,0 +1,51 @@
+{
+  "problem_id": "1837E",
+  "contest_id": 1837,
+  "index": "E",
+  "title": "Playoff Fixing",
+  "rating": 2200,
+  "raw_tags": [
+    "combinatorics",
+    "trees"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "graph_dfs"
+  ],
+  "contest_date": "2023-05-25",
+  "solved_count": 2503,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n1 2 3 4\n",
+      "output": "\n0\n"
+    },
+    {
+      "input": "\n2\n1 3 4 2\n",
+      "output": "\n1\n"
+    },
+    {
+      "input": "\n1\n-1 -1\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n2\n-1 -1 -1 -1\n",
+      "output": "\n16\n"
+    },
+    {
+      "input": "\n3\n-1 -1 -1 -1 2 -1 -1 -1\n",
+      "output": "\n768\n"
+    },
+    {
+      "input": "\n0\n1\n",
+      "output": "\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

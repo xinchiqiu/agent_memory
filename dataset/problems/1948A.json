@@ -1,0 +1,31 @@
+{
+  "problem_id": "1948A",
+  "contest_id": 1948,
+  "index": "A",
+  "title": "Special Characters",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive"
+  ],
+  "contest_date": "2024-03-15",
+  "solved_count": 30799,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n6\n1\n2",
+      "output": "\nYES\nAAABAACC\nNO\nYES\nMM"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

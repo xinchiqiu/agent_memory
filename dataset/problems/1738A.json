@@ -1,0 +1,33 @@
+{
+  "problem_id": "1738A",
+  "contest_id": 1738,
+  "index": "A",
+  "title": "Glory Addicts",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "sortings"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "sorting"
+  ],
+  "contest_date": "2022-09-30",
+  "solved_count": 14160,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4\n0 1 1 1\n1 10 100 1000\n6\n0 0 0 1 1 1\n3 4 5 6 7 8\n3\n1 1 1\n1000000000 1000000000 1000000000\n1\n1\n1",
+      "output": "\n2112\n63\n3000000000\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

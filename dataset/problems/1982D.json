@@ -1,0 +1,35 @@
+{
+  "problem_id": "1982D",
+  "contest_id": 1982,
+  "index": "D",
+  "title": "Beauty of the mountains",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-06-25",
+  "solved_count": 9581,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n3 3 2\n7 11 3\n4 2 3\n0 1 15\n100\n010\n000\n4 4 3\n123 413 24 233\n123 42 0 216\n22 1 1 53\n427 763 22 6\n0101\n1111\n1010\n0101\n3 3 2\n2 1 1\n1 1 2\n1 5 4\n010\n101\n010\n3 3 2\n2 1 1\n1 1 2\n1 5 3\n010\n101\n010\n3 4 3\n46 49 50 1\n19 30 23 12\n30 25 1 46\n1000\n0100\n0010\n5 4 4\n39 30 0 17\n22 42 30 13\n10 44 46 35\n12 19 9 39\n21 0 45 40\n1000\n1111\n0011\n0111\n1100\n2 2 2\n3 4\n6 7\n00\n00\n2 2 2\n0 0\n2 0\n01\n00",
+      "output": "\nYES\nNO\nYES\nNO\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

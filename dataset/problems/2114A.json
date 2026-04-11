@@ -1,0 +1,33 @@
+{
+  "problem_id": "2114A",
+  "contest_id": 2114,
+  "index": "A",
+  "title": "Square Year",
+  "rating": 800,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-05-26",
+  "solved_count": 42542,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n0001\n1001\n1000\n4900\n2025",
+      "output": "\n0 1\n-1\n-1\n34 36\n20 25\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

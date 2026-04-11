@@ -1,0 +1,48 @@
+{
+  "problem_id": "1895E",
+  "contest_id": 1895,
+  "index": "E",
+  "title": "Infinite Card Game",
+  "rating": 2300,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "data structures",
+    "dfs and similar",
+    "dp",
+    "dsu",
+    "games",
+    "graphs",
+    "greedy",
+    "sortings",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "implementation",
+    "graph_dfs",
+    "dp",
+    "union_find",
+    "constructive",
+    "greedy",
+    "sorting",
+    "two_pointers"
+  ],
+  "contest_date": "2023-11-03",
+  "solved_count": 1845,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n3\n8 7 4\n7 1 10\n2\n8 4\n5 10\n9\n8 8 5 5 5 4 4 1 4\n2 7 5 2 8 9 7 1 9\n10\n9 8 7 6 5 5 4 3 2 1\n7 1 6 7 5 8 8 4 9 6\n1\n10\n5\n1\n10\n5",
+      "output": "\n1 1 1\n2 4 3\n0 1 0\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

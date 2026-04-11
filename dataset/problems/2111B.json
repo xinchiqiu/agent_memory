@@ -1,0 +1,35 @@
+{
+  "problem_id": "2111B",
+  "contest_id": 2111,
+  "index": "B",
+  "title": "Fibonacci Cubes",
+  "rating": 1100,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2025-06-03",
+  "solved_count": 17654,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2\n5 4\n3 1 2\n10 10 10\n9 8 13\n14 7 20\n2 6\n3 3 3\n1 2 1\n2 1 2\n3 2 2\n2 3 1\n3 2 4",
+      "output": "\n0010\n100101\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

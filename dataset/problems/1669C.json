@@ -1,0 +1,33 @@
+{
+  "problem_id": "1669C",
+  "contest_id": 1669,
+  "index": "C",
+  "title": "Odd/Even Increments",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-04-21",
+  "solved_count": 41093,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n1 2 1\n4\n2 2 2 3\n4\n2 2 2 2\n5\n1000 1 1000 1 1000",
+      "output": "\nYES\nNO\nYES\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,44 @@
+{
+  "problem_id": "1623E",
+  "contest_id": 1623,
+  "index": "E",
+  "title": "Middle Duplication",
+  "rating": 2500,
+  "raw_tags": [
+    "data structures",
+    "dfs and similar",
+    "greedy",
+    "strings",
+    "trees"
+  ],
+  "tags": [
+    "implementation",
+    "graph_dfs",
+    "greedy",
+    "string_hashing"
+  ],
+  "contest_date": "2021-12-28",
+  "solved_count": 1252,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n4 3\nabab\n2 3\n0 0\n0 4\n0 0\n",
+      "output": "\nbaaaab"
+    },
+    {
+      "input": "\n8 2\nkadracyn\n2 5\n3 4\n0 0\n0 0\n6 8\n0 7\n0 0\n0 0\n",
+      "output": "\ndaarkkcyan"
+    },
+    {
+      "input": "\n8 3\nkdaracyn\n2 5\n0 3\n0 4\n0 0\n6 8\n0 7\n0 0\n0 0\n",
+      "output": "\ndarkcyan"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

@@ -1,0 +1,33 @@
+{
+  "problem_id": "1822E",
+  "contest_id": 1822,
+  "index": "E",
+  "title": "Making Anti-Palindromes",
+  "rating": 1600,
+  "raw_tags": [
+    "greedy",
+    "math",
+    "strings"
+  ],
+  "tags": [
+    "greedy",
+    "math_number_theory",
+    "string_hashing"
+  ],
+  "contest_date": "2023-04-24",
+  "solved_count": 12255,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n10\n10\ncodeforces\n3\nabc\n10\ntaarrrataa\n10\ndcbdbdcccc\n4\nwwww\n12\ncabbaccabaac\n10\naadaaaaddc\n14\naacdaaaacadcdc\n6\nabccba\n12\ndcbcaebacccd",
+      "output": "\n0\n-1\n1\n1\n-1\n3\n-1\n2\n2\n2\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

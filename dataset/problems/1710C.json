@@ -1,0 +1,47 @@
+{
+  "problem_id": "1710C",
+  "contest_id": 1710,
+  "index": "C",
+  "title": "XOR Triangle",
+  "rating": 2500,
+  "raw_tags": [
+    "bitmasks",
+    "brute force",
+    "constructive algorithms",
+    "dp",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "brute_force",
+    "constructive",
+    "dp",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2022-07-24",
+  "solved_count": 1603,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n101",
+      "output": "\n12\n"
+    },
+    {
+      "input": "\n\n1110",
+      "output": "\n780\n"
+    },
+    {
+      "input": "\n\n11011111101010010",
+      "output": "\n141427753\n"
+    }
+  ],
+  "time_limit": "4 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

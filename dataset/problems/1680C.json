@@ -1,0 +1,35 @@
+{
+  "problem_id": "1680C",
+  "contest_id": 1680,
+  "index": "C",
+  "title": "Binary String",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "greedy",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "greedy",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2022-05-13",
+  "solved_count": 11048,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n101110110\n1001001001001\n0000111111\n00000\n1111",
+      "output": "\n1\n3\n0\n0\n0\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

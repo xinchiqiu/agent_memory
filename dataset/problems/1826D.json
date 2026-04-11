@@ -1,0 +1,33 @@
+{
+  "problem_id": "1826D",
+  "contest_id": 1826,
+  "index": "D",
+  "title": "Running Miles",
+  "rating": 1700,
+  "raw_tags": [
+    "brute force",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "brute_force",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2023-05-05",
+  "solved_count": 14613,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n5\n5 1 4 2 3\n4\n1 1 1 1\n6\n9 8 7 6 5 4\n7\n100000000 1 100000000 1 100000000 1 100000000",
+      "output": "\n8\n1\n22\n299999996\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

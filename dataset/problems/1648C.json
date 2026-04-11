@@ -1,0 +1,40 @@
+{
+  "problem_id": "1648C",
+  "contest_id": 1648,
+  "index": "C",
+  "title": "Tyler and Strings",
+  "rating": 1900,
+  "raw_tags": [
+    "combinatorics",
+    "data structures",
+    "implementation"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "implementation"
+  ],
+  "contest_date": "2022-03-06",
+  "solved_count": 3315,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 4\n1 2 2\n2 1 2 1\n",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n4 4\n1 2 3 4\n4 3 2 1\n",
+      "output": "\n23\n"
+    },
+    {
+      "input": "\n4 3\n1 1 1 2\n1 1 2\n",
+      "output": "\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

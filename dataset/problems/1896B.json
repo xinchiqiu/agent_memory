@@ -1,0 +1,33 @@
+{
+  "problem_id": "1896B",
+  "contest_id": 1896,
+  "index": "B",
+  "title": "AB Flipping",
+  "rating": 900,
+  "raw_tags": [
+    "greedy",
+    "strings",
+    "two pointers"
+  ],
+  "tags": [
+    "greedy",
+    "string_hashing",
+    "two_pointers"
+  ],
+  "contest_date": "2023-11-25",
+  "solved_count": 18166,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\nAB\n4\nBBBA\n4\nAABB",
+      "output": "\n1\n0\n3\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

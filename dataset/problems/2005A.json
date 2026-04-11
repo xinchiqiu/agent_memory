@@ -1,0 +1,35 @@
+{
+  "problem_id": "2005A",
+  "contest_id": 2005,
+  "index": "A",
+  "title": "Simple Palindrome",
+  "rating": 900,
+  "raw_tags": [
+    "combinatorics",
+    "constructive algorithms",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "constructive",
+    "greedy",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-09-14",
+  "solved_count": 26069,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2\n3\n6",
+      "output": "\nuo\niae\noeiiua\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

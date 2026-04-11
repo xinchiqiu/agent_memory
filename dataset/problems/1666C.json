@@ -1,0 +1,33 @@
+{
+  "problem_id": "1666C",
+  "contest_id": 1666,
+  "index": "C",
+  "title": "Connect the Points",
+  "rating": 1800,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "geometry"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "geometry"
+  ],
+  "contest_date": "2022-04-13",
+  "solved_count": 3677,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n1 1\n3 5\n8 6\n",
+      "output": "\n3\n1 1 1 5\n1 5 8 5\n8 5 8 6\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

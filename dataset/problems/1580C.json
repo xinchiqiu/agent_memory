@@ -1,0 +1,36 @@
+{
+  "problem_id": "1580C",
+  "contest_id": 1580,
+  "index": "C",
+  "title": "Train Maintenance",
+  "rating": 2200,
+  "raw_tags": [
+    "brute force",
+    "data structures",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "implementation"
+  ],
+  "contest_date": "2021-09-30",
+  "solved_count": 2203,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 4\n10 15\n12 10\n1 1\n1 3\n1 1\n2 1\n2 3\n",
+      "output": "\n0\n1\n0\n0\n"
+    },
+    {
+      "input": "\n5 4\n1 1\n10000000 100000000\n998244353 1\n2 1\n1 2\n1 5\n2 5\n1 5\n1 1\n",
+      "output": "\n0\n0\n0\n1\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

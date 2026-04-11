@@ -1,0 +1,30 @@
+{
+  "problem_id": "1877C",
+  "contest_id": 1877,
+  "index": "C",
+  "title": "Joyboard",
+  "rating": 1200,
+  "raw_tags": [
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "math_number_theory"
+  ],
+  "contest_date": "2023-10-08",
+  "solved_count": 12745,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n4 6 3\n2 0 1\n265 265 265\n3 10 2",
+      "output": "\n2\n1\n0\n5\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

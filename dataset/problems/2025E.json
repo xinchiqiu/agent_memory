@@ -1,0 +1,52 @@
+{
+  "problem_id": "2025E",
+  "contest_id": 2025,
+  "index": "E",
+  "title": "Card Game",
+  "rating": 2200,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "fft",
+    "greedy",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory",
+    "greedy"
+  ],
+  "contest_date": "2024-10-14",
+  "solved_count": 2336,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n1 4",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n\n2 2",
+      "output": "\n2\n"
+    },
+    {
+      "input": "\n\n3 6",
+      "output": "\n1690\n"
+    },
+    {
+      "input": "\n\n5 4",
+      "output": "\n568\n"
+    },
+    {
+      "input": "\n\n500 500",
+      "output": "\n84693741\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

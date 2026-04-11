@@ -1,0 +1,32 @@
+{
+  "problem_id": "2159A",
+  "contest_id": 2159,
+  "index": "A",
+  "title": "MAD Interactive Problem",
+  "rating": 1700,
+  "raw_tags": [
+    "constructive algorithms",
+    "implementation",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "implementation"
+  ],
+  "contest_date": "2025-10-12",
+  "solved_count": 7984,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n2\n2\n\n2\n\n0\n\n1\n\n2\n\n0\n\n1\n\n1\n\n",
+      "output": "\n\n\n? 2 2 1\n\n? 2 1 3\n\n? 3 1 3 4\n\n! 2 2 1 1\n\n? 2 1 2\n\n? 2 1 3\n\n? 3 1 3 4\n\n! 1 2 1 2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

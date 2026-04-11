@@ -1,0 +1,37 @@
+{
+  "problem_id": "2041H",
+  "contest_id": 2041,
+  "index": "H",
+  "title": "Sheet Music",
+  "rating": 2300,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-11-24",
+  "solved_count": 1016,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3 2\n",
+      "output": "\n7\n"
+    },
+    {
+      "input": "\n5 3\n",
+      "output": "\n67\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

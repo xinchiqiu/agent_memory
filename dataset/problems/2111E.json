@@ -1,0 +1,38 @@
+{
+  "problem_id": "2111E",
+  "contest_id": 2111,
+  "index": "E",
+  "title": "Changing the String",
+  "rating": 1900,
+  "raw_tags": [
+    "binary search",
+    "data structures",
+    "greedy",
+    "implementation",
+    "sortings",
+    "strings"
+  ],
+  "tags": [
+    "binary_search",
+    "implementation",
+    "greedy",
+    "sorting",
+    "string_hashing"
+  ],
+  "contest_date": "2025-06-03",
+  "solved_count": 5336,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n2 2\ncb\nc b\nb a\n10 10\nbbbbbbbbbb\nb a\nb c\nc b\nb a\nc a\nb c\nb c\nb a\na b\nc a\n30 20\nabcaababcbbcabcbbcabcbabbbbabc\nb c\nb c\nc a\nb c\nb c\nb a\nb c\nb c\nb a\nb a\nb a\nb a\nc a\nb c\nc a\nb c\nc a\nc a\nb c\nc b",
+      "output": "\nab\naaaaabbbbb\naaaaaaaaaaaaaaabbbabcbabbbbabc\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

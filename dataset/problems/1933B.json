@@ -1,0 +1,32 @@
+{
+  "problem_id": "1933B",
+  "contest_id": 1933,
+  "index": "B",
+  "title": "Turtle Math: Fast Three Task",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-02-27",
+  "solved_count": 36030,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n4\n2 2 5 4\n3\n1 3 2\n4\n3 7 6 8\n1\n1\n4\n2 2 4 2\n2\n5 5\n7\n2 4 8 1 9 3 4\n2\n4 10",
+      "output": "\n1\n0\n0\n1\n1\n2\n1\n1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

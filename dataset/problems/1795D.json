@@ -1,0 +1,35 @@
+{
+  "problem_id": "1795D",
+  "contest_id": 1795,
+  "index": "D",
+  "title": "Triangle Coloring",
+  "rating": 1600,
+  "raw_tags": [
+    "combinatorics",
+    "math"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "math_number_theory"
+  ],
+  "contest_date": "2023-02-16",
+  "solved_count": 12756,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n12\n1 3 3 7 8 5 2 2 2 2 4 2\n",
+      "output": "\n36\n"
+    },
+    {
+      "input": "\n6\n4 2 6 6 6 4\n",
+      "output": "\n2\n"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "512 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

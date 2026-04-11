@@ -1,0 +1,39 @@
+{
+  "problem_id": "2068A",
+  "contest_id": 2068,
+  "index": "A",
+  "title": "Condorcet Elections",
+  "rating": 2300,
+  "raw_tags": [
+    "constructive algorithms",
+    "graphs",
+    "greedy",
+    "probabilities"
+  ],
+  "tags": [
+    "constructive",
+    "graph_dfs",
+    "greedy",
+    "math_combinatorics"
+  ],
+  "contest_date": "2025-03-02",
+  "solved_count": 986,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n2 1\n1 2",
+      "output": "\nYES\n1\n1 2"
+    },
+    {
+      "input": "\n\n3 3\n1 2\n2 3\n3 1",
+      "output": "\nYES\n3\n1 2 3\n2 3 1\n3 1 2\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "1024 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

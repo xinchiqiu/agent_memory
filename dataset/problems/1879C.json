@@ -1,0 +1,33 @@
+{
+  "problem_id": "1879C",
+  "contest_id": 1879,
+  "index": "C",
+  "title": "Make it Alternating",
+  "rating": 1300,
+  "raw_tags": [
+    "combinatorics",
+    "dp",
+    "greedy"
+  ],
+  "tags": [
+    "math_combinatorics",
+    "dp",
+    "greedy"
+  ],
+  "contest_date": "2023-09-24",
+  "solved_count": 26184,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n3\n10010\n111\n0101",
+      "output": "\n1 2\n2 6\n0 1\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

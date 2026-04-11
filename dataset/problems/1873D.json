@@ -1,0 +1,33 @@
+{
+  "problem_id": "1873D",
+  "contest_id": 1873,
+  "index": "D",
+  "title": "1D Eraser",
+  "rating": 800,
+  "raw_tags": [
+    "greedy",
+    "implementation",
+    "two pointers"
+  ],
+  "tags": [
+    "greedy",
+    "implementation",
+    "two_pointers"
+  ],
+  "contest_date": "2023-09-21",
+  "solved_count": 42286,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n6 3\nWBWWWB\n7 3\nWWBWBWW\n5 4\nBWBWB\n5 5\nBBBBB\n8 2\nBWBWBBBB\n10 2\nWBBWBBWBBW\n4 1\nBBBB\n3 2\nWWW",
+      "output": "\n2\n1\n2\n1\n4\n3\n4\n0\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

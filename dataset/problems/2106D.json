@@ -1,0 +1,35 @@
+{
+  "problem_id": "2106D",
+  "contest_id": 2106,
+  "index": "D",
+  "title": "Flower Boy",
+  "rating": 1500,
+  "raw_tags": [
+    "binary search",
+    "dp",
+    "greedy",
+    "two pointers"
+  ],
+  "tags": [
+    "binary_search",
+    "dp",
+    "greedy",
+    "two_pointers"
+  ],
+  "contest_date": "2025-04-24",
+  "solved_count": 12059,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n7\n9 5\n3 5 2 3 3 5 8 1 2\n4 6 2 4 6\n6 3\n1 2 6 8 2 1\n5 4 3\n5 3\n4 3 5 4 3\n7 4 5\n6 3\n8 4 2 1 2 5\n6 1 4\n5 5\n1 2 3 4 5\n5 4 3 2 1\n6 3\n1 2 3 4 5 6\n9 8 7\n5 5\n7 7 6 7 7\n7 7 7 7 7",
+      "output": "\n6\n3\n7\n0\n-1\n-1\n7\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

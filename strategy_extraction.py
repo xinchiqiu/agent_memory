@@ -254,19 +254,41 @@ def validate_strategy(strategy_dict: dict) -> list:
     return issues
 
 
-def extract_strategy(problem: Problem, solution_code: str, llm_client) -> Strategy:
+def _is_python(code: str) -> bool:
+    """Heuristic check: does this code look like Python (vs C++/Java)?"""
+    try:
+        ast.parse(code)
+        return True
+    except SyntaxError:
+        return False
+
+
+def extract_strategy(problem: Problem, solution_code: str, llm_client,
+                     solution_language: str = "") -> Strategy:
     """Extract a Strategy from a solved problem using AST + LLM.
+
+    Accepts solution code in any language. AST structural analysis is only
+    applied for Python code; for other languages (C++, Java, etc.) the LLM
+    extracts strategy directly from the source text.
 
     Args:
         problem: The solved problem.
-        solution_code: Working Python solution.
+        solution_code: Working solution code (any language).
         llm_client: LLM client with a .generate() method.
+        solution_language: Language name string (e.g. "C++17", "Python 3").
+                           Used only for display; auto-detected if empty.
 
     Returns:
         Strategy object.
     """
-    ast_features = extract_code_structure(solution_code)
-    ast_features_str = format_ast_features(ast_features)
+    # AST analysis only for Python
+    is_py = _is_python(solution_code) or "python" in solution_language.lower()
+    if is_py:
+        ast_features = extract_code_structure(solution_code)
+        ast_features_str = format_ast_features(ast_features)
+    else:
+        lang_label = solution_language or "non-Python"
+        ast_features_str = f"  language: {lang_label}\n  (AST analysis not available for this language)"
 
     prompt = STRATEGY_EXTRACTION_PROMPT.format(
         problem_statement=problem.statement,

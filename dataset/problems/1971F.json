@@ -1,0 +1,39 @@
+{
+  "problem_id": "1971F",
+  "contest_id": 1971,
+  "index": "F",
+  "title": "Circle Perimeter",
+  "rating": 1600,
+  "raw_tags": [
+    "binary search",
+    "brute force",
+    "dfs and similar",
+    "geometry",
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "binary_search",
+    "brute_force",
+    "graph_dfs",
+    "geometry",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-05-10",
+  "solved_count": 12339,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n6\n1\n2\n3\n4\n5\n1984",
+      "output": "\n8\n16\n20\n24\n40\n12504\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

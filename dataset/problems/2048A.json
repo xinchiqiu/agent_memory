@@ -1,0 +1,36 @@
+{
+  "problem_id": "2048A",
+  "contest_id": 2048,
+  "index": "A",
+  "title": "Kevin and Combination Lock",
+  "rating": 800,
+  "raw_tags": [
+    "brute force",
+    "greedy",
+    "implementation",
+    "math",
+    "number theory"
+  ],
+  "tags": [
+    "brute_force",
+    "greedy",
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-12-19",
+  "solved_count": 22714,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n5\n165\n6369\n666\n114514\n133333332",
+      "output": "\nYES\nYES\nNO\nNO\nYES\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

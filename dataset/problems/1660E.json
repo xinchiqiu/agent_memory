@@ -1,0 +1,35 @@
+{
+  "problem_id": "1660E",
+  "contest_id": 1660,
+  "index": "E",
+  "title": "Matrix and Shifts",
+  "rating": 1600,
+  "raw_tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "implementation"
+  ],
+  "tags": [
+    "brute_force",
+    "constructive",
+    "greedy",
+    "implementation"
+  ],
+  "contest_date": "2022-03-31",
+  "solved_count": 8051,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n4\n3\n010\n011\n100\n5\n00010\n00001\n10000\n01000\n00100\n2\n10\n10\n4\n1111\n1011\n1111\n1111",
+      "output": "\n1\n0\n2\n11\n"
+    }
+  ],
+  "time_limit": "2 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

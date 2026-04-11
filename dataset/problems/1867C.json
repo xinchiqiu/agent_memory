@@ -1,0 +1,35 @@
+{
+  "problem_id": "1867C",
+  "contest_id": 1867,
+  "index": "C",
+  "title": "Salyg1n and the MEX Game",
+  "rating": 1300,
+  "raw_tags": [
+    "constructive algorithms",
+    "data structures",
+    "games",
+    "greedy",
+    "interactive"
+  ],
+  "tags": [
+    "constructive",
+    "implementation",
+    "greedy"
+  ],
+  "contest_date": "2023-09-11",
+  "solved_count": 12608,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n3\n5\n1 2 3 5 7\n\n7\n\n5\n\n-1\n\n3\n0 1 2\n\n0\n\n-1\n\n3\n5 7 57\n\n-1",
+      "output": "\n8\n\n57\n\n0\n\n3\n\n0\n\n0"
+    }
+  ],
+  "time_limit": "3 seconds",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}

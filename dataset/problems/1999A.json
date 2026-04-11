@@ -1,0 +1,31 @@
+{
+  "problem_id": "1999A",
+  "contest_id": 1999,
+  "index": "A",
+  "title": "A+B Again?",
+  "rating": 800,
+  "raw_tags": [
+    "implementation",
+    "math"
+  ],
+  "tags": [
+    "implementation",
+    "math_number_theory"
+  ],
+  "contest_date": "2024-08-06",
+  "solved_count": 82322,
+  "statement": "",
+  "input_spec": "",
+  "output_spec": "",
+  "note": "",
+  "sample_tests": [
+    {
+      "input": "\n\n8\n77\n21\n40\n34\n19\n84\n10\n99",
+      "output": "\n14\n3\n4\n7\n10\n12\n1\n18\n"
+    }
+  ],
+  "time_limit": "1 second",
+  "memory_limit": "256 megabytes",
+  "editorial_text": null,
+  "reference_solutions": []
+}
