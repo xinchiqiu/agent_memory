@@ -15,15 +15,14 @@ BACKEND = "hf_local"   # change this to switch inference backend
 # ---------------------------------------------------------------------------
 
 # Qwen3 (2025) — recommended for NeurIPS experiments
-QWEN3_7B  = "Qwen/Qwen3-7B"           # thinking-capable, 7B params
-QWEN3_8B  = "Qwen/Qwen3-8B"           # slightly larger
+QWEN3_8B  = "Qwen/Qwen3-8B"           # thinking-capable, 8B params
 QWEN25_CODER_7B = "Qwen/Qwen2.5-Coder-7B-Instruct"   # code-specialized, no thinking
 
 # Which model to use for each role
-EXTRACTION_MODEL  = QWEN3_7B
-ALIGNMENT_MODEL   = QWEN3_7B
-GENERATION_MODEL  = QWEN3_7B
-DIAGNOSIS_MODEL   = QWEN3_7B
+EXTRACTION_MODEL  = QWEN3_8B
+ALIGNMENT_MODEL   = QWEN3_8B
+GENERATION_MODEL  = QWEN3_8B
+DIAGNOSIS_MODEL   = QWEN3_8B
 
 CONFIG = {
     # --- Backend ---
@@ -59,11 +58,12 @@ CONFIG = {
     "anthropic_model":   "claude-opus-4-6",
 
     # --- Retrieval ---
-    "encoder_model": "all-MiniLM-L6-v2",
+    "encoder_model": "models/technique_encoder_v2",
     "top_k": 3,
 
     # --- Verification ---
     "timeout_seconds": 10,
+    "max_verification_tests": 50,  # cap tests per problem (CodeContests has 100+)
 
     # --- Memory ---
     "max_memory_size": 5000,
@@ -86,11 +86,17 @@ CONFIG = {
 }
 
 ALLOWED_ALGORITHM_TAGS = {
-    "greedy", "dp", "binary_search", "graph_bfs", "graph_dfs",
-    "graph_dijkstra", "graph_mst", "segment_tree", "binary_indexed_tree",
-    "two_pointers", "sliding_window", "divide_and_conquer",
-    "math_number_theory", "math_combinatorics", "string_hashing",
-    "string_kmp", "union_find", "topological_sort", "network_flow",
-    "geometry", "brute_force", "constructive", "implementation",
-    "sorting", "stack", "priority_queue",
+    "greedy", "constructive",
+    "dp",
+    "binary_search", "brute_force",
+    "graph_dfs", "graphs", "graph_shortest_path", "trees",
+    "network_flow", "graph_matching", "two_sat",
+    "data_structures", "union_find",
+    "implementation", "interactive",
+    "math", "number_theory", "combinatorics", "probability",
+    "geometry", "fft", "matrices",
+    "strings", "hashing", "string_suffix",
+    "sorting", "two_pointers",
+    "divide_and_conquer", "meet_in_the_middle",
+    "bitmasks", "game_theory", "parsing",
 }

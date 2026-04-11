@@ -4,19 +4,19 @@
 Usage
 -----
 # Run all experiments sequentially:
-    python run_experiments.py --all --dataset_dir dataset/
+    python run_experiments.py --all --dataset_dir dataset_cc/
 
 # Run a specific experiment:
-    python run_experiments.py --exp learning_curve --dataset_dir dataset/
+    python run_experiments.py --exp learning_curve --dataset_dir dataset_cc/
 
 # Run granularity ablation only:
-    python run_experiments.py --exp granularity --dataset_dir dataset/
+    python run_experiments.py --exp granularity --dataset_dir dataset_cc/
 
 # Run with a specific backend:
-    python run_experiments.py --all --dataset_dir dataset/ --backend vllm
+    python run_experiments.py --all --dataset_dir dataset_cc/ --backend vllm
 
 # Run with a specific seed count (for quick testing):
-    python run_experiments.py --exp learning_curve --dataset_dir dataset/ --seed_count 50 --eval_count 100
+    python run_experiments.py --exp learning_curve --dataset_dir dataset_cc/ --seed_count 50 --eval_count 100
 """
 
 import argparse
@@ -36,6 +36,31 @@ from data_structures import Problem
 from data_collection.dataset_utils import (
     load_problem, load_split, load_all_problems, dict_to_problem, dict_to_seed_tuples,
 )
+
+
+# ---------------------------------------------------------------------------
+# Resume helpers
+# ---------------------------------------------------------------------------
+
+def _method_completed(log_dir: str) -> bool:
+    """Check if a method already has final results (for resume support)."""
+    return Path(log_dir).joinpath("final_results.json").exists()
+
+
+def _load_completed_results(log_dir: str) -> Optional[Dict]:
+    """Load previously completed results from a method's log dir."""
+    path = Path(log_dir) / "final_results.json"
+    if path.exists():
+        with open(path) as f:
+            return json.load(f)
+    return None
+
+
+def _save_method_results(log_dir: str, results: Dict) -> None:
+    """Save results for a single method so it can be skipped on resume."""
+    Path(log_dir).mkdir(parents=True, exist_ok=True)
+    with open(Path(log_dir) / "final_results.json", "w") as f:
+        json.dump(results, f, indent=2)
 
 
 # ---------------------------------------------------------------------------
@@ -156,59 +181,70 @@ def run_learning_curve(
 
     all_logs: Dict[str, List[Dict]] = {}
 
+    def _run_or_resume(label, runner_fn, log_subdir):
+        """Run a method, or load previous results if already completed."""
+        method_dir = str(out / log_subdir)
+        prev = _load_completed_results(method_dir)
+        if prev is not None:
+            logging.info(f"\n--- {label} --- SKIPPED (already completed)")
+            all_logs[label] = prev.get("per_problem_log", prev.get("results_log", []))
+            return
+        logging.info(f"\n--- {label} ---")
+        results = runner_fn(method_dir)
+        all_logs[label] = results["per_problem_log"]
+        _save_method_results(method_dir, results)
+
     for seed_idx in range(num_seeds):
         logging.info(f"\n--- Seed {seed_idx + 1}/{num_seeds} ---")
         import random
         random.seed(42 + seed_idx)
 
         # 1. Full system (Strategy Adaptation Agent)
-        label = f"Strategy Adaptation (seed {seed_idx})"
-        agent = StrategyAdaptationAgent(
-            client, encoder=encoder,
-            log_dir=str(out / f"full_system_seed{seed_idx}"),
+        def _run_full(d, _st=seed_tuples, _ep=eval_problems):
+            a = StrategyAdaptationAgent(client, encoder=encoder, log_dir=d)
+            a.seed_memory(_st)
+            return a.run(_ep)
+        _run_or_resume(
+            f"Strategy Adaptation (seed {seed_idx})",
+            _run_full, f"full_system_seed{seed_idx}",
         )
-        agent.seed_memory(seed_tuples)
-        results = agent.run(eval_problems)
-        all_logs[label] = results["per_problem_log"]
 
         # 2. No Memory baseline
-        if seed_idx == 0:  # Only need one run (no randomness)
-            label_nm = "No Memory"
-            nm = NoMemoryBaseline(
-                client, log_dir=str(out / "no_memory"),
-            )
-            results_nm = nm.run(eval_problems)
-            all_logs[label_nm] = results_nm["per_problem_log"]
+        if seed_idx == 0:
+            def _run_nm(d, _ep=eval_problems):
+                nm = NoMemoryBaseline(client, log_dir=d)
+                return nm.run(_ep)
+            _run_or_resume("No Memory", _run_nm, "no_memory")
 
         # 3. Random Retrieval baseline
-        label_rr = f"Random Retrieval (seed {seed_idx})"
-        rr = RandomRetrievalBaseline(
-            client, encoder=encoder,
-            log_dir=str(out / f"random_retrieval_seed{seed_idx}"),
+        def _run_rr(d, _st=seed_tuples, _ep=eval_problems):
+            rr = RandomRetrievalBaseline(client, encoder=encoder, log_dir=d)
+            rr.seed_memory(_st)
+            return rr.run(_ep)
+        _run_or_resume(
+            f"Random Retrieval (seed {seed_idx})",
+            _run_rr, f"random_retrieval_seed{seed_idx}",
         )
-        rr.seed_memory(seed_tuples)
-        results_rr = rr.run(eval_problems)
-        all_logs[label_rr] = results_rr["per_problem_log"]
 
         # 4. Full History baseline
-        label_fh = f"Full History (seed {seed_idx})"
-        fh = FullHistoryBaseline(
-            client, encoder=encoder,
-            log_dir=str(out / f"full_history_seed{seed_idx}"),
+        def _run_fh(d, _st=seed_tuples, _ep=eval_problems):
+            fh = FullHistoryBaseline(client, encoder=encoder, log_dir=d)
+            fh.seed_memory(_st)
+            return fh.run(_ep)
+        _run_or_resume(
+            f"Full History (seed {seed_idx})",
+            _run_fh, f"full_history_seed{seed_idx}",
         )
-        fh.seed_memory(seed_tuples)
-        results_fh = fh.run(eval_problems)
-        all_logs[label_fh] = results_fh["per_problem_log"]
 
         # 5. Tag Oracle baseline
-        label_to = f"Tag Oracle (seed {seed_idx})"
-        to_baseline = TagOracleBaseline(
-            client, encoder=encoder,
-            log_dir=str(out / f"tag_oracle_seed{seed_idx}"),
+        def _run_to(d, _st=seed_tuples, _ep=eval_problems):
+            to_b = TagOracleBaseline(client, encoder=encoder, log_dir=d)
+            to_b.seed_memory(_st)
+            return to_b.run(_ep)
+        _run_or_resume(
+            f"Tag Oracle (seed {seed_idx})",
+            _run_to, f"tag_oracle_seed{seed_idx}",
         )
-        to_baseline.seed_memory(seed_tuples)
-        results_to = to_baseline.run(eval_problems)
-        all_logs[label_to] = results_to["per_problem_log"]
 
     # Save all logs
     with open(out / "all_logs.json", "w") as f:
@@ -271,16 +307,28 @@ def run_granularity_ablation(
     all_results = {}
 
     for mode in granularity_modes:
+        mode_dir = str(out / f"granularity_{mode}")
+
+        # Resume: skip completed modes
+        prev = _load_completed_results(mode_dir)
+        if prev is not None:
+            logging.info(f"\n--- Granularity mode: {mode} --- SKIPPED (already completed)")
+            all_results[mode] = prev
+            continue
+
         logging.info(f"\n--- Granularity mode: {mode} ---")
         agent = StrategyAdaptationAgent(
             client, encoder=encoder,
-            log_dir=str(out / f"granularity_{mode}"),
+            log_dir=mode_dir,
             granularity_mode=mode,
         )
         # G1 doesn't need memory, but seed anyway for fair comparison
         agent.seed_memory(seed_tuples)
         results = agent.run(eval_problems)
         all_results[mode] = results
+
+        # Save per-mode results for resume
+        _save_method_results(mode_dir, results)
 
         metrics = compute_metrics(results["per_problem_log"])
         logging.info(
@@ -296,7 +344,7 @@ def run_granularity_ablation(
             "overall_accuracy": metrics["overall_accuracy"],
             "total_successes": metrics["total_successes"],
             "total_problems": metrics["total_problems"],
-            "bucket_accuracy": metrics["bucket_accuracy"],
+            "bucket_accuracy": metrics.get("bucket_accuracy", {}),
         }
 
     with open(out / "granularity_summary.json", "w") as f:
@@ -369,59 +417,61 @@ def run_retrieval_quality(
 
     client = create_llm_client(backend)
 
+    methods_results = {}
+
+    def _run_retrieval_method(label, log_subdir, make_runner):
+        """Run or resume a retrieval method."""
+        method_dir = str(out / log_subdir)
+        prev = _load_completed_results(method_dir)
+        if prev is not None:
+            logging.info(f"\n--- Retrieval: {label} --- SKIPPED (already completed)")
+            methods_results[label] = prev
+            return
+        logging.info(f"\n--- Retrieval: {label} ---")
+        results = make_runner(method_dir)
+        methods_results[label] = results
+        _save_method_results(method_dir, results)
+
     # Base encoder
     base_encoder = ProblemEncoder()
-    logging.info("\n--- Retrieval: Base Encoder ---")
-    agent_base = StrategyAdaptationAgent(
-        client, encoder=base_encoder,
-        log_dir=str(out / "base_encoder"),
-    )
-    agent_base.seed_memory(seed_tuples)
-    results_base = agent_base.run(eval_problems)
+    def _run_base(d):
+        a = StrategyAdaptationAgent(client, encoder=base_encoder, log_dir=d)
+        a.seed_memory(seed_tuples)
+        return a.run(eval_problems)
+    _run_retrieval_method("base_encoder", "base_encoder", _run_base)
 
     # Fine-tuned encoder (if available)
     ft_encoder = create_encoder(prefer_finetuned=True)
     if ft_encoder.model_name != base_encoder.model_name:
-        logging.info("\n--- Retrieval: Fine-tuned Encoder ---")
-        agent_ft = StrategyAdaptationAgent(
-            client, encoder=ft_encoder,
-            log_dir=str(out / "finetuned_encoder"),
-        )
-        agent_ft.seed_memory(seed_tuples)
-        results_ft = agent_ft.run(eval_problems)
+        def _run_ft(d):
+            a = StrategyAdaptationAgent(client, encoder=ft_encoder, log_dir=d)
+            a.seed_memory(seed_tuples)
+            return a.run(eval_problems)
+        _run_retrieval_method("finetuned_encoder", "finetuned_encoder", _run_ft)
     else:
         logging.warning("Fine-tuned encoder not available. Skipping.")
-        results_ft = None
 
     # Random retrieval
-    logging.info("\n--- Retrieval: Random ---")
-    rr = RandomRetrievalBaseline(
-        client, encoder=base_encoder,
-        log_dir=str(out / "random_retrieval"),
-    )
-    rr.seed_memory(seed_tuples)
-    results_random = rr.run(eval_problems)
+    def _run_random(d):
+        rr = RandomRetrievalBaseline(client, encoder=base_encoder, log_dir=d)
+        rr.seed_memory(seed_tuples)
+        return rr.run(eval_problems)
+    _run_retrieval_method("random", "random_retrieval", _run_random)
 
     # Tag oracle
-    logging.info("\n--- Retrieval: Tag Oracle ---")
-    to = TagOracleBaseline(
-        client, encoder=base_encoder,
-        log_dir=str(out / "tag_oracle"),
-    )
-    to.seed_memory(seed_tuples)
-    results_oracle = to.run(eval_problems)
+    def _run_oracle(d):
+        to = TagOracleBaseline(client, encoder=base_encoder, log_dir=d)
+        to.seed_memory(seed_tuples)
+        return to.run(eval_problems)
+    _run_retrieval_method("tag_oracle", "tag_oracle", _run_oracle)
 
     # Summary
     summary = {}
-    for label, res in [
-        ("base_encoder", results_base),
-        ("finetuned_encoder", results_ft),
-        ("random", results_random),
-        ("tag_oracle", results_oracle),
-    ]:
-        if res is None:
+    for label, res in methods_results.items():
+        per_problem = res.get("per_problem_log", [])
+        if not per_problem:
             continue
-        m = compute_metrics(res["per_problem_log"])
+        m = compute_metrics(per_problem)
         summary[label] = {
             "overall_accuracy": m["overall_accuracy"],
             "total_successes": m["total_successes"],
@@ -720,7 +770,7 @@ def _average_across_seeds(all_logs: Dict, num_seeds: int) -> Dict[str, List[Dict
 
 def main():
     parser = argparse.ArgumentParser(description="Run NeurIPS experiments")
-    parser.add_argument("--dataset_dir", type=str, default="dataset/",
+    parser.add_argument("--dataset_dir", type=str, default="dataset_cc/",
                         help="Path to the dataset directory")
     parser.add_argument("--exp", type=str, default=None,
                         choices=["learning_curve", "granularity", "retrieval",

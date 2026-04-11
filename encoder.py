@@ -16,7 +16,7 @@ from sentence_transformers import SentenceTransformer
 from config import CONFIG
 
 # Default path where train_encoder.py saves the fine-tuned model
-_DEFAULT_FINETUNED_PATH = "models/technique_encoder"
+_DEFAULT_FINETUNED_PATH = "models/technique_encoder_v2"
 
 
 class ProblemEncoder:

@@ -258,7 +258,8 @@ def _seed_memory(
     llm_client,
 ) -> None:
     logging.info(f"Seeding memory with {len(seed_problems)} problems…")
-    for problem, code in seed_problems:
+    for item in seed_problems:
+        problem, code = item[0], item[1]  # unpack 2 or 3-tuples
         strategy = extract_strategy(problem, code, llm_client)
         embedding = encoder.encode(problem.statement)
         memory.current_timestep += 1

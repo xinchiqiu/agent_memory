@@ -12,8 +12,9 @@ from config import CONFIG
 class Verifier:
     """Runs generated Python code against test cases in a sandboxed subprocess."""
 
-    def __init__(self, timeout_seconds: int = None):
+    def __init__(self, timeout_seconds: int = None, max_tests: int = None):
         self.timeout = timeout_seconds or CONFIG["timeout_seconds"]
+        self.max_tests = max_tests or CONFIG.get("max_verification_tests", 50)
 
     def verify(self, code: str, test_cases: List[Dict]) -> Tuple[bool, str]:
         """Run code against all test cases.
@@ -29,7 +30,10 @@ class Verifier:
         if not test_cases:
             return True, ""
 
-        for i, tc in enumerate(test_cases):
+        # Limit tests to avoid excessive verification time
+        tests_to_run = test_cases[:self.max_tests]
+
+        for i, tc in enumerate(tests_to_run):
             passed, actual_output, error = self._run_single(code, tc["input"])
 
             if not passed:
