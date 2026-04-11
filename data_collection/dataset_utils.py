@@ -14,64 +14,103 @@ from typing import Dict, List, Optional, Tuple, Any
 # ---------------------------------------------------------------------------
 
 # Codeforces tag → our canonical taxonomy
+# Design principle: preserve algorithmic distinctions that matter for strategy
+# transfer. Avoid collapsing structurally different techniques into one tag.
 TAG_MAPPING: Dict[str, str] = {
+    # --- Greedy / Constructive ---
     "greedy":                       "greedy",
+    "constructive algorithms":      "constructive",
+
+    # --- DP ---
     "dp":                           "dp",
     "dynamic programming":          "dp",
+
+    # --- Search ---
     "binary search":                "binary_search",
+    "ternary search":               "binary_search",
     "brute force":                  "brute_force",
-    "constructive algorithms":      "constructive",
-    "data structures":              "implementation",   # broad; keep as implementation
+
+    # --- Graphs (keep fine-grained: different graph techniques ≠ interchangeable) ---
     "dfs and similar":              "graph_dfs",
-    "graphs":                       "graph_dfs",        # generic graph → dfs by default
-    "shortest paths":               "graph_dijkstra",
-    "trees":                        "graph_dfs",
+    "graphs":                       "graphs",               # generic graph problems
+    "shortest paths":               "graph_shortest_path",
+    "trees":                        "trees",                # tree-specific techniques
     "flows":                        "network_flow",
+    "graph matchings":              "graph_matching",
+    "2-sat":                        "two_sat",
+
+    # --- Data structures (split out from implementation) ---
+    "data structures":              "data_structures",
     "dsu":                          "union_find",
+
+    # --- Implementation / Simulation ---
     "implementation":               "implementation",
-    "math":                         "math_number_theory",
-    "number theory":                "math_number_theory",
-    "combinatorics":                "math_combinatorics",
+    "interactive":                  "interactive",
+
+    # --- Math (keep number theory vs combinatorics vs probability separate) ---
+    "math":                         "math",
+    "number theory":                "number_theory",
+    "combinatorics":                "combinatorics",
+    "probabilities":                "probability",
     "geometry":                     "geometry",
+    "fft":                          "fft",
+    "chinese remainder theorem":    "number_theory",
+    "matrices":                     "matrices",
+
+    # --- Strings ---
+    "strings":                      "strings",
+    "hashing":                      "hashing",
+    "string suffix structures":     "string_suffix",
+
+    # --- Sorting / Ordering ---
     "sortings":                     "sorting",
     "two pointers":                 "two_pointers",
-    "bitmasks":                     "implementation",
+
+    # --- Divide & conquer ---
     "divide and conquer":           "divide_and_conquer",
-    "hashing":                      "string_hashing",
-    "string suffix structures":     "string_kmp",
-    "strings":                      "string_hashing",
-    "games":                        "constructive",
-    "probabilities":                "math_combinatorics",
-    "interactive":                  "implementation",
-    "ternary search":               "binary_search",
-    "meet-in-the-middle":           "divide_and_conquer",
-    "fft":                          "math_number_theory",
-    "2-sat":                        "graph_dfs",
-    "expression parsing":           "implementation",
-    "matrices":                     "dp",
+    "meet-in-the-middle":           "meet_in_the_middle",
+
+    # --- Bit manipulation ---
+    "bitmasks":                     "bitmasks",
+
+    # --- Games ---
+    "games":                        "game_theory",
+
+    # --- Other ---
+    "expression parsing":           "parsing",
     "schedules":                    "greedy",
-    "chinese remainder theorem":    "math_number_theory",
+    "*special":                     None,  # skip: contest-specific, not algorithmic
 }
 
 # These are the tags our system actually uses — everything gets mapped into this set
 CANONICAL_TAGS = {
-    "greedy", "dp", "binary_search", "graph_bfs", "graph_dfs",
-    "graph_dijkstra", "graph_mst", "segment_tree", "binary_indexed_tree",
-    "two_pointers", "sliding_window", "divide_and_conquer",
-    "math_number_theory", "math_combinatorics", "string_hashing",
-    "string_kmp", "union_find", "topological_sort", "network_flow",
-    "geometry", "brute_force", "constructive", "implementation",
-    "sorting", "stack", "priority_queue",
+    "greedy", "constructive",
+    "dp",
+    "binary_search", "brute_force",
+    "graph_dfs", "graphs", "graph_shortest_path", "trees",
+    "network_flow", "graph_matching", "two_sat",
+    "data_structures", "union_find",
+    "implementation", "interactive",
+    "math", "number_theory", "combinatorics", "probability",
+    "geometry", "fft", "matrices",
+    "strings", "hashing", "string_suffix",
+    "sorting", "two_pointers",
+    "divide_and_conquer", "meet_in_the_middle",
+    "bitmasks", "game_theory", "parsing",
 }
 
 
 def normalize_tags(raw_tags: List[str]) -> List[str]:
-    """Map Codeforces raw tags to canonical taxonomy, dropping unknowns."""
+    """Map Codeforces raw tags to canonical taxonomy, dropping unknowns.
+
+    Tags mapped to None in TAG_MAPPING are explicitly skipped.
+    Tags not in TAG_MAPPING at all are also skipped.
+    """
     seen = set()
     result = []
     for tag in raw_tags:
         canonical = TAG_MAPPING.get(tag.lower().strip())
-        if canonical and canonical not in seen:
+        if canonical is not None and canonical not in seen:
             result.append(canonical)
             seen.add(canonical)
     return result
@@ -212,11 +251,17 @@ def save_index(problems: List[dict], dataset_dir: str) -> None:
 # Problem → data_structures.Problem conversion
 # ---------------------------------------------------------------------------
 
-def dict_to_problem(d: dict):
+def dict_to_problem(d: dict, use_all_tests: bool = True):
     """Convert a raw dataset dict to a data_structures.Problem object.
 
     Adds the parent directory to sys.path if needed so we can import
     data_structures from a subdirectory context.
+
+    Args:
+        d: Problem dict (from either scraped CF data or CodeContests loader).
+        use_all_tests: If True and 'all_tests' exists (CodeContests format),
+            use all tests (public + private + generated) for verification.
+            Otherwise use only 'sample_tests'.
     """
     # Allow importing from parent package when called from data_collection/
     parent = str(Path(__file__).resolve().parent.parent)
@@ -225,18 +270,27 @@ def dict_to_problem(d: dict):
 
     from data_structures import Problem
 
-    # Build test_cases from sample_tests
-    test_cases = [
-        {"input": t["input"], "expected_output": t["output"]}
-        for t in d.get("sample_tests", [])
-    ]
+    # Build test_cases: prefer all_tests (CodeContests) over sample_tests (scraped)
+    if use_all_tests and d.get("all_tests"):
+        test_cases = [
+            {"input": t["input"], "expected_output": t["output"]}
+            for t in d["all_tests"]
+        ]
+    else:
+        test_cases = [
+            {"input": t["input"], "expected_output": t["output"]}
+            for t in d.get("sample_tests", [])
+        ]
+
+    # Use statement directly if available (CodeContests), else build from parts
+    statement = d.get("statement") or _build_full_statement(d)
 
     return Problem(
         problem_id=d["problem_id"],
         contest_id=d.get("contest_id", 0),
         index=d.get("index", ""),
         title=d.get("title", ""),
-        statement=_build_full_statement(d),
+        statement=statement,
         difficulty_rating=d.get("rating", 0),
         algorithm_tags=d.get("tags", []),
         test_cases=test_cases,

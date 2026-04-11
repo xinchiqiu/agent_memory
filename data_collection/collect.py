@@ -199,9 +199,10 @@ def main() -> None:
             if len(existing) < args.max_solutions:
                 need = args.max_solutions - len(existing)
 
-                # 1) Try CodeContests dataset first
+                # 1) Try CodeContests dataset first (exact match by contest+index, then title)
                 cc_solutions = get_codecontests_solutions(
-                    problem_data["title"], max_solutions=need
+                    problem_data["title"], max_solutions=need,
+                    contest_id=cid, problem_index=idx,
                 )
                 if cc_solutions:
                     logging.info(f"  Found {len(cc_solutions)} solutions from CodeContests for {pid}")

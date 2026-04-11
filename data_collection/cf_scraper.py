@@ -232,10 +232,16 @@ def _extract_sample_tests(sample_div: Tag) -> List[dict]:
 # for the rare cases where CF exposes code in plain HTML (very old problems).
 
 def _build_codecontests_index() -> Dict[str, list]:
-    """Load the CodeContests HF dataset and build a problem_name -> solutions map.
+    """Load the CodeContests HF dataset and build a dual index for solution lookup.
 
     Returns {} if the dataset is not installed or network is unavailable.
-    The index maps lowercase problem name → list of solution dicts.
+
+    The index uses two key types for matching:
+      - "cf:{contest_id}{index}" → exact match by Codeforces contest ID + problem index
+      - "title:{lowercase_name}" → fallback match by problem title
+
+    The schema for solutions is: {"language": [int, ...], "solution": [str, ...]}
+    where language and solution are parallel lists.
     """
     try:
         from datasets import load_dataset
@@ -245,15 +251,40 @@ def _build_codecontests_index() -> Dict[str, list]:
 
     # Language code -> readable name (from CodeContests schema)
     _LANG_MAP = {
-        2: "C++", 3: "Python3", 4: "Java", 9: "C", 12: "PyPy3",
-        14: "Go", 19: "Rust", 54: "TypeScript", 55: "JavaScript",
+        1: "Python2", 2: "C++", 3: "Python3", 4: "Java", 9: "C",
+        12: "PyPy3", 14: "Go", 19: "Rust", 54: "TypeScript",
+        55: "JavaScript",
     }
 
     def _try_load(split_name: str):
         try:
-            return load_dataset("deepmind/code_contests", split=split_name)
-        except Exception:
+            # Use streaming=True to avoid PyArrow caching bugs
+            return load_dataset("deepmind/code_contests", split=split_name, streaming=True)
+        except Exception as e:
+            logging.warning(f"Failed to load CodeContests '{split_name}': {e}")
             return None
+
+    def _extract_solutions(row) -> list:
+        """Extract solution dicts from a CodeContests row."""
+        raw_sols = row.get("solutions", {})
+        if not isinstance(raw_sols, dict):
+            return []
+
+        codes = raw_sols.get("solution", [])
+        langs = raw_sols.get("language", [])
+
+        solutions = []
+        for j, code in enumerate(codes):
+            if not isinstance(code, str) or not (100 <= len(code) <= 8000):
+                continue
+            lang_id = langs[j] if j < len(langs) else -1
+            lang_name = _LANG_MAP.get(lang_id, f"lang_{lang_id}")
+            solutions.append({
+                "code": code,
+                "language": lang_name,
+                "author": "codecontests",
+            })
+        return solutions
 
     index: Dict[str, list] = {}
     for split in ("train", "test", "valid"):
@@ -263,31 +294,25 @@ def _build_codecontests_index() -> Dict[str, list]:
             logging.warning(f"Could not load CodeContests '{split}' split, skipping")
             continue
         for row in ds:
-            key = row.get("name", "").lower().strip()
-            if not key:
+            solutions = _extract_solutions(row)
+            if not solutions:
                 continue
-            solutions = []
-            for sol in row.get("solutions", {}).get("solution", []):
-                code = sol if isinstance(sol, str) else ""
-                if code and 100 <= len(code) <= 8000:
-                    solutions.append({"code": code, "language": "unknown",
-                                      "author": "codecontests"})
-            # Alternative schema: solutions as dict of lang_id -> [code, ...]
-            raw_sols = row.get("solutions", {})
-            if isinstance(raw_sols, dict):
-                for lang_key, codes in raw_sols.items():
-                    lang_name = _LANG_MAP.get(int(lang_key), str(lang_key)) \
-                        if str(lang_key).isdigit() else str(lang_key)
-                    if isinstance(codes, list):
-                        for code in codes:
-                            if isinstance(code, str) and 100 <= len(code) <= 8000:
-                                solutions.append({"code": code, "language": lang_name,
-                                                  "author": "codecontests"})
-            if solutions:
-                index[key] = solutions
+
+            # Primary key: cf_contest_id + cf_index (exact match)
+            cf_cid = row.get("cf_contest_id", 0)
+            cf_idx = row.get("cf_index", "")
+            if cf_cid and cf_idx:
+                cf_key = f"cf:{cf_cid}{cf_idx}"
+                index[cf_key] = solutions
+
+            # Secondary key: title (fuzzy fallback)
+            name = row.get("name", "").lower().strip()
+            if name:
+                title_key = f"title:{name}"
+                index[title_key] = solutions
 
     if index:
-        logging.info(f"CodeContests index built: {len(index)} problems with solutions")
+        logging.info(f"CodeContests index built: {len(index)} entries (cf + title keys)")
     else:
         logging.warning("CodeContests index is empty — dataset may have changed schema")
     return index
@@ -298,12 +323,18 @@ _CC_INDEX: Optional[Dict[str, list]] = None
 
 
 def get_codecontests_solutions(problem_title: str,
-                               max_solutions: int = 3) -> List[dict]:
+                               max_solutions: int = 3,
+                               contest_id: int = 0,
+                               problem_index: str = "") -> List[dict]:
     """Look up reference solutions for a problem from the CodeContests dataset.
+
+    Tries exact match by contest_id + index first, then falls back to title.
 
     Args:
         problem_title: The problem title (matched case-insensitively).
         max_solutions: Maximum solutions to return.
+        contest_id: Codeforces contest ID (for exact matching).
+        problem_index: Problem index like "A", "B", "E" (for exact matching).
 
     Returns:
         List of dicts with keys: code, language, author.
@@ -313,8 +344,16 @@ def get_codecontests_solutions(problem_title: str,
     if _CC_INDEX is None:
         _CC_INDEX = _build_codecontests_index()
 
-    key = problem_title.lower().strip()
-    solutions = _CC_INDEX.get(key, [])
+    # Try exact match by contest ID + index first
+    if contest_id and problem_index:
+        cf_key = f"cf:{contest_id}{problem_index}"
+        solutions = _CC_INDEX.get(cf_key, [])
+        if solutions:
+            return solutions[:max_solutions]
+
+    # Fallback: match by title
+    title_key = f"title:{problem_title.lower().strip()}"
+    solutions = _CC_INDEX.get(title_key, [])
     return solutions[:max_solutions]
 
 
