@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "unit: marks unit tests",
+    "integration: marks integration tests",
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+]
