@@ -190,18 +190,38 @@ Return ONLY valid JSON, no other text:
     "algorithm_tags": ["tag1", "tag2"]
 }}
 
-Allowed algorithm_tags: greedy, dp, binary_search, graph_bfs, graph_dfs, \
-graph_dijkstra, graph_mst, segment_tree, binary_indexed_tree, two_pointers, \
-sliding_window, divide_and_conquer, math_number_theory, math_combinatorics, \
-string_hashing, string_kmp, union_find, topological_sort, network_flow, \
-geometry, brute_force, constructive, implementation, sorting, stack, priority_queue
+Allowed algorithm_tags: greedy, constructive, dp, binary_search, brute_force, \
+graph_dfs, graphs, graph_shortest_path, trees, network_flow, graph_matching, two_sat, \
+data_structures, union_find, implementation, interactive, math, number_theory, \
+combinatorics, probability, geometry, fft, matrices, strings, hashing, string_suffix, \
+sorting, two_pointers, divide_and_conquer, meet_in_the_middle, bitmasks, game_theory, parsing
 """
 
 STRATEGY_EXTRACTION_RETRY_PROMPT = """\
 The previous extraction had the following issues: {issues}
 
 Please re-extract the strategy and fix these issues.
-Return ONLY valid JSON with no other text.
+Return ONLY valid JSON with no other text:
+
+{{
+    "technique_chain": [
+        "step 1 ...",
+        "step 2 ..."
+    ],
+    "key_insight": "The single most important idea. Explain WHY, not just WHAT. 1-3 sentences.",
+    "preconditions": [
+        "precondition 1 ...",
+        "precondition 2 ..."
+    ],
+    "complexity": "O(...) time, O(...) space",
+    "algorithm_tags": ["tag1", "tag2"]
+}}
+
+Allowed algorithm_tags: greedy, constructive, dp, binary_search, brute_force, \
+graph_dfs, graphs, graph_shortest_path, trees, network_flow, graph_matching, two_sat, \
+data_structures, union_find, implementation, interactive, math, number_theory, \
+combinatorics, probability, geometry, fft, matrices, strings, hashing, string_suffix, \
+sorting, two_pointers, divide_and_conquer, meet_in_the_middle, bitmasks, game_theory, parsing
 
 ## Problem Statement
 {problem_statement}
@@ -229,19 +249,23 @@ def parse_json_response(response: str) -> dict:
 
 
 def validate_strategy(strategy_dict: dict) -> list:
-    """Return a list of validation issues (empty = OK)."""
+    """Return a list of validation issues (empty = OK).
+
+    Thresholds are intentionally relaxed to avoid discarding
+    partial-but-useful extractions from smaller LLMs.
+    """
     issues = []
     tc = strategy_dict.get("technique_chain", [])
-    if not isinstance(tc, list) or not (3 <= len(tc) <= 7):
-        issues.append(f"technique_chain must be a list of 3–7 steps, got {len(tc) if isinstance(tc, list) else type(tc)}")
+    if not isinstance(tc, list) or len(tc) < 1:
+        issues.append(f"technique_chain must be a non-empty list, got {len(tc) if isinstance(tc, list) else type(tc)}")
 
     ki = strategy_dict.get("key_insight", "")
-    if not isinstance(ki, str) or not (20 <= len(ki) <= 600):
-        issues.append(f"key_insight must be 20–600 chars, got {len(ki)}")
+    if not isinstance(ki, str) or len(ki) < 5:
+        issues.append(f"key_insight must be ≥5 chars, got {len(ki)}")
 
     pc = strategy_dict.get("preconditions", [])
-    if not isinstance(pc, list) or not (2 <= len(pc) <= 5):
-        issues.append(f"preconditions must be a list of 2–5 items, got {len(pc) if isinstance(pc, list) else type(pc)}")
+    if not isinstance(pc, list):
+        issues.append(f"preconditions must be a list, got {type(pc)}")
 
     tags = strategy_dict.get("algorithm_tags", [])
     if not isinstance(tags, list):
@@ -301,6 +325,7 @@ def extract_strategy(problem: Problem, solution_code: str, llm_client,
         model=CONFIG.get("extraction_model"),
         temperature=0.0,
         max_tokens=1024,
+        thinking=False,  # Disable thinking mode for clean JSON output
     )
 
     try:
@@ -312,21 +337,29 @@ def extract_strategy(problem: Problem, solution_code: str, llm_client,
 
     if issues:
         logging.warning(f"Strategy extraction issues for {problem.problem_id}: {issues}. Retrying…")
+        # Keep the first attempt as fallback in case retry also fails
+        first_attempt = dict(strategy_dict)
         retry_prompt = STRATEGY_EXTRACTION_RETRY_PROMPT.format(
             issues="; ".join(issues),
             problem_statement=problem.statement,
             solution_code=solution_code,
             ast_features_formatted=ast_features_str,
         )
-        response = llm_client.generate(retry_prompt, temperature=0.0, max_tokens=1024)
+        response = llm_client.generate(retry_prompt, temperature=0.0, max_tokens=1024, thinking=False)
         try:
-            strategy_dict = parse_json_response(response)
-            issues = validate_strategy(strategy_dict)
-            if issues:
-                logging.warning(f"Retry still has issues: {issues}. Using best-effort result.")
+            retry_dict = parse_json_response(response)
+            retry_issues = validate_strategy(retry_dict)
+            if not retry_issues or len(retry_issues) < len(issues):
+                # Retry is better (or perfect) — use it
+                strategy_dict = retry_dict
+            else:
+                logging.warning(f"Retry no better: {retry_issues}. Keeping first attempt.")
         except Exception as e:
-            logging.error(f"Retry parse failed: {e}. Falling back to empty strategy.")
-            strategy_dict = {
+            logging.warning(f"Retry parse failed: {e}. Keeping first attempt.")
+
+        # If strategy_dict is still empty after both attempts, use minimal fallback
+        if not strategy_dict.get("technique_chain"):
+            strategy_dict = first_attempt if first_attempt.get("technique_chain") else {
                 "technique_chain": ["solve the problem"],
                 "key_insight": "No insight extracted.",
                 "preconditions": ["generic problem"],

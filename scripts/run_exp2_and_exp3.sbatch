@@ -47,17 +47,17 @@ ${VLLM_ENV}/python -m vllm.entrypoints.openai.api_server \
     --gpu-memory-utilization 0.85 &
 VLLM_PID=$!
 
-echo "Waiting for vLLM server to start..."
+echo "Waiting for vLLM server to load model..."
 for i in $(seq 1 300); do
-    if curl -s http://localhost:8000/health > /dev/null 2>&1; then
+    if curl -s http://localhost:8000/v1/models 2>/dev/null | grep -q "Qwen3-8B"; then
         echo "vLLM server ready after ${i}s"
         break
     fi
-    sleep 1
+    sleep 2
 done
 
-if ! curl -s http://localhost:8000/health > /dev/null 2>&1; then
-    echo "ERROR: vLLM server failed to start"
+if ! curl -s http://localhost:8000/v1/models 2>/dev/null | grep -q "Qwen3-8B"; then
+    echo "ERROR: vLLM server failed to load model"
     kill $VLLM_PID 2>/dev/null
     exit 1
 fi

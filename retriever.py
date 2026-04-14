@@ -12,9 +12,11 @@ from config import CONFIG
 class Retriever:
     """Retrieves the most relevant verified entries from memory for a new problem."""
 
-    def __init__(self, encoder: ProblemEncoder, top_k: int = None):
+    def __init__(self, encoder: ProblemEncoder, top_k: int = None,
+                 llm_client=None):
         self.encoder = encoder
         self.top_k = top_k or CONFIG["top_k"]
+        self.llm_client = llm_client
 
     def retrieve(self,
                  new_problem: Problem,
@@ -22,6 +24,7 @@ class Retriever:
         """Find the top-k most relevant entries for new_problem.
 
         Only considers entries where verification_passed is True.
+        Uses LLM fingerprints when llm_client is available.
 
         Returns:
             List of (entry, cosine_similarity) sorted descending.
@@ -30,7 +33,9 @@ class Retriever:
         if not candidates:
             return []
 
-        query_vec = self.encoder.encode(new_problem.statement)
+        query_vec = self.encoder.encode_with_fingerprint(
+            new_problem.statement, self.llm_client
+        )
         scored = []
         for entry in candidates:
             sim = float(np.dot(query_vec, entry.embedding))

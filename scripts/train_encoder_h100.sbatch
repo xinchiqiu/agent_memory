@@ -35,7 +35,8 @@ echo ""
 echo ">>> Step 1: Training contrastive encoder..."
 ${CONDA_ENV}/python encoder_training/train_encoder.py \
     --dataset_dir dataset_cc/ \
-    --output_dir models/technique_encoder_v2 \
+    --output_dir models/technique_encoder_v3 \
+    --base_model all-mpnet-base-v2 \
     --loss mnrl \
     --num_pairs 50000 \
     --epochs 5 \
@@ -46,7 +47,8 @@ echo ""
 echo ">>> Step 2: Evaluating encoder..."
 ${CONDA_ENV}/python encoder_training/evaluate_encoder.py \
     --dataset_dir dataset_cc/ \
-    --finetuned_model models/technique_encoder_v2
+    --base_model all-mpnet-base-v2 \
+    --finetuned_model models/technique_encoder_v3
 
 echo ""
 echo "=== Done: $(date) ==="

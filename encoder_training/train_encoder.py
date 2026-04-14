@@ -78,6 +78,12 @@ def main() -> None:
     seed_ids  = set(load_split("seed",  args.dataset_dir))
     eval_ids  = set(load_split("eval",  args.dataset_dir))
 
+    # Compress statements so training uses the same preprocessing as inference
+    from encoder import _compress_statement
+    for p in all_problems:
+        if p.get("statement"):
+            p["statement"] = _compress_statement(p["statement"])
+
     train_problems = [p for p in all_problems if p["problem_id"] in seed_ids
                       and p.get("tags") and p.get("statement")]
     eval_problems  = [p for p in all_problems if p["problem_id"] in eval_ids

@@ -154,11 +154,14 @@ def main() -> None:
 
     k_values = [int(k) for k in args.k_values.split(",")]
 
-    # Load problems
+    # Load problems and compress statements to match inference preprocessing
+    from encoder import _compress_statement
     all_problems = [
         p for p in load_all_problems(args.dataset_dir)
         if p.get("tags") and p.get("statement")
     ]
+    for p in all_problems:
+        p["statement"] = _compress_statement(p["statement"])
     eval_ids = set(load_split(args.eval_split, args.dataset_dir))
     eval_problems = [p for p in all_problems if p["problem_id"] in eval_ids]
 
